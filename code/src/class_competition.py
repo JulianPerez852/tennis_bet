@@ -6,12 +6,17 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
-from sklearn import svm
+# from sklearn import svm
 from catboost import CatBoostClassifier
-
+from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
 
-def evaluate_models_classification(X_train, X_test, y_train, y_test):
+
+import warnings
+warnings.filterwarnings("ignore")
+
+
+def evaluate_models_classification(X_train, X_test, y_train, y_test, preprocessor):
 
     modelos = {
         'lrm': LogisticRegression(multi_class='multinomial', solver='lbfgs'),
@@ -21,13 +26,18 @@ def evaluate_models_classification(X_train, X_test, y_train, y_test):
         # 'svm': svm.SVC(kernel='rbf', probability=True),
         'rf': RandomForestClassifier(random_state=42),
         'gnb': GaussianNB(),
-        'ctb': CatBoostClassifier(iterations=100, learning_rate=0.01)
+        'ctb': CatBoostClassifier(iterations=100, learning_rate=0.01,logging_level='Silent')
         
         }
 
     dict_models = {}
     for nombre, modelo in modelos.items():
-        dict_models[nombre] = modelo.fit(X_train, y_train)
+        pipeline = Pipeline(steps=[
+            ('preprocessor', preprocessor),
+            ('classifier', modelo)
+        ])
+        # dict_models[nombre] = modelo.fit(X_train, y_train)
+        dict_models[nombre] = pipeline.fit(X_train, y_train)
 
     dict_pred = {}
     resultados_classification_report = {}
@@ -35,10 +45,12 @@ def evaluate_models_classification(X_train, X_test, y_train, y_test):
     for nombre_modelo, modelo in dict_models.items():
         # Realizar predicciones utilizando el modelo
         y_pred = modelo.predict(X_test)
+        y_proba = modelo.predict_proba(X_test)
         # Generar el informe de clasificación
         reporte_clasificacion = classification_report(y_test, y_pred, output_dict=True)
         # Almacenar el informe en el diccionario utilizando el nombre del modelo como clave
         dict_pred[nombre_modelo] = y_pred.tolist()
+        dict_pred[nombre_modelo+'_proba'] = y_proba.tolist()
         resultados_classification_report[nombre_modelo] = reporte_clasificacion
     dict_pred['test'] = y_test.tolist()
     
@@ -61,7 +73,7 @@ def evaluate_models_classification(X_train, X_test, y_train, y_test):
     
     return dict_models, dict_pred, dict_metrics
 
-def class_competition(dict_models, dict_pred, dict_metrics):
+def class_competition(dict_models, dict_pred, dict_metrics, result_path, models_path):
     for index, row in dict_metrics.iterrows():
         contador = 0
         if index == 0:
@@ -93,13 +105,14 @@ def class_competition(dict_models, dict_pred, dict_metrics):
                             'recall' : [best_recall], 
                             'f1score':  [best_f1score], 
                             'pred': [dict_pred[best_model]], 
+                            'proba': [dict_pred[best_model+'_proba']], 
                             'test': [dict_pred['test']],
                         }
         
-        save_winner_metrics(winner_metrics, Parameters.results_path, 'classification')
+        save_winner_metrics(winner_metrics, result_path, 'classification')
 
         model = dict_models[best_model]
 
-        save_model(model, Parameters.models_path, best_model)
+        save_model(model, models_path, best_model)
         
         return winner_metrics, model

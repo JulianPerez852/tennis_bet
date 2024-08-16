@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 import warnings;
 warnings.simplefilter('ignore')
 
-def train_classification(X_vect, y_encoded):
+def train_classification(X_vect, y_encoded, preprocessor, result_path, models_path):
         # División de los datos en conjunto de entrenamiento y prueba
         X_train, X_test, y_train, y_test = train_test_split(X_vect, y_encoded, test_size=0.2, random_state=42)
         # Escalado de Características
@@ -20,16 +20,16 @@ def train_classification(X_vect, y_encoded):
         # X_train = scaler.fit_transform(X_train)
         # X_test = scaler.transform(X_test)
         
-        dict_models, dict_pred, dict_metrics = evaluate_models_classification(X_train, X_test, y_train, y_test)
-        _winner_metrics, model = class_competition(dict_models, dict_pred, dict_metrics)
+        dict_models, dict_pred, dict_metrics = evaluate_models_classification(X_train, X_test, y_train, y_test, preprocessor)
+        _winner_metrics, model = class_competition(dict_models, dict_pred, dict_metrics, result_path, models_path)
         bm = _winner_metrics.pop('model_name')
         
 def fn_classification(df_class, X_vect, stage=None):
     resul_path = Parameters.results_path
         
     winner_metrics_temp = pd.read_excel(os.path.join(resul_path, 'winner_metrics_class.xlsx'))
-    df_col_dummies = pd.read_excel(os.path.join(resul_path, 'df_col_dummies.xlsx'))
-    X_vect = pd.concat([df_col_dummies, X_vect], axis = 0).fillna(False)
+    # df_col_dummies = pd.read_excel(os.path.join(resul_path, 'df_col_dummies.xlsx'))
+    # X_vect = pd.concat([df_col_dummies, X_vect], axis = 0).fillna(False)
     bm = winner_metrics_temp.iloc[-1]['model_name']
     
     models_path = os.path.join(os.path.dirname(resul_path),'models')
@@ -41,9 +41,9 @@ def fn_classification(df_class, X_vect, stage=None):
         modelo_cargado = pickle.load(f)
 
     classifications = modelo_cargado.predict(X_vect)
-    classification_map = {0: 'Alpha', 1: 'Betha'}
-    classifications = pd.Series(classifications).map(classification_map)
+    probs = modelo_cargado.predict_proba(X_vect)
     df_class['Class'] = classifications
+    df_class = df_class.join(pd.DataFrame(probs, columns=['Prob_win_pl1', 'Prob_win_pl2']))
     df_class_1 = df_class.copy()
     df_class['date_run'] = pd.to_datetime(datetime.now()).strftime('%Y-%m')
     df_class_0 = pd.read_excel(os.path.join(resul_path,'df_class.xlsx'))
