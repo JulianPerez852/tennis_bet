@@ -1,13 +1,10 @@
 import pandas as pd
 import pickle
 import os
-from datetime import datetime
 
 from src.class_competition import evaluate_models_classification, class_competition
-from src.class_preprocessing import data_to_class
-from src.parameters import Parameters
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import classification_report
 
 import warnings;
 warnings.simplefilter('ignore')
@@ -24,15 +21,13 @@ def train_classification(X_vect, y_encoded, preprocessor, result_path, models_pa
         _winner_metrics, model = class_competition(dict_models, dict_pred, dict_metrics, result_path, models_path)
         bm = _winner_metrics.pop('model_name')
         
-def fn_classification(df_class, X_vect, stage=None):
-    resul_path = Parameters.results_path
-        
-    winner_metrics_temp = pd.read_excel(os.path.join(resul_path, 'winner_metrics_class.xlsx'))
-    # df_col_dummies = pd.read_excel(os.path.join(resul_path, 'df_col_dummies.xlsx'))
+def fn_classification(df_class, X_vect, n_date, results_path):
+    winner_metrics_temp = pd.read_excel(os.path.join(results_path, 'winner_metrics_class.xlsx'))
+    # df_col_dummies = pd.read_excel(os.path.join(results_path, 'df_col_dummies.xlsx'))
     # X_vect = pd.concat([df_col_dummies, X_vect], axis = 0).fillna(False)
     bm = winner_metrics_temp.iloc[-1]['model_name']
     
-    models_path = os.path.join(os.path.dirname(resul_path),'models')
+    models_path = os.path.join(os.path.dirname(results_path),'models')
     model_file = max([file for file in os.listdir(models_path) if file.startswith(bm)])
     
     # Cargar el modelo
@@ -44,10 +39,12 @@ def fn_classification(df_class, X_vect, stage=None):
     probs = modelo_cargado.predict_proba(X_vect)
     df_class['Class'] = classifications
     df_class = df_class.join(pd.DataFrame(probs, columns=['Prob_win_pl1', 'Prob_win_pl2']))
+    reporte_clasificacion = pd.DataFrame(classification_report(df_class['Result'], df_class['Class'], output_dict=True))
+    df_class['Accuracy'] = reporte_clasificacion['accuracy'].mean()
     df_class_1 = df_class.copy()
-    df_class['date_run'] = pd.to_datetime(datetime.now()).strftime('%Y-%m')
-    df_class_0 = pd.read_excel(os.path.join(resul_path,'df_class.xlsx'))
+    df_class['date_run'] = n_date
+    df_class_0 = pd.read_excel(os.path.join(results_path,'df_class.xlsx'))
     df_class = pd.concat([df_class_0, df_class], axis = 0)
-    df_class.to_excel(os.path.join(resul_path, 'df_class.xlsx'), index=False)
+    df_class.to_excel(os.path.join(results_path, 'df_class.xlsx'), index=False)
     
-    return df_class_1, df_class
+    return df_class_1, df_class, reporte_clasificacion

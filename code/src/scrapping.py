@@ -50,23 +50,23 @@ class ScrappingTennis():
                                         'Info':url_match,
                                         'Player':a_text,
                                         'url':a_href,
-                                        'Bet_pl1':pl1_bet,
-                                        'Bet_pl2':pl2_bet})
+                                        'pl1_bet':pl1_bet,
+                                        'pl2_bet':pl2_bet})
                     else:
                         dict_temp.update({'Date':self.n_date,
                                         'Location':a_text,
                                         'Info':url_match,
                                         'Player':'Field',
                                         'url':a_href,
-                                        'Bet_pl1':pl1_bet,
-                                        'Bet_pl2':pl2_bet})
+                                        'pl1_bet':pl1_bet,
+                                        'pl2_bet':pl2_bet})
                         
                     list_by_row.append(dict_temp)
                         
                 else:
                     url_match = td_element[11].find('a').get('href')
-                    pl1_bet = td_element[8]
-                    pl2_bet = td_element[9]
+                    pl1_bet = td_element[8].get_text(strip=True)
+                    pl2_bet = td_element[9].get_text(strip=True)
                     td_element = td_element[1]
                     dict_temp = {}
                     a_tag = td_element.find('a')
@@ -79,22 +79,25 @@ class ScrappingTennis():
                                         'Info':url_match,
                                         'Player':a_text,
                                         'url':a_href,
-                                        'Bet_pl1':pl1_bet,
-                                        'Bet_pl2':pl2_bet})
+                                        'pl1_bet':pl1_bet,
+                                        'pl2_bet':pl2_bet})
                     else:
                         dict_temp.update({'Date':self.n_date,
                                         'Location':a_text,
                                         'Info':url_match,
                                         'Player':'Field',
                                         'url':a_href,
-                                        'Bet_pl1':pl1_bet,
-                                        'Bet_pl2':pl2_bet})
+                                        'pl1_bet':pl1_bet,
+                                        'pl2_bet':pl2_bet})
                         
                     list_by_row.append(dict_temp)
             except:
                 continue
         
         df_atp = pd.DataFrame(list_by_row)
+        df_atp['pl1_bet'] =        df_atp['pl1_bet'].replace("",np.nan)
+        df_atp['pl2_bet'] =        df_atp['pl2_bet'].replace("",np.nan)
+        
         df_atp['ply'] = np.where(df_atp['Player']=='Field', "Field", np.where(df_atp['Info'].isna(),'p2','p1'))
         df_atp_filled =  df_atp.fillna(method='ffill')
 
@@ -116,11 +119,11 @@ class ScrappingTennis():
         
         return df_atp_filled, df_atp_filled_full, df_fields, df_games
     
-    def scrappy_fields_info(self, df_fields, file_fields_scraped):
+    def scrappy_fields_info(self, df_fields, file_fields_desc):
 
         df_fields = df_fields[['Location','url']].drop_duplicates()
         
-        df_field_surface_full = pd.read_csv(f'{self.scraped_path}\\{file_fields_scraped}', sep='|')
+        df_field_surface_full = pd.read_csv(f'{self.scraped_path}\\{file_fields_desc}', sep='|')
         df_fields = df_fields[~(df_fields['url'].isin(df_field_surface_full['url'].unique().tolist()))]
         
         df_field_surface = pd.DataFrame()
@@ -134,7 +137,7 @@ class ScrappingTennis():
             df_field_surface = pd.concat([df_field_surface, df_field_temp], axis = 0)
             
         df_field_surface_full = pd.concat([df_field_surface_full, df_field_surface], axis = 0)
-        df_field_surface_full.to_csv(f'{self.scraped_path}\\{file_fields_scraped}', index=False, sep='|')
+        df_field_surface_full.to_csv(f'{self.scraped_path}\\{file_fields_desc}', index=False, sep='|')
         
         return df_field_surface_full
     
@@ -191,7 +194,7 @@ class ScrappingTennis():
         df_games_of_day = pd.DataFrame()
         for info in df_games['Info'].unique().tolist():
             df_games_temp = df_games[(df_games['Info'] == info)]
-            df_games_hz = df_games_temp[['Location','Info','Bet_pl1','Bet_pl2']].drop_duplicates()
+            df_games_hz = df_games_temp[['Location','Info','pl1_bet','pl2_bet']].drop_duplicates()
             df_pl1_temp = df_games_temp[(df_games_temp['ply'] == 'p1')]
             df_pl2_temp = df_games_temp[(df_games_temp['ply'] == 'p2')]
             df_games_hz['Winner'] = df_pl1_temp['Player'].iloc[0]
@@ -212,6 +215,7 @@ class ScrappingTennis():
             
         df_games_of_day = df_games_of_day.merge(df_field_surface[['Location','Surface']], on = 'Location', how = 'left')
         df_games_of_day.drop(columns='Info', inplace=True)
+        df_games_of_day['Date'] = self.n_date
         df_games_of_day.to_csv(os.path.join(daily_dump_path, f'df_games_{self.n_date}.csv'), index=False, sep='|')
         
         df_games_acum = pd.concat([df_games_acum, df_games_of_day], axis = 0)
@@ -223,7 +227,7 @@ def scrapping_tennis_data(year,month,day,
                           req_headers,
                           scraped_path, 
                           file_match_result, 
-                          file_fields_scraped,
+                          file_fields_desc,
                           file_players_desc,
                           file_games, 
                           daily_dump_path):
@@ -236,7 +240,7 @@ def scrapping_tennis_data(year,month,day,
     
     df_atp_filled, df_atp_filled_full, df_fields, df_games = scrapping_tennis.scrappy_match_results(file_match_result)
     
-    df_field_surface_full = scrapping_tennis.scrappy_fields_info(df_fields, file_fields_scraped)
+    df_field_surface_full = scrapping_tennis.scrappy_fields_info(df_fields, file_fields_desc)
     
     df_players_desc_full = scrapping_tennis.scrappy_players_description(df_games, file_players_desc)
     

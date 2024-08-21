@@ -8,7 +8,9 @@ def data_to_class(df_variables):
     # for col in df_variables.select_dtypes(exclude=['number']).columns:
     #     df_variables[col] = df_variables[col].astype('category')
     
-    df_variables = df_variables.drop(['pl1','pl2'], axis = 1)
+    columns_withbet = ['pl1','pl2','pl1_bet','pl2_bet']
+    df_variables = df_variables.drop(columns_withbet, axis = 1)
+        
     categorical_cols = df_variables.select_dtypes(include=['object']).columns.tolist()
     numerical_cols = df_variables.select_dtypes(exclude=['object']).columns.tolist()
     numerical_cols.remove('Result')

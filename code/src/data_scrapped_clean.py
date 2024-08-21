@@ -31,7 +31,15 @@ def scrapped_data_organized(df_scrapped,
     df_fply['pl1_hand'] = df_fply['pl1_hand'].str.capitalize() + "-Handed"
     df_fply['pl2_hand'] = df_fply['pl2_hand'].str.capitalize() + "-Handed"
     
+    
     df_fply_bronze = GetData().data_raw(df_fply)
+    
+    for col in df_fply_bronze.columns[1:]:
+        try:
+            df_fply_bronze[col] = df_fply_bronze[col].apply(float)
+        except:
+            continue
+        
     df_fply_silver = GetData().data_without_atipics(df_fply_bronze)
     df_fply_gold = GetData().data_p1vsp2(False, df_fply_silver)
     df_fply_gold = GetData().save_data_cleaned(path_to_save, file_data_scrapped_cleaned, df_fply_gold)

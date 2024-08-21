@@ -4,25 +4,13 @@ import matplotlib.pyplot as plt
 
 class RiskAnalysisMontecarlo():
     def data_ev_sr(self, df, risk_free_rate):
-        # # Crear el DataFrame con los datos
-        # data = {
-        #     'pl1': ['Giron M.', 'Mcdonald M.', 'Kecmanovic M.', 'Nishioka Y.', 'Popyrin A.', 'Halys Q.', 'Safiullin R.', 'Draper J.', 'Kokkinakis T.'],
-        #     'pl2': ['Gasquet R.', 'Galan D.E.', 'O Connell C.', 'Rune H.', 'Auger-Aliassime F.', 'Thompson J.', 'Ymer M.', 'Kwon S.W.', 'Cressy M.'],
-        #     'Prob_win_pl1': [0.85, 0.60, 0.59, 0.27, 0.63, 0.75, 0.75, 0.10, 0.74],
-        #     'Prob_win_pl2': [0.15, 0.40, 0.41, 0.73, 0.37, 0.25, 0.25, 0.90, 0.26],
-        #     'Bet_pl1': [1.91, 1.36, 1.57, 3.75, 6.50, 2.10, 2.20, 1.67, 1.91],
-        #     'Bet_pl2': [1.91, 3.20, 2.38, 1.29, 1.11, 1.73, 1.67, 2.20, 1.91]
-        # }
-
-        # df = pd.DataFrame(data)
-
         # Calcular el Valor Esperado (EV) para cada jugador
-        df['EV_pl1'] = df['Prob_win_pl1'] * df['Bet_pl1'] - (1 - df['Prob_win_pl1'])
-        df['EV_pl2'] = df['Prob_win_pl2'] * df['Bet_pl2'] - (1 - df['Prob_win_pl2'])
+        df['EV_pl1'] = df['Prob_win_pl1'] * df['pl1_bet'] - (1 - df['Prob_win_pl1'])
+        df['EV_pl2'] = df['Prob_win_pl2'] * df['pl2_bet'] - (1 - df['Prob_win_pl2'])
 
         # Calcular la desviación estándar de los EVs
-        df['Std_Dev_pl1'] = df['Bet_pl1'] * np.sqrt(df['Prob_win_pl1'] * (1 - df['Prob_win_pl1']))
-        df['Std_Dev_pl2'] = df['Bet_pl2'] * np.sqrt(df['Prob_win_pl2'] * (1 - df['Prob_win_pl2']))
+        df['Std_Dev_pl1'] = df['pl1_bet'] * np.sqrt(df['Prob_win_pl1'] * (1 - df['Prob_win_pl1']))
+        df['Std_Dev_pl2'] = df['pl2_bet'] * np.sqrt(df['Prob_win_pl2'] * (1 - df['Prob_win_pl2']))
 
         # Calcular el Ratio de Sharpe para cada jugador
         df['Sharpe_Ratio_pl1'] = (df['EV_pl1'] - risk_free_rate) / df['Std_Dev_pl1']
@@ -41,13 +29,13 @@ class RiskAnalysisMontecarlo():
             best_ev = row['EV_pl1']
             best_sharpe = row['Sharpe_Ratio_pl1']
             prob_win = row['Prob_win_pl1']
-            payout = row['Bet_pl1']
+            payout = row['pl1_bet']
         else:
             best_bet = 'pl2'
             best_ev = row['EV_pl2']
             best_sharpe = row['Sharpe_Ratio_pl2']
             prob_win = row['Prob_win_pl2']
-            payout = row['Bet_pl2']
+            payout = row['pl2_bet']
         
         # Ajustar la cantidad a apostar en función del Sharpe Ratio y la tolerancia al riesgo
         if best_sharpe > (1 - risk_tolerance):  # Aumenta la sensibilidad a medida que disminuye el nivel de riesgo

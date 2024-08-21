@@ -11,7 +11,7 @@ class GetData():
         # profile = ProfileReport(df, title="Profiling Report")
         # profile.to_file("your_report.html")
         
-        df = df[["Date"
+        columns_wihtbet = ["Date"
             , "Surface"
             , "Winner"
             , "WPts"
@@ -21,12 +21,17 @@ class GetData():
             , "pl1_weight"
             , "pl1_height"
             , "pl1_hand"
+            , "pl1_bet"
             , "Loser"
             , "pl2_flag"
             , "pl2_year_pro"
             , "pl2_weight"
             , "pl2_height"
-            , "pl2_hand"]]
+            , "pl2_hand"
+            , "pl2_bet"
+            ]
+        
+        df = df[columns_wihtbet]
 
         df.dropna(inplace=True)
         
@@ -64,6 +69,7 @@ class GetData():
             df_p2["pl1_pts"] = df["pl2_pts"]
             df_p2["pl2_pts"] = df["pl1_pts"]
             df_p2["pl1_flag"] = df["pl2_flag"]
+            df_p2["pl1_bet"] = df["pl2_bet"]
             df_p2["pl1_year_pro"] = df["pl2_year_pro"]
             df_p2["pl1_weight"] = df["pl2_weight"]
             df_p2["pl1_height"] = df["pl2_height"]
@@ -73,6 +79,7 @@ class GetData():
             df_p2["pl2_weight"] = df["pl1_weight"]
             df_p2["pl2_height"] = df["pl1_height"]
             df_p2["pl2_hand"] = df["pl1_hand"]
+            df_p2["pl2_bet"] = df["pl1_bet"]
             df_p2["Result"] = 1
 
             df_all = pd.concat([df_p1, df_p2], axis = 0 )
