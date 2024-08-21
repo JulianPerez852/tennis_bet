@@ -13,12 +13,15 @@ class RiskAnalysisMontecarlo():
         df['Std_Dev_pl2'] = df['pl2_bet'] * np.sqrt(df['Prob_win_pl2'] * (1 - df['Prob_win_pl2']))
 
         # Calcular el Ratio de Sharpe para cada jugador
+        # El Sharpe Ratio entre más alto mejor.
         df['Sharpe_Ratio_pl1'] = (df['EV_pl1'] - risk_free_rate) / df['Std_Dev_pl1']
         df['Sharpe_Ratio_pl2'] = (df['EV_pl2'] - risk_free_rate) / df['Std_Dev_pl2']
             
         # Calcular la suma total de los mejores EV para la asignación de dinero
         df['Best_Bet_EV'] = df[['EV_pl1', 'EV_pl2']].max(axis=1)
         total_ev_sum = df['Best_Bet_EV'].sum()
+        
+        df['match'] = df['pl1'] +'\n' + df['pl2']
         
         return df, total_ev_sum
 
@@ -46,13 +49,13 @@ class RiskAnalysisMontecarlo():
         return pd.Series([best_bet, best_ev, best_sharpe, money_to_bet, prob_win, payout])
 
     # Función de Simulación de Monte Carlo
-    def monte_carlo_simulation(self, df, num_simulations=1000, num_bets=10):
+    def monte_carlo_simulation(self, df, num_simulations=1000, num_bets=1):
         results = []
-        for sim in range(num_simulations):
+        for sim in range(1000):
             total_profit = 0
-            for i in range(num_bets):
-                bet = df.sample(1).iloc[0]
-                outcome = np.random.rand() <= bet['Prob_Win']
+            for i in range(len(df)):
+                bet = df.iloc[i]
+                outcome = np.random.choice([0, 1]) == bet['Class']
                 if outcome:  # Si gana la apuesta
                     total_profit += bet['Money_to_Bet'] * bet['Payout']
                 else:  # Si pierde la apuesta
@@ -85,11 +88,12 @@ class RiskAnalysisMontecarlo():
             'Mediana de Ganancia/Pérdida': np.median(monte_carlo_results),
             'Ganancia/Pérdida Máxima': np.max(monte_carlo_results),
             'Ganancia/Pérdida Mínima': np.min(monte_carlo_results),
-            'Probabilidad de Ganancia (>0)': np.mean([x > 0 for x in monte_carlo_results])
+            'Probabilidad de Ganancia (>0)': np.mean([x > 100 for x in monte_carlo_results])
         }
 
         # Crear el archivo Excel con el resumen, tabla de resultados y gráficos
         with pd.ExcelWriter(f'{results_path}/{file_betting_analysis}', engine='openpyxl') as writer:
+            # df['Possible_earning'] = np.where(df['Best_Bet'] =='pl1', df['pl1_bet'], df['pl2_bet'])
             df.to_excel(writer, sheet_name='Betting Decisions', index=False)
             
             # Agregar resultados de la simulación de Monte Carlo en una hoja separada
@@ -101,7 +105,7 @@ class RiskAnalysisMontecarlo():
             
             # Crear un gráfico del EV de cada jugador
             plt.figure(figsize=(10, 6))
-            df.plot(kind='bar', x='pl1', y=['EV_pl1', 'EV_pl2'], color=['blue', 'orange'], ax=plt.gca())
+            df.plot(kind='bar', x='match', y=['EV_pl1', 'EV_pl2'], color=['blue', 'orange'], ax=plt.gca())
             plt.title('Valor Esperado (EV) por Jugador')
             plt.ylabel('EV')
             plt.xlabel('Partidos')
@@ -112,7 +116,7 @@ class RiskAnalysisMontecarlo():
             # Crear un gráfico del Sharpe Ratio de cada jugador
             plt.figure(figsize=(10, 6))
             df.plot(kind='bar', 
-                    x='pl1', 
+                    x='match', 
                     y=['Sharpe_Ratio_pl1', 'Sharpe_Ratio_pl2'], 
                     color=['green', 'red'], 
                     ax=plt.gca())
@@ -140,7 +144,7 @@ class RiskAnalysisMontecarlo():
             worksheet_mc.add_image(img_mc, 'B2')
 
         # Output de información
-        print("Análisis completado. Revisa el archivo 'betting_analysis.xlsx' para ver los resultados.")
+        print(f"Análisis completado. Revisa el archivo {file_betting_analysis}' para ver los resultados.")
         
         return monte_carlo_summary
       
@@ -155,22 +159,26 @@ def risk_analysis_montecarlo(df_gold,
                             name_monte_carlo_dist,
                             name_ev_comparation,
                             name_sharpe_ratio_comparison,
-                            file_betting_analysis):
+                            file_betting_analysis,
+                            optimization):
     
     risk_analysis_montecarlo = RiskAnalysisMontecarlo()
-    df_risk, total_ev_sum = risk_analysis_montecarlo.data_ev_sr(df_gold, risk_free_rate)
+    if optimization == False:
+        df_risk, total_ev_sum = risk_analysis_montecarlo.data_ev_sr(df_gold, risk_free_rate)
 
-    # Aplicar la función al DataFrame
-    df_risk[['Best_Bet', 
-             'Best_Bet_EV', 
-             'Best_Bet_Sharpe', 
-             'Money_to_Bet', 
-             'Prob_Win', 
-             'Payout']] = df_risk.apply(risk_analysis_montecarlo.determine_bet, 
-                                        axis=1, 
-                                        risk_tolerance=risk_tolerance, 
-                                        total_money=total_money, 
-                                        total_ev_sum=total_ev_sum)
+        # Aplicar la función al DataFrame
+        df_risk[['Best_Bet', 
+                'Best_Bet_EV', 
+                'Best_Bet_Sharpe', 
+                'Money_to_Bet', 
+                'Prob_Win', 
+                'Payout']] = df_risk.apply(risk_analysis_montecarlo.determine_bet, 
+                                            axis=1, 
+                                            risk_tolerance=risk_tolerance, 
+                                            total_money=total_money, 
+                                            total_ev_sum=total_ev_sum)
+    else:
+        df_risk = df_gold.copy()
 
     # Realiza la simulación de Monte Carlo
     monte_carlo_results = risk_analysis_montecarlo.monte_carlo_simulation(df_risk, num_simulations, num_bets)
@@ -182,4 +190,4 @@ def risk_analysis_montecarlo(df_gold,
                                                                     name_ev_comparation,
                                                                     name_sharpe_ratio_comparison, 
                                                                     file_betting_analysis)
-    return df_risk, monte_carlo_results, monte_carlo_summary
+    return df_risk

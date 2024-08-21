@@ -29,8 +29,6 @@ class Parameters(object):
     file_fields_desc            = 'df_fields.csv'
     file_players_desc           = 'df_players_desc.csv'
     file_games                  = 'df_games.csv'
-    # file_data_scrapped          = 'df_games_202203_03.xlsx'
-    # file_data_scrapped_cleaned  = 'data_cleaned_202203.xlsx'
     
     # Files & Data Risk Analysis
     name_monte_carlo_dist       = 'monte_carlo_distribution'
@@ -46,4 +44,6 @@ class Parameters(object):
     num_bets                    = 1         # Número de apuestas por simulación
     total_money                 = 100
     
-    
+    # Rules of Optimization
+    min_percentage              = 0.05      # Porcentaje mínimo del total de la apuesta, con prob_win > 0.6
+    max_loss_percentage         = 0.1       # Máximo porcentaje del total de la apuesta que puedo perder en apuestas de baja prob_win (<0.5)
