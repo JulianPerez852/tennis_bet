@@ -18,7 +18,8 @@ class RiskAnalysisMontecarlo():
         df['Sharpe_Ratio_pl2'] = (df['EV_pl2'] - risk_free_rate) / df['Std_Dev_pl2']
             
         # Calcular la suma total de los mejores EV para la asignación de dinero
-        df['Best_Bet_EV'] = df[['EV_pl1', 'EV_pl2']].max(axis=1)
+        # df['Best_Bet_EV'] = df[['EV_pl1', 'EV_pl2']].max(axis=1)
+        df['Best_Bet_EV'] = np.where(df['Class'] == 0, df['EV_pl1'], df['EV_pl2'])
         total_ev_sum = df['Best_Bet_EV'].sum()
         
         df['match'] = df['pl1'] +'\n' + df['pl2']
@@ -27,7 +28,8 @@ class RiskAnalysisMontecarlo():
 
     # Función para determinar la apuesta en función del EV, Sharpe Ratio y el nivel de riesgo
     def determine_bet(self, row, risk_tolerance, total_money, total_ev_sum):
-        if row['EV_pl1'] > row['EV_pl2']:
+        # if row['EV_pl1'] > row['EV_pl2']:
+        if row['Class'] == 0:
             best_bet = 'pl1'
             best_ev = row['EV_pl1']
             best_sharpe = row['Sharpe_Ratio_pl1']
@@ -65,7 +67,8 @@ class RiskAnalysisMontecarlo():
 
     def plot_risk_simulation(self, plots_path, 
                             results_path, 
-                            monte_carlo_results, 
+                            monte_carlo_results,
+                            total_money, 
                             df, 
                             name_monte_carlo_dist,
                             name_ev_comparation,
@@ -88,7 +91,7 @@ class RiskAnalysisMontecarlo():
             'Mediana de Ganancia/Pérdida': np.median(monte_carlo_results),
             'Ganancia/Pérdida Máxima': np.max(monte_carlo_results),
             'Ganancia/Pérdida Mínima': np.min(monte_carlo_results),
-            'Probabilidad de Ganancia (>0)': np.mean([x > 100 for x in monte_carlo_results])
+            'Probabilidad de Ganancia (>0)': np.mean([x > total_money for x in monte_carlo_results])
         }
 
         # Crear el archivo Excel con el resumen, tabla de resultados y gráficos
@@ -185,6 +188,7 @@ def risk_analysis_montecarlo(df_gold,
     monte_carlo_summary = risk_analysis_montecarlo.plot_risk_simulation(plots_path, 
                                                                     results_path, 
                                                                     monte_carlo_results, 
+                                                                    total_money,
                                                                     df_risk, 
                                                                     name_monte_carlo_dist,
                                                                     name_ev_comparation,
