@@ -21,8 +21,8 @@ class Optimization:
     
     def conditions(self):
         total_money             = self.total_money
-        min_percentage          = self.min_percentage
-        max_loss_percentage     = self.max_loss_percentage
+        # min_percentage          = self.min_percentage
+        # max_loss_percentage     = self.max_loss_percentage
 
         # Constraints: the sum of bets should equal total_money
         constraints = [{'type': 'eq', 'fun': lambda bets: total_money - np.sum(bets)}]

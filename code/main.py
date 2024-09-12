@@ -97,38 +97,38 @@ def process(train, start_date, end_date):
             df_class_consolidate, \
             reporte_clasificacion                   = fn_classification(df_to_pred, X, n_date, Parameters.results_path)
         
-        # Risk
-        # =================
-        df_risk          = risk_analysis_montecarlo(df_class,
-                                                    Parameters.risk_free_rate, 
-                                                    Parameters.risk_tolerance, 
-                                                    total_money_daily, 
-                                                    Parameters.num_simulations, 
-                                                    Parameters.num_bets,
-                                                    Parameters.plots_path,
-                                                    Parameters.results_path,
-                                                    f'{Parameters.name_monte_carlo_dist}_{ndate}.png',
-                                                    f'{Parameters.name_ev_comparation}_{ndate}.png',
-                                                    f'{Parameters.name_sharpe_ratio_comparison}_{ndate}.png',
-                                                    f'{Parameters.file_betting_analysis}_{ndate}.xlsx',
-                                                    False)
+        # # Risk
+        # # =================
+        # df_risk          = risk_analysis_montecarlo(df_class,
+        #                                             Parameters.risk_free_rate, 
+        #                                             Parameters.risk_tolerance, 
+        #                                             total_money_daily, 
+        #                                             Parameters.num_simulations, 
+        #                                             Parameters.num_bets,
+        #                                             Parameters.plots_path,
+        #                                             Parameters.results_path,
+        #                                             f'{Parameters.name_monte_carlo_dist}_{ndate}.png',
+        #                                             f'{Parameters.name_ev_comparation}_{ndate}.png',
+        #                                             f'{Parameters.name_sharpe_ratio_comparison}_{ndate}.png',
+        #                                             f'{Parameters.file_betting_analysis}_{ndate}.xlsx',
+        #                                             False)
         
-        # Optimization
-        # =================
-        optimizer = Optimization(df_risk, total_money_daily, Parameters.max_loss_percentage, Parameters.min_percentage)
-        df_risk_optimized = optimizer.optimize()
-        df_risk_optimized = risk_analysis_montecarlo(df_risk_optimized,
-                                                    Parameters.risk_free_rate, 
-                                                    Parameters.risk_tolerance, 
-                                                    total_money_daily, 
-                                                    Parameters.num_simulations, 
-                                                    Parameters.num_bets,
-                                                    Parameters.plots_path,
-                                                    Parameters.results_path,
-                                                    f'{Parameters.name_monte_carlo_dist}_{ndate}__Optimized.png',
-                                                    f'{Parameters.name_ev_comparation}_{ndate}_Optimized.png',
-                                                    f'{Parameters.name_sharpe_ratio_comparison}_{ndate}_Optimized.png',
-                                                    f'{Parameters.file_betting_analysis}_{ndate}_Optimized.xlsx',
-                                                    True)
+        # # Optimization
+        # # =================
+        # optimizer = Optimization(df_risk, total_money_daily, Parameters.max_loss_percentage, Parameters.min_percentage)
+        # df_risk_optimized = optimizer.optimize()
+        # df_risk_optimized = risk_analysis_montecarlo(df_risk_optimized,
+        #                                             Parameters.risk_free_rate, 
+        #                                             Parameters.risk_tolerance, 
+        #                                             total_money_daily, 
+        #                                             Parameters.num_simulations, 
+        #                                             Parameters.num_bets,
+        #                                             Parameters.plots_path,
+        #                                             Parameters.results_path,
+        #                                             f'{Parameters.name_monte_carlo_dist}_{ndate}__Optimized.png',
+        #                                             f'{Parameters.name_ev_comparation}_{ndate}_Optimized.png',
+        #                                             f'{Parameters.name_sharpe_ratio_comparison}_{ndate}_Optimized.png',
+        #                                             f'{Parameters.file_betting_analysis}_{ndate}_Optimized.xlsx',
+        #                                             True)
     
-    return df_games_of_day, df_games_acum, df_fply_gold, df_class, df_class_consolidate, df_risk, df_risk_optimized
+    # return df_games_of_day, df_games_acum, df_fply_gold, df_class, df_class_consolidate, df_risk, df_risk_optimized

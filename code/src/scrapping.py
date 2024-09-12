@@ -2,7 +2,8 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 import numpy as np
-
+import time
+import random
 import os
 
 import warnings
@@ -116,6 +117,8 @@ class ScrappingTennis():
         
         df_atp_filled_full = pd.concat([df_atp_filled_full, df_atp_filled], axis = 0)
         df_atp_filled_full.to_csv(f'{self.scraped_path}\\{file_match_result}', index=False, sep='|')
+        
+        time.sleep(random.uniform(0.1, 5))
         
         return df_atp_filled, df_atp_filled_full, df_fields, df_games
     
