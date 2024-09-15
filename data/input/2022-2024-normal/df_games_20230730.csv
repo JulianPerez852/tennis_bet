@@ -1,0 +1,420 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Hamburg|1.23|4.26|Zverev A.|Germany|2011|90.0|198.0|right|27.0|Djere L.|Serbia|2011|82.0|188.0|right|29.0|clay|20230730
+Atlanta|1.17|5.04|Fritz T.|USA|2013|86.0|193.0|right|26.0|Vukic A.|Australia|2012|84.0|188.0|right|28.0|hard|20230730
+Atlanta|2.68|1.48|Vukic A.|Australia|2012|84.0|188.0|right|28.0|Humbert U.|France|2014|73.0|188.0|left|26.0|hard|20230730
+Umag|2.77|1.45|Popyrin A.|Australia|2013|78.0|196.0|right|25.0|Wawrinka S.|Switzerland|2001|79.0|182.0|right|39.0|clay|20230730
+Segovia challenger|1.53|2.42|Llamas Ruiz P.|Spain|2017|||right|21.0|Escoffier A.|France|2008|78.0|185.0|right|32.0|hard|20230730
+Zug challenger|1.61|2.27|Rinderknech A.|France|2011|86.0|196.0|right|29.0|De Loore J.|Belgium|2010|86.0|191.0|right|31.0|clay|20230730
+Zug challenger|2.41|1.53|De Loore J.|Belgium|2010|86.0|191.0|right|31.0|Fognini F.|Italy|2002|79.0|178.0|right|37.0|clay|20230730
+Verona challenger|2.20|1.63|Kopriva V.|CzechRepublic|2015|69.0|178.0|right|27.0|Sachko V.|Ukraine|2013|68.0|183.0|right|27.0|clay|20230730
+Bundesliga - men|2.20|1.63|Safranek V.|CzechRepublic|2009|80.0|185.0|right|30.0|Cagnina J.|Belgium|2011|72.0|183.0|right|30.0|clay|20230730
+Bundesliga - men|2.20|1.63|Navone M.|Argentina|2017|||right|23.0|Coppejans K.|Belgium|2011|68.0|180.0|right|30.0|clay|20230730
+Bundesliga - men|2.20|1.63|Squire H.|Germany|2015|||right|23.0|Nedovyesov A.|Kazakhstan|2004|81.0|193.0|right|37.0|clay|20230730
+Bundesliga - men|2.20|1.63|Skerbatis J.|Germany|2021|||right|21.0|Renz M.|Germany|2021|||right|24|clay|20230730
+Bundesliga - men|2.20|1.63|Etcheverry T.|Argentina|2014|82.0|196.0|right|25.0|Marterer M.|Germany|2011|84.0|191.0|left|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Nystroem P.|Germany|2013|||right|29.0|Dafcik T.|Germany|2012|||right|30.0|clay|20230730
+Bundesliga - men|2.20|1.63|Bergs Z.|Belgium|2014|83.0|185.0|right|25.0|Krutykh O.|Ukraine|2016|||right|24.0|clay|20230730
+Bundesliga - men|2.20|1.63|Gerch L.|Germany|2011|86.0|193.0|left|29.0|Schonenberg T.|Germany|2008|75.0|185.0|right|33.0|clay|20230730
+Bundesliga - men|2.20|1.63|Ficovich J.|Argentina|2013|78.0|191.0|right|27.0|Ugo Carabelli C.|Argentina|2015|83.0|185.0|right|25.0|clay|20230730
+Bundesliga - men|2.20|1.63|Boskov N.|Germany|2015|||right|25.0|Coloma-Heck G.|Germany|2020|||right|24.0|clay|20230730
+Bundesliga - men|2.20|1.63|Broska F.|Germany|2015|||right||Kretschmer G.|Germany|2002|77.0|191.0|right|39.0|clay|20230730
+Bundesliga - men|2.20|1.63|Marozsan F.|Hungary|2016|||right|24.0|Molleker R.|Germany|2015|75.0|185.0|right|23.0|clay|20230730
+Bundesliga - men|2.20|1.63|Linzer M.|Austria|2006|77.0|180.0|right|34.0|Toledo Bague P.|Spain|2010|72.0|178.0|right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Egea F.|Argentina|2012|||right||Nicod J.|CzechRepublic|2020|||right|20.0|clay|20230730
+Bundesliga - men|2.20|1.63|Skatov T.|Kazakhstan|2016|73.0|173.0|right|23.0|Silva F.|Portugal|2010|74.0|178.0|left|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Veldheer M.|Netherlands|2014|78.0|183.0|left|28.0|Hartenstein J.|Germany|2019|||right|23.0|clay|20230730
+Bundesliga - men|2.20|1.63|Blancaneaux G.|France|2014|75.0|180.0|right|26.0|Ionel N.|Romania|2017|71.0|183.0|right|21.0|clay|20230730
+Bundesliga - men|2.20|1.63|Sigsgaard C.|Denmark|2014|||right|27.0|Zahraj P.|Germany|2015|||right|25.0|clay|20230730
+Bundesliga - men|2.20|1.63|Roca Batalla O.|Spain|2008|75.0|173.0|right|31.0|Geerts M.|Belgium|2013|73.0|178.0|right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Pavlenko P.|Germany|2019|||right|22.0|Wegner T.|Germany|2014|||right|27.0|clay|20230730
+Bundesliga - men|2.20|1.63|Homberg M.|Germany|2021|||right|21.0|Wagner H.|Germany|2011|||right|28.0|clay|20230730
+Bundesliga - men|2.20|1.63|Darderi L.|Italy|2019|||right|22.0|Rehberg M.|Germany|2018|||right|20.0|clay|20230730
+Bundesliga - men|2.20|1.63|Barroso Campos A.|Spain|2013|72.0|178.0|right|28.0|Neuchrist M.|Austria|2009|||right|33.0|clay|20230730
+Bundesliga - men|2.20|1.63|De Bakker T.|Netherlands|2004|83.0|193.0|right|35.0|Ehrenschneider N.|Germany|2018|||right|23.0|clay|20230730
+Bundesliga - men|2.20|1.63|Ruehl T.|Germany|2013|||right|26.0|Fritsche D.|Germany|2020|||right||clay|20230730
+Bundesliga - men|2.20|1.63|Lane L.|Germany|2017|||right|23.0|Vilella Martinez M.|Spain|2011|74.0|178.0|right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Zapata Miralles B.|Spain|2012|82.0|183.0|right|27.0|Dellien H.|Bolivia|2007|75.0|180.0|right|31.0|clay|20230730
+Bundesliga - men|2.20|1.63|Handel T.|Germany|2013|||right|27.0|Paulson A.|CzechRepublic|2018|||right|22.0|clay|20230730
+Bundesliga - men|2.20|1.63|Filipsky J.|CzechRepublic|2012|||right|29.0|Woerner P.|Germany|2010|||right|27.0|clay|20230730
+Bundesliga - men|2.20|1.63|Laurent T.|France|2014|||right|26.0|Galarza J.|Argentina|2010|81.0|183.0|right|30.0|clay|20230730
+Bundesliga - men|2.20|1.63|Hassan B.|Lebanon|2013|85.0|183.0|right|29.0|Masur D.|Germany|2011|78.0|183.0|right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Wessels L.|Germany|2014|90.0|198.0|right|25.0|Langer N.|Germany|2005|77|193|right|34|clay|20230730
+Bundesliga - men|2.20|1.63|Cornut Chauvinc A.|France|2016|||right|24.0|Pujol Navarro B.|Spain|2017|||left|22.0|clay|20230730
+Bundesliga - men|2.20|1.63|Leischner A.|Germany|2021|||right|22.0|Wedel C.|Germany|2022|||right|24.0|clay|20230730
+Bundesliga - men|2.20|1.63|Kovalik J.|Slovakia|2007|82.0|183.0|right|31.0|Melzer G.|Austria|2007|80.0|188.0|left|34.0|clay|20230730
+Bundesliga - men|2.20|1.63|Lamasine T.|France|2010|69.0|183.0|right|31.0|Schell N.|Germany|2015|||right|25.0|clay|20230730
+Bundesliga - men|2.20|1.63|Briand J.|France|2015|||right|25.0|Lopez Morillo I.|Spain|2016|||right|24.0|clay|20230730
+Bundesliga - men|2.20|1.63|Snitari I.|Moldavsko|2020|||right|22.0|Rosenkranz M.|Germany|2014|||left|25.0|clay|20230730
+Bundesliga - men|2.20|1.63|Vives Marcos P.|Spain|2016|||right|23.0|Raisma K.|Estonia|2014|82.0|193.0|left|26.0|clay|20230730
+Bundesliga - men|2.20|1.63|Cachin P.|Argentina|2011|77.0|185.0|right|29.0|Brancaccio R.|Italy|2013|72.0|183.0|right|27.0|clay|20230730
+Bundesliga - men|2.20|1.63|Choinski J.|GreatBritain|2012|80.0|196.0|right|28.0|Bellier A.|Switzerland|2013|80.0|196.0|left|27.0|clay|20230730
+Bundesliga - men|2.20|1.63|Kamke T.|Germany|2003|76.0|178.0|right|38.0|Sandkaulen T.|Germany|2013|||right|26.0|clay|20230730
+Bundesliga - men|2.20|1.63|Bellotti R.|Italy|2008|||right|33.0|Penzlin J.|Germany|2020|||right|22.0|clay|20230730
+Bundesliga - men|2.20|1.63|Martinez P.|Spain|2012|76.0|185.0|right|27.0|Piros Z.|Hungary|2015|68.0|180.0|right|24.0|clay|20230730
+Bundesliga - men|2.20|1.63|Moro Canas A.|Spain|2017|||right|23.0|Sanchez Jover E.|Spain|2023|||right||clay|20230730
+Bundesliga - men|2.20|1.63|Schnaitter J.|Germany|2013|||right|28.0|Krainer L.|Austria|2016|83.0|198.0|right|23.0|clay|20230730
+Bundesliga - men|2.20|1.63|Jaloviec M.|CzechRepublic|2010|72.0|180.0|left|30.0|Wiedenmann L.|Germany|2015|||right|26.0|clay|20230730
+Bundesliga - men|2.20|1.63|Fix D.|Germany|2021|||right|19.0|Storck L.|Germany|2011|||right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Cid Subervi R.|DominicanRep.|2010|82.0|193.0|right|30.0|Luz O.|Brazil|2013|78.0|180.0|right|26.0|clay|20230730
+Bundesliga - men|2.20|1.63|Onclin G.|Belgium|2016|||right|23.0|Stodder T.|Germany|2012|66.0|180.0|right|28.0|clay|20230730
+Bundesliga - men|2.20|1.63|Houkes M.|Netherlands|2018|||left|24.0|Vincent Ruggeri S.|Italy|2019|||right|22.0|clay|20230730
+Bundesliga - men|2.20|1.63|Fanselow S.|Germany|2007|||right|32.0|Added D.|France|2015|72.0|183.0|right|25.0|clay|20230730
+Bundesliga - men|2.20|1.63|Yunis F.|Switzerland|2017|||right|22.0|Wallner M.|Germany|2021|||right|25.0|clay|20230730
+Bundesliga - men|2.20|1.63|Nouza P.|CzechRepublic|2015|86.0|193.0|right|25.0|Zima L.|Germany|2015|||right|24.0|clay|20230730
+Bundesliga - men|2.20|1.63|De Jong J.|Netherlands|2017|70.0|180.0|right|24.0|Lopez San Martin A.|Spain|2013|70.0|178.0|right|27.0|clay|20230730
+Bundesliga - men|2.20|1.63|Mena F.|Argentina|2008|78.0|183.0|right|31.0|Mayot H.|France|2017|71.0|178.0|right|22.0|clay|20230730
+Bundesliga - men|2.20|1.63|Rodriguez Taverna S.|Argentina|2014|82.0|191.0|right|25.0|Esteve Lobato E.|Spain|2010|83.0|188.0|right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Lemstra K.|Germany|2015|||right|25.0|Bloemke D.|Germany|2006|||right|35.0|clay|20230730
+Bundesliga - men|2.20|1.63|Lipp M.|Germany|2020|||right|20.0|Mueller C.|Germany|2019|||right||clay|20230730
+Bundesliga - men|2.20|1.63|Baumann D.|Germany|2011|||right|29.0|Obert A.|Germany|2010|||right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Kuzmanov D.|Bulgaria|2009|77.0|193.0|right|31.0|Mager G.|Italy|2010|77.0|188.0|right|29.0|clay|20230730
+Bundesliga - men|2.20|1.63|Frantzen C.|Germany|2015|||right|26.0|Schlagenhauf N.|Germany|2018|||right|21.0|clay|20230730
+Bundesliga - men|2.20|1.63|Travaglia S.|Italy|2007|80.0|185.0|right|32.0|Trungelliti M.|Argentina|2006|78.0|178.0|right|34.0|clay|20230730
+Bundesliga - men|2.20|1.63|Jebens H.|Germany|2010|91.0|196.0|right|29.0|Gavrielides L.|Germany|2020|||right|20.0|clay|20230730
+Astana 5 challenger|1.86|1.89|Yevseyev D.|Kazakhstan|2009|75.0|189.0|right|31.0|Sultanov K.|Uzbekistan|2013|80.0|180.0|right|25.0|hard|20230730
+Astana 5 challenger|1.60|2.17|Rodenas P.|Spain|2020|||left|20.0|Lopez Montagud C.|Spain|2015|||right|24.0|hard|20230730
+Astana 5 challenger|2.60|1.43|Vandecasteele Q.|USA|2018|||right|22.0|McHugh A.|GreatBritain|2016|70.0|178.0|right|24.0|hard|20230730
+Astana 5 challenger|1.22|3.83|Hemery C.|France|2012|83.0|191.0|right|29.0|Setodji T.|France|2013|83.0|183.0|right|28.0|hard|20230730
+Astana 5 challenger|1.65|2.11|Marie J.|France|2009|76.0|185.0|right|32.0|de Schepper K.|France|2004|100.0|203.0|left|37.0|hard|20230730
+Astana 5 challenger|2.23|1.56|Ivanovski K.|NorthMacedonia|2019|||right|20.0|Campana Lee G.|SouthKorea|2021|||right|19.0|hard|20230730
+Astana 5 challenger|2.79|1.38|Copil M.|Romania|2005|87.0|193.0|right|33.0|Casanova H.|Argentina|2010|76.0|178.0|right|30.0|hard|20230730
+Astana 5 challenger|1.27|3.36|King D.|Barbados|2008|77.0|188.0|right|32.0|Aguilar J.|Canada|2015|60.0|168.0|right|25.0|hard|20230730
+Astana 5 challenger|2.38|1.51|Aguilar J.|Canada|2015|60.0|168.0|right|25.0|Corwin F.|USA|2014|82.0|188.0|right|28.0|hard|20230730
+Astana 5 challenger|1.11|5.47|Kuhn N.|Germany|2015|75.0|185.0|right|24.0|Paty D.|CzechRepublic|2016|||right|24.0|hard|20230730
+Astana 5 challenger|1.99|1.73|Tabacco F.|Italy|2018|||right|22.0|Picchione A.|Italy|2017|||right|26.0|hard|20230730
+Astana 5 challenger|1.56|2.26|Van Wyk K.|RSA|2014|||right|27.0|Sinha A.|USA|2021|||right|20.0|hard|20230730
+Astana 5 challenger|1.62|2.14|Artnak B.|Slovenia|2021|||right|20.0|Nedic A.|BosniaandHerzeg.|2019|||right|19.0|hard|20230730
+Astana 5 challenger|2.03|1.69|Deckers A.|Netherlands|2017|82.0|193.0|right|24.0|Moller E.|Denmark|2019|||right|21.0|hard|20230730
+Astana 5 challenger|1.18|4.31|Saville L.|Australia|2008|83.0|188.0|right|30.0|Matsuda R.|Japan|2018|||right|24.0|hard|20230730
+UTR Pro Tennis Series 3|1.39|2.70|Strode E.|USA|2021|||left|22.0|Corse J.|USA|2016|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.39|2.70|Shokry E.|USA|2023|||right||Oliver L.|USA|2021|||right|19.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.39|2.70|Craig C.|USA|2022|||right|20.0|Morandais J.|Guadeloupe|2018|||right|21.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.39|2.70|Brown O.|GreatBritain|2023|||right|21.0|Russo D.|USA|2023|||right|22.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.39|2.70|Dean T.|USA|2021|||right|22.0|Rivera H.|USA|2020|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Brown C.|USA|2021|||right|21.0|De Vries S.|USA|2022|||right|21.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Barton J.|USA|2021|||right|22.0|Bobo D.|USA|2023|||right|21.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Gray S.|USA|2018|||right|23.0|Badra D.|Venezuela|2018|||left|23.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Lyons J.|USA|2022|||right||Rondon Gomez S.|Colombia|2023|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Seggerman R.|USA|2016|||right|25.0|Strode I.|USA|2014|75.0|183.0|right|26.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Ji Z.|China|2022|||right||Lopez L.|Mexico|2013|||right|27.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Wen E.|USA|2022|||right||Jesudason A.|USA|2022|||right|21.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Montoya Rodriguez J.|Spain|2018|||right|21.0|Yaffa D.|USA|2023|||right|21.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Acob Z.|USA|2014|||right|28|Nettles J.|USA|2017|||right|24.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Bernard J.|USA|2019|||right||Shokry E.|USA|2023|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Velasquez J.|Colombia|2021|||right|19.0|Baker C.|USA|2023|||right|19.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Sec S.|USA|2022|||right|20.0|Bickersteth J.|USA|2021|||right|22.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Ross M.|USA|2022|||right|21.0|Bonetto N.|USA|2022|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.65|2.05|Rivera H.|USA|2020|||right||Trhac P.|USA|2023|||right|26.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.50|2.30|Strode E.|USA|2021|||left|22.0|Cortes Campos N.|Colombia|2020|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.83|1.80|Strode I.|USA|2014|75.0|183.0|right|26.0|Djakouris C.|Cyprus|2023|||right|20.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|2.20|1.55|Corse J.|USA|2016|||right||Volgin A.|USA|2023|||right|23.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.10|5.25|Seggerman R.|USA|2016|||right|25.0|Liu L.|USA|2021|||right|21.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 3|1.18|4.00|Brown C.|USA|2021|||right|21.0|Djakouris A.|Cyprus|2017|||right|22.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 5|2.60|1.40|Bivol M.|France|2023|||right|21.0|Bellegy A.|France|2021|||right|23.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 5|2.60|1.40|Borba J.|Paraguay|2013|||right|28.0|Chang A.|USA|2022|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 5|2.15|1.57|Borba J.|Paraguay|2013|||right|28.0|Basel V.|Argentina|2020|||right|20.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 5|2.25|1.53|Chang A.|USA|2022|||right||Robert Q.|France|2008|78.0|188.0|right|30.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 9|2.25|1.53|Ohnuma K.|Japan|2023|||right|19|Koyama H.|Japan|2023|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 9|2.25|1.53|Matsushita R.|Japan|2022|||right||Yuto F.|Japan|2023|||left|16.0|Varioussurfaces|20230730
+UTR Pro Tennis Series 9|2.25|1.53|Matsuda K.|Japan|2022|||right|23.0|Yamaguchi R.|Japan|2022|||right||Varioussurfaces|20230730
+UTR Pro Tennis Series 9|2.25|1.53|Oki Y.|Japan|2023|||right|19.0|Nejedly B.|USA|2023|||right|18.0|Varioussurfaces|20230730
+World University Games|2.25|1.53|Sklenka V.|CzechRepublic|2020|||right||Tenorio V.|Philippines|2023|||||Varioussurfaces|20230730
+World University Games|2.25|1.53|Von Der Schulenburg H.|Switzerland|2018|||right|24.0|Marinho A.|Brazil|2023|||||Varioussurfaces|20230730
+World University Games|2.25|1.53|Hans K.|India|2018|||right|23.0|Puntsag S.|Mongolia|2021|||right|22|Varioussurfaces|20230730
+World University Games|2.25|1.53|Cloud L.|USA|2022|||right||Hamayangwe N.|Zimbabwe|2023|||||Varioussurfaces|20230730
+World University Games|2.25|1.53|Krall L.|USA|2021|||right||Garayev H.|Azerbaijan|2023|||right||Varioussurfaces|20230730
+World University Games|2.25|1.53|Pereira Xavier J.|Brazil|2023|||right|23|Birungi E.|Uganda|2019|||right|25|Varioussurfaces|20230730
+World University Games|2.25|1.53|Aguiard E.|Australia|2021|||right|22.0|Azizov T.|Azerbaijan|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|2.25|1.53|Munengwa H.|Zimbabwe|2023|||||Mwisukye J.|Uganda|2022|||right|21.0|Varioussurfaces|20230730
+World University Games|2.25|1.53|Chu S.|SouthKorea|2022|||right|23.0|Kurniawan L.|Indonesia|2022|||right||Varioussurfaces|20230730
+World University Games|2.25|1.53|Ng K.|HongKong|2016|||right|23.0|Desvianto A.|Indonesia|2023|||right||Varioussurfaces|20230730
+World University Games|2.25|1.53|Reis T.|Portugal|2023|||||Moncada Marin A.|Colombia|2013|||right|27.0|Varioussurfaces|20230730
+World University Games|2.25|1.53|Ortenzi G.|Italy|2017|||right|24.0|Jin Y.|China|2018|||right|23.0|Varioussurfaces|20230730
+World University Games|2.25|1.53|Cronje L.|RSA|2015|||right|23.0|Bathrinath L.|India|2020|||right|24.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Hodkin S.|GreatBritain|2016|90.0|185.0|right|25.0|Coquelin H.|GreatBritain|2022|||right|18.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Plunger M.|Italy|2022|||right|22.0|Nosei G.|Italy|2021|||right||Varioussurfaces|20230730
+World University Games|1.57|2.18|Torres Espinosa J.|Spain|2022|||right||Cordoba C.|Spain|2022|||right||Varioussurfaces|20230730
+World University Games|1.57|2.18|Garcia Mestre J.|Spain|2018|||right|21.0|Francisco L.|Spain|2020|||right||Varioussurfaces|20230730
+World University Games|1.57|2.18|Pampanin P.|Italy|2016|||right|21.0|Oliveira F.|Portugal|2014|||right|26.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Molino J.|Spain|2016|||right|23.0|Perdigao R.|Brazil|2017|||right|24.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Busoms Puig J.|Spain|2019|||right|23.0|Soriano Rodriguez R.|Spain|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Plans J.|Spain|2017|||right|22.0|West D.|GreatBritain|2015|||right|25.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Ferrari F.|Italy|2013|||right|27.0|Alekseychuk A.|Russia|2022|||right|19.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Alemany P.|Spain|2018|||right|22|Martinez Arjona S.|Spain|2016|||right|22.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Kolyachev N.|Bulgaria|2021|||right|21.0|Villoslada E.|France|2020|||right|24.0|Varioussurfaces|20230730
+World University Games|1.57|2.18|Martinez M.|Spain|2016|||right|23.0|Helguera Casado L.|Spain|2022|||right||Varioussurfaces|20230730
+World University Games|1.57|2.18|Regas Luis N.|Spain|2021|||right|24.0|Kumaran B.|India|2015|||right|26.0|Varioussurfaces|20230730
+World University Games|1.02|9.00|Koenig L.|GreatBritain|2020|||right|21.0|Hou Y.|GreatBritain|2019|||right||Varioussurfaces|20230730
+World University Games|1.02|9.00|Herrero Cuesta N.|Spain|2018|||right|22.0|Siddiqui A.|India|2021|||right|22.0|Varioussurfaces|20230730
+World University Games|1.02|9.00|Immler K.|Austria|2020|||right||Zaytsev I.|Russia|2018|||right|24.0|Varioussurfaces|20230730
+World University Games|1.02|9.00|Kobierski J.|Austria|2020|||right|20.0|Herberg A.|Spain|2017|||right|24.0|Varioussurfaces|20230730
+World University Games|1.02|9.00|Callejon Hernando S.|Spain|2022|||right|19.0|Mischker F.|GreatBritain|2021|||right|21.0|Varioussurfaces|20230730
+World University Games|1.02|9.00|Caldes J.|Spain|2016|||right|23.0|Alonso J.|Spain|2022|||right||Varioussurfaces|20230730
+World University Games|1.05|6.67|Caruso A.|Italy|2019|||right|25.0|Moroder G.|Italy|2021|||right||Varioussurfaces|20230730
+World University Games|3.78|1.20|Ferrarolli D.|Italy|2017|||right||Crisostomo G.|Italy|2021|||right|21.0|Varioussurfaces|20230730
+World University Games|1.78|1.99|Fellin C.|Italy|2018|||right|20.0|Galvanin D.|Italy|2022|||right||Varioussurfaces|20230730
+World University Games|1.15|4.26|Malgiaritta M.|Switzerland|2018|||right|23.0|Troebinger E.|Italy|2014|||right|28.0|Varioussurfaces|20230730
+World University Games|1.15|4.26|Carteputreda D.|Romania|2023|||right||Ghetu G.|Romania|2023|||right|16.0|Varioussurfaces|20230730
+World University Games|1.28|3.20|Marchetti F.|Italy|2015|||right|23.0|Banti C.|Italy|2022|||right|22.0|Varioussurfaces|20230730
+World University Games|1.65|2.08|Waldner N.|Austria|2018|||right|22.0|Zund S.|Liechtenstein|2018|||right|22.0|Varioussurfaces|20230730
+World University Games|1.08|5.83|Hudd E.|GreatBritain|2017|||right|24.0|Onuma Y.|GreatBritain|2019|||right||Varioussurfaces|20230730
+World University Games|1.82|1.82|Petrovic L.|GreatBritain|2018|||right|21.0|Sanghera T.|GreatBritain|2013|81.0|183.0|right|25.0|Varioussurfaces|20230730
+World University Games|1.82|1.82|Loge J.|Belgium|2022|||right|19.0|Loof T.|Netherlands|2020|||right|22.0|Varioussurfaces|20230730
+World University Games|1.82|1.82|De Visser T.|Netherlands|2023|||right|20.0|Cucka K.|Germany|2016|||right|22.0|Varioussurfaces|20230730
+World University Games|1.82|1.82|Hodzic A.|Germany|2021|||right|22.0|De Giorgio P.|Italy|2016|||right|25.0|Varioussurfaces|20230730
+World University Games|1.82|1.82|Misasi G.|Italy|2018|||right|23.0|Parenti L.|Italy|2019|||right|21.0|Varioussurfaces|20230730
+World University Games|1.82|1.82|Gaillard M.|France|2022|||right|22.0|Verwerft L.|Belgium|2022|||right||Varioussurfaces|20230730
+World University Games|1.20|3.78|Gaal C.|Australia|2016|||right|26.0|Bluett L.|GreatBritain|2023|||right|18.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Bol J.|Netherlands|2021|||right|22.0|Weststrate L.|Netherlands|2018|||right|23.0|Varioussurfaces|20230730
+World University Games|1.83|1.81|Weir P.|GreatBritain|2022|||right|18.0|Jones A.|GreatBritain|2014|||right|26.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Blaydes B.|GreatBritain|2022|||right||Quayle D.|GreatBritain|2018|||right|24.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Bogdanov M.|Russia|2018|||right|24.0|Benaim M.|GreatBritain|2015|68.0|175.0|right|26.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Neyelov M.|Israel|2021|||right||Staley J.|Australia|2018|||right|24.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Ginat R.|Israel|2016|||right|23.0|Zuckerman N.|Israel|2017|||right|21.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Davis J.|GreatBritain|2015|||right|25.0|Guryev E.|Ukraine|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Boros A.|Hungary|2021|||right|20.0|Shumilov E.|Israel|2021|||right|17.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Meshulam A.|Israel|2023|||right|18.0|Baldovinetti G.|Italy|2018|||right|22.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Xilas I.|Greece|2019|||right|23.0|Haviv R.|Israel|2016|||right|22.0|Varioussurfaces|20230730
+World University Games|1.20|3.78|Cohen A.|Israel|2019|||right|22.0|Kamyshev S.|Israel|2019|||right|22.0|Varioussurfaces|20230730
+World University Games|1.23|3.53|Perfetti N.|Italy|2018|||right|23.0|Toffanin N.|Italy|2018|||right|21.0|Varioussurfaces|20230730
+World University Games|1.23|3.53|Katuch J.|Slovakia|2018|||right|21.0|Agape N.|Romania|2023|||right|18|Varioussurfaces|20230730
+World University Games|1.23|3.53|Bogo E.|Brazil|2011|||right|29.0|Jinga A.|Romania|2022|||right|19.0|Varioussurfaces|20230730
+World University Games|2.45|1.45|Campese C.|Italy|2021|||right|22.0|De Cuyper J.|France|2016|||right|25.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Bernardi M.|Italy|2017|||right|22.0|Respaut C.|France|2014|||right|25.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Lerby C.|Netherlands|2016|||right|22.0|Hartig R.|Germany|2022|||right|22.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Bozemoj B.|Netherlands|2021|||right|20.0|Matuszewski G.|Poland|2020|||right|20.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Den Heijer G.|Netherlands|2013|||right|27.0|Wagenaar L.|Netherlands|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Stuurman R.|Netherlands|2017|||right|25.0|Pel S.|Netherlands|2019|||right||Varioussurfaces|20230730
+World University Games|2.32|1.51|Muller R.|Netherlands|2020|||right||Bouchelaghem C.|France|2019|||right|20.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Hendrikx J.|Netherlands|2021|||right||Galfinger R.|Kazakhstan|2018|||right|21.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Paardekooper S.|Netherlands|2023|||right|21.0|Khoeblal E.|Netherlands|2021|||right|22.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Houghton G.|GreatBritain|2016|||right|26.0|Tyler J.|GreatBritain|2015|||right|25.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Simkiss L.|GreatBritain|2015|||right|26.0|Stephens Z.|GreatBritain|2023|||right|18.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Katz R.|Israel|2018|||right|21.0|Levyatov L.|Israel|2018|||right|21.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Vasiliauskas M.|Lithuania|2017|||right|22.0|Lanka S.|India|2022|||right||Varioussurfaces|20230730
+World University Games|2.32|1.51|Levy Y.|Israel|2022|||right||Shyovitz E.|Israel|2022|||right|20.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Gauci K.|Australia|2017|||right|25.0|Knani O.|Tunisia|2021|||right||Varioussurfaces|20230730
+World University Games|2.32|1.51|Goldenberg L.|Israel|2015|||right|24.0|Dagan A.|Israel|2018|||right|21.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Spadola A.|Italy|2018|||left|21.0|Degroot J.|USA|2023|||||Varioussurfaces|20230730
+World University Games|2.32|1.51|Mehra R.|India|2021|||right|22.0|Pundel A.|Russia|2022|||right|21.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Gray T.|Australia|2020|||right|26.0|Shemesh D.|Israel|2021|||right||Varioussurfaces|20230730
+World University Games|2.32|1.51|Luck J.|RSA|2014|75.0|173.0|right|28.0|Magimay K.|GreatBritain|2022|||right||Varioussurfaces|20230730
+World University Games|2.32|1.51|Lacides O.|Guadeloupe|2022|||right|19.0|Sibille I.|Morocco|2018|||right|22.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Sarouk Y.|Israel|2016|||right|23.0|Chetewy Ungar B.|Israel|2022|||right||Varioussurfaces|20230730
+World University Games|2.32|1.51|Bazilevskiy V.|Israel|2021|||right|19.0|Al Tori S.|Israel|2021|||right||Varioussurfaces|20230730
+World University Games|2.32|1.51|Bouagila E.|Tunisia|2023|||right|18.0|Mustafin S.|Russia|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|2.32|1.51|Vilicich B.|Argentina|2019|||right||Vojinovic L.|Serbia|2015|||right|25.0|Varioussurfaces|20230730
+World University Games|1.38|2.68|Malgaroli L.|Italy|2017|||right|22.0|Cataldi C.|Italy|2021|||right|27.0|Varioussurfaces|20230730
+World University Games|1.58|2.17|Scomparin P.|Italy|2017|||right|23.0|Khosla R.|India|2022|||right||Varioussurfaces|20230730
+World University Games|1.58|2.17|De Jonge D.|Netherlands|2015|||right|25.0|Sobbe L.|Germany|2022|||right|22.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Perego G.|Italy|2019|||right|21.0|Fondriest M.|Italy|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Murgett F.|GreatBritain|2018|||right|22.0|Canter A.|GreatBritain|2013|||right|26.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Ross M.|GreatBritain|2019|||right||Jovanovski N.|Australia|2015|||right|27.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Habib A.|GreatBritain|2017|||right|21.0|Ridout F.|GreatBritain|2020|||right||Varioussurfaces|20230730
+World University Games|1.27|3.25|Hague O.|GreatBritain|2023|||right||Andic A.|GreatBritain|2022|||right|22.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Shaw M.|GreatBritain|2014|||right|25.0|Blaydes F.|GreatBritain|2022|||right|18.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Boyd K.|USA|2012|||right|27.0|Cunat M.|France|2019|||right|23.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Hohmann R.|USA|2018|70.0|178.0|right|23.0|Hignett L.|GreatBritain|2018|||right|24.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Mindrut L.|Romania|2020|||right|18.0|Nari L.|Argentina|2022|||right|22.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Patzanovsky C.|Germany|2014|||right|26.0|Novo I.|Argentina|2017|||right|24.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Pavel B.|Romania|2014|||right|25.0|Baiant R.|Canada|2016|||right|23.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Juhas K.|Serbia|2019|||right|23.0|Paulovcak S.|Slovakia|2017|||right|24.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Krapivin M.|Russia|2017|||right|24.0|Radojicic A.|Serbia|2022|||right|20.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Pogosian S.|Russia|2016|||right|26.0|Popovic S.|Germany|2017|||right|22.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Jucha W.|France|2022|||right|20.0|Tailleu P.|France|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Breazu V.|Romania|2021|||right|20.0|Zuniga Garcia B.|Chile|2021|||right|21.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Vetrih M.|Slovenia|2022|||right|21.0|Kupcic J.|Slovenia|2019|||right|23.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Smith M.|USA|2022|||right||Amirov D.|Russia|2014|||right|25.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Drinic M.|Serbia|2012|75.0|185.0|right|26.0|Mihailovic A.|Serbia|2021|||right|22.0|Varioussurfaces|20230730
+World University Games|1.27|3.25|Terziev S.|Bulgaria|2019|||left||Stoica V.|Romania|2015|||right|23.0|Varioussurfaces|20230730
+World University Games|1.20|3.72|Pozzani N.|Italy|2021|||right|21.0|Landini J.|Italy|2019|||right||Varioussurfaces|20230730
+World University Games|1.67|1.99|Battiston A.|Italy|2022|||right||Gervail G.|France|2010|||right|32.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Sada I.|Italy|2018|||right|26.0|Masiero R.|Italy|2018|||right|22.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Syrovatskiy O.|Kazakhstan|2021|||right|21.0|Mao N.|USA|2021|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Forcano I.|Spain|2015|||right|24.0|Ferreira-Wortsman B.|Chile|2021|||right|28.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Guryev E.|Ukraine|2021|||right|20.0|Chetewy Ungar R.|Israel|2023|||||Varioussurfaces|20230730
+World University Games|1.13|4.70|Dagan A.|Israel|2018|||right|21.0|Kirshenboim L.|Israel|2022|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Levy Y.|Israel|2022|||right||Oz S.|Israel|2023|||right|20|Varioussurfaces|20230730
+World University Games|1.13|4.70|Bogdanov M.|Russia|2018|||right|24.0|Ashoosh H.|Israel|2022|||right|18.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Chetewy Ungar B.|Israel|2022|||right||Morian G.|Israel|2022|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Coccioli A.|Italy|2021|||right|22.0|Halmenschlager Reis I.|Brazil|2015|||right|27.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Levyatov L.|Israel|2018|||right|21.0|Shamash A.|USA|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Ianin N.|Russia|2021|||right|22.0|Hadir Jr F.|Morocco|2023|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Meshulam A.|Israel|2023|||right|18.0|Dray E.|Israel|2015|||right|24.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Kamyshev S.|Israel|2019|||right|22.0|Zohar O.|Israel|2021|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Zuckerman N.|Israel|2017|||right|21.0|Sarfati S.|Israel|2023|||right|18|Varioussurfaces|20230730
+World University Games|1.13|4.70|Zusman R.|USA|2017|||left|23.0|Rsovac D.|Australia|2021|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Magimay K.|GreatBritain|2022|||right||Cohen E.|Israel|2019|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Monaco A.|France|2014|||right|27.0|Cardinaud H.|France|2021|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Shumilov E.|Israel|2021|||right|17.0|Cohen A.|Israel|2016|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|McLennaghan W.|GreatBritain|2021|||right||Dossetter C.|GreatBritain|2017|||right|22.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Thanos A.|Greece|2019|||right|23.0|Virgili Berini F.|Italy|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Piatti R.|Monaco|2019|||right||Chen K.|ChineseTaipei|2018|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Snoussi I.|Tunisia|2021|||right|17|Mouhan A.|Libya|2017|||right|25.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Kotan P.|Australia|2017|||right|23.0|Gregoriou G.|Greece|2018|||right|31.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Gallo L.|Italy|2023|||right||Fantolino M.|Italy|2022|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Pundel A.|Russia|2022|||right|21.0|Abelevich T.|Israel|2015|||right|25.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Stepanian A.|Argentina|2018|||right|24.0|Nweke F.|Denmark|2022|||right|18.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Haviv R.|Israel|2016|||right|22.0|Sorin T.|Israel|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Blazka D.|CzechRepublic|2021|||right|20.0|Salinas F.|Argentina|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Shemesh D.|Israel|2021|||right||Hacohen O.|Israel|2019|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Mazzola F.|Italy|2023|||right|19.0|Badini S.|Italy|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Herrmann T.|France|2022|||right||De Vincentis M.|Italy|2014|87.0|188.0|left|26.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Mohanty A.|India|2021|||right|21.0|Dubinin A.|Russia|2016|||right|25.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Boubaker Y.|Tunisia|2021|||right|20.0|Mustafin S.|Russia|2023|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Vaccari L.|Italy|2023|||right||Philibert N.|GreatBritain|2022|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Jurajda A.|CzechRepublic|2020|||right|21.0|Carlini G.|Italy|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Al Tori S.|Israel|2021|||right||Geva I.|Israel|2018|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Staley J.|Australia|2018|||right|24.0|Daniel A.|Israel|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Altur Fernandez A.|Spain|2022|||right||Bonsach Ganley K.|Denmark|2020|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Juan Mano A.|Spain|2022|||right|19.0|Bosch Munoz P.|Spain|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Pop D.|Romania|2022|||right|20.0|Carretero P.|Spain|2018|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Van Assendelft J.|Netherlands|2021|||right|22.0|Cook E.|Australia|2020|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Naharro D.|Spain|2021|||right|21.0|Lara Salmeron D.|Spain|2018|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Oliver Moratalla V.|Spain|2017|||right|24.0|Mulye D.|USA|2018|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Novakovic L.|Netherlands|2021|||right|20.0|Martin X.|Spain|2023|||right|17|Varioussurfaces|20230730
+World University Games|1.13|4.70|Miletich I.|Italy|2021|||right|19.0|Boixader Roca N.|Spain|2021|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Colas Sanchez A.|Spain|2016|||right|24.0|Gomes H.|Brazil|2018|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|De Almeida Santos P.|Brazil|2022|||right|20.0|Voblikov A.|Russia|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Iamachkine P.|Peru|2012|||right|28.0|Mora Clement R.|Spain|2019|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Klaassen S.|Netherlands|2022|||right|21.0|Van Zijl T.|Netherlands|2021|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Baumgartner S.|Switzerland|2020|||right|20.0|Mathys T.|Switzerland|2022|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Regas Luis N.|Spain|2021|||right||Georgiev J.|RSA|2023|||right|18.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Revelli G.|GreatBritain|2021|||right|22.0|Guerrero Alvarez C.|Spain|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Zgola B.|Poland|2019|||right||Domenech Castillo J.|Spain|2021|||left|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Turriziani Alvarez A.|Spain|2020|||right|21.0|Cherie Ligniere E.|Italy|2022|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Pedrico Kravtsov A.|Spain|2022|||right|19.0|Puig Molin D.|Spain|2021|||right|24.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Andrejic M.|Austria|2019|||right||Mileticki M.|Serbia|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Fomin I.|Russia|2022|||right|19.0|Licina L.|Serbia|2023|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Arsic N.|Serbia|2021|||right||Minighini D.|Italy|2021|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Evans T.|Australia|2016|70.0|180.0|right|23.0|Gramaticopolo B.|Italy|2019|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Dica N.|Romania|2017|||right|23.0|Scarpa F.|Italy|2021|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Protic Zakelj J.|Slovenia|2021|||right|21.0|Palovic L.|Slovakia|2019|||right|22.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Schinas S.|Greece|2012|||right|27.0|Arutiunian E.|Belarus|2021|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Nad P.|Slovakia|2020|||right|20.0|Verbin P.|Russia|2017|||right|22.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Britto L.|Brazil|2010|71.0|180.0|right|31.0|Bruna E.|Chile|2011|80.0|183.0|left|29.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Schinteie G.|Romania|2020|||right|22.0|Konov S.|Bulgaria|2018|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Andreescu S.|Romania|2018|||right|22.0|Schubert H.|Chile|2016|||right|24.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Bellifemine A.|Italy|2017|||right|23.0|Schipor E.|Romania|2022|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Derdoy F.|Argentina|2014|||right|27.0|Agostini S.|Italy|2018|||right|27.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Carnevale-Miino T.|Italy|2016|||right|24.0|Bara F.|Romania|2021|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Wang Q.|China|2023|||right|22.0|Wang Y.|China|2017|||right|24.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Hsu J.|ChineseTaipei|2013|78.0|180.0|right|27.0|Kang J.|SouthKorea|2022|||right|17.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Nima D.|China|2019|||right|20.0|Li W.|China|2023|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Li Z.|China|2018|||right|24.0|Yi Qing J.|China|2022|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Luo Y.|China|2023|||right|20|Lu C.|ChineseTaipei|2022|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Li Y.|China|2023|||right||Wei J.|China|2023|||||Varioussurfaces|20230730
+World University Games|1.13|4.70|Nasyrov V.|Russia|2021|||right|20.0|Xiao J.|China|2023|||||Varioussurfaces|20230730
+World University Games|1.13|4.70|Wang J.|China|2017|||right|24.0|You D.|China|2023|||right|20.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Chen Y.|ChineseTaipei|2016|||right|24.0|Chen J.|China|2023|||right|16|Varioussurfaces|20230730
+World University Games|1.13|4.70|Li Z.|China|2021|||right||Ai H.|China|2023|||right|22|Varioussurfaces|20230730
+World University Games|1.13|4.70|Hongyu Y.|China|2022|||right|19.0|Kao S.|ChineseTaipei|2023|||||Varioussurfaces|20230730
+World University Games|1.13|4.70|Yu B.|China|2014|||right|25.0|Ran L.|China|2023|||right|21.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Huang R.|China|2023|||right||Gao Y.|China|2019|||right|22.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Lu P.|China|2018|||right|22.0|Zheng Z.|China|2023|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Southcombe M.|GreatBritain|2021|||right|21.0|Zhuo S.|China|2018|||right|25.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Mingzhou Z.|China|2018|||right|24.0|Zhao R.|China|2015|||right|24|Varioussurfaces|20230730
+World University Games|1.13|4.70|Yin B.|ChineseTaipei|2016|||right|25.0|Sheng J.|China|2019|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Chiu J.|USA|2017|||right|23.0|Yang Z.|China|2017|80.0|183.0|right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Chayka A.|Russia|2022|||right|19.0|Li W.|China|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Tang X.|China|2023|||right||Shumsky A.|Australia|2022|||right|27.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Mugelli P.|Italy|2014|||right|24.0|Kai W.|HongKong|2017|||right|23.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Zhong X.|China|2023|||right|18|Lihao Q.|China|2023|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Su Y.|ChineseTaipei|2018|||right|24.0|Liu X.|China|2012|||right|27.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Zeng Y.|China|2017|||right|22.0|Zhang M.|China|2022|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Yang R.|China|2022|||right|19.0|Yang M.|China|2017|||right|25.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Milburn K.|NewZealand|2023|||right||Dixon J.|Australia|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Birrell C.|Australia|2017|||right|24.0|Burton M.|Australia|2022|||right|15.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Delaney J.|Australia|2014|||right|25.0|Furniss A.|Australia|2015|||right|27.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Naumovski M.|Australia|2016|||right|23.0|Despoja A.|Australia|2021|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Winter H.|Australia|2022|||right||Dunn E.|Australia|2021|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Jesser W.|Australia|2022|||right||Adam-Gedge Z.|Australia|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Yoshimura D.|Japan|2016|||right|22.0|Kinase T.|Japan|2018|||right|25.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Court J.|Australia|2016|92.0|188.0|right|24.0|Schoeman M.|Australia|2021|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Hann T.|Australia|2018|||left|25.0|Braund A.|Australia|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Karpinski T.|Australia|2018|||right|23.0|Nakamura K.|Japan|2022|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Oster S.|Australia|2017|||right|24.0|Gadecki T.|Australia|2021|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Fitzgerald P.|Australia|2015|||right|28.0|Shtengelov A.|Australia|2018|||right|22.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Sarris L.|Australia|2023|||||Dembo J.|Australia|2023|||right||Varioussurfaces|20230730
+World University Games|1.13|4.70|Shepp A.|NewZealand|2020|||right|21.0|Bayldon B.|Australia|2016|||left|25.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Fedorov T.|Belarus|2023|||right||Khamis Y.|Egypt|2015|||right|24.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Filip V.|Romania|2011|||right|29.0|Masiero G.|Brazil|2023|||right|20|Varioussurfaces|20230730
+World University Games|1.13|4.70|Donnet E.|France|2018|||right|23.0|Hamzaoui O.|Tunisia|2023|||right|19.0|Varioussurfaces|20230730
+World University Games|1.13|4.70|Clements J.|Australia|2018|||right|24.0|Brighouse A.|Australia|2023|||||Varioussurfaces|20230730
+Kitzbühel|2.31|1.59|Andreozzi G.|Argentina|2007|78.0|183.0|right|33.0|Cerundolo J.|Argentina|2016|68.0|183.0|left|22.0|clay|20230730
+Kitzbühel|1.46|2.62|Medjedovic H.|Serbia|2019|||right|21.0|Neumayer L.|Austria|2020|||right|21.0|clay|20230730
+Kitzbühel|1.45|2.68|Bagnis F.|Argentina|2005|82.0|183.0|left|34.0|Gakhov I.|Russia|2011|80.0|191.0|left|27.0|clay|20230730
+Kitzbühel|2.26|1.62|Novak D.|Austria|2011|80.0|183.0|right|30.0|Monteiro T.|Brazil|2008|78.0|183.0|left|30.0|clay|20230730
+Lexington challenger|1.65|2.14|Markes C.|USA|2015|||right|27.0|Baker B.|GreatBritain|2019|||right|22.0|hard|20230730
+Lexington challenger|1.10|6.06|Boyer T.|USA|2016|||right|23.0|Pervolarakis M.|Greece|2013|90.0|193.0|right|28.0|hard|20230730
+Lexington challenger|1.46|2.58|Ellis B.|Australia|2013|||right|25.0|Schachter N.|USA|2017|||right|25.0|hard|20230730
+Lexington challenger|1.07|7.10|Sekulic P.|Australia|2018|||right|20.0|Ogura K.|Japan|2016|68.0|170.0|right|28.0|hard|20230730
+Lexington challenger|2.56|1.47|Mochizuki Y.|Japan|2016|60.0|173.0|right|26.0|Ilagan A.|USA|2017|||left|23.0|hard|20230730
+Lexington challenger|1.47|2.54|Mayo A.|USA|2019|||right|21.0|Williams C.|USA|2021|||right|19.0|hard|20230730
+Lexington challenger|1.39|2.81|Ochi M.|Japan|2014|65.0|175.0|left|28.0|Puttergill C.|Australia|2011|78.0|183.0|right|30.0|hard|20230730
+Lexington challenger|1.05|7.85|Zheng M.|USA|2021|||right|20.0|Stephenson E.|USA|2021|||right||hard|20230730
+Lexington challenger|3.12|1.32|Roberts J.|Bahamas|2013|85.0|183.0|right|27.0|Ramanathan R.|India|2009|80.0|188.0|right|29.0|hard|20230730
+Lexington challenger|1.33|3.08|Boulais J.|Canada|2017|77.0|183.0|left|22.0|Sheehy J.|USA|2017|80.0|188.0|left|27.0|hard|20230730
+Lexington challenger|1.42|2.67|Angele J.|France|2015|93.0|206.0|right|24.0|Baadi T.|Canada|2016|73.0|183.0|right|23.0|hard|20230730
+Lexington challenger|1.44|2.62|Dostanic S.|USA|2018|||right|22.0|Bernard A.|USA|2019|||left|21.0|hard|20230730
+Liberec challenger|1.18|4.46|Vrbensky M.|CzechRepublic|2016|65.0|180.0|right|24.0|Kellovsky D.|CzechRepublic|2012|78.0|183.0|right|28.0|clay|20230730
+Liberec challenger|1.37|2.79|Klok D.|Russia|2013|82.0|180.0|right|26.0|Dominko S.|Slovenia|2021|||left|21.0|clay|20230730
+Liberec challenger|1.94|1.81|Milev Y.|Bulgaria|2019|||right|20.0|Forejtek J.|CzechRepublic|2017|71.0|180.0|right|23.0|clay|20230730
+Liberec challenger|1.17|4.56|Marti Pujolras A.|Spain|2016|||right|25.0|Siniakov D.|CzechRepublic|2019|||right|21.0|clay|20230730
+Liberec challenger|1.63|2.19|Iannaccone F.|Italy|2016|||right|25.0|Krumich M.|CzechRepublic|2018|||right|21.0|clay|20230730
+Liberec challenger|2.70|1.62|Bittoun Kouzmine C.|France|2014|73.0|175.0|left|25.0|Rikl P.|CzechRepublic|2014|80.0|185.0|right|25.0|clay|20230730
+Liberec challenger|6.44|1.09|Cerny M.|CzechRepublic|2019|||right|22.0|Moroni G.|Italy|2012|81.0|185.0|right|26.0|clay|20230730
+Liberec challenger|1.59|2.25|Kodat T.|USA|2019|73.0|178.0|right|21.0|Prihodko O.|Ukraine|2014|77.0|180.0|right|26.0|clay|20230730
+Liberec challenger|3.59|1.25|Recek D.|CzechRepublic|2012|||right|29.0|Oberleitner N.|Austria|2016|||right|25.0|clay|20230730
+Liberec challenger|1.41|2.72|Kivattsev K.|Russia|2015|80.0|193.0|right|26.0|Gutierrez O.|Brazil|2008|67.0|170.0|right|31.0|clay|20230730
+Liberec challenger|3.08|1.34|Dellavedova M.|Australia|2015|81.0|191.0|right|24.0|Cias P.|Poland|2010|70.0|178.0|right|30.0|clay|20230730
+Los Cabos|1.88|1.88|Kumar O.|USA|2016|||left|22.0|Olivo R.|Argentina|2007|73.0|180.0|right|32.0|hard|20230730
+Los Cabos|1.27|3.61|Jung J.|ChineseTaipei|2005|69.0|180.0|right|35.0|Cozbinov A.|Moldavsko|2012|||right|29.0|hard|20230730
+Los Cabos|1.13|5.83|Mansouri S.|Tunisia|2010|86.0|193.0|right|29.0|Panta J.|Peru|2011|||right|29.0|hard|20230730
+Los Cabos|1.02|13.80|Zhukayev B.|Kazakhstan|2016|||right|23.0|Lemaitre L.|Mexico|2022|||right|19.0|hard|20230730
+Los Cabos|1.27|3.70|Shelbayh A.|Jordan|2019|||left|20.0|Chappell N.|USA|2010|82.0|178.0|left|31.0|hard|20230730
+Los Cabos|3.38|1.31|Smith K.|USA|2016|93.0|198.0|right|26.0|Kypson P.|USA|2015|79.0|188.0|right|24.0|hard|20230730
+Los Cabos|4.58|1.19|Lama G.|Chile|2008|82.0|180.0|right|31.0|Uchida K.|Japan|2008|74.0|180.0|right|29.0|hard|20230730
+Los Cabos|4.79|1.16|Alvarez Valdes L.|Mexico|2022|||right|20.0|Ribeiro E.|Brazil|2015|||right|26.0|hard|20230730
+Luedenscheid challenger|1.21|3.99|Habib H.|Lebanon|2013|85.0|188.0|right|26.0|Sperle J.|Germany|2019|||right|22.0|clay|20230730
+Luedenscheid challenger|1.84|1.88|Zormann M.|Brazil|2010|||right|28.0|Bergevi F.|Sweden|2010|81.0|185.0|right|30.0|clay|20230730
+Luedenscheid challenger|1.60|2.21|Compagnucci T.|Italy|2016|||right|24.0|Florig P.|Germany|2020|||right|20.0|clay|20230730
+Luedenscheid challenger|1.73|2.02|Wehnelt K.|Germany|2012|||right|28.0|Pereira J.|Brazil|2005|74.0|180.0|right|33.0|clay|20230730
+Luedenscheid challenger|1.19|6.83|Ajdukovic D.|Croatia|2015|75.0|185.0|right|23.0|Metreveli A.|Georgia|2008|76.0|183.0|right|31.0|clay|20230730
+Luedenscheid challenger|1.27|19.42|Orlov V.|Ukraine|2014|77.0|185.0|right|29.0|Pieper M.|Germany|2021|||right||clay|20230730
+Luedenscheid challenger|1.09|6.31|Moeller M.|Germany|2016|69.0|178.0|right|25.0|Cubelic K.|Germany|2015|77.0|188.0|left|26.0|clay|20230730
+Luedenscheid challenger|2.55|1.46|Kravchenko G.|Ukraine|2016|63.0|180.0|right|24.0|Chazal M.|France|2008|72.0|175.0|right|31.0|clay|20230730
+Luedenscheid challenger|1.98|1.75|Leite W.|Brazil|2008|72.0|178.0|right|32.0|Negritu C.|Germany|2010|81.0|193.0|right|30.0|clay|20230730
+Luedenscheid challenger|1.73|2.02|Naw H.|Syria|2015|||right|24.0|Sakellaridis S.|Greece|2018|||right|19.0|clay|20230730
+Luedenscheid challenger|1.23|3.81|Kopp S.|Austria|2015|||right|24.0|Winter Lopez B.|Spain|2016|||right|26.0|clay|20230730
+Luedenscheid challenger|2.29|1.57|Sakamoto P.|Brazil|2008|78.0|178.0|right|31.0|Santillan A.|Australia|2012|78.0|180.0|right|27.0|clay|20230730
+Porto challenger|4.02|1.22|Kaliyanda Poonacha N.|India|2014|85.0|188.0|right|29.0|Potenza L.|Italy|2016|||right|24.0|hard|20230730
+Porto challenger|1.18|4.49|Domingues J.|Portugal|2008|70.0|178.0|right|30.0|Coelho F.|Portugal|2015|||right|24.0|hard|20230730
+Porto challenger|2.42|1.52|de Schepper K.|France|2004|100.0|203.0|left|37.0|Damas M.|Spain|2015|||right|24.0|hard|20230730
+Porto challenger|2.42|1.52|Araujo P.|Portugal|2019|||right|22.0|Andaloro F.|Italy|2018|||right|23.0|hard|20230730
+Porto challenger|1.93|1.80|Vale D.|Portugal|2014|74.0|183.0|right|25.0|Wallart E.|France|2013|||right|27.0|hard|20230730
+Porto challenger|1.45|2.59|Strombachs R.|Latvia|2017|78.0|191.0|right|24.0|Guerrieri A.|Italy|2015|||left|25.0|hard|20230730
+Porto challenger|1.45|2.61|Soriano Barrera A.|Colombia|2014|||right|25.0|Rodrigues D.|Portugal|2015|||right|24.0|hard|20230730
+Porto challenger|1.62|2.19|Faria J.|Portugal|2020|||right|21.0|Nam J.|SouthKorea|2009|80.0|183.0|right|31.0|hard|20230730
+Porto challenger|1.11|7.59|Poullain L.|France|2011|||right|28.0|Silva T.|Portugal|2021|||right|19.0|hard|20230730
+Porto challenger|3.42|1.28|Braynin A.|Ukraine|2015|||right|25.0|Cox D.|GreatBritain|2005|72.0|170.0|right|33.0|hard|20230730
+Porto challenger|11.16|1.02|Maia H.|Portugal|2016|||right|23.0|Hoang A.|France|2011|76.0|183.0|right|28.0|hard|20230730
+Porto challenger|2.33|1.55|Haerteis J.|Germany|2011|88.0|193.0|left|28.0|Lilov V.|USA|2019|||right|20.0|hard|20230730
+San Marino challenger|1.32|3.15|Weis A.|Italy|2014|83.0|188.0|right|27.0|Picchione A.|Italy|2017|||right|26.0|clay|20230730
+San Marino challenger|2.58|1.45|Tabacco F.|Italy|2018|||right|22.0|Arnaboldi F.|Italy|2016|81.0|185.0|right|24.0|clay|20230730
+San Marino challenger|1.40|2.78|Durasovic V.|Norway|2013|80.0|185.0|right|27.0|Mazza M.|Italy|2015|||right|25.0|clay|20230730
+San Marino challenger|1.49|2.49|Dalla Valle E.|Italy|2013|90.0|193.0|right|26.0|Piraino G.|Italy|2018|||left|20.0|clay|20230730
+San Marino challenger|1.40|2.77|Taberner C.|Spain|2013|78.0|183.0|right|27.0|Arnaboldi A.|Italy|2001|72.0|180.0|left|36.0|clay|20230730
+San Marino challenger|1.69|2.08|Dutra da Silva D.|Brazil|2003|||left|36.0|Villanueva G.|Argentina|2011|70.0|175.0|right|29.0|clay|20230730
+San Marino challenger|2.08|1.69|Serafini M.|Italy|2021|||right|21.0|Heller P.|Germany|2008|76.0|185.0|right|32.0|clay|20230730
+San Marino challenger|1.10|8.30|Vacherot V.|Monaco|2014|||right|25.0|Caniato C.|Italy|2021|||right|18.0|clay|20230730
+San Marino challenger|1.19|4.28|Forti F.|Italy|2016|80.0|191.0|right|25.0|Pecci A.|Italy|2019|||right|23.0|clay|20230730
+San Marino challenger|1.10|6.26|Jacquet K.|France|2017|65.0|175.0|right|23.0|Bocchi L.|Italy|2015|78.0|180.0|right|26.0|clay|20230730
+San Marino challenger|1.19|4.26|Ferrari G.|Italy|2018|||left|23.0|Roncalli S.|Italy|2012|73.0|175.0|right|28.0|clay|20230730
+San Marino challenger|2.12|10.73|Rottoli L.|Italy|2016|||right|22.0|Giorgetti F.|Italy|2016|||right|26|clay|20230730
+Washington|2.65|1.46|Fratangelo B.|USA|2009|79.0|183.0|right|31.0|Galarneau A.|Canada|2015|79.0|180.0|right|25.0|hard|20230730
+Washington|1.24|3.87|Shang J.|China|2020|||left|19.0|Kwiatkowski T.|USA|2010|82.0|188.0|right|29.0|hard|20230730
+Washington|2.48|1.52|Pannu K.|NewZealand|2017|||right|27.0|Kuzuhara B.|USA|2021|||right|20.0|hard|20230730
+Washington|1.18|4.74|Mochizuki S.|Japan|2018|||right|21.0|Seelig K.|USA|2013|79.0|175.0|right|26.0|hard|20230730
+Washington|3.15|1.34|Klahn B.|USA|2007|75.0|183.0|left|34.0|Shimabukuro S.|Japan|2015|75.0|183.0|right|27.0|hard|20230730
+Washington|1.80|1.97|Svajda Z.|USA|2017|59.0|175.0|right||Holt B.|USA|2015|82.0|185.0|right|26.0|hard|20230730

@@ -1,0 +1,316 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Stuttgart|1.32|3.39|Watanuki Y.|Japan|2013|63.0|180.0|right|26.0|Lopez F.|Spain|1997|88.0|188.0|left|42.0|grass|20230612
+Stuttgart|1.82|1.99|Gasquet R.|France|2002|79.0|183.0|right|38.0|Eubanks C.|USA|2012|82.0|201.0|right|28.0|grass|20230612
+Stuttgart|2.42|1.56|Sonego L.|Italy|2013|76.0|191.0|right|29.0|Berrettini M.|Italy|2012|95.0|196.0|right|28.0|grass|20230612
+Stuttgart|1.71|2.14|Musetti L.|Italy|2017|75.0|185.0|right|22.0|Gojo B.|Croatia|2013|90.0|196.0|right|26.0|grass|20230612
+Stuttgart|2.32|1.61|Lehecka J.|CzechRepublic|2017|80.0|183.0|right|22.0|Giron M.|USA|2008|77.0|180.0|right|31.0|grass|20230612
+Hertogenbosch|1.79|2.02|Hijikata R.|Australia|2016|68.0|178.0|right|23.0|Brouwer G.|Netherlands|2013|72.0|191.0|left|28.0|grass|20230612
+Hertogenbosch|2.48|1.54|Raonic M.|Canada|2005|98|196|right|33|Kecmanovic M.|Serbia|2013|75.0|183.0|right|24.0|grass|20230612
+Hertogenbosch|1.55|2.46|Humbert U.|France|2014|73.0|188.0|left|26.0|Kubler J.|Australia|2008|74.0|178.0|right|31.0|grass|20230612
+Hertogenbosch|2.78|1.44|Huesler M.|Switzerland|2014|88.0|196.0|left|28.0|Cressy M.|USA|2015|88.0|201.0|right|27.0|grass|20230612
+Nottingham challenger|2.47|1.51|Shimabukuro S.|Japan|2015|75.0|183.0|right|27.0|Kovacevic A.|USA|2015|76.0|183.0|right|25.0|grass|20230612
+Perugia challenger|1.45|2.65|Ramos-Vinolas A.|Spain|2004|76.0|188.0|left|36.0|Gaio F.|Italy|2008|84.0|180.0|right|32.0|clay|20230612
+Perugia challenger|1.71|2.07|Gigante M.|Italy|2019|||left|22.0|Giannessi A.|Italy|2006|82.0|185.0|left|34.0|clay|20230612
+Perugia challenger|1.62|2.21|Muller A.|France|2012|75.0|183.0|right|27.0|Darderi L.|Italy|2019|||right|22.0|clay|20230612
+Perugia challenger|2.19|1.63|Brancaccio R.|Italy|2013|72.0|183.0|right|27.0|Ionel N.|Romania|2017|71.0|183.0|right|21.0|clay|20230612
+Perugia challenger|1.82|1.92|Martin Tiffon P.|Spain|2016|73.0|183.0|right|25.0|Giustino L.|Italy|2006|83.0|180.0|right|32.0|clay|20230612
+Bratislava 2 challenger|2.45|1.52|Mensik J.|CzechRepublic|2020|||right|18.0|Shevchenko A.|Kazakhstan|2017|70.0|185.0|right|23.0|clay|20230612
+Bratislava 2 challenger|2.07|1.71|Barrios Vera M.|Chile|2013|88.0|191.0|right|26.0|Klein L.|Slovakia|2014|85.0|193.0|right|26.0|clay|20230612
+Bratislava 2 challenger|1.53|2.40|Piros Z.|Hungary|2015|68.0|180.0|right|24.0|Nagal S.|India|2012|69.0|178.0|right|27.0|clay|20230612
+Bratislava 2 challenger|2.25|1.60|Verdasco F.|Spain|2001|90.0|188.0|left|40.0|Ilkel C.|Turkey|2010|82.0|183.0|right|29.0|clay|20230612
+Lyon challenger|2.31|1.58|Llamas Ruiz P.|Spain|2017|||right|21.0|Halys Q.|France|2011|78.0|191.0|right|27.0|clay|20230612
+Lyon challenger|2.74|1.43|Atmane T.|France|2017|||left|22.0|Skatov T.|Kazakhstan|2016|73.0|173.0|right|23.0|clay|20230612
+Lyon challenger|1.50|2.50|Moro Canas A.|Spain|2017|||right|23.0|Uchida K.|Japan|2008|74.0|180.0|right|29.0|clay|20230612
+Lyon challenger|1.96|1.79|Ritschard A.|Switzerland|2009|82.0|193.0|right|30.0|Mayot H.|France|2017|71.0|178.0|right|22.0|clay|20230612
+Palmas del Mar challenger|3.35|1.30|Draxl L.|Canada|2016|||right|22.0|Wu T.|ChineseTaipei|2013|81.0|188.0|right|26.0|hard|20230612
+Palmas del Mar challenger|1.73|2.23|Reis Da Silva J.|Brazil|2015|75.0|175.0|right|24.0|Yevseyev D.|Kazakhstan|2009|75.0|189.0|right|31.0|hard|20230612
+Palmas del Mar challenger|2.97|1.34|Brumm J.|USA|2013|||right|25.0|Anthrop J.|USA|2019|||right|20.0|hard|20230612
+UTR Pro Tennis Series 3|2.93|1.35|Ross M.|USA|2022|||right|21.0|Segura M.|USA|2016|||right|23.0|Varioussurfaces|20230612
+UTR Pro Tennis Series 3|1.22|3.80|Noroozian A.|Canada|2022|||left||Semler W.|USA|2023|||right||Varioussurfaces|20230612
+UTR Pro Tennis Series 3|1.27|3.20|Nortey I.|Ghana|2016|||right|25.0|Yamaguchi R.|Japan|2022|||right||Varioussurfaces|20230612
+UTR Pro Tennis Series 3|1.36|2.87|Lusovsky M.|CzechRepublic|2017|||right|25.0|Robinson C.|USA|2022|||right||Varioussurfaces|20230612
+UTR Pro Tennis Series 3|1.35|2.80|Mareschal-Hay M.|Canada|2021|||right||Du Toit R.|Canada|2011|||right|30.0|Varioussurfaces|20230612
+UTR Pro Tennis Series 3|1.22|3.60|Bonetto N.|USA|2022|||right||Baker C.|USA|2023|||right|19.0|Varioussurfaces|20230612
+UTR Pro Tennis Series 3|2.15|1.57|Craig C.|USA|2022|||right|20.0|Gray S.|USA|2018|||right|23.0|Varioussurfaces|20230612
+UTR Pro Tennis Series 3|2.15|1.57|Schnur B.|Canada|2011|84.0|193.0|right|29.0|You J.|Canada|2022|||right|19.0|Varioussurfaces|20230612
+UTR Pro Tennis Series 3|4.10|1.17|Amadike C.|Canada|2023|||right|19.0|Irwanto J.|USA|2022|||right|20.0|Varioussurfaces|20230612
+UTR Pro Tennis Series 3|2.05|1.65|Park B.|USA|2022|||right|24.0|Garcia J.|Venezuela|2007|||right|36.0|Varioussurfaces|20230612
+UTR Pro Tennis Series 3|2.20|1.55|Koons H.|USA|2023|||right|23.0|Smith R.|USA|2015|75.0|191.0|left|25.0|Varioussurfaces|20230612
+Bratislava 2 challenger|1.27|5.83|Sachko V.|Ukraine|2013|68.0|183.0|right|27.0|Karol M.|Slovakia|2019|90.0|198.0|right|21.0|clay|20230612
+Bratislava 2 challenger|1.49|2.48|Marchenko I.|Ukraine|2003|82.0|185.0|right|36.0|Dutra da Silva D.|Brazil|2003|||left|36.0|clay|20230612
+Bratislava 2 challenger|4.01|1.21|Safwat M.|Egypt|2007|83.0|180.0|right|33.0|Fonio G.|Italy|2014|80.0|183.0|right|26.0|clay|20230612
+Bratislava 2 challenger|1.53|2.39|Neumayer L.|Austria|2020|||right|21.0|Kachmazov A.|Russia|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.61|2.20|Melzer G.|Austria|2007|80.0|188.0|left|34.0|Stodder T.|Germany|2012|66.0|180.0|right|28.0|clay|20230612
+Bratislava 2 challenger|1.40|2.74|Kym J.|Switzerland|2019|87.0|198.0|right|21.0|Vrbensky M.|CzechRepublic|2016|65.0|180.0|right|24.0|clay|20230612
+Bratislava 2 challenger|1.10|7.06|Sachko V.|Ukraine|2013|68.0|183.0|right|27.0|Monzon I.|Argentina|2013|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.12|5.69|Fonio G.|Italy|2014|80.0|183.0|right|26.0|Leite W.|Brazil|2008|72.0|178.0|right|32.0|clay|20230612
+Bratislava 2 challenger|1.98|1.72|Marchenko I.|Ukraine|2003|82.0|185.0|right|36.0|Rola B.|Slovenia|2008|85.0|193.0|left|33.0|clay|20230612
+Bratislava 2 challenger|7.04|1.08|Karol M.|Slovakia|2019|90.0|198.0|right|21.0|Blanch U.|USA|2014|78.0|188.0|right|26.0|clay|20230612
+Bratislava 2 challenger|1.42|2.69|Kachmazov A.|Russia|2018|||right|22.0|Kopp S.|Austria|2015|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.18|7.40|Melzer G.|Austria|2007|80.0|188.0|left|34.0|Krajci M.|Slovakia|2021|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.11|5.75|Neumayer L.|Austria|2020|||right|21.0|Palovic L.|Slovakia|2019|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.46|2.88|Stodder T.|Germany|2012|66.0|180.0|right|28.0|Karlovskiy E.|Russia|2010|85.0|191.0|right|30.0|clay|20230612
+Bratislava 2 challenger|1.07|6.00|Gregg P.|USA|2016|||right|24.0|Alvarez M.|USA|2022|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.35|2.70|Maginley H.|AntiguaandBarbuda|2014|88.0|193.0|right|29.0|Schiffman E.|USA|2021|||right||clay|20230612
+Bratislava 2 challenger|1.30|3.00|Seggerman R.|USA|2016|||right|25.0|Ji Z.|China|2022|||right||clay|20230612
+Bratislava 2 challenger|1.22|3.50|Wood W.|USA|2011|||right|31.0|Thompkins J.|USA|2011|||right|28.0|clay|20230612
+Bratislava 2 challenger|1.22|3.50|Rogers A.|USA|2017|||right|25.0|Strode E.|USA|2021|||left|22.0|clay|20230612
+Bratislava 2 challenger|1.35|2.70|Rivera H.|USA|2020|||right||Vithoontien L.|Japan|2022|||left|25.0|clay|20230612
+Bratislava 2 challenger|1.55|2.20|Quan R.|USA|2021|||right|18.0|Watt J.|NewZealand|2022|||right|24.0|clay|20230612
+Bratislava 2 challenger|2.30|2.84|Maksimovic M.|Serbia|2021|||right|18.0|Ivanov M.|Bulgaria|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.16|4.35|Gorokhov M.|Russia|2021|||right|20.0|Matsuoka S.|Japan|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|2.55|1.82|Lucero J.|Argentina|2013|||right|28.0|Kolyachev N.|Bulgaria|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|6.00|1.10|Romano G.|Argentina|2021|||right|22.0|Golubev D.|Russia|2016|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.80|1.80|Luis T.|Portugal|2017|||right|22.0|Melnic V.|Romania|2014|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|Hanzlik C.|USA|2019|||right|22.0|Alapi N.|USA|2023|||right|18|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Kotzen A.|USA|2018|||right|24.0|Trhac P.|USA|2023|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|Jones A.|GreatBritain|2014|||right|26.0|Kasday B.|USA|2022|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|Ravichander I.|USA|2018|||right|22.0|De Jonge D.|Netherlands|2015|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.07|6.00|Claverie L.|Italy|2020|||right|21.0|Liokossis S.|Canada|2021|||right||clay|20230612
+Bratislava 2 challenger|1.45|2.40|Strode I.|USA|2014|75.0|183.0|right|26.0|Galus P.|Poland|2016|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.45|2.40|Eriksson Ziverts J.|Sweden|2015|75.0|185.0|right|25.0|Roberts J.|Bahamas|2013|85.0|183.0|right|27.0|clay|20230612
+Bratislava 2 challenger|1.60|2.05|Hohmann R.|USA|2018|70.0|178.0|right|23.0|Mckennon M.|USA|2017|||left|22.0|clay|20230612
+Bratislava 2 challenger|1.02|9.50|Jovic V.|Serbia|2020|||right|22.0|Tsurtsumia I.|Georgia|2016|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.18|4.11|Stakusic M.|Canada|2018|||left|21.0|Vasilev D.|Russia|2020|||right||clay|20230612
+Bratislava 2 challenger|2.20|1.55|Prat A.|Spain|2020|||right|20.0|Sinha A.|USA|2021|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.35|2.70|Yunis F.|Switzerland|2017|||right|22.0|Steveker P.|Germany|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|2.75|1.55|Liaonenka A.|Belarus|2014|||right|25.0|Teodorovic P.|Serbia|2020|||right||clay|20230612
+Bratislava 2 challenger|2.75|1.55|Silva T.|Portugal|2021|||right|19.0|Vaitiekunas P.|Lithuania|2017|||right|21.0|clay|20230612
+Bratislava 2 challenger|2.75|1.55|Kiger M.|USA|2016|||right|25.0|De La Vega R.|Brazil|2022|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|McDaniel M.|USA|2018|||right|22.0|Sklizovic A.|USA|2014|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.05|6.50|Ribero F.|Argentina|2014|82.0|188.0|right|25.0|Vos M.|USA|2017|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.05|6.50|Woestendick C.|USA|2022|||right|17.0|Snezhko N.|USA|2019|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.12|4.60|Shick B.|USA|2021|||right|20.0|Bracks I.|USA|2021|||right||clay|20230612
+Bratislava 2 challenger|1.45|2.40|Kissell C.|USA|2014|||right|28.0|Howard-Tripp J.|RSA|2016|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.55|2.20|Nefve A.|USA|2016|||left|24.0|Young G.|USA|2021|||right|21|clay|20230612
+Bratislava 2 challenger|1.30|3.00|Fishback R.|USA|2018|||right|22.0|Trkulja S.|Canada|2022|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.15|4.20|Heck H.|USA|2018|||right|22.0|Chavez N.|USA|2017|77.0|191.0|right|28.0|clay|20230612
+Bratislava 2 challenger|3.10|1.27|Demulling W.|USA|2016|||right||Sorbo J.|Canada|2016|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.12|4.60|Hulme M.|Australia|2016|||right|25.0|Bracks L.|USA|2019|||right|21.0|clay|20230612
+Bratislava 2 challenger|2.20|1.55|Summers M.|GreatBritain|2016|||left|25.0|Oliver L.|USA|2021|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.65|1.95|Guzauskas G.|USA|2019|||right|21.0|Lapadat J.|Canada|2017|||left|21.0|clay|20230612
+Bratislava 2 challenger|1.80|1.80|Krug J.|USA|2021|||right||Carnevale-Miino T.|Italy|2016|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.25|3.30|Rollins P.|USA|2017|||right|23.0|Jacome Jaramillo A.|Ecuador|2022|||right||clay|20230612
+Bratislava 2 challenger|1.33|2.80|Muamba N.|Canada|2015|85.0|185.0|right|24.0|Sciglitano L.|Australia|2018|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.33|2.80|Lacides O.|Guadeloupe|2022|||right|19.0|Martinez Arjona S.|Spain|2016|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.42|2.50|Verbin P.|Russia|2017|||right|22.0|Vojinovic L.|Serbia|2015|||right|25.0|clay|20230612
+Bratislava 2 challenger|2.21|4.38|Schiessl J.|Brazil|2021|||left|20.0|Barr E.|GreatBritain|2021|||right||clay|20230612
+Bratislava 2 challenger|1.22|3.50|March C.|Ecuador|2015|||right|24.0|Hollender N.|Argentina|2020|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Baroni N.|Italy|2019|||right|20.0|Lahjomri Y.|Morocco|2022|||right|19.0|clay|20230612
+Bratislava 2 challenger|3.30|1.27|Alazmeh T.|Germany|2018|||right|20.0|Bruna N.|Chile|2014|||right|25.0|clay|20230612
+Bratislava 2 challenger|3.95|1.20|Bolot M.|France|2011|||right|29.0|Rolland De Ravel C.|France|2021|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.33|2.80|Carnevalle L.|Argentina|2018|||right|22.0|Naharro D.|Spain|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.33|2.80|Pourroy L.|France|2016|||right||Bondaz M.|France|2021|||right||clay|20230612
+Bratislava 2 challenger|1.39|2.62|Srbljak G.|NorthMacedonia|2015|||left|26.0|Bancila A.|USA|2017|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.83|1.84|Rojas O.|Belgium|2019|||right||Faucon R.|Belgium|2020|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.83|1.84|Respaut C.|France|2014|||right|25.0|Giraldi C.|Spain|2022|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.12|4.62|Vilicich B.|Argentina|2019|||right||Nikolic M.|Serbia|2023|||right|19.0|clay|20230612
+Bratislava 2 challenger|2.62|1.69|Schenekenberg G.|Brazil|2022|||right||Mishkin K.|Russia|2018|||left|21.0|clay|20230612
+Bratislava 2 challenger|1.04|7.75|Pietri B.|France|2015|78.0|180.0|right|28.0|Zuniga Garcia B.|Chile|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Chacon Huertas R.|Spain|2012|||right|27.0|Gilligan B.|USA|2023|||||clay|20230612
+Bratislava 2 challenger|1.15|4.20|Ponchet M.|France|2021|||left|20.0|De Almeida Santos P.|Brazil|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.07|6.00|Hudd E.|GreatBritain|2017|||right|24.0|Manzano Lapuerta P.|Spain|2017|||right|22.0|clay|20230612
+Bratislava 2 challenger|2.05|1.60|Padro Parra A.|Spain|2020|||right||Hou Y.|GreatBritain|2019|||right||clay|20230612
+Bratislava 2 challenger|1.40|2.50|Marrero Curbelo I.|Spain|2015|||right|25.0|Alekseychuk A.|Russia|2022|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.12|4.60|Calzi R.|Luxembourg|2014|||right|27.0|Domenech Castillo J.|Spain|2021|||left|19.0|clay|20230612
+Bratislava 2 challenger|1.15|4.20|Maksymchuk I.|Ukraine|2020|||right||Hermoso P.|Spain|2022|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.70|1.90|Urribarrens Ramirez I.|Spain|2019|||right|20.0|Immler K.|Austria|2020|||right||clay|20230612
+Bratislava 2 challenger|1.13|4.68|Saraiva Dos Santos P.|Brazil|2017|||right|24.0|Schaefer J.|Germany|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.40|2.50|Oliveira B.|Brazil|2022|||left||Norton W.|Brazil|2023|||right||clay|20230612
+Bratislava 2 challenger|1.17|4.00|Mouilleron Salvo M.|Argentina|2019|||right|21.0|Alami M.|Morocco|2018|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.12|4.60|De Dios F.|Argentina|2021|||right|21.0|Shtengelov A.|Australia|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.40|2.57|Vatteroni L.|Italy|2017|||right|23.0|Garcia Mestre J.|Spain|2018|||right|21.0|clay|20230612
+Bratislava 2 challenger|2.05|1.60|Torres Espinosa J.|Spain|2022|||right||Lobanov A.|Russia|2021|||right|23.0|clay|20230612
+Bratislava 2 challenger|2.05|1.60|Boyd K.|USA|2012|||right|27.0|Kudriashov I.|Russia|2020|||right|20.0|clay|20230612
+Bratislava 2 challenger|3.79|1.20|Moret J.|France|2018|||right|23.0|Andre S.|Senegal|2020|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.56|2.29|Villalon N.|Chile|2021|||right|20.0|Khomich A.|Belarus|2013|80.0|191.0|right|27.0|clay|20230612
+Bratislava 2 challenger|1.56|2.29|Rivet M.|France|2021|||left|20.0|Lapalu V.|France|2020|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.60|2.05|Jong S.|Netherlands|2020|||right|24.0|Massara A.|Italy|2010|70.0|178.0|right|28.0|clay|20230612
+Bratislava 2 challenger|1.66|1.99|Sperle J.|Germany|2019|||right|22.0|Villoslada E.|France|2020|||right|24.0|clay|20230612
+Bratislava 2 challenger|2.93|1.34|Alimli M.|France|2021|||right|21.0|Trochu P.|France|2020|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.05|6.50|Misasi G.|Italy|2018|||right|23.0|Sanchez Bronzetti E.|Spain|2021|||right||clay|20230612
+Bratislava 2 challenger|1.20|3.60|Peiro Serrano A.|Spain|2021|||right||Adnaoui M.|Morocco|2010|78.0|185.0|right|39.0|clay|20230612
+Bratislava 2 challenger|1.25|3.30|Ivanov V.|Russia|2015|||right|25.0|Smiej Y.|Morocco|2018|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Planelles Ripoll G.|Spain|2019|||right|21.0|Piatti R.|Monaco|2019|||right||clay|20230612
+Bratislava 2 challenger|5.26|1.20|Piombo T.|France|2023|||right||Bouquet L.|France|2012|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.05|6.50|Gloeckler M.|Austria|2016|||right|25.0|Steblaj B.|Slovenia|2022|||right||clay|20230612
+Bratislava 2 challenger|1.75|1.85|Fondriest M.|Italy|2021|||right|20.0|Dimitrijevic J.|Slovenia|2021|||right||clay|20230612
+Bratislava 2 challenger|1.05|6.50|Jirousek T.|CzechRepublic|2017|||right|24.0|Kovac T.|Slovenia|2021|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.35|2.70|Malgiaritta M.|Switzerland|2018|||right|23.0|Oster S.|Australia|2017|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Basic N.|Croatia|2019|||right|22.0|Benedict L.|Austria|2020|||right||clay|20230612
+Bratislava 2 challenger|1.30|3.00|Emesz B.|Austria|2018|||right|22.0|Schifris J.|Germany|2017|||left|22.0|clay|20230612
+Bratislava 2 challenger|1.75|1.85|Dudun I.|Ukraine|2014|||right|25.0|Tramontin A.|Italy|2019|||right||clay|20230612
+Bratislava 2 challenger|1.75|1.85|Habib A.|GreatBritain|2017|||right|21.0|Torres Fernandez B.|Chile|2021|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.63|2.07|Krapivin M.|Russia|2017|||right|24.0|Alarcon B.|Argentina|2017|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.15|4.20|Pieri S.|Italy|2021|||right|22.0|Militi Ribaldi A.|Italy|2016|||right|25.0|clay|20230612
+Bratislava 2 challenger|2.00|1.66|Pecci A.|Italy|2019|||right|23.0|Martinez L.|Switzerland|2015|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.03|7.17|Hess S.|Argentina|2018|||right|23.0|Filep A.|Australia|2022|||right|19.0|clay|20230612
+Bratislava 2 challenger|2.39|1.47|Cadenasso G.|Italy|2022|||right|19.0|Martin T.|GreatBritain|2010|78.0|188.0|right|31.0|clay|20230612
+Bratislava 2 challenger|1.42|2.55|Bondaz M.|France|2021|||right||Bonnaud A.|France|2021|||left|27.0|clay|20230612
+Bratislava 2 challenger|1.16|4.31|Giraldi C.|Spain|2022|||right|19.0|Frequelin E.|France|2018|||right|24.0|clay|20230612
+Bratislava 2 challenger|2.05|1.60|Cosnet C.|France|2021|||right||Orlov A.|Switzerland|2021|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.50|2.30|Caldes J.|Spain|2016|||right|23.0|Estevez J.|Argentina|2021|||right|18.0|clay|20230612
+Bratislava 2 challenger|1.11|5.00|Respaut C.|France|2014|||right|25.0|Roche M.|France|2023|||left|20.0|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Barreiros Reyes M.|Brazil|2017|||left|23.0|Lehmann N.|Argentina|2021|||left|19.0|clay|20230612
+Bratislava 2 challenger|2.05|1.60|Oetzbach A.|Germany|2014|80.0|185.0|right|26.0|Weststrate L.|Netherlands|2018|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.60|2.10|Schlagenhauf N.|Germany|2018|||right|21.0|Hornitschek N.|Germany|2017|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.40|2.50|Spiridon D.|Italy|2020|||right|22.0|El Feky K.|Egypt|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.63|2.07|Vasser O.|USA|2022|||right||Krohn L.|Germany|2015|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.13|4.78|Pourroy L.|France|2016|||right||Tanner G.|Switzerland|2019|||right||clay|20230612
+Bratislava 2 challenger|1.07|5.75|Grinderslev A.|Denmark|2015|||right|30.0|Thurner N.|Germany|2017|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.07|5.75|Souri K.|Iran|2007|||right|31.0|Tsirikidze V.|Russia|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.07|5.75|Arinc K.|Turkey|2017|||right|24.0|Solanki A.|India|2015|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.07|5.75|Ibragimov D.|Russia|2019|||right||Zgola B.|Poland|2019|||right||clay|20230612
+Bratislava 2 challenger|1.07|5.75|Elyasi S.|Iran|2022|||right|19.0|Ghavam A.|Iran|2023|||right|18.0|clay|20230612
+Bratislava 2 challenger|1.07|5.75|Yashpaul N.|India|2018|||right|24.0|Konov S.|Bulgaria|2018|||right|21.0|clay|20230612
+Bratislava 2 challenger|2.68|1.39|Zuniga Garcia B.|Chile|2021|||right|21.0|Tailleu P.|France|2021|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.83|1.82|Liu S.|China|2016|||right|25.0|Dong J.|Australia|2020|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.60|2.05|Luis T.|Portugal|2017|||right|22.0|Lumsden E.|GreatBritain|2016|||right|24.0|clay|20230612
+Bratislava 2 challenger|3.53|1.26|Lee J.|SouthKorea|2019|||right|22.0|Kim D.|SouthKorea|2017|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.50|2.30|Prat A.|Spain|2020|||right|20.0|Bird S.|NewZealand|2016|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Sinha A.|USA|2021|||right|20.0|Rebelo D.|Brazil|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|Silva T.|Portugal|2021|||right|19.0|Zucolo R.|Brazil|2012|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.10|5.00|Gorokhov M.|Russia|2021|||right|20.0|Ancedy N.|Guadeloupe|2014|||left|29.0|clay|20230612
+Bratislava 2 challenger|1.15|4.20|Kudriashov I.|Russia|2020|||right|20.0|Winters B.|USA|2018|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.55|2.20|Martinez Arjona S.|Spain|2016|||right|22.0|Tan B.|Turkey|2021|||left||clay|20230612
+Bratislava 2 challenger|1.55|2.20|Oliveira B.|Brazil|2022|||left||Fernandez B.|Brazil|2021|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.65|1.95|Melnic V.|Romania|2014|||right|25.0|Zhang L.|China|2018|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.45|2.40|Lobanov A.|Russia|2021|||right|23.0|Mao N.|USA|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.27|3.10|Vaitiekunas P.|Lithuania|2017|||right|21.0|Guercio S.|Italy|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|2.50|1.40|Lacides O.|Guadeloupe|2022|||right|19.0|Friend J.|Japan|2021|||right|20.0|clay|20230612
+Bratislava 2 challenger|2.50|1.40|Matsuoka S.|Japan|2021|||right|21.0|Borisiouk M.|Belarus|2015|82.0|191.0|right|24.0|clay|20230612
+Bratislava 2 challenger|2.50|1.40|Norton W.|Brazil|2023|||right||Politowicz M.|Poland|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.05|6.50|Boyd K.|USA|2012|||right|27.0|Alujas R.|Mexico|2022|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.33|2.80|Torres Espinosa J.|Spain|2022|||right||Rsovac D.|Australia|2021|||right||clay|20230612
+Bratislava 2 challenger|2.61|2.03|Oh C.|SouthKorea|2013|72.0|180.0|right|26.0|Kim D.|SouthKorea|2022|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.05|7.17|Bai Y.|China|2006|80.0|185.0|right|35.0|Yang X.|China|2023|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.75|1.85|Vankan M.|Germany|2017|||right|23.0|Cubelic K.|Germany|2015|77.0|188.0|left|26.0|clay|20230612
+Bratislava 2 challenger|1.83|1.82|Pecak S.|CzechRepublic|2018|||right|24.0|Simonsson J.|Sweden|2022|||right||clay|20230612
+Bratislava 2 challenger|1.20|3.60|Gola A.|Italy|2017|70.0|183.0|right|22.0|Quayle D.|GreatBritain|2018|||right|24.0|clay|20230612
+Bratislava 2 challenger|2.42|1.47|Larwig N.|Germany|2017|||right|22.0|Bladelius H.|Sweden|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.01|9.00|Lane L.|Germany|2017|||right|23.0|Katic N.|Denmark|2013|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.69|1.97|Minasyan M.|Sweden|2022|||right||Kremenchutskyi I.|Ukraine|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.35|2.80|Oplustil P.|CzechRepublic|2022|||right|19.0|Kodancha Srinivasan D.|India|2020|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.33|2.80|Mingzhou Z.|China|2018|||right|24.0|Leung E.|HongKong|2023|||right||clay|20230612
+Bratislava 2 challenger|2.70|1.35|Rita A.|Italy|2017|||right|24.0|Cortegiani A.|Italy|2013|74.0|178.0|right|28.0|clay|20230612
+Bratislava 2 challenger|2.50|1.40|Gandolfi G.|Italy|2022|||right||Alkaya M.|Turkey|2015|||right|24.0|clay|20230612
+Bratislava 2 challenger|2.05|1.60|Morolli A.|Italy|2019|||right|24.0|Cataldi C.|Italy|2021|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|Benzal Alia I.|Spain|2016|||right|24.0|Helpferer J.|Germany|2023|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|Dolzhenkov D.|Russia|2021|||right||Mohammadi K.|Iran|2023|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.03|7.50|Dorofeev A.|France|2022|||right||Talavar Y.|Iran|2023|||right||clay|20230612
+Bratislava 2 challenger|1.05|7.00|Trochu P.|France|2020|||right|20.0|Formella L.|Germany|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.05|7.00|Galfinger R.|Kazakhstan|2018|||right|21.0|Razavi A.|Iran|2014|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.21|3.65|Vasa I.|Finland|2019|||right||Saura Moragrega M.|Spain|2021|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.21|3.65|Ganesh M.|India|2022|||right|23.0|Gospodjinacki R.|Italy|2022|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.10|5.33|Rivet M.|France|2021|||left|20.0|Andrianaly D.|France|2021|||right||clay|20230612
+Bratislava 2 challenger|1.07|6.00|Falcao G.|Portugal|2005|||right|36.0|Stepanian A.|Argentina|2018|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.07|6.00|Chaurasia Y.|India|2018|||right|22.0|Hanifi K.|Iran|2023|||right|18.0|clay|20230612
+Bratislava 2 challenger|1.60|2.05|Portugal A.|Portugal|2015|||right|24.0|Sakellaridis D.|Greece|2020|||right|18.0|clay|20230612
+Bratislava 2 challenger|1.60|2.05|Saritas G.|Turkey|2018|||right|21.0|Jafar I.|Iran|2023|||right|18.0|clay|20230612
+Bratislava 2 challenger|1.50|2.30|Vaise T.|Lithuania|2015|||left|26.0|Altur Fernandez A.|Spain|2022|||right||clay|20230612
+Bratislava 2 challenger|4.00|1.17|Perez Pena M.|Spain|2019|||right||Garcia A.|Spain|2016|||right|22.0|clay|20230612
+Bratislava 2 challenger|4.00|1.17|Ashjari P.|Iran|2023|||right||Montakhab A.|Iran|2008|||right|35.0|clay|20230612
+Bratislava 2 challenger|4.00|1.17|Singh J.|India|2015|||left|28.0|Bahrami S.|Iran|2021|||right|26.0|clay|20230612
+Bratislava 2 challenger|2.20|1.55|Khosla R.|India|2022|||right||Nusdeo J.|Brazil|2009|||right|29.0|clay|20230612
+Bratislava 2 challenger|2.20|1.55|Esmail Yazdi H.|Iran|2008|||right|31.0|Sharma A.|India|2021|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.40|2.50|Hernandez C.|Spain|2018|||right|23.0|Herrero Cuesta N.|Spain|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.25|3.30|Zusman R.|USA|2017|||left|23.0|Malirz K.|Poland|2022|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.25|3.30|Mahbod M.|Iran|2015|||right|32.0|Kopeikin V.|Russia|2021|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.25|3.30|Ghafghazi Bak M.|Iran|2023|||right|24.0|Yadav Y.|India|2015|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.90|1.70|Pampanin P.|Italy|2016|||right|21.0|D'Agostino S.|Italy|2017|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.45|2.40|Ferrari F.|Italy|2013|||right|27.0|Valle F.|Italy|2021|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.18|4.00|Yue C.|HongKong|2015|||right|24.0|Duan H.|China|2023|||right||clay|20230612
+Bratislava 2 challenger|1.00|17.00|Jin Y.|China|2018|||right|23.0|Jiang H.|China|2022|||right||clay|20230612
+Bratislava 2 challenger|1.42|2.68|Mehrotra A.|Australia|2016|||right|27.0|Sorensen L.|Australia|2022|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.00|10.63|Alimli M.|France|2021|||right|21.0|Dhaliwal N.|Canada|2022|||right||clay|20230612
+Bratislava 2 challenger|1.38|2.70|Lapalu V.|France|2020|||right|22.0|Kuehne C.|Switzerland|2020|||right||clay|20230612
+Bratislava 2 challenger|1.38|2.70|Na J.|SouthKorea|2008|||right|31.0|Lee Y.|SouthKorea|2016|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.38|2.70|Hyun J.|SouthKorea|2022|||right||Lee T.|SouthKorea|2010|||right|32.0|clay|20230612
+Bratislava 2 challenger|1.45|2.43|Yin B.|ChineseTaipei|2016|||right|25.0|Yong L.|Malaysia|2018|||right|20.0|clay|20230612
+Bratislava 2 challenger|2.50|1.40|Gaal C.|Australia|2016|||right|26.0|Wallner M.|Germany|2021|||right|25.0|clay|20230612
+Bratislava 2 challenger|1.33|2.80|Paty D.|CzechRepublic|2016|||right|24.0|Jeran A.|Slovenia|2022|||right||clay|20230612
+Bratislava 2 challenger|1.80|1.80|Simundza J.|Croatia|2021|||left|19.0|Talic Z.|Australia|2016|||left|26.0|clay|20230612
+Bratislava 2 challenger|1.70|1.99|Goldsteiner P.|Austria|2009|65.0|173.0|right|34.0|Mikovic N.|Slovenia|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.80|1.80|Giacomini E.|Italy|2022|||right|25.0|Miklavcic L.|Slovenia|2017|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.33|2.80|Dimic M.|Slovenia|2018|||right|22.0|Podorozhnyi A.|Ukraine|2021|||right||clay|20230612
+Bratislava 2 challenger|1.10|5.00|Kellovsky D.|CzechRepublic|2012|78.0|183.0|right|28.0|Smoliner T.|Austria|2021|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.15|4.27|Heger T.|Germany|2015|||right|24.0|Quirijns K.|Switzerland|2021|||right||clay|20230612
+Bratislava 2 challenger|1.18|4.00|Stepanov T.|Belarus|2020|||right||Protic Zakelj J.|Slovenia|2021|||right|21.0|clay|20230612
+Bratislava 2 challenger|1.64|2.07|Yu B.|China|2014|||right|25.0|Ng K.|HongKong|2016|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.20|3.60|Kim G.|SouthKorea|2017|||right|23.0|Chen K.|ChineseTaipei|2018|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.20|3.70|Li Z.|China|2018|||right|24.0|Wang J.|China|2017|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.16|4.28|Sornlaksup P.|Thailand|2017|||right|25.0|Chaiyarin C.|Thailand|2018|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.16|4.28|Konowczuk W.|Ukraine|2022|||right||Czaplinski T.|USA|2022|||right||clay|20230612
+Bratislava 2 challenger|1.09|5.65|Maruf A.|Indonesia|2022|||right||Dustov M.|Uzbekistan|2022|||right||clay|20230612
+Bratislava 2 challenger|1.09|5.65|Son J.|SouthKorea|2010|74.0|180.0|right|29.0|Chu S.|SouthKorea|2022|||right|23.0|clay|20230612
+Bratislava 2 challenger|2.25|1.61|Park S.|SouthKorea|2023|||right|18.0|Park M.|SouthKorea|2017|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.10|5.35|Kim D.|SouthKorea|2017|||right|22.0|Sim W.|SouthKorea|2022|||right||clay|20230612
+Bratislava 2 challenger|1.13|4.64|Van Herzeele J.|Belgium|2020|||right||Srirat T.|Thailand|2017|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.35|2.80|Phung T.|USA|2018|||right|21.0|Jaisinghani R.|India|2016|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.27|3.10|Southcombe M.|GreatBritain|2021|||right|21.0|Nima D.|China|2019|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.79|1.84|Crowther C.|NewZealand|2020|||right|21.0|Duhan C.|India|2021|||right||clay|20230612
+Bratislava 2 challenger|1.19|4.00|Congcar C.|Thailand|2013|68.0|175.0|right|28.0|Phunsawat C.|Thailand|2015|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.02|9.50|Oh C.|SouthKorea|2013|72.0|180.0|right|26.0|Han C.|SouthKorea|2022|||right||clay|20230612
+Bratislava 2 challenger|1.02|9.50|Tajima N.|Japan|2016|73.0|173.0|right|23.0|Cho H.|SouthKorea|2014|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.21|3.74|Isarow P.|Thailand|2011|70.0|175.0|right|28.0|Javia D.|India|2021|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.16|4.34|Leong M.|Malaysia|2022|||right|20.0|Bayldon B.|Australia|2016|||left|25.0|clay|20230612
+Bratislava 2 challenger|1.16|4.34|Zeng Y.|China|2017|||right|22.0|Li W.|China|2023|||right||clay|20230612
+Bratislava 2 challenger|2.21|1.57|Yang Z.|China|2017|80.0|183.0|right|23.0|Sakthivel B.|India|2021|||left||clay|20230612
+Bratislava 2 challenger|1.45|2.70|Aitkulov A.|Kazakhstan|2021|||right|20.0|Savelev D.|Russia|2015|86.0|188.0|right|23.0|clay|20230612
+Bratislava 2 challenger|1.16|4.28|Shanmugam A.|India|2015|69.0|178.0|right|25.0|Naumovski M.|Australia|2016|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.10|5.30|Bustiman Gonzalez H.|Chile|2021|||right||Simhadri S.|USA|2021|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.10|5.30|Dong Z.|China|2017|||left|25.0|Fan W.|China|2023|||right||clay|20230612
+Bratislava 2 challenger|1.10|5.30|Cao Y.|China|2023|||right||Li Z.|China|2021|||right||clay|20230612
+Bratislava 2 challenger|1.24|3.48|Lee K.|ChineseTaipei|2011|69.0|178.0|right|28.0|Bai W.|China|2021|||right||clay|20230612
+Bratislava 2 challenger|1.24|3.48|Zheng Y.|China|2017|||right|24.0|Kai W.|HongKong|2017|||right|23.0|clay|20230612
+Bratislava 2 challenger|1.24|3.48|Dzhavakian Y.|Ukraine|2010|||right|31.0|Bataljin L.|Australia|2011|53.0|168.0|right|28.0|clay|20230612
+Bratislava 2 challenger|3.00|1.32|Trismuwantara G.|Indonesia|2020|||right||Padgham E.|Australia|2022|||right||clay|20230612
+Bratislava 2 challenger|2.12|1.60|Wibowo T.|Indonesia|2022|||right||Moceanu N.|USA|2015|79.0|188.0|right||clay|20230612
+Bratislava 2 challenger|1.35|2.81|Xu W.|China|2022|||right||Kahsay H.|Australia|2022|||right||clay|20230612
+Bratislava 2 challenger|2.20|1.56|Na J.|SouthKorea|2008|||right|31.0|Kim Y.|SouthKorea|2011|||left|29.0|clay|20230612
+Bratislava 2 challenger|1.30|3.20|Lee J.|SouthKorea|2019|||right|22.0|Kim D.|SouthKorea|2023|||right|24.0|clay|20230612
+Bratislava 2 challenger|2.37|1.47|Lee Y.|SouthKorea|2016|||right|26.0|Kang K.|SouthKorea|2011|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.03|7.83|Lee T.|SouthKorea|2010|||right|32.0|Hwang J.|SouthKorea|2022|||right|20.0|clay|20230612
+Bratislava 2 challenger|1.56|2.20|Kim D.|SouthKorea|2022|||right|24.0|Han J.|SouthKorea|2010|||right|29.0|clay|20230612
+Bratislava 2 challenger|1.76|1.89|Hyun J.|SouthKorea|2022|||right||Lee J.|SouthKorea|2017|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.64|2.06|Kumaran B.|India|2015|||right|26.0|Vujic S.|Australia|2014|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.35|2.78|Fu H.|ChineseTaipei|2017|||right|22.0|Woerndle M.|Australia|2018|||right|22.0|clay|20230612
+Bratislava 2 challenger|1.21|3.69|Bhatnagar S.|India|2021|||right|23.0|Takada M.|Japan|2018|||right|27.0|clay|20230612
+Bratislava 2 challenger|1.16|4.43|Taguchi R.|Japan|2022|||right|24.0|Sootinun-Opart G.|Thailand|2022|||right||clay|20230612
+Bratislava 2 challenger|1.16|4.28|Lorusso L.|Italy|2016|||right|24.0|Jovanovski N.|Australia|2015|||right|27.0|clay|20230612
+Bratislava 2 challenger|2.08|1.64|Wattanakul P.|Thailand|2012|||right|29.0|Charoenphon Y.|Thailand|2016|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.27|3.14|Fields O.|Australia|2014|||left|27.0|Chen Y.|ChineseTaipei|2016|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.23|3.44|Tajima N.|Japan|2016|73.0|173.0|right|23.0|Kim S.|SouthKorea|2013|||right|29.0|clay|20230612
+Bratislava 2 challenger|2.80|1.36|Chen K.|ChineseTaipei|2018|||right|23.0|Jin H.|SouthKorea|2016|||right|23.0|clay|20230612
+Bratislava 2 challenger|2.80|1.36|Park M.|SouthKorea|2017|||right|22.0|Lee J.|SouthKorea|2022|||right||clay|20230612
+Bratislava 2 challenger|2.80|1.36|Cho H.|SouthKorea|2014|||right|27.0|Adachi T.|Japan|2022|||right||clay|20230612
+Bratislava 2 challenger|1.80|1.85|Park S.|SouthKorea|2023|||right|18.0|Cho S.|SouthKorea|2017|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.80|1.85|Son J.|SouthKorea|2010|74.0|180.0|right|29.0|Choe J.|SouthKorea|2022|||right|24.0|clay|20230612
+Bratislava 2 challenger|1.80|1.85|Chu S.|SouthKorea|2022|||right|23.0|Kim B.|SouthKorea|2013|||right|26.0|clay|20230612
+Bratislava 2 challenger|1.61|2.15|Kim G.|SouthKorea|2017|||right|23.0|Chang W.|SouthKorea|2022|||right|19.0|clay|20230612
+Bratislava 2 challenger|1.52|2.33|Novakovic N.|Serbia|2021|||right|23.0|Agostini S.|Italy|2018|||right|27.0|clay|20230612
+Lyon challenger|1.51|2.43|Janvier M.|France|2012|80.0|193.0|right|27.0|Vanshelboim E.|Ukraine|2018|86.0|188.0|right|23.0|clay|20230612
+Lyon challenger|1.61|2.20|Bourgue M.|France|2010|83.0|188.0|right|30.0|Hemery C.|France|2012|83.0|191.0|right|29.0|clay|20230612
+Lyon challenger|5.46|1.12|Paris T.|France|2019|||right|22.0|Tabur C.|France|2015|70.0|170.0|right|24.0|clay|20230612
+Lyon challenger|1.65|2.14|Guinard M.|France|2013|81.0|196.0|right|28.0|Kravchenko G.|Ukraine|2016|63.0|180.0|right|24.0|clay|20230612
+Lyon challenger|1.10|6.05|Marie J.|France|2009|76.0|185.0|right|32.0|Garcian A.|France|2018|||right|22.0|clay|20230612
+Lyon challenger|1.20|4.27|Novak D.|Austria|2011|80.0|183.0|right|30.0|Domingues J.|Portugal|2008|70.0|178.0|right|30.0|clay|20230612
+Nottingham challenger|1.88|1.84|De Loore J.|Belgium|2010|86.0|191.0|right|31.0|Shelbayh A.|Jordan|2019|||left|20.0|grass|20230612
+Nottingham challenger|1.56|2.31|Svajda Z.|USA|2017|59.0|175.0|right||Mochizuki S.|Japan|2018|||right|21.0|grass|20230612
+Nottingham challenger|1.64|2.16|Michelsen A.|USA|2021|||right|19.0|Lokoli L.|France|2010|78.0|188.0|right|29.0|grass|20230612
+Nottingham challenger|1.58|2.28|Cazaux A.|France|2019|||right|21.0|Cox D.|GreatBritain|2005|72.0|170.0|right|33.0|grass|20230612
+Nottingham challenger|2.46|1.50|Noguchi R.|Japan|2016|63.0|168.0|right|25.0|Tu L.|Australia|2011|||right|28.0|grass|20230612
+Nottingham challenger|1.35|2.97|Shang J.|China|2020|||left|19.0|Parker S.|GreatBritain|2016|||right|27.0|grass|20230612
+Palmas del Mar challenger|1.99|1.75|Zhu E.|USA|2014|70.0|185.0|right|26.0|Rybakov A.|USA|2012|68.0|185.0|left|27.0|hard|20230612
+Palmas del Mar challenger|1.44|2.62|Tomic B.|Australia|2008|91.0|196.0|right|31.0|Kirchheimer S.|USA|2013|79.0|185.0|right|29.0|hard|20230612
+Palmas del Mar challenger|1.54|2.36|Zheng M.|USA|2021|||right|20.0|Rodrigues D.|Portugal|2015|||right|24.0|hard|20230612
+Palmas del Mar challenger|1.16|4.67|Chappell N.|USA|2010|82.0|178.0|left|31.0|Hallquist Lithen J.|Sweden|2019|||right||hard|20230612
+Palmas del Mar challenger|1.27|3.45|Sinclair C.|N.MarianaIsl.|2012|82.0|188.0|right|29.0|Uesugi K.|Japan|2013|70.0|180.0|right|29.0|hard|20230612
+Palmas del Mar challenger|1.92|1.81|Heide G.|Brazil|2018|||right|22.0|Copil M.|Romania|2005|87.0|193.0|right|33.0|hard|20230612
+Palmas del Mar challenger|1.43|2.76|Tomic B.|Australia|2008|91.0|196.0|right|31.0|Young D.|USA|2004|79.0|183.0|left|35.0|hard|20230612
+Palmas del Mar challenger|2.63|1.44|Rodrigues D.|Portugal|2015|||right|24.0|Boitan G.|Romania|2016|||right|25.0|hard|20230612
+Perugia challenger|1.61|2.22|Olivo R.|Argentina|2007|73.0|180.0|right|32.0|Napolitano S.|Italy|2010|90.0|196.0|right|29.0|clay|20230612
+Perugia challenger|2.00|1.74|Weis A.|Italy|2014|83.0|188.0|right|27.0|Lopez San Martin A.|Spain|2013|70.0|178.0|right|27.0|clay|20230612
+Perugia challenger|1.80|1.90|Roca Batalla O.|Spain|2008|75.0|173.0|right|31.0|Forti F.|Italy|2016|80.0|191.0|right|25.0|clay|20230612
+Perugia challenger|2.85|1.36|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|Serdarusic N.|Croatia|2011|85.0|191.0|right|27.0|clay|20230612
+Perugia challenger|3.39|1.28|Arnaboldi A.|Italy|2001|72.0|180.0|left|36.0|Travaglia S.|Italy|2007|80.0|185.0|right|32.0|clay|20230612

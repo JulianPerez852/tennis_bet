@@ -1,0 +1,440 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Newport|1.65|2.25|Mannarino A.|France|2004|79.0|180.0|left|36.0|Michelsen A.|USA|2021|||right|19.0|grass|20230723
+Bastad|2.27|1.64|Rublev A.|Russia|2013|70.0|188.0|right|26.0|Ruud C.|Norway|2013|77.0|183.0|right|25.0|clay|20230723
+Gstaad|1.64|2.26|Cachin P.|Argentina|2011|77.0|185.0|right|29.0|Ramos-Vinolas A.|Spain|2004|76.0|188.0|left|36.0|clay|20230723
+Granby challenger|1.45|2.69|Galarneau A.|Canada|2015|79.0|180.0|right|25.0|Sekulic P.|Australia|2018|||right|20.0|hard|20230723
+Trieste challenger|1.71|2.07|Gaston H.|France|2015|68.0|173.0|left|23.0|Passaro F.|Italy|2017|||right|23.0|clay|20230723
+Trieste challenger|2.32|1.57|Passaro F.|Italy|2017|||right|23.0|Marozsan F.|Hungary|2016|||right|24.0|clay|20230723
+Bundesliga - men|2.32|1.57|Vilella Martinez M.|Spain|2011|74.0|178.0|right|29.0|Stodder T.|Germany|2012|66.0|180.0|right|28.0|clay|20230723
+Bundesliga - men|2.32|1.57|Giustino L.|Italy|2006|83.0|180.0|right|32.0|Mayot H.|France|2017|71.0|178.0|right|22.0|clay|20230723
+Bundesliga - men|2.32|1.57|Elias G.|Portugal|2006|76.0|183.0|right|33.0|Hoang A.|France|2011|76.0|183.0|right|28.0|clay|20230723
+Bundesliga - men|2.32|1.57|Weissborn T.|Austria|2009|78.0|180.0|left|32.0|Schlageter J.|Germany|2015|||right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Rikl P.|CzechRepublic|2014|80.0|185.0|right|25.0|Onclin G.|Belgium|2016|||right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Holmgren A.|Denmark|2015|||right|26.0|Lane L.|Germany|2017|||right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Frantzen C.|Germany|2016|||right|23.0|Coloma-Heck G.|Germany|2020|||right|24.0|clay|20230723
+Bundesliga - men|2.32|1.57|Briand J.|France|2015|||right|25.0|Jorda Sanchis D.|Spain|2009|86.0|196.0|right|30.0|clay|20230723
+Bundesliga - men|2.32|1.57|Barroso Campos A.|Spain|2013|72.0|178.0|right|28.0|Madarasz G.|Hungary|2012|80.0|180.0|left|29.0|clay|20230723
+Bundesliga - men|2.32|1.57|De Bakker T.|Netherlands|2004|83.0|193.0|right|35.0|Da Silva L.|Germany|2020|||right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Gavrielides L.|Germany|2020|||right|20.0|Hell J.|Germany|2021|||right|22.0|clay|20230723
+Bundesliga - men|2.32|1.57|Schonenberg T.|Germany|2008|75.0|185.0|right|33.0|Stevens B.|Netherlands|2015|78.0|180.0|right|26.0|clay|20230723
+Bundesliga - men|2.32|1.57|Wiedenmann L.|Germany|2015|||right|26.0|Yunis F.|Switzerland|2017|||right|22.0|clay|20230723
+Bundesliga - men|2.32|1.57|Lopez San Martin A.|Spain|2013|70.0|178.0|right|27.0|Lopez Morillo I.|Spain|2016|||right|24.0|clay|20230723
+Bundesliga - men|2.32|1.57|Storck L.|Germany|2011|||right|29.0|Boskov N.|Germany|2015|||right|25.0|clay|20230723
+Bundesliga - men|2.32|1.57|Sousa J.|Portugal|2004|74.0|185.0|right|35.0|Haase R.|Netherlands|2004|77.0|191.0|right|37.0|clay|20230723
+Bundesliga - men|2.32|1.57|Kamke T.|Germany|2003|76.0|178.0|right|38.0|Masur D.|Germany|2011|78.0|183.0|right|29.0|clay|20230723
+Bundesliga - men|2.32|1.57|Andreev A.|Bulgaria|2015|66.0|180.0|right|23.0|Poljicak M.|Croatia|2020|||right|20.0|clay|20230723
+Bundesliga - men|2.32|1.57|Linzer M.|Austria|2006|77.0|180.0|right|34.0|Blair A.|Germany|2022|||right|35.0|clay|20230723
+Bundesliga - men|2.32|1.57|Kuhn N.|Germany|2015|75.0|185.0|right|24.0|Meis P.|Germany|2008|||left|31.0|clay|20230723
+Bundesliga - men|2.32|1.57|Molleker R.|Germany|2015|75.0|185.0|right|23.0|Sels J.|Netherlands|2010|83.0|188.0|right|29.0|clay|20230723
+Bundesliga - men|2.32|1.57|Fanselow S.|Germany|2007|||right|32.0|Schnaitter J.|Germany|2013|||right|28.0|clay|20230723
+Bundesliga - men|2.32|1.57|Taberner C.|Spain|2013|78.0|183.0|right|27.0|Sandkaulen T.|Germany|2013|||right|26.0|clay|20230723
+Bundesliga - men|2.32|1.57|Desein N.|Belgium|2004|85.0|191.0|right|37.0|Kirchhoff J.|Germany|2013|||right|27.0|clay|20230723
+Bundesliga - men|2.32|1.57|Moraing M.|Germany|2008|84.0|198.0|left|32.0|Kuzmanov D.|Bulgaria|2009|77.0|193.0|right|31.0|clay|20230723
+Bundesliga - men|2.32|1.57|Dalla Valle E.|Italy|2013|90.0|193.0|right|26.0|Veldheer M.|Netherlands|2014|78.0|183.0|left|28.0|clay|20230723
+Bundesliga - men|2.32|1.57|Neuchrist M.|Austria|2009|||right|33.0|Jahn J.|Germany|2006|73.0|178.0|right|34.0|clay|20230723
+Bundesliga - men|2.32|1.57|Casanova H.|Argentina|2010|76.0|178.0|right|30.0|Krainer L.|Austria|2016|83.0|198.0|right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Blancaneaux G.|France|2014|75.0|180.0|right|26.0|Meligeni Rodrigues Alves F.|Brazil|2014|78.0|185.0|right|26.0|clay|20230723
+Bundesliga - men|2.32|1.57|Laurent T.|France|2014|||right|26.0|Hamou M.|France|2011|75.0|185.0|right|29.0|clay|20230723
+Bundesliga - men|2.32|1.57|Roca Batalla O.|Spain|2008|75.0|173.0|right|31.0|Metreveli A.|Georgia|2008|76.0|183.0|right|31.0|clay|20230723
+Bundesliga - men|2.32|1.57|Hallquist Lithen J.|Sweden|2019|||right||Lampe N.|Germany|2004|||right|40.0|clay|20230723
+Bundesliga - men|2.32|1.57|Winter Lopez B.|Spain|2016|||right|26.0|Buttner T.|Germany|2016|||right|25.0|clay|20230723
+Bundesliga - men|2.32|1.57|Kellovsky D.|CzechRepublic|2012|78.0|183.0|right|28.0|Dafcik T.|Germany|2012|||right|30.0|clay|20230723
+Bundesliga - men|2.32|1.57|Rinderknech A.|France|2011|86.0|196.0|right|29.0|Mena F.|Argentina|2008|78.0|183.0|right|31.0|clay|20230723
+Bundesliga - men|2.32|1.57|Sanchez Jover E.|Spain|2023|||right||Zima L.|Germany|2015|||right|24.0|clay|20230723
+Bundesliga - men|2.32|1.57|Kretschmer G.|Germany|2002|77.0|191.0|right|39.0|Wegner T.|Germany|2014|||right|27.0|clay|20230723
+Bundesliga - men|2.32|1.57|Luz O.|Brazil|2013|78.0|180.0|right|26.0|Bloemke D.|Germany|2006|||right|35.0|clay|20230723
+Bundesliga - men|2.32|1.57|Barnat J.|CzechRepublic|2017|||right|23.0|Wagner H.|Germany|2011|||right|28.0|clay|20230723
+Bundesliga - men|2.32|1.57|De Loore J.|Belgium|2010|86.0|191.0|right|31.0|Safranek V.|CzechRepublic|2009|80.0|185.0|right|30.0|clay|20230723
+Bundesliga - men|2.32|1.57|Penzlin J.|Germany|2020|||right|22.0|Homberg M.|Germany|2021|||right|21.0|clay|20230723
+Bundesliga - men|2.32|1.57|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|Vives Marcos P.|Spain|2016|||right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Pavlenko P.|Germany|2019|||right|22.0|Donati M.|Italy|2009|74.0|185.0|right|29.0|clay|20230723
+Bundesliga - men|2.32|1.57|Lamasine T.|France|2010|69.0|183.0|right|31.0|Bellotti R.|Italy|2008|||right|33.0|clay|20230723
+Bundesliga - men|2.32|1.57|Esteve Lobato E.|Spain|2010|83.0|188.0|right|29.0|Bruns T.|Germany|2021|||right|22.0|clay|20230723
+Bundesliga - men|2.32|1.57|Barranco Cosano J.|Spain|2014|72.0|175.0|left|25.0|Jebavy R.|CzechRepublic|2004|90.0|185.0|right|34.0|clay|20230723
+Bundesliga - men|2.32|1.57|Donski A.|Bulgaria|2014|80.0|188.0|right|26.0|Mueller C.|Germany|2019|||right||clay|20230723
+Bundesliga - men|2.32|1.57|Travaglia S.|Italy|2007|80.0|185.0|right|32.0|Cagnina J.|Belgium|2011|72.0|183.0|right|30.0|clay|20230723
+Bundesliga - men|2.32|1.57|Schell N.|Germany|2015|||right|25.0|Kravchenko G.|Ukraine|2016|63.0|180.0|right|24.0|clay|20230723
+Bundesliga - men|2.32|1.57|Wallner M.|Germany|2021|||right|25.0|Milenkovic M.|Germany|2022|||right|18.0|clay|20230723
+Bundesliga - men|2.32|1.57|Baez S.|Argentina|2016|70.0|170.0|right|23.0|Hassan B.|Lebanon|2013|85.0|183.0|right|29.0|clay|20230723
+Bundesliga - men|2.32|1.57|Andujar P.|Spain|2002|80.0|180.0|right|38.0|Gomez-Herrera C.|Spain|2006|85.0|191.0|right|34.0|clay|20230723
+Bundesliga - men|2.32|1.57|Cornut Chauvinc A.|France|2016|||right|24.0|Walkow S.|Poland|2013|71.0|178.0|right|28.0|clay|20230723
+Bundesliga - men|2.32|1.57|Copil M.|Romania|2005|87.0|193.0|right|33.0|Cid Subervi R.|DominicanRep.|2010|82.0|193.0|right|30.0|clay|20230723
+Bundesliga - men|2.32|1.57|Satral J.|CzechRepublic|2008|82.0|188.0|right|34.0|Nystroem P.|Germany|2013|||right|29.0|clay|20230723
+Bundesliga - men|2.32|1.57|Griekspoor T.|Netherlands|2012|85.0|188.0|right|28.0|Kopriva V.|CzechRepublic|2015|69.0|178.0|right|27.0|clay|20230723
+Bundesliga - men|2.32|1.57|Darderi L.|Italy|2019|||right|22.0|Jianu F.|Romania|2016|70.0|180.0|right|22.0|clay|20230723
+Bundesliga - men|2.32|1.57|Paulson A.|CzechRepublic|2018|||right|22.0|Lemstra K.|Germany|2015|||right|25.0|clay|20230723
+Bundesliga - men|2.32|1.57|Oswald P.|Austria|2003|95|201|right|38|Balaji N.|India|2006|73.0|180.0|right|34.0|clay|20230723
+Bundesliga - men|2.32|1.57|Molcan A.|Slovakia|2014|73.0|178.0|left|26.0|Otte O.|Germany|2010|79.0|193.0|right|31.0|clay|20230723
+Bundesliga - men|2.32|1.57|van der Meer N.|Netherlands|2003|||right|39.0|Ehrenschneider N.|Germany|2018|||right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Chazal M.|France|2008|72.0|175.0|right|31.0|Gaio F.|Italy|2008|84.0|180.0|right|32.0|clay|20230723
+Bundesliga - men|2.32|1.57|Rodriguez Taverna S.|Argentina|2014|82.0|191.0|right|25.0|Hartenstein J.|Germany|2019|||right|23.0|clay|20230723
+Bundesliga - men|2.32|1.57|Nicod J.|CzechRepublic|2020|||right|20.0|Mridha J.|Sweden|2011|75.0|183.0|right|29.0|clay|20230723
+Amersfoort challenger|1.68|2.13|Marterer M.|Germany|2011|84.0|191.0|left|29.0|Droguet T.|France|2017|||right|23.0|clay|20230723
+Pozoblanco challenger|1.38|2.94|Grenier H.|France|2013|85.0|196.0|right|28.0|Ficovich J.|Argentina|2013|78.0|191.0|right|27.0|hard|20230723
+Tampere challenger|2.15|1.67|Nagal S.|India|2012|69.0|178.0|right|27.0|Svrcina D.|CzechRepublic|2017|68.0|178.0|right|21.0|clay|20230723
+Tampere challenger|2.73|1.39|Perez Contri S.|Spain|2013|||left|26.0|Crawford O.|GreatBritain|2016|84.0|180.0|right|25.0|clay|20230723
+Tampere challenger|2.15|1.62|McHugh A.|GreatBritain|2016|70.0|178.0|right|24.0|Kingsley C.|USA|2017|75.0|188.0|right|23.0|clay|20230723
+Tampere challenger|1.54|2.31|Knaff A.|Luxembourg|2015|||right|26.0|Vankan M.|Germany|2017|||right|23.0|clay|20230723
+Tampere challenger|1.40|2.67|Maamoun K.|Egypt|2008|73.0|175.0|right|33.0|Stater A.|USA|2017|||right|25.0|clay|20230723
+Tampere challenger|1.45|2.52|Kopp S.|Austria|2015|||right|24.0|Gadamauri B.|Belgium|2016|||right|24.0|clay|20230723
+Tampere challenger|1.62|2.15|Li H.|China|2020|||right|21.0|Wang X.|China|2018|||right|21.0|clay|20230723
+Tampere challenger|1.17|4.44|Oliveira G.|Venezuela|2010|79.0|185.0|left|29.0|Andaloro F.|Italy|2018|||right|23.0|clay|20230723
+Tampere challenger|1.40|2.71|Debru G.|France|2021|||right|18.0|Arnaboldi F.|Italy|2016|81.0|185.0|right|24.0|clay|20230723
+Tampere challenger|1.40|2.69|King D.|Barbados|2008|77.0|188.0|right|32.0|Monzon I.|Argentina|2013|||right|26.0|clay|20230723
+Tampere challenger|1.76|1.93|Prechtel S.|Germany|2013|78.0|185.0|right|28.0|Popovic S.|Serbia|2019|||right|21.0|clay|20230723
+Tampere challenger|1.82|1.86|Klier Junior G.|Brazil|2016|||right|24.0|Dlimi Y.|Morocco|2019|||right|21.0|clay|20230723
+Tampere challenger|1.78|1.93|Weber A.|France|2017|||left|32.0|Jones M.|Thailand|2019|||right|19.0|clay|20230723
+UTR Pro Tennis Series 3|1.78|1.91|Nguyen A.|USA|2022|||right|20.0|Davis T.|USA|2023|||right|23.0|Varioussurfaces|20230723
+UTR Pro Tennis Series 3|1.56|2.25|Nesterov A.|Russia|2015|||right|26.0|MacDonald J.|USA|2022|||right|22.0|Varioussurfaces|20230723
+UTR Pro Tennis Series 3|1.83|1.84|Fradkin J.|USA|2022|||right||Sau Franco A.|Mexico|2016|||right|23.0|Varioussurfaces|20230723
+UTR Pro Tennis Series 3|1.57|2.15|Kotzen A.|USA|2018|||right|24.0|Djakouris C.|Cyprus|2023|||right|20.0|Varioussurfaces|20230723
+UTR Pro Tennis Series 3|2.70|1.38|Chodur A.|USA|2022|||right|20.0|Leather J.|GreatBritain|2021|||right||Varioussurfaces|20230723
+UTR Pro Tennis Series 3|1.38|2.70|Nesterov A.|Russia|2015|||right|26.0|Morgan R.|USA|2021|||right|24.0|Varioussurfaces|20230723
+UTR Pro Tennis Series 3|1.48|2.40|Nguyen A.|USA|2022|||right|20.0|Hall D.|USA|2019|||right|27.0|Varioussurfaces|20230723
+UTR Pro Tennis Series 3|1.80|1.83|Fradkin J.|USA|2022|||right||Arora K.|USA|2022|||right||Varioussurfaces|20230723
+UTR Pro Tennis Series 3|1.55|2.20|MacDonald J.|USA|2022|||right|22.0|Djakouris A.|Cyprus|2017|||right|22.0|Varioussurfaces|20230723
+Astana 5 challenger|1.51|2.43|Agafonov E.|Russia|2019|||right|21.0|Watanabe S.|Japan|2017|75.0|180.0|right|23.0|hard|20230723
+Astana 5 challenger|1.26|3.65|Simakin I.|Russia|2020|||right|20.0|Banthia S.|India|2015|||right|24.0|hard|20230723
+Astana 5 challenger|1.23|3.80|Rawat S.|India|2009|70.0|175.0|right|31.0|Sheyngezikht L.|Bulgaria|2016|||right|23.0|hard|20230723
+Astana 5 challenger|1.03|10.25|Kaliyanda Poonacha N.|India|2014|85.0|188.0|right|29.0|Dustov M.|Uzbekistan|2022|||right||hard|20230723
+Astana 5 challenger|1.39|11.96|Gerasimov E.|Belarus|2008|86.0|196.0|right|31.0|Zatsepin V.|Kazakhstan|2021|||right|18.0|hard|20230723
+Astana 5 challenger|8.29|1.47|Aitkulov A.|Kazakhstan|2021|||right|20.0|Istomin D.|Uzbekistan|2001|85.0|188.0|right|37.0|hard|20230723
+Astana 5 challenger|1.68|2.23|Zgirovsky A.|Belarus|2015|78.0|191.0|right|23.0|Fayziev S.|Uzbekistan|2009|73.0|188.0|right|30.0|hard|20230723
+Astana 5 challenger|1.07|7.75|Vishwakarma S.|India|2014|74.0|191.0|left|29.0|Voronin S.|Russia|2021|||right||hard|20230723
+Astana 5 challenger|1.37|6.95|Glinka D.|Estonia|2015|||left|24.0|Mossur M.|Ukraine|2021|||right||hard|20230723
+Astana 5 challenger|2.08|1.68|Singh K.|India|2021|||right|21.0|Uesugi K.|Japan|2013|70.0|180.0|right|29.0|hard|20230723
+Astana 5 challenger|1.39|2.80|Philippov E.|Russia|2019|||right|22.0|Lomakin G.|Kazakhstan|2013|78.0|198.0|right|26.0|hard|20230723
+Astana 5 challenger|1.39|2.80|Liaonenka A.|Belarus|2014|||right|25.0|Mokrov A.|Russia|2023|||right|19.0|hard|20230723
+Atlanta|1.95|1.81|Shang J.|China|2020|||left|19.0|Cazaux A.|France|2019|||right|21.0|hard|20230723
+Atlanta|1.47|2.61|Harris L.|RSA|2014|80.0|193.0|right|27.0|Mmoh M.|USA|2012|90.0|188.0|right|26.0|hard|20230723
+Atlanta|2.96|1.38|Jung J.|ChineseTaipei|2005|69.0|180.0|right|35.0|Diallo G.|Canada|2018|||right|22.0|hard|20230723
+Atlanta|1.94|1.83|Duckworth J.|Australia|2006|82.0|183.0|right|32.0|Brouwer G.|Netherlands|2013|72.0|191.0|left|28.0|hard|20230723
+Atlanta|1.94|1.83|Benson M.|USA|2021|||right|24.0|Lima E.|Brazil|2021|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Alazmeh T.|Germany|2018|||right|20.0|Sakellaridis D.|Greece|2020|||right|18.0|hard|20230723
+Atlanta|1.94|1.83|Batista D.|Portugal|2015|73|183|right|25|Batista R.|Portugal|2020|||right|21.0|hard|20230723
+Atlanta|1.94|1.83|Dorofeev A.|France|2022|||right||Stewart A.|Portugal|2019|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Munoz D.|Ecuador|2007|||right|32.0|Martins J.|Portugal|2022|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Katticaren A.|India|2019|||right|22.0|Barradas G.|Portugal|2017|||right|25|hard|20230723
+Atlanta|1.94|1.83|Oncins Gaudio E.|Brazil|2023|||right|23|Viciana Marti E.|Spain|2022|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Cubelic K.|Germany|2015|77.0|188.0|left|26.0|Lepine A.|Canada|2023|||right||hard|20230723
+Atlanta|1.94|1.83|Galfinger R.|Kazakhstan|2018|||right|21.0|Solanki A.|India|2015|||right|25.0|hard|20230723
+Atlanta|1.94|1.83|Revelli G.|GreatBritain|2021|||right|22.0|Altur Fernandez A.|Spain|2022|||right||hard|20230723
+Atlanta|1.94|1.83|Miletich I.|Italy|2021|||right|19.0|Otin P.|Spain|2018|||right|22.0|hard|20230723
+Atlanta|1.94|1.83|De Rueda De Genover I.|Spain|2013|75.0|183.0|right|26.0|Arce Fernandez M.|Spain|2023|||right||hard|20230723
+Atlanta|1.94|1.83|Caldes J.|Spain|2016|||right|23.0|Alonso J.|Spain|2022|||right||hard|20230723
+Atlanta|1.94|1.83|Maksymchuk I.|Ukraine|2020|||right||Fita Juan S.|Spain|2022|||right||hard|20230723
+Atlanta|1.94|1.83|Roveri Sidney G.|Brazil|2013|||left|27.0|De Almeida Santos P.|Brazil|2022|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Avcibasi T.|Turkey|2020|||right|20.0|Castello Villar I.|Spain|2023|||||hard|20230723
+Atlanta|1.94|1.83|Del Castillo P.|Spain|2020|||right||Faisal G.|Canada|2021|||right||hard|20230723
+Atlanta|1.94|1.83|Bulant R.|CzechRepublic|2008|||right|32.0|Malaszszak M.|Germany|2021|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Williams A.|Germany|2022|||right|20.0|Vogeli F.|Switzerland|2021|||right||hard|20230723
+Atlanta|1.94|1.83|Kremenchutskyi I.|Ukraine|2022|||right|20.0|Rispoli N.|Italy|2014|||right|27.0|hard|20230723
+Atlanta|1.94|1.83|Sinha A.|USA|2021|||right|20.0|Gauci K.|Australia|2017|||right|25.0|hard|20230723
+Atlanta|1.94|1.83|Majcher G.|France|2019|||right||Paredes F.|Portugal|2021|||right|21.0|hard|20230723
+Atlanta|1.94|1.83|Lobanov A.|Russia|2021|||right|23.0|Oueslati M.|Tunisia|2020|||right||hard|20230723
+Atlanta|1.94|1.83|Jordan P.|USA|2021|||right|23.0|Radu C.|Romania|2022|||right|18.0|hard|20230723
+Atlanta|1.94|1.83|Gallo L.|Italy|2023|||right||Hadir Jr F.|Morocco|2023|||right|21.0|hard|20230723
+Atlanta|1.94|1.83|Vaccari L.|Italy|2023|||right||Blazka D.|CzechRepublic|2021|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Benchakroun M.|Morocco|2021|||right|20.0|Kreynes B.|USA|2022|||right||hard|20230723
+Atlanta|1.94|1.83|Beires R.|Portugal|2020|||right|23.0|Simao M.|Portugal|2020|||right|21.0|hard|20230723
+Atlanta|1.94|1.83|Valdoleiros G.|Portugal|2017|||right|25.0|De Carvalho V.|Portugal|2017|||right|25.0|hard|20230723
+Atlanta|1.94|1.83|Zusman R.|USA|2017|||left|23.0|Stepanian A.|Argentina|2018|||right|24.0|hard|20230723
+Atlanta|1.94|1.83|Monaco A.|France|2014|||right|27.0|Kotan P.|Australia|2017|||right|23.0|hard|20230723
+Atlanta|1.94|1.83|Kusiewicz P.|Poland|2021|||right||Sumann E.|Austria|2023|||right|19.0|hard|20230723
+Atlanta|1.94|1.83|Jurajda A.|CzechRepublic|2020|||right|21.0|Lanka S.|India|2022|||right||hard|20230723
+Atlanta|1.94|1.83|Ivanov S.|Russia|2022|||right|19.0|Dossetter C.|GreatBritain|2017|||right|22.0|hard|20230723
+Atlanta|1.94|1.83|Samardzic M.|Montenegro|2021|||right||Evans T.|Australia|2016|70.0|180.0|right|23.0|hard|20230723
+Atlanta|1.94|1.83|Massard L.|France|2022|||right|19.0|Fantolino M.|Italy|2022|||right|23.0|hard|20230723
+Atlanta|1.94|1.83|Mohanty A.|India|2021|||right|21.0|Hermassi R.|Tunisia|2020|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Deari S.|NorthMacedonia|2006|||right|35.0|Jovanovic N.|Serbia|2022|||right||hard|20230723
+Atlanta|1.94|1.83|Pinheiro N.|Portugal|2022|||right|20.0|Antonio J.|Portugal|2014|||right|25|hard|20230723
+Atlanta|1.94|1.83|Cardinaud H.|France|2021|||right||Coccioli A.|Italy|2021|||right|22.0|hard|20230723
+Atlanta|1.94|1.83|Knani O.|Tunisia|2021|||right||Gregoriou G.|Greece|2018|||right|31.0|hard|20230723
+Atlanta|1.94|1.83|Rsovac D.|Australia|2021|||right||Kypriotis E.|Greece|2019|||right||hard|20230723
+Atlanta|1.94|1.83|Bronzetti A.|Italy|2016|||right|26.0|Moghini G.|Switzerland|2013|||right|28.0|hard|20230723
+Atlanta|1.94|1.83|Mazzola F.|Italy|2023|||right|19.0|Lorusso L.|Italy|2016|||right|24.0|hard|20230723
+Atlanta|1.94|1.83|Hoffmann M.|Germany|2016|||right|23|Kumaran B.|India|2015|||right|26.0|hard|20230723
+Atlanta|1.94|1.83|Plans J.|Spain|2017|||right|22.0|Alvarado P.|Ecuador|2004|||right|35.0|hard|20230723
+Atlanta|1.94|1.83|Siddiqui A.|India|2021|||right|22.0|Martinez Gomez P.|Spain|2021|||right||hard|20230723
+Atlanta|1.94|1.83|Kazakov I.|Russia|2018|||right|22.0|Kolyachev N.|Bulgaria|2021|||right|21.0|hard|20230723
+Atlanta|1.94|1.83|Regas Luis N.|Spain|2021|||right|24.0|Iamachkine P.|Peru|2012|||right|28.0|hard|20230723
+Atlanta|1.94|1.83|Pinto Sansano O.|Spain|2019|||right||Alvarado Berrospi A.|Peru|2018|||right|24.0|hard|20230723
+Atlanta|1.94|1.83|Alvarez Sarmiento M.|Spain|2022|||right|19.0|Puig Molin D.|Spain|2021|||right|24.0|hard|20230723
+Atlanta|1.94|1.83|Pedrico Kravtsov A.|Spain|2022|||right|19.0|Nadal Vives J.|Spain|2021|||right|20.0|hard|20230723
+Atlanta|1.94|1.83|Garcia A.|Spain|2016|||right|22.0|Turriziani Alvarez A.|Spain|2020|||right|21.0|hard|20230723
+Atlanta|1.94|1.83|Mruzek S.|CzechRepublic|2021|||right||Mischker F.|GreatBritain|2021|||right|21.0|hard|20230723
+Atlanta|1.94|1.83|Caruso A.|Italy|2019|||right|25.0|Battiston A.|Italy|2022|||right||hard|20230723
+Atlanta|1.94|1.83|Lipp M.|Germany|2020|||right|20.0|Sakellaridis M.|Greece|2015|||right|23.0|hard|20230723
+Atlanta|1.94|1.83|Bolla A.|Italy|2014|||right|25.0|Nosei G.|Italy|2021|||right||hard|20230723
+Atlanta|1.94|1.83|Marchetti F.|Italy|2015|||right|23.0|Casucci G.|Italy|2023|||right|17|hard|20230723
+Atlanta|1.94|1.83|Buldorini P.|Italy|2022|||right|20.0|Massacri B.|Italy|2019|||right||hard|20230723
+Atlanta|1.94|1.83|Cosnet C.|France|2021|||right||Ceccon R.|France|2020|||right||hard|20230723
+Atlanta|1.94|1.83|Mihailovic A.|Serbia|2021|||right|22.0|Krajcik A.|Slovakia|2017|||right|23.0|hard|20230723
+Atlanta|1.11|5.00|Yadav Y.|India|2015|||right|25.0|Rasshchupkin D.|Russia|2023|||right|24|hard|20230723
+Atlanta|1.11|5.00|Puskar S.|Slovakia|2017|||right|24.0|Kovac T.|Slovenia|2021|||right|22.0|hard|20230723
+Atlanta|1.11|5.00|Radovanovic T.|Serbia|2016|||right|24.0|Vasilev D.|Russia|2020|||right||hard|20230723
+Atlanta|1.11|5.00|Verbin P.|Russia|2017|||right|22.0|Camilli G.|Italy|2017|||right||hard|20230723
+Atlanta|1.11|5.00|Novakovic N.|Serbia|2021|||right|23.0|Pogosian S.|Russia|2016|||right|26.0|hard|20230723
+Atlanta|1.11|5.00|Drinic M.|Serbia|2012|75.0|185.0|right|26.0|Kuraica N.|USA|2023|||||hard|20230723
+Atlanta|1.11|5.00|Jeran A.|Slovenia|2022|||right||Krapivin M.|Russia|2017|||right|24.0|hard|20230723
+Atlanta|1.11|5.00|Tomic R.|BosniaandHerzeg.|2022|||right|20.0|Zugic M.|Serbia|2016|||right|22.0|hard|20230723
+Atlanta|1.11|5.00|Vilicich B.|Argentina|2019|||right||Mikovic N.|Slovenia|2022|||right|20.0|hard|20230723
+Atlanta|1.11|5.00|Oliynykov N.|Croatia|2022|||right|19.0|Paulovcak S.|Slovakia|2017|||right|24.0|hard|20230723
+Atlanta|1.11|5.00|Florea R.|Romania|2022|||right||Wright A.|GreatBritain|2022|||right||hard|20230723
+Atlanta|1.11|5.00|Schinteie G.|Romania|2020|||right|22.0|Negura M.|Romania|2021|||right|20|hard|20230723
+Atlanta|1.11|5.00|Zuniga Garcia B.|Chile|2021|||right|21.0|Gabor D.|Ireland|2021|||right|20.0|hard|20230723
+Atlanta|1.11|5.00|Marinescu M.|Romania|2017|||right|22.0|Carteputreda D.|Romania|2023|||right||hard|20230723
+Atlanta|1.11|5.00|Jucha W.|France|2022|||right|20.0|Munteanu D.|Romania|2017|||right|23.0|hard|20230723
+Atlanta|1.11|5.00|Teglas I.|Romania|2022|||right|21.0|Magureanu C.|Romania|2022|||right|19.0|hard|20230723
+Atlanta|1.11|5.00|Salazar D.|Colombia|2015|||right|23.0|Staeheli L.|Switzerland|2017|||right|24.0|hard|20230723
+Atlanta|1.11|5.00|Tanner G.|Switzerland|2019|||right||Schlagenhauf N.|Germany|2018|||right|21.0|hard|20230723
+Atlanta|1.11|5.00|Podorozhnyi A.|Ukraine|2021|||right||Moser N.|Austria|2022|||right||hard|20230723
+Atlanta|1.11|5.00|Oetzbach A.|Germany|2014|80.0|185.0|right|26.0|Mujakic A.|Germany|2018|||right|21.0|hard|20230723
+Atlanta|1.11|5.00|Pecak S.|CzechRepublic|2018|||right|24.0|Jaeger N.|Switzerland|2021|||right||hard|20230723
+Atlanta|1.11|5.00|La Vela G.|Italy|2018|||right|23.0|Van Nunen M.|Netherlands|2017|||right|23.0|hard|20230723
+Atlanta|1.11|5.00|Thursfield H.|GreatBritain|2017|||right|23.0|Oliveira Alves R.|Portugal|2023|||right||hard|20230723
+Atlanta|1.11|5.00|Molokova Ferreira D.|Portugal|2023|||right|18.0|Silva D.|Portugal|2022|||right|20|hard|20230723
+Atlanta|1.11|5.00|Strom G.|Sweden|2017|||right|22.0|Jindacek J.|CzechRepublic|2021|||right||hard|20230723
+Atlanta|1.11|5.00|Martinez L.|Switzerland|2015|||right|25.0|Dutine D.|Germany|2022|||right|19.0|hard|20230723
+Atlanta|1.11|5.00|Plunger M.|Italy|2022|||right|22.0|Thurner N.|Germany|2017|||right|24.0|hard|20230723
+Atlanta|1.11|5.00|Lara Salmeron D.|Spain|2018|||right|23.0|Bernardo M.|Portugal|2023|||right|17|hard|20230723
+Atlanta|1.11|5.00|Magimay K.|GreatBritain|2022|||right||Saraiva L.|Portugal|2022|||right|19.0|hard|20230723
+Atlanta|1.11|5.00|Oliveira F.|Portugal|2014|||right|26.0|Krattiger J.|Switzerland|2018|||right|22.0|hard|20230723
+Atlanta|1.11|5.00|Stoliar I.|Portugal|2017|||right|25.0|Vilaca F.|Portugal|2022|||right|19.0|hard|20230723
+Atlanta|1.11|5.00|Huber D.|Switzerland|2013|||right|28.0|Obermair F.|Austria|2023|||right||hard|20230723
+Atlanta|1.11|5.00|Villacorta-Alonso R.|Spain|2002|||right|39.0|Teixeira B.|Portugal|2016|||right|22.0|hard|20230723
+Atlanta|1.11|5.00|Mathys T.|Switzerland|2022|||right|20.0|Almeida T.|Portugal|2014|||right|25.0|hard|20230723
+Atlanta|1.11|5.00|Troebinger E.|Italy|2014|||right|28.0|Galik M.|Slovakia|2020|||right||hard|20230723
+Atlanta|1.11|5.00|Penkner Y.|Austria|2021|||right|20.0|Leitner T.|Austria|2023|||right||hard|20230723
+Atlanta|1.11|5.00|Parenti L.|Italy|2019|||right|21.0|Mazzucchelli L.|Italy|2013|||right|27.0|hard|20230723
+Atlanta|1.11|5.00|Kipcak M.|Austria|2021|||right||Carnevale-Miino T.|Italy|2016|||right|24.0|hard|20230723
+Atlanta|1.18|4.13|Desousa J.|Netherlands|2020|||right|21.0|Shekhawat R.|India|2017|||right|25.0|hard|20230723
+Atlanta|1.03|7.50|Sharma A.|India|2018|||right|23.0|Pandzou Ekoume C.|Congo|2023|||right|22.0|hard|20230723
+Atlanta|1.03|7.50|Rohseano L.|Austria|2020|||right|21.0|Lohr W.|Germany|2023|||right||hard|20230723
+Atlanta|1.03|7.50|Roeder P.|Germany|2022|||right|17.0|Rohseano T.|Austria|2023|||right|18.0|hard|20230723
+Atlanta|1.03|7.50|Ruland L.|Germany|2021|||right|21.0|Katuch J.|Slovakia|2018|||right|21.0|hard|20230723
+Atlanta|1.03|7.50|Al-Amin K.|Germany|2021|||right|20.0|Erhardt M.|Germany|2023|||right|18|hard|20230723
+Atlanta|1.03|7.50|Benes M.|CzechRepublic|2021|||right||Almasi A.|Slovakia|2021|||right||hard|20230723
+Atlanta|1.03|7.50|Novak J.|CzechRepublic|2021|||right||Malgiaritta M.|Switzerland|2018|||right|23.0|hard|20230723
+Atlanta|1.03|7.50|Giersiepen Garcia M.|Spain|2019|||right|19.0|Dragomirov D.|Germany|2018|||right|24.0|hard|20230723
+Atlanta|1.03|7.50|Tammaro M.|Italy|2021|||right|20.0|Morolli A.|Italy|2019|||right|24.0|hard|20230723
+Atlanta|1.03|7.50|Perfetti N.|Italy|2018|||right|23.0|Bogo E.|Brazil|2011|||right|29.0|hard|20230723
+Atlanta|1.03|7.50|Liucci F.|Italy|2017|||right|25.0|Gervail G.|France|2010|||right|32.0|hard|20230723
+Atlanta|1.03|7.50|Ricca G.|Italy|2012|||right|29.0|Horiuchi R.|Japan|2017|||right|25.0|hard|20230723
+Atlanta|1.03|7.50|Biagiotti R.|Denmark|2021|||right||Meduri A.|Italy|2021|||right||hard|20230723
+Atlanta|1.03|7.50|Valle F.|Italy|2021|||right|24.0|Velcz Z.|Hungary|2020|||left|21.0|hard|20230723
+Atlanta|1.03|7.50|D'Agostino S.|Italy|2017|||right|20.0|De Bernardis A.|Italy|2016|||right|24.0|hard|20230723
+Atlanta|1.03|7.50|Militi Ribaldi A.|Italy|2016|||right|25.0|Papagno S.|Italy|2022|||right|21.0|hard|20230723
+Atlanta|1.03|7.50|Carraro L.|Italy|2015|||right|26.0|Casucci G.|Italy|2021|||right||hard|20230723
+Atlanta|1.03|7.50|Bellifemine A.|Italy|2017|||right|23.0|Vatteroni L.|Italy|2017|||right|23.0|hard|20230723
+Atlanta|1.03|7.50|Talic Z.|Australia|2016|||left|26.0|Radojicic A.|Serbia|2022|||right|20.0|hard|20230723
+Atlanta|1.03|7.50|Martin Manzano J.|Italy|2022|||left|19.0|Dell'elba V.|Italy|2015|||right|25.0|hard|20230723
+Atlanta|1.03|7.50|Khosla R.|India|2022|||right||Fondriest M.|Italy|2021|||right|20.0|hard|20230723
+Atlanta|1.03|7.50|Salomone F.|Italy|2017|||right|23.0|Baldovinetti G.|Italy|2018|||right|22.0|hard|20230723
+Atlanta|1.03|7.50|Volz M.|Germany|2023|||right|23|Staley J.|Australia|2018|||right|24.0|hard|20230723
+Atlanta|1.03|7.50|Garcia Aguado P.|Spain|2022|||right|21.0|Cameron S.|USA|2021|||right|26.0|hard|20230723
+Atlanta|1.03|7.50|Mazzeschi E.|Italy|2018|||right|26.0|Stamatopoulos I.|Greece|2022|||right|20.0|hard|20230723
+Atlanta|1.03|7.50|Slump S.|Netherlands|2015|77.0|188.0|right|25.0|Zaytsev I.|Russia|2018|||right|24.0|hard|20230723
+Atlanta|1.03|7.50|Guerrero Alvarez C.|Spain|2021|||right|20.0|Mora Clement R.|Spain|2019|||right|23.0|hard|20230723
+Atlanta|1.03|7.50|Busoms Puig J.|Spain|2019|||right|23.0|Fuentes Gomez H.|Spain|2022|||right|20.0|hard|20230723
+Atlanta|1.03|7.50|Freire Da Silva A.|France|2016|||right|25.0|Guimaraes F.|Portugal|2023|||right|18|hard|20230723
+Atlanta|1.03|7.50|Urribarrens Ramirez I.|Spain|2019|||right|20.0|Bonsach Ganley K.|Denmark|2020|||right|19.0|hard|20230723
+Atlanta|1.03|7.50|Malirz K.|Poland|2022|||right|21.0|Almeida M.|Portugal|2011|||right|28.0|hard|20230723
+Atlanta|1.20|3.68|Panaras A.|France|2022|||right|21.0|Sharma T.|India|2021|||right|24.0|hard|20230723
+Atlanta|1.20|3.68|Ribecai M.|Italy|2023|||right|21.0|Silva J.|Portugal|2022|||right|17.0|hard|20230723
+Atlanta|1.20|3.68|Francisco L.|Spain|2020|||right||Sanchis Melero H.|Spain|2018|||right|23.0|hard|20230723
+Atlanta|1.20|3.68|Peiro Serrano A.|Spain|2021|||right||Harsh R.|India|2021|||right|18.0|hard|20230723
+Atlanta|1.20|3.68|Boschmans T.|Portugal|2021|||right||Covato M.|Italy|2023|||right||hard|20230723
+Atlanta|1.20|3.68|Serra Sanchez N.|Spain|2019|||right|20.0|Regas Luis N.|Spain|2021|||right||hard|20230723
+Atlanta|1.20|3.68|Ferrarolli D.|Italy|2017|||right||Tarrio Ponte A.|Spain|2022|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Chambonniere M.|France|2023|||right||Brazet P.|France|2021|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|De La Riva Bueno P.|Spain|2021|||right||Marincas D.|Portugal|2022|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Torres Espinosa J.|Spain|2022|||right||Villoslada E.|France|2020|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Alam P.|GreatBritain|2019|||right|22.0|Kneiss M.|Greece|2021|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Kelo P.|Slovakia|2020|||right||Pieleanu R.|Romania|2023|||right|17.0|hard|20230723
+Atlanta|1.22|3.50|Giovannini U.|Italy|2012|||right|26.0|Taddia L.|Italy|2017|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Ciobotaru D.|Romania|2022|||right|20.0|Furlanetto M.|Italy|2016|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Derdoy F.|Argentina|2014|||right|27.0|Maftei M.|Romania|2023|||right||hard|20230723
+Atlanta|1.22|3.50|Andreescu S.|Romania|2018|||right|22.0|Fatu A.|Romania|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Cataldi C.|Italy|2021|||right|27.0|Gavriliu I.|Romania|2023|||right|16|hard|20230723
+Atlanta|1.22|3.50|Dica N.|Romania|2017|||right|23.0|Herberg A.|Spain|2017|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Bruna E.|Chile|2011|80.0|183.0|left|29.0|Lefter T.|Romania|2023|||right|17|hard|20230723
+Atlanta|1.22|3.50|Bara F.|Romania|2021|||right|19.0|Schipor E.|Romania|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Baiant R.|Canada|2016|||right|23.0|Stoica V.|Romania|2015|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Allen L.|GreatBritain|2019|||right|24.0|Formella L.|Germany|2018|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Gomes H.|Brazil|2018|||right|21.0|Petrescu D.|Romania|2021|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Lusovsky M.|CzechRepublic|2017|||right|25.0|Bernardi M.|Italy|2017|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Callejon Hernando S.|Spain|2022|||right|19.0|Kyjaci S.|Slovakia|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Candelas Bas A.|Spain|2023|||right|18|Braun Simo C.|Spain|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Planelles Ripoll G.|Spain|2019|||right|21.0|Bonnaud A.|France|2021|||left|27.0|hard|20230723
+Atlanta|1.22|3.50|Brosset S.|France|2017|||left|26.0|Zund S.|Liechtenstein|2018|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Molino J.|Spain|2016|||right|23.0|Pop D.|Romania|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Helguera Casado L.|Spain|2022|||right||Harder L.|Germany|2023|||right|21|hard|20230723
+Atlanta|1.22|3.50|Naharro D.|Spain|2021|||right|21.0|Minin M.|Russia|2016|81.0|185.0|left|23.0|hard|20230723
+Atlanta|1.22|3.50|Giotis R.|Germany|2018|||right|23.0|Ferrandis Gargallo F.|Spain|2023|||right|20|hard|20230723
+Atlanta|1.22|3.50|Hernandez C.|Spain|2018|||right|23.0|Sevilla I.|Spain|2022|||right|18.0|hard|20230723
+Atlanta|1.22|3.50|Guerra B.|Switzerland|2021|||right|27.0|Seeman J.|Estonia|2015|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Nagel A.|France|2021|||right|21.0|Bosse P.|Germany|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Lipp M.|Germany|2020|||right|20.0|Yakincam T.|Germany|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Van Nunen M.|Netherlands|2017|||right|23.0|Schneider B.|Germany|2021|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Virgili Berini F.|Italy|2023|||right|19.0|Chen K.|ChineseTaipei|2018|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Oetzbach A.|Germany|2014|80.0|185.0|right|26.0|Waqar S.|Pakistan|2022|||right|33.0|hard|20230723
+Atlanta|1.22|3.50|Tanner G.|Switzerland|2019|||right||Anhalt V.|Germany|2021|||right|56.0|hard|20230723
+Atlanta|1.22|3.50|Benson M.|USA|2021|||right|24.0|Dahler M.|Germany|2023|||right||hard|20230723
+Atlanta|1.22|3.50|La Vela G.|Italy|2018|||right|23.0|Aregger L.|Switzerland|2018|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Ceccon R.|France|2020|||right||Mischker L.|GreatBritain|2023|||right|18.0|hard|20230723
+Atlanta|1.22|3.50|Hoffmann M.|Germany|2016|||right|23|Veselic L.|Croatia|2015|83.0|180.0|right|26.0|hard|20230723
+Atlanta|1.22|3.50|Staeheli L.|Switzerland|2017|||right|24.0|Luethi A.|Switzerland|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Vincent A.|France|2016|||right|26.0|Temirhanov A.|Sweden|2018|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Carboni L.|Italy|2023|||right|18.0|Fiorentini A.|Italy|2018|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Mischker F.|GreatBritain|2021|||right|21.0|Drebenstedt D.|Germany|2016|||right|29.0|hard|20230723
+Atlanta|1.22|3.50|Sakellaridis M.|Greece|2015|||right|23.0|Vohl V.|Germany|2023|||right||hard|20230723
+Atlanta|1.22|3.50|Faucon R.|Belgium|2020|||right|21.0|Sibille I.|Morocco|2018|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Philibert N.|GreatBritain|2022|||right|19.0|Mustafin S.|Russia|2023|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Kumaran B.|India|2015|||right|26.0|Humphries F.|GreatBritain|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Xilas I.|Greece|2019|||right|23.0|Carlini G.|Italy|2023|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Martinez L.|Switzerland|2015|||right|25.0|Minighini D.|Italy|2021|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Cosnet C.|France|2021|||right||Stroebel M.|Germany|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Vogeli F.|Switzerland|2021|||right||Klaassen S.|Netherlands|2022|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Cubelic K.|Germany|2015|77.0|188.0|left|26.0|Hampe S.|Germany|2016|||right|25.0|hard|20230723
+Atlanta|1.22|3.50|Nagel A.|France|2021|||right|21.0|Van Donselaar F.|Netherlands|2021|||right||hard|20230723
+Atlanta|1.22|3.50|Salazar D.|Colombia|2015|||right|23.0|Einig F.|Germany|2018|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Bulant R.|CzechRepublic|2008|||right|32.0|Heger T.|Germany|2015|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Malaszszak M.|Germany|2021|||right|20.0|Wisniewski D.|Poland|2020|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Vasiliauskas M.|Lithuania|2017|||right|22.0|Badini S.|Italy|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Brigida O.|Italy|2016|||right|25.0|Tan B.|Turkey|2021|||left||hard|20230723
+Atlanta|1.22|3.50|Mruzek S.|CzechRepublic|2021|||right||Kountourakis I.|Greece|2018|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Dutine D.|Germany|2022|||right|19.0|Kuster D.|Switzerland|2023|||right|20|hard|20230723
+Atlanta|1.22|3.50|Sahtali T.|Algeria|2015|||right|25.0|Longwe-Smit T.|RSA|2017|65.0|173.0|right|23.0|hard|20230723
+Atlanta|1.22|3.50|Mujakic A.|Germany|2018|||right|21.0|Muller R.|Netherlands|2020|||right||hard|20230723
+Atlanta|1.22|3.50|Schlagenhauf N.|Germany|2018|||right|21.0|Piening C.|Germany|2023|||right|20|hard|20230723
+Atlanta|1.22|3.50|Lepine A.|Canada|2023|||right||Perera M.|USA|2021|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Solanki A.|India|2015|||right|25.0|Waterbolk I.|Netherlands|2021|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Alazmeh T.|Germany|2018|||right|20.0|Steinorth T.|Germany|2015|||right|25.0|hard|20230723
+Atlanta|1.22|3.50|Williams A.|Germany|2022|||right|20.0|Larwig N.|Germany|2017|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Bosse P.|Germany|2022|||right||Bredschneijder M.|Netherlands|2022|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Lima E.|Brazil|2021|||right|20.0|Melzer L.|Luxembourg|2016|||left|22.0|hard|20230723
+Atlanta|1.22|3.50|Galfinger R.|Kazakhstan|2018|||right|21.0|Schaber M.|Germany|2016|||right|23|hard|20230723
+Atlanta|1.22|3.50|Sakellaridis D.|Greece|2020|||right|18.0|Senn N.|Switzerland|2023|||right|20|hard|20230723
+Atlanta|1.22|3.50|Goncharov I.|Russia|2023|||right||Dapcevic E.|Montenegro|2021|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Plunger M.|Italy|2022|||right|22.0|Toffanin N.|Italy|2018|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Rispoli N.|Italy|2014|||right|27.0|Merre N.|Belgium|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Bernardi M.|Italy|2017|||right|22.0|Dudun I.|Ukraine|2014|||right|25.0|hard|20230723
+Atlanta|1.22|3.50|Hadzimehmedovic R.|Serbia|2021|||right|19.0|Znuderl M.|Slovenia|2021|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Lanik T.|Slovakia|2020|||right|22.0|Arsic N.|Serbia|2021|||right||hard|20230723
+Atlanta|1.22|3.50|Bruna N.|Chile|2014|||right|25.0|Gojic D.|Serbia|2023|||||hard|20230723
+Atlanta|1.22|3.50|Moser N.|Austria|2022|||right||Peter J.|Germany|2021|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Bartakovics M.|Hungary|2014|||right|26.0|Mileticki M.|Serbia|2023|||right|19|hard|20230723
+Atlanta|1.22|3.50|Jindacek J.|CzechRepublic|2021|||right||Walewski R.|NewZealand|2021|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Obermair F.|Austria|2023|||right||Lazic M.|Austria|2020|||right|18.0|hard|20230723
+Atlanta|1.22|3.50|Pecak S.|CzechRepublic|2018|||right|24.0|Moroder G.|Italy|2021|||right||hard|20230723
+Atlanta|1.22|3.50|Miklavcic L.|Slovenia|2017|||right|24.0|Lantsov A.|Russia|2021|||right|20|hard|20230723
+Atlanta|1.22|3.50|Brosset S.|France|2017|||left|26.0|Cadonau J.|Germany|2017|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Kremenchutskyi I.|Ukraine|2022|||right|20.0|Quirijns K.|Switzerland|2021|||right||hard|20230723
+Atlanta|1.22|3.50|Dimic M.|Slovenia|2018|||right|22.0|Ferri L.|Italy|2019|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Sumann E.|Austria|2023|||right|19.0|Baechi R.|Switzerland|2022|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Paris T.|France|2019|||right|22.0|Khotchenkov E.|Russia|2021|||right||hard|20230723
+Atlanta|1.22|3.50|Zund S.|Liechtenstein|2018|||right|22.0|Horak O.|CzechRepublic|2018|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Strom G.|Sweden|2017|||right|22.0|Knippling P.|Brazil|2018|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Gagliardo L.|Italy|2017|||right|24.0|Schinas S.|Greece|2012|||right|27.0|hard|20230723
+Atlanta|1.22|3.50|Nad P.|Slovakia|2020|||right|20.0|Zubac D.|Serbia|2018|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Guerra B.|Switzerland|2021|||right|27.0|Krischke A.|CzechRepublic|2021|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Kusiewicz P.|Poland|2021|||right||Blecha A.|CzechRepublic|2015|||right|26.0|hard|20230723
+Atlanta|1.22|3.50|Vetrih M.|Slovenia|2022|||right|21.0|Arcon A.|Australia|2021|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Tessa L.|France|2014|||right|26.0|Li Y.|China|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Avdieiev A.|Ukraine|2023|||right|23.0|Khomich A.|Belarus|2013|80.0|191.0|right|27.0|hard|20230723
+Atlanta|1.22|3.50|Huber D.|Switzerland|2013|||right|28.0|Trinker J.|Austria|2011|||right|29.0|hard|20230723
+Atlanta|1.22|3.50|Amirov D.|Russia|2014|||right|25.0|Mitrovic N.|Serbia|2019|||right|22.0|hard|20230723
+Atlanta|1.22|3.50|Milanovic D.|Serbia|2018|||left|22.0|Ostapenkov D.|Belarus|2020|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Kupcic J.|Slovenia|2019|||right|23.0|Ciavarella N.|Italy|2021|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Thurner N.|Germany|2017|||right|24.0|Werner E.|Germany|2021|||right||hard|20230723
+Atlanta|1.22|3.50|Lusovsky M.|CzechRepublic|2017|||right|25.0|Krawcewicz K.|Austria|2013|||right|28.0|hard|20230723
+Atlanta|1.22|3.50|Podorozhnyi A.|Ukraine|2021|||right||Vercik I.|Slovakia|2020|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Planinsek F.|Slovenia|2019|||right|23.0|Vedovelli S.|Italy|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Boros A.|Hungary|2021|||right|20.0|Protic Zakelj J.|Slovenia|2021|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Troost S.|Estonia|2015|||right|24.0|Galvanin D.|Italy|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Seeman J.|Estonia|2015|||right|24.0|Maldoner L.|Austria|2023|||right|25.0|hard|20230723
+Atlanta|1.22|3.50|Jaeger N.|Switzerland|2021|||right||Vorhemus A.|Austria|2020|||right|22|hard|20230723
+Atlanta|1.22|3.50|Schubert H.|Chile|2016|||right|24.0|Valsecchi P.|France|2014|||left|27.0|hard|20230723
+Atlanta|1.22|3.50|Pavel B.|Romania|2014|||right|25.0|Negrut A.|Romania|2023|||||hard|20230723
+Atlanta|1.22|3.50|Agostini S.|Italy|2018|||right|27.0|Jinga A.|Romania|2022|||right|19.0|hard|20230723
+Atlanta|1.22|3.50|Ispasescu I.|Romania|2023|||right|19.0|Fagotti E.|Argentina|2021|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Dumitru A.|Romania|2021|||right|20.0|Konov S.|Bulgaria|2018|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Onofrei M.|Romania|2021|||right|18.0|Urzica S.|Romania|2023|||right||hard|20230723
+Atlanta|1.22|3.50|Verdes E.|Romania|2021|||right|20.0|Prajescu M.|Romania|2013|||right|25.0|hard|20230723
+Atlanta|1.22|3.50|Zhang J.|Australia|2022|||right|19.0|Scheers M.|Australia|2019|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Gale C.|Australia|2018|||right|22.0|Fitzgerald P.|Australia|2015|||right|28.0|hard|20230723
+Atlanta|1.22|3.50|Bianchet S.|Australia|2018|||right|22.0|Winter H.|Australia|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Cham E.|Australia|2021|||right|21.0|Kinase T.|Japan|2018|||right|25.0|hard|20230723
+Atlanta|1.22|3.50|Quang Hien Pham H.|Australia|2017|||right|24.0|Karpinski T.|Australia|2018|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Oster S.|Australia|2017|||right|24.0|Jesser W.|Australia|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Court J.|Australia|2016|92.0|188.0|right|24.0|Milburn K.|NewZealand|2023|||right||hard|20230723
+Atlanta|1.22|3.50|Ryan J.|Australia|2018|||right|27.0|Dixon J.|Australia|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Townsend D.|Australia|2021|||right|20|Howe P.|Australia|2020|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Viiala Z.|Australia|2021|||right|18|Adam-Gedge Z.|Australia|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Shepp A.|NewZealand|2020|||right|21.0|Nakamura K.|Japan|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Gadecki T.|Australia|2021|||right||Clements J.|Australia|2018|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Braund A.|Australia|2022|||right||Gaudin A.|Australia|2022|||right||hard|20230723
+Atlanta|1.22|3.50|Naumovski M.|Australia|2016|||right|23.0|De Vivo N.|Australia|2021|||right|20.0|hard|20230723
+Atlanta|1.22|3.50|Schoeman M.|Australia|2021|||right||Birrell C.|Australia|2017|||right|24.0|hard|20230723
+Atlanta|1.22|3.50|Paisvant R.|Romania|2023|||right||Doboseru R.|Romania|2023|||||hard|20230723
+Atlanta|1.22|3.50|Thanos A.|Greece|2019|||right|23.0|Mao N.|USA|2021|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Dunn E.|Australia|2021|||right||Young-Mathers S.|Australia|2023|||right|20|hard|20230723
+Atlanta|1.22|3.50|Forcano I.|Spain|2015|||right|24.0|Piatti R.|Monaco|2019|||right||hard|20230723
+Atlanta|1.22|3.50|Ahouda W.|Morocco|2018|||right|20.0|Dubinin A.|Russia|2016|||right|25.0|hard|20230723
+Atlanta|1.22|3.50|Herrmann T.|France|2022|||right||Syrovatskiy O.|Kazakhstan|2021|||right|21.0|hard|20230723
+Atlanta|1.22|3.50|Giacomini E.|Italy|2022|||right|25.0|Mustafin S.|Russia|2023|||right|23.0|hard|20230723
+Atlanta|1.22|3.50|Ray A.|USA|2022|||right|23.0|Karakayev A.|Kazakhstan|2018|||right|20.0|hard|20230723
+Hamburg|1.51|2.51|Seyboth Wild T.|Brazil|2014|78.0|185.0|right|24.0|Monteiro T.|Brazil|2008|78.0|183.0|left|30.0|clay|20230723
+Hamburg|1.86|1.90|Ymer E.|Sweden|2012|79.0|183.0|right|28.0|Kovalik J.|Slovakia|2007|82.0|183.0|right|31.0|clay|20230723
+Hamburg|2.35|1.57|Choinski J.|GreatBritain|2012|80.0|196.0|right|28.0|Galan D.|Colombia|2011|72.0|191.0|right|28.0|clay|20230723
+Hamburg|1.39|2.94|Garin C.|Chile|2010|85.0|185.0|right|28.0|Coppejans K.|Belgium|2011|68.0|180.0|right|30.0|clay|20230723
+Hopman Cup|1.34|3.15|Coric B.|Croatia|2011|85.0|188.0|right|27.0|Riedi L.|Switzerland|2020|||right|22.0|clay|20230723
+Salinas challenger|1.88|1.84|Puttergill C.|Australia|2011|78.0|183.0|right|30.0|Huertas Del Pino C.|Peru|2012|86.0|188.0|right|28.0|hard|20230723
+Salinas challenger|2.00|1.73|Bernard A.|USA|2019|||left|21.0|Soto M.|Chile|2016|||right|25.0|hard|20230723
+Salinas challenger|1.24|3.70|Ellis B.|Australia|2013|||right|25.0|Hoyos A.|Colombia|2015|79.0|180.0|right|24.0|hard|20230723
+Salinas challenger|1.67|2.12|Gomez J.|Colombia|2007|||right|32.0|Tenti F.|Argentina|2016|74.0|180.0|right|27.0|hard|20230723
+Salinas challenger|1.04|15.34|Vallejo A.|Paraguay|2019|||right|20.0|Larrea Sicco M.|Ecuador|2021|||right||hard|20230723
+Salinas challenger|1.11|7.92|Pecotic M.|Croatia|2012|83.0|185.0|left|35.0|Urrea A.|Colombia|2009|||right|29.0|hard|20230723
+Salinas challenger|1.27|9.30|Alves M.|Brazil|2015|||right|23.0|Cachipuendo Calderon F.|Ecuador|2021|||right|25.0|hard|20230723
+Salinas challenger|1.11|12.37|Boyer T.|USA|2016|||right|23.0|Chan Baratau M.|Ecuador|2021|||right|18.0|hard|20230723
+Salinas challenger|1.14|5.17|Perez A.|USA|2013|||right|27.0|Mayo K.|USA|2014|93.0|198.0|right|24.0|hard|20230723
+Salinas challenger|2.33|1.65|Huertas Del Pino A.|Peru|2017|||right|30.0|Panta J.|Peru|2011|||right|29.0|hard|20230723
+Segovia challenger|1.03|10.98|Potenza L.|Italy|2016|||right|24.0|Perez Martin I.|Spain|2021|||right|19.0|hard|20230723
+Segovia challenger|1.15|4.85|Echeverria J.|Spain|2016|||right|22.0|Herrero Cuesta N.|Spain|2018|||right|22.0|hard|20230723
+Segovia challenger|1.55|4.48|Strombachs R.|Latvia|2017|78.0|191.0|right|24.0|Mora M.|France|2012|75.0|185.0|right|27.0|hard|20230723
+Segovia challenger|1.02|12.40|Blanch U.|USA|2014|78.0|188.0|right|26.0|Carretero P.|Spain|2018|||right|23.0|hard|20230723
+Segovia challenger|1.63|2.18|Butvilas E.|Lithuania|2021|||right|20.0|Cukierman D.|Israel|2012|||right|29.0|hard|20230723
+Segovia challenger|1.06|8.25|Sun F.|China|2014|75.0|178.0|right|27.0|Lipovsek Puches T.|Slovenia|2010|||right|31.0|hard|20230723
+Segovia challenger|1.36|2.98|Bittoun Kouzmine C.|France|2014|73.0|175.0|left|25.0|Kadhe A.|India|2011|83.0|185.0|right|30.0|hard|20230723
+Segovia challenger|1.86|1.86|Damas M.|Spain|2015|||right|24.0|Rosenkranz M.|Germany|2014|||left|25.0|hard|20230723
+Segovia challenger|1.16|4.91|Soriano Barrera A.|Colombia|2014|||right|25.0|Zukas M.|Argentina|2011|72.0|183.0|right|28.0|hard|20230723
+Segovia challenger|1.27|3.57|Montes-De La Torre I.|Spain|2018|||right|21.0|Bouquier A.|France|2017|||right|23.0|hard|20230723
+Segovia challenger|1.76|1.97|Snitari I.|Moldavsko|2020|||right|22.0|Guerrieri A.|Italy|2015|||left|25.0|hard|20230723
+Umag|1.45|2.66|Cobolli F.|Italy|2017|||right|22.0|Kolar Z.|CzechRepublic|2013|76.0|185.0|right|27.0|clay|20230723
+Umag|1.53|2.42|Misolic F.|Austria|2016|||right|23.0|Dzumhur D.|BosniaandHerzeg.|2008|68.0|175.0|right|32.0|clay|20230723
+Umag|1.75|2.04|Bagnis F.|Argentina|2005|82.0|183.0|left|34.0|Skatov T.|Kazakhstan|2016|73.0|173.0|right|23.0|clay|20230723
+Umag|2.06|1.74|De Jong J.|Netherlands|2017|70.0|180.0|right|24.0|Barrios Vera M.|Chile|2013|88.0|191.0|right|26.0|clay|20230723
+Verona challenger|1.32|3.17|Napolitano S.|Italy|2010|90.0|196.0|right|29.0|Iannaccone F.|Italy|2016|||right|25.0|clay|20230723
+Verona challenger|1.28|12.98|Neumayer L.|Austria|2020|||right|21.0|Seghetti S.|Italy|2022|||right|18.0|clay|20230723
+Verona challenger|4.29|1.19|Villanueva G.|Argentina|2011|70.0|175.0|right|29.0|Weis A.|Italy|2014|83.0|188.0|right|27.0|clay|20230723
+Verona challenger|1.83|1.73|Tabacco G.|Italy|2018|||right|21.0|Dutra da Silva D.|Brazil|2003|||left|36.0|clay|20230723
+Verona challenger|1.16|4.57|Bourgue M.|France|2010|83.0|188.0|right|30.0|Ivanov S.|Bulgaria|2015|||right|24.0|clay|20230723
+Verona challenger|1.14|5.16|Gojowczyk P.|Germany|2005|83.0|188.0|right|35.0|Di Natale G.|Italy|2016|||right|26.0|clay|20230723
+Verona challenger|1.89|1.82|Royer V.|France|2018|83.0|188.0|right|23.0|Serafini M.|Italy|2021|||right|21.0|clay|20230723
+Verona challenger|1.66|2.12|Oradini G.|Italy|2012|||left|26.0|Rottoli L.|Italy|2016|||right|22.0|clay|20230723
+Verona challenger|1.29|3.29|Forti F.|Italy|2016|80.0|191.0|right|25.0|Pennaforti G.|Italy|2021|||right|23.0|clay|20230723
+Verona challenger|1.15|4.80|Tseng C.|ChineseTaipei|2015|65.0|175.0|right|23.0|Bocchi L.|Italy|2015|78.0|180.0|right|26.0|clay|20230723
+Verona challenger|1.17|5.98|Vincent Ruggeri S.|Italy|2019|||right|22.0|Speronello M.|Italy|2004|||right|33|clay|20230723
+Verona challenger|1.27|3.49|Houkes M.|Netherlands|2018|||left|24.0|Roncalli S.|Italy|2012|73.0|175.0|right|28.0|clay|20230723
+Zug challenger|3.70|1.25|Orlov V.|Ukraine|2014|77.0|185.0|right|29.0|Blanchet U.|France|2015|||right|25.0|clay|20230723
+Zug challenger|1.40|2.77|Wenger D.|Switzerland|2015|||right|24.0|Compagnucci T.|Italy|2016|||right|24.0|clay|20230723
+Zug challenger|1.18|4.39|Guinard M.|France|2013|81.0|196.0|right|28.0|Pereira J.|Brazil|2005|74.0|180.0|right|33.0|clay|20230723
+Zug challenger|2.02|1.72|Ferrari G.|Italy|2018|||left|23.0|Reis Da Silva J.|Brazil|2015|75.0|175.0|right|24.0|clay|20230723
+Zug challenger|1.96|1.77|Kirkin E.|Turkey|2014|73.0|180.0|right|25.0|Laaksonen H.|Switzerland|2006|78.0|185.0|right|32.0|clay|20230723
+Zug challenger|1.66|2.11|Vrbensky M.|CzechRepublic|2016|65.0|180.0|right|24.0|Kivattsev K.|Russia|2015|80.0|193.0|right|26.0|clay|20230723
+Zug challenger|2.47|1.49|Sakamoto P.|Brazil|2008|78.0|178.0|right|31.0|Echargui M.|Tunisia|2014|75.0|180.0|right|31.0|clay|20230723
+Zug challenger|1.10|14.80|Jacquet K.|France|2017|65.0|175.0|right|23.0|Casanova A.|Switzerland|2021|||right|20.0|clay|20230723
+Zug challenger|1.22|4.03|Bertola R.|Switzerland|2014|||right|25.0|Lopez N.|Switzerland|2018|||left|22.0|clay|20230723
+Zug challenger|1.19|4.33|Ribeiro E.|Brazil|2015|||right|26.0|Kobelt N.|Switzerland|2021|||right|20.0|clay|20230723
+Zug challenger|4.37|1.18|Dietrich D.|Switzerland|2021|||right|19.0|Fonio G.|Italy|2014|80.0|183.0|right|26.0|clay|20230723

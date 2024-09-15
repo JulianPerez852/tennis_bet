@@ -1,0 +1,188 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Seoul|1.17|5.04|Kwon S.|SouthKorea|2013|72.0|180.0|right|26.0|Chung Y.|SouthKorea|2013|78.0|178.0|right|26.0|hard|20220927
+Seoul|2.00|1.80|Nishioka Y.|Japan|2011|64.0|170.0|left|28.0|Evans D.|GreatBritain|2005|75.0|175.0|right|34.0|hard|20220927
+Seoul|2.38|1.57|Tseng C.|ChineseTaipei|2015|65.0|175.0|right|23.0|O'Connell C.|Australia|2011|78.0|183.0|right|30.0|hard|20220927
+Seoul|1.17|4.99|Brooksby J.|USA|2015|82.0|188.0|right|23.0|Wu T.|ChineseTaipei|2013|81.0|188.0|right|26.0|hard|20220927
+Seoul|1.49|2.61|Jarry N.|Chile|2012|90.0|198.0|right|28.0|Peniston R.|GreatBritain|2012|75.0|183.0|left|28.0|hard|20220927
+Seoul|1.44|2.76|McDonald M.|USA|2009|73.0|178.0|right|29.0|Martinez P.|Spain|2012|76.0|185.0|right|27.0|hard|20220927
+Seoul|1.20|4.48|Johnson S.|USA|2005|86.0|188.0|right|34.0|Nam J.|SouthKorea|2009|80.0|183.0|right|31.0|hard|20220927
+Tel Aviv|1.75|2.07|Leshem E.|Israel|2012|70.0|183.0|right|27.0|Oliel Y.|Israel|2015|78.0|188.0|left|24.0|indoors|20220927
+Tel Aviv|2.70|1.46|Pospisil V.|Canada|2005|88.0|193.0|right|34.0|Griekspoor T.|Netherlands|2012|85.0|188.0|right|28.0|indoors|20220927
+Tel Aviv|1.11|6.66|Korda S.|USA|2015|75.0|193.0|right|24.0|Ilkel C.|Turkey|2010|82.0|183.0|right|29.0|indoors|20220927
+Tel Aviv|1.49|2.62|Ruusuvuori E.|Finland|2014|79.0|188.0|right|25.0|Wolf J.|USA|2015|79.0|183.0|right|25.0|indoors|20220927
+Tel Aviv|3.54|1.30|Etcheverry T.|Argentina|2014|82.0|196.0|right|25.0|Karatsev A.|Russia|2009|85.0|185.0|right|30.0|indoors|20220927
+Tel Aviv|1.38|3.03|Rinderknech A.|France|2011|86.0|196.0|right|29.0|Copil M.|Romania|2005|87.0|193.0|right|33.0|indoors|20220927
+Tel Aviv|1.29|3.61|Van De Zandschulp B.|Netherlands|2011|83.0|188.0|right|28.0|Sousa J.|Portugal|2004|74.0|185.0|right|35.0|indoors|20220927
+Tel Aviv|1.32|3.37|Broady L.|GreatBritain|2009|78.0|183.0|left|30.0|Medjedovic H.|Serbia|2019|||right|21.0|indoors|20220927
+Sofia|2.54|1.51|Vukic A.|Australia|2012|84.0|188.0|right|28.0|Fognini F.|Italy|2002|79.0|178.0|right|37.0|indoors|20220927
+Sofia|1.23|4.20|Humbert U.|France|2014|73.0|188.0|left|26.0|Kuzmanov D.|Bulgaria|2009|77.0|193.0|right|31.0|indoors|20220927
+Sofia|1.31|3.45|Borges N.|Portugal|2012|75.0|185.0|right|27.0|Basic M.|BosniaandHerzeg.|2006|88.0|188.0|right|33.0|indoors|20220927
+Sofia|1.10|7.13|Otte O.|Germany|2010|79.0|193.0|right|31.0|Madaras D.|Sweden|2015|85.0|191.0|left|26.0|indoors|20220927
+Sofia|1.50|2.58|Rune H.|Denmark|2018|68.0|185.0|right|21.0|Van Rijthoven T.|Netherlands|2013|89.0|188.0|right|27.0|indoors|20220927
+Orleans challenger|1.72|2.05|Rosol L.|CzechRepublic|2002|83.0|193.0|right|39.0|Janvier M.|France|2012|80.0|193.0|right|27.0|indoors|20220927
+Orleans challenger|1.51|2.44|De Loore J.|Belgium|2010|86.0|191.0|right|31.0|Escoffier A.|France|2008|78.0|185.0|right|32.0|indoors|20220927
+Orleans challenger|1.43|2.70|Gaston H.|France|2015|68.0|173.0|left|23.0|Masur D.|Germany|2011|78.0|183.0|right|29.0|indoors|20220927
+Orleans challenger|1.35|3.06|Gombos N.|Slovakia|2008|85.0|193.0|right|34.0|Blanch U.|USA|2014|78.0|188.0|right|26.0|indoors|20220927
+Orleans challenger|1.25|3.70|Fucsovics M.|Hungary|2008|82.0|188.0|right|32.0|Bellier A.|Switzerland|2013|80.0|196.0|left|27.0|indoors|20220927
+Orleans challenger|1.49|2.49|Fils A.|France|2020|||right|20.0|Mansouri S.|Tunisia|2010|86.0|193.0|right|29.0|indoors|20220927
+Orleans challenger|1.37|2.93|Rodionov J.|Austria|2015|86.0|191.0|left|25.0|Rosenkranz M.|Germany|2014|||left|25.0|indoors|20220927
+Buenos Aires challenger|1.80|1.95|Burruchaga R.|Argentina|2018|||right|22.0|Juarez F.|Italy|2014|||right|26.0|clay|20220927
+Buenos Aires challenger|2.98|1.36|Darderi L.|Italy|2019|||right|22.0|Coria F.|Argentina|2007|73.0|180.0|right|32.0|clay|20220927
+Buenos Aires challenger|1.87|1.87|Leite W.|Brazil|2008|72.0|178.0|right|32.0|Midon L.|Argentina|2021|||right|20.0|clay|20220927
+Buenos Aires challenger|1.30|3.32|Cerundolo J.|Argentina|2016|68.0|183.0|left|22.0|Alvarez N.|Peru|2012|80.0|185.0|right|28.0|clay|20220927
+Buenos Aires challenger|3.01|1.32|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|Rodriguez Taverna S.|Argentina|2014|82.0|191.0|right|25.0|clay|20220927
+Buenos Aires challenger|1.57|2.24|Casanova H.|Argentina|2010|76.0|178.0|right|30.0|Collarini A.|Argentina|2007|80.0|185.0|left|32.0|clay|20220927
+Buenos Aires challenger|1.36|3.00|Bagnis F.|Argentina|2005|82.0|183.0|left|34.0|Tirante T.|Argentina|2016|78.0|185.0|right|23.0|clay|20220927
+Buenos Aires challenger|2.07|1.71|Navone M.|Argentina|2017|||right|23.0|Meligeni Rodrigues Alves F.|Brazil|2014|78.0|185.0|right|26.0|clay|20220927
+Buenos Aires challenger|1.43|2.71|Otegui J.|Argentina|2014|83.0|191.0|right|25.0|Monzon I.|Argentina|2013|||right|26.0|clay|20220927
+Buenos Aires challenger|3.28|1.31|Sanchez Jover C.|Spain|2015|||left|24.0|Diaz Acosta F.|Argentina|2017|73.0|183.0|left|23.0|clay|20220927
+Buenos Aires challenger|1.83|1.90|Torres J.|Argentina|2019|||right|22.0|Olivieri G.|Argentina|2014|73.0|175.0|right|26.0|clay|20220927
+Charleston challenger|1.34|3.10|Thompson J.|Australia|2010|82.0|183.0|right|30.0|Galarneau A.|Canada|2015|79.0|180.0|right|25.0|hard|20220927
+Charleston challenger|2.28|1.59|Quiroz R.|Ecuador|2006|88.0|193.0|left|32.0|Kingsley C.|USA|2017|75.0|188.0|right|23.0|hard|20220927
+Charleston challenger|2.19|1.63|Holmgren A.|Denmark|2015|||right|26.0|McHugh A.|GreatBritain|2016|70.0|178.0|right|24.0|hard|20220927
+Charleston challenger|2.18|1.64|Mena F.|Argentina|2008|78.0|183.0|right|31.0|Vacherot V.|Monaco|2014|||right|25.0|hard|20220927
+Charleston challenger|2.44|1.51|Nanda G.|USA|2015|||right|23.0|Nava E.|USA|2016|74.0|183.0|right|22.0|hard|20220927
+Charleston challenger|1.43|2.70|Kypson P.|USA|2015|79.0|188.0|right|24.0|Zhu E.|USA|2014|70.0|185.0|right|26.0|hard|20220927
+Charleston challenger|2.39|1.54|Oradini G.|Italy|2012|||left|26.0|Escobedo E.|Mexico|2010|82.0|185.0|right|28.0|hard|20220927
+Charleston challenger|1.28|3.48|Johns G.|USA|2016|70.0|180.0|right|23.0|Ross G.|USA|2014|||right|25.0|hard|20220927
+Charleston challenger|1.57|2.31|Young D.|USA|2004|79.0|183.0|left|35.0|Kumar O.|USA|2016|||left|22.0|hard|20220927
+Charleston challenger|1.51|2.47|Riedi L.|Switzerland|2020|||right|22.0|Kirchheimer S.|USA|2013|79.0|185.0|right|29.0|hard|20220927
+Charleston challenger|3.16|1.33|Mejia N.|Colombia|2014|77.0|185.0|right|24.0|Stricker D.|Switzerland|2018|||left|22.0|hard|20220927
+Charleston challenger|1.97|1.77|Jubb P.|GreatBritain|2016|69.0|180.0|right|24.0|Krueger M.|USA|2009|82.0|188.0|right|30.0|hard|20220927
+Lisbon challenger|1.30|3.37|Cecchinato M.|Italy|2009|78.0|185.0|right|31.0|Michalski D.|Poland|2017|77.0|180.0|right|24.0|clay|20220927
+Lisbon challenger|2.02|1.74|Misolic F.|Austria|2016|||right|23.0|Pellegrino A.|Italy|2012|81.0|185.0|right|27.0|clay|20220927
+Lisbon challenger|1.17|4.69|Zeppieri G.|Italy|2016|78.0|185.0|left|22.0|Jahn J.|Germany|2006|73.0|178.0|right|34.0|clay|20220927
+Lisbon challenger|1.99|1.77|Agamenone F.|Italy|2008|82.0|188.0|right|31.0|Moreno De Alboran N.|USA|2013|82.0|185.0|right|27.0|clay|20220927
+Lisbon challenger|2.77|1.41|Elias G.|Portugal|2006|76.0|183.0|right|33.0|Cachin P.|Argentina|2011|77.0|185.0|right|29.0|clay|20220927
+Lisbon challenger|1.93|1.80|Van Assche L.|France|2019|||right|20.0|Bonadio R.|Italy|2009|81.0|180.0|right|31.0|clay|20220927
+Lisbon challenger|1.53|2.43|Paire B.|France|2007|80.0|196.0|right|35.0|Oliveira G.|Venezuela|2010|79.0|185.0|left|29.0|clay|20220927
+Lisbon challenger|2.21|1.61|Milojevic N.|Serbia|2011|76.0|188.0|right|29.0|Barranco Cosano J.|Spain|2014|72.0|175.0|left|25.0|clay|20220927
+Lisbon challenger|1.69|2.09|Kopriva V.|CzechRepublic|2015|69.0|178.0|right|27.0|Sousa P.|Portugal|2003|70.0|180.0|right|36.0|clay|20220927
+Lisbon challenger|1.65|2.14|Taberner C.|Spain|2013|78.0|183.0|right|27.0|Stebe C.|Germany|2008|70.0|183.0|left|33.0|clay|20220927
+Lisbon challenger|1.57|2.27|Skatov T.|Kazakhstan|2016|73.0|173.0|right|23.0|Roca Batalla O.|Spain|2008|75.0|173.0|right|31.0|clay|20220927
+Lisbon challenger|2.20|1.63|Ajdukovic D.|Croatia|2015|75.0|185.0|right|23.0|Kolar Z.|CzechRepublic|2013|76.0|185.0|right|27.0|clay|20220927
+Lisbon challenger|1.66|2.07|Castagnola L.|Italy|2019|72.0|183.0|right|22.0|Calvano G.|Italy|2014|||right|26.0|clay|20220927
+Lisbon challenger|1.21|3.94|Lilov V.|USA|2019|||right|20.0|Castro C.|Chile|2009|||right|31.0|clay|20220927
+Lisbon challenger|1.01|12.53|Buitrago N.|Colombia|2016|||right|26.0|Castaneda M.|Colombia|2021|||right||clay|20220927
+Lisbon challenger|1.01|12.53|Fonio G.|Italy|2014|80.0|183.0|right|26.0|Bertuccioli F.|Italy|2014|||right|26.0|clay|20220927
+Lisbon challenger|1.02|8.18|Ejupovic E.|Germany|2009|90.0|193.0|right|31.0|D'Agostino S.|Italy|2017|||right|20.0|clay|20220927
+Lisbon challenger|8.37|1.04|Pozzani N.|Italy|2021|||right|21.0|Stodder T.|Germany|2012|66.0|180.0|right|28.0|clay|20220927
+Lisbon challenger|1.38|2.77|Cortegiani A.|Italy|2013|74.0|178.0|right|28.0|Piatti R.|Monaco|2019|||right||clay|20220927
+Lisbon challenger|1.57|2.24|Basso A.|Italy|2008|||left|30.0|La Vela G.|Italy|2018|||right|23.0|clay|20220927
+Lisbon challenger|1.04|8.93|Droguet T.|France|2017|||right|23.0|Martin T.|GreatBritain|2010|78.0|188.0|right|31.0|clay|20220927
+Lisbon challenger|1.07|6.94|Picchione A.|Italy|2017|||right|26.0|Pampanin P.|Italy|2016|||right|21.0|clay|20220927
+Lisbon challenger|1.51|2.35|Ovcharenko O.|Ukraine|2016|||right|22.0|Danilov S.|Russia|2017|75.0|188.0|right|24.0|clay|20220927
+Lisbon challenger|1.15|4.65|Tonejc V.|Croatia|2021|||right|25.0|Hellum Lilleengen L.|Norway|2016|75.0|180.0|right|23.0|clay|20220927
+Lisbon challenger|1.03|9.30|Parker S.|GreatBritain|2016|||right|27.0|Temirhanov A.|Sweden|2018|||right|20.0|clay|20220927
+Lisbon challenger|1.87|1.82|Karlsson Wistrand J.|Sweden|2022|||right|22.0|Saar A.|Sweden|2022|||right||clay|20220927
+Lisbon challenger|1.03|9.30|Bergevi F.|Sweden|2010|81.0|185.0|right|30.0|Ahti V.|Finland|2017|||right|25.0|clay|20220927
+Lisbon challenger|1.32|3.10|Guerrieri A.|Italy|2015|||left|25.0|Malgaroli L.|Italy|2017|||right|22.0|clay|20220927
+Lisbon challenger|1.16|4.53|Squire H.|Germany|2015|||right|23.0|Freund S.|Sweden|2013|72.0|178.0|right|27.0|clay|20220927
+Lisbon challenger|1.04|11.75|Gray A.|GreatBritain|2016|73.0|188.0|right|26.0|Bergdahl A.|Sweden|2020|||right||clay|20220927
+Lisbon challenger|1.26|3.47|Mridha J.|Sweden|2011|75.0|183.0|right|29.0|Hannestad B.|Denmark|2014|||right|27.0|clay|20220927
+Lisbon challenger|1.08|6.62|Steinegger Y.|Switzerland|2017|||right|23.0|Nokic E.|Sweden|2021|||right||clay|20220927
+Lisbon challenger|1.08|6.40|Monday J.|GreatBritain|2019|||left|22.0|Trinker J.|Austria|2011|||right|29.0|clay|20220927
+Lisbon challenger|1.38|2.79|Friberg K.|Sweden|2014|91.0|185.0|right|25.0|Hussey G.|GreatBritain|2018|||left|27.0|clay|20220927
+Lisbon challenger|1.08|6.57|Royer V.|France|2018|83.0|188.0|right|23.0|Nordquist A.|Sweden|2015|84.0|185.0|right|26.0|clay|20220927
+Lisbon challenger|2.17|1.61|Renard L.|Sweden|2008|80.0|185.0|right|31.0|Pearson K.|Australia|2014|60.0|180.0|right|25.0|clay|20220927
+Lisbon challenger|1.22|3.78|Guillen Meza A.|Ecuador|2017|||right|21.0|Ogura K.|Japan|2016|68.0|170.0|right|28.0|clay|20220927
+Lisbon challenger|1.54|2.21|Panta J.|Peru|2011|||right|29.0|Fernandez Flores D.|Chile|2017|||right|23.0|clay|20220927
+Lisbon challenger|1.03|9.07|Tokuda R.|Japan|2013|69.0|178.0|right|26.0|Morita K.|Japan|2022|||right||clay|20220927
+Lisbon challenger|1.07|7.03|Kawakami R.|Japan|2016|70.0|178.0|left|23.0|Matsuoka H.|Japan|2022|||right|19|clay|20220927
+Lisbon challenger|1.29|3.24|Bun K.|Cambodia|2010|||right|34.0|Chaiyarin C.|Thailand|2018|||right|20.0|clay|20220927
+Lisbon challenger|1.51|2.36|Ehara H.|Japan|2006|||right|33.0|Tajima N.|Japan|2016|73.0|173.0|right|23.0|clay|20220927
+Lisbon challenger|1.04|8.95|Congcar C.|Thailand|2013|68.0|175.0|right|28.0|Le Khanh Duy T.|VietNam|2017|||right|21.0|clay|20220927
+Lisbon challenger|1.53|2.33|Harazaki A.|Japan|2022|||right||Kawachi K.|Japan|2012|66.0|170.0|right|29.0|clay|20220927
+Lisbon challenger|1.61|2.17|Wong C.|HongKong|2018|||right|20.0|Isarow P.|Thailand|2011|70.0|175.0|right|28.0|clay|20220927
+Lisbon challenger|1.98|1.73|Ryan Ziegann S.|Australia|2017|||right|26.0|Nguyen D.|VietNam|2015|||right|25.0|clay|20220927
+Lisbon challenger|1.03|9.44|Noguchi R.|Japan|2016|63.0|168.0|right|25.0|Horiuchi R.|Japan|2017|||right|25.0|clay|20220927
+Lisbon challenger|1.93|1.76|Hazawa S.|Japan|2016|68.0|175.0|right|25.0|Isomura K.|Japan|2021|||right|21.0|clay|20220927
+Lisbon challenger|1.13|5.10|Imai S.|Japan|2012|74.0|178.0|right|30.0|Ichikawa T.|Japan|2017|||left|23.0|clay|20220927
+Lisbon challenger|3.30|1.30|Matsuda K.|Japan|2022|||right|23|Uesugi K.|Japan|2013|70.0|180.0|right|29.0|clay|20220927
+Lisbon challenger|1.23|3.87|Sakamoto R.|Japan|2022|||right|18.0|Azkara A.|Turkey|2017|||right|21.0|clay|20220927
+Lisbon challenger|1.10|6.15|Kikuchi Y.|Japan|2016|||right|24.0|Bynoe E.|USA|2016|||right|25.0|clay|20220927
+Lisbon challenger|1.55|2.30|Wood W.|USA|2011|||right|31.0|Diaz Jalil A.|Ecuador|2019|||right|22.0|clay|20220927
+Lisbon challenger|1.27|3.40|O'Hoisin O.|Ireland|2015|82.0|193.0|right|27.0|Koshis C.|Cyprus|2020|||right||clay|20220927
+Lisbon challenger|1.14|4.82|Vallejo A.|Paraguay|2019|||right|20.0|Nunez D.|Chile|2018|||right|23.0|clay|20220927
+Lisbon challenger|2.51|1.46|Jorda Sanchis D.|Spain|2009|86.0|196.0|right|30.0|Kravchenko G.|Ukraine|2016|63.0|180.0|right|24.0|clay|20220927
+Lisbon challenger|1.15|4.78|Kimhi O.|Israel|2019|||right|21.0|Osorio J.|Colombia|2013|||right|26.0|clay|20220927
+Lisbon challenger|3.77|1.22|Jones M.|USA|2016|||right|23.0|Roberts J.|Bahamas|2013|85.0|183.0|right|27.0|clay|20220927
+Lisbon challenger|2.54|1.45|Giannella J.|Brazil|2017|||right|24.0|Strode E.|USA|2021|||left|22.0|clay|20220927
+Lisbon challenger|1.26|3.42|Tomic B.|Australia|2008|91.0|196.0|right|31.0|Rocha F.|Portugal|2016|||right|24.0|clay|20220927
+Lisbon challenger|1.29|3.25|Siniakov D.|CzechRepublic|2019|||right|21.0|Galik M.|Slovakia|2020|||right||clay|20220927
+Lisbon challenger|1.51|2.39|Kupcic J.|Slovenia|2019|||right|23.0|Mrva M.|CzechRepublic|2022|||right|17|clay|20220927
+Lisbon challenger|2.42|1.50|Voisin E.|France|2017|72.0|178.0|right|24.0|Gill F.|GreatBritain|2018|||left|22.0|clay|20220927
+Lisbon challenger|1.18|4.30|Handel T.|Germany|2013|||right|27.0|Karol M.|Slovakia|2019|90.0|198.0|right|21.0|clay|20220927
+Lisbon challenger|2.12|1.62|Tomescu D.|Romania|2014|||right|25.0|Kodat T.|USA|2019|73.0|178.0|right|21.0|clay|20220927
+Lisbon challenger|1.42|2.63|Agwi M.|Ireland|2022|||right|21.0|Jenicek J.|CzechRepublic|2016|||right|24.0|clay|20220927
+Lisbon challenger|1.19|4.16|Knaff A.|Luxembourg|2015|||right|26.0|Faucon R.|Belgium|2020|||right|21.0|clay|20220927
+Lisbon challenger|3.50|1.26|Papamalamis T.|France|2022|||right|18.0|Zima L.|Germany|2015|||right|24.0|clay|20220927
+Lisbon challenger|3.50|1.26|Gulin S.|Russia|2021|||right|21.0|Malla B.|Chile|2010|||right|27.0|clay|20220927
+Lisbon challenger|7.27|1.06|Musitelli F.|France|2015|||right|25.0|Chidekh C.|France|2016|||right|23.0|clay|20220927
+Lisbon challenger|1.05|7.82|Kym J.|Switzerland|2019|87.0|198.0|right|21.0|Oetzbach A.|Germany|2014|80.0|185.0|right|26.0|clay|20220927
+Lisbon challenger|1.42|2.63|Mu T.|China|2015|75.0|180.0|right|24.0|Steiner M.|Germany|2017|||right|30.0|clay|20220927
+Lisbon challenger|1.03|10.37|Debru G.|France|2021|||right|18.0|Ouakaa A.|Tunisia|2015|||right|25.0|clay|20220927
+Lisbon challenger|1.01|9.83|Gima S.|Romania|2017|||left|22.0|Sharma T.|India|2021|||right|24.0|clay|20220927
+Lisbon challenger|1.07|7.04|Fuele M.|Hungary|2015|||right|25.0|Petr V.|CzechRepublic|2020|||right|19.0|clay|20220927
+Lisbon challenger|4.17|1.18|Frusina A.|USA|2022|||right|18.0|Pujol Navarro B.|Spain|2017|||left|22.0|clay|20220927
+Lisbon challenger|2.72|1.40|Yang J.|Germany|2017|||right|27.0|Gentzsch T.|Germany|2021|||right|20.0|clay|20220927
+Lisbon challenger|1.82|1.85|Alcala Gurri M.|Spain|2018|||right|21.0|Winter Lopez B.|Spain|2016|||right|26.0|clay|20220927
+Lisbon challenger|1.17|4.30|Welte M.|Germany|2015|||right|23.0|Nagel A.|France|2021|||right|21.0|clay|20220927
+Lisbon challenger|1.02|9.60|Denolly C.|France|2013|77.0|185.0|left|27.0|Roig A.|Spain|2022|||||clay|20220927
+Lisbon challenger|1.03|9.41|Matas Ortega X.|Spain|2018|||right|22.0|Sanchez Sanchez B.|Spain|2022|||right|19|clay|20220927
+Lisbon challenger|1.49|2.46|Barton H.|CzechRepublic|2020|||right|20.0|Nejedly P.|CzechRepublic|2012|76.0|180.0|right|31.0|clay|20220927
+Lisbon challenger|1.10|5.96|Barroso Campos A.|Spain|2013|72.0|178.0|right|28.0|Andre S.|Senegal|2020|||right|21.0|clay|20220927
+Lisbon challenger|2.93|1.34|Ellouck R.|Israel|2021|||right|19.0|Zanellato N.|Brazil|2021|||right|22.0|clay|20220927
+Lisbon challenger|1.54|2.29|Sun F.|China|2014|75.0|178.0|right|27.0|Ivanovski K.|NorthMacedonia|2019|||right|20.0|clay|20220927
+Lisbon challenger|1.74|1.96|Huang T.|ChineseTaipei|2015|||right|24.0|Tamm K.|Estonia|2014|||right|26.0|clay|20220927
+Lisbon challenger|1.03|9.91|Haerteis J.|Germany|2011|88.0|193.0|left|28.0|Faure V.|France|2021|||right||clay|20220927
+Lisbon challenger|2.22|1.63|Bouquier A.|France|2017|||right|23.0|Gautier A.|France|2012|75.0|198.0|right|27.0|clay|20220927
+Lisbon challenger|1.70|2.01|Negritu C.|Germany|2010|81.0|193.0|right|30.0|Scaglia M.|France|2014|||right|25.0|clay|20220927
+Lisbon challenger|1.05|8.10|Mensik J.|CzechRepublic|2020|||right|18.0|Mruzek S.|CzechRepublic|2021|||right||clay|20220927
+UK Pro Series|1.07|6.45|Weightman O.|GreatBritain|2018|||right|22.0|Denisov I.|Russia|2015|||right|24.0|indoors|20220927
+UK Pro Series|1.21|3.70|Fery A.|GreatBritain|2019|||right|22.0|Murphy B.|GreatBritain|2017|||right|24.0|indoors|20220927
+UK Pro Series|1.04|7.40|Matusevich A.|GreatBritain|2017|||right|23.0|Gibbens J.|GreatBritain|2015|||right|27.0|indoors|20220927
+UK Pro Series|3.30|1.26|Blaydes B.|GreatBritain|2022|||right||Paris J.|GreatBritain|2012|||right|28.0|indoors|20220927
+UTR Pro Tennis Series 5|1.13|4.75|Fantini L.|Italy|2020|||right|24.0|Babinciuc I.|Moldavsko|2003|||right|38.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.13|4.75|Virgili A.|Italy|2009|80.0|193.0|right|30.0|Radovanovic T.|Serbia|2016|||right|24.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.13|4.75|Fomin S.|Uzbekistan|2015|80.0|183.0|right|23.0|Parenti L.|Italy|2019|||right|21.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|2.30|1.50|Martin Manzano J.|Italy|2022|||left|19.0|Caruso A.|Italy|2019|||right|25.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.50|2.30|Tresca G.|Italy|2013|||right|26.0|Rieder H.|Italy|2013|||right|27.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.50|2.30|Ingarao A.|Italy|2016|||right|25.0|Taddia L.|Italy|2017|||right|24.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.50|2.30|De Vincentis M.|Italy|2014|87.0|188.0|left|26.0|D'Orazi M.|Italy|2022|||right|21|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|3.86|1.21|Robayo Arias J.|Colombia|2022|||right|19.0|Lock C.|Zimbabwe|2014|88.0|193.0|right|27.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.19|4.03|Esquici L.|Brazil|2021|||right|21.0|Torres Fernandez B.|Chile|2021|||right|20.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|3.48|1.23|Liokossis S.|Canada|2021|||right||Mostardi N.|USA|2017|||right|26.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.27|3.15|Shabaz M.|USA|2003|||right|37.0|Jakic M.|Croatia|2020|||right|21.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.57|2.21|Barreiros Reyes M.|Brazil|2017|||left|23.0|Zanotti A.|Italy|2019|||right|25.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.15|4.30|Mckennon M.|USA|2017|||left|22.0|Krivokapic A.|Montenegro|2021|||right||Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.08|5.90|Wang C.|China|2015|64.0|173.0|right|25.0|Iaquinto A.|Italy|2022|||right||Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.60|2.18|Uribe P.|Colombia|2015|||right|25.0|Abde Celis J.|Chile|2011|||right|26.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.22|3.53|Hudd E.|GreatBritain|2017|||right|24.0|Vasser O.|USA|2022|||right||Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.25|3.30|Kissell C.|USA|2014|||right|28.0|Lerby C.|Netherlands|2016|||right|22.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.59|2.18|Dickerson R.|USA|2019|||right|27.0|Ribero F.|Argentina|2014|82.0|188.0|right|25.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.12|4.80|Lakoseljac C.|Canada|2015|||right|25.0|Samaha G.|USA|2022|||right||Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.11|5.45|Pontoglio D.|Italy|2012|68.0|175.0|right|32.0|Augusto Dos Santos R.|Brazil|2021|||right|21.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.52|2.32|Leal V.|Brazil|2019|||right|25.0|Price Pelaez S.|Colombia|2021|||right|19.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.25|3.33|Menichella S.|USA|2013|||right|29.0|Sanchez S.|Mexico|2021|||right||Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.11|5.10|Kuperstein A.|USA|2013|||right||Humpfner K.|Germany|2022|||right|24.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.17|4.10|Ribeiro Lago E.|Italy|2012|||right|26.0|Tedesco G.|Brazil|2021|||right|19.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.36|2.73|Stewart H.|GreatBritain|2017|||right|25.0|Du Toit R.|Canada|2011|||right|30.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.34|2.80|Rogers A.|USA|2017|||right|25.0|Boscarino F.|Argentina|2014|||right|28.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.35|2.75|Alvarado Berrospi A.|Peru|2018|||right|24.0|Alves V.|Brazil|2021|||right||Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.14|4.46|Lee T.|SouthKorea|2010|||right|32.0|Sabaliauskas A.|Lithuania|2018|||right|21.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.24|3.44|Shin W.|SouthKorea|2018|||right|20.0|Zheng B.|China|2015|||right|23.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.24|3.58|Bradshaw J.|Australia|2021|||right|21.0|El Sallaly A.|Egypt|2013|||right|26.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.15|4.54|Jones A.|GreatBritain|2014|||right|26.0|Tsai C.|ChineseTaipei|2018|||right|23.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.40|2.55|Sheyngezikht L.|Bulgaria|2016|||right|23.0|Oliver Moratalla V.|Spain|2017|||right|24.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.64|2.05|Maloney P.|USA|2017|||right|24.0|Genov A.|Bulgaria|2019|||left|22.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|3.38|1.26|Vithoontien L.|Japan|2022|||left|25.0|Fekete J.|Slovakia|2019|||right|23.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.11|5.20|Nijboer R.|Netherlands|2016|77.0|180.0|right|25.0|Postay A.|Argentina|2014|||right|27.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|2.32|1.50|Nedelchev N.|Bulgaria|2019|||right|21.0|Bresciani L.|Italy|2017|||right|24.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|2.32|1.50|Iamachkine P.|Peru|2012|||right|28.0|Lopez N.|Switzerland|2018|||left|22.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.83|1.82|Ostapenkov D.|Belarus|2020|||right|21.0|Rossi L.|Italy|2021|||right|22.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.06|6.91|Vatteroni L.|Italy|2017|||right|23.0|Dustov M.|Uzbekistan|2022|||right||Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.06|6.91|Slump S.|Netherlands|2015|77.0|188.0|right|25.0|Bonnaud A.|France|2021|||left|27.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.46|2.41|Cayre P.|France|2011|||right|29.0|Kiger M.|USA|2016|||right|25.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.13|4.60|Cekirge K.|Turkey|2016|||right|24.0|Garcia Garcia A.|Spain|2022|||right|20.0|Varioussurfaces|20220927
+UTR Pro Tennis Series 5|1.25|3.49|Sorger S.|Austria|2020|||right|18.0|Simeunovic S.|Canada|2021|||right||Varioussurfaces|20220927

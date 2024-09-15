@@ -1,0 +1,79 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+French Open|1.20|4.52|Djokovic N.|Serbia|2003|80.0|187.0|right|37.0|Musetti L.|Italy|2017|75.0|185.0|right|22.0|clay|20240601
+French Open|1.22|4.24|Ruud C.|Norway|2013|77.0|183.0|right|25.0|Etcheverry T.|Argentina|2014|82.0|196.0|right|25.0|clay|20240601
+French Open|1.18|4.94|Dimitrov G.|Bulgaria|2007|81.0|191.0|right|33.0|Bergs Z.|Belgium|2014|83.0|185.0|right|25.0|clay|20240601
+French Open|1.14|5.71|Fritz T.|USA|2013|86.0|193.0|right|26.0|Kokkinakis T.|Australia|2010|84.0|193.0|right|28.0|clay|20240601
+French Open|2.24|1.65|Cerundolo F.|Argentina|2016|78.0|185.0|right|26.0|Paul T.|USA|2013|82.0|185.0|right|27.0|clay|20240601
+French Open|1.12|6.43|Rune H.|Denmark|2018|68.0|185.0|right|21.0|Kovalik J.|Slovakia|2007|82.0|183.0|right|31.0|clay|20240601
+French Open|1.41|2.96|Hurkacz H.|Poland|2014|81.0|196.0|right|27.0|Shapovalov D.|Canada|2013|75.0|185.0|left|25.0|clay|20240601
+French Open|1.11|6.90|Zverev A.|Germany|2011|90.0|198.0|right|27.0|Griekspoor T.|Netherlands|2012|85.0|188.0|right|28.0|clay|20240601
+French Open|1.33|3.38|Medvedev D.|Russia|2011|83.0|198.0|right|28.0|Machac T.|CzechRepublic|2016|73.0|183.0|right|23.0|clay|20240601
+French Open|1.55|2.44|Auger Aliassime F.|Canada|2015|88.0|193.0|right|24.0|Shelton B.|USA|2021|||left|21.0|clay|20240601
+French Open|1.84|1.95|De Minaur A.|Australia|2015|69.0|183.0|right|25.0|Struff J.|Germany|2008|92.0|193.0|right|34.0|clay|20240601
+Little Rock challenger|1.64|2.11|Krueger M.|USA|2009|82.0|188.0|right|30.0|Shelbayh A.|Jordan|2019|||left|20.0|hard|20240601
+Little Rock challenger|2.24|1.60|Shimizu Y.|Japan|2015|62.0|163.0|left|25.0|Basavareddy N.|USA|2021|||right|19.0|hard|20240601
+Little Rock challenger|2.14|1.66|Shelbayh A.|Jordan|2019|||left|20.0|Holt B.|USA|2015|82.0|185.0|right|26.0|hard|20240601
+Vicenza challenger|3.18|1.33|Tseng C.|ChineseTaipei|2015|65.0|175.0|right|23.0|Passaro F.|Italy|2017|||right|23.0|clay|20240601
+Vicenza challenger|1.71|2.04|Trungelliti M.|Argentina|2006|78.0|178.0|right|34.0|Fatic N.|BosniaandHerzeg.|2010|88.0|191.0|right|29.0|clay|20240601
+Vicenza challenger|1.21|4.17|Passaro F.|Italy|2017|||right|23.0|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|clay|20240601
+Vicenza challenger|1.82|1.91|Tseng C.|ChineseTaipei|2015|65.0|175.0|right|23.0|Dellien M.|Bolivia|2011|||right|26.0|clay|20240601
+Vicenza challenger|2.28|1.58|Fatic N.|BosniaandHerzeg.|2010|88.0|191.0|right|29.0|Andreev A.|Bulgaria|2015|66.0|180.0|right|23.0|clay|20240601
+Vicenza challenger|1.60|2.25|Trungelliti M.|Argentina|2006|78.0|178.0|right|34.0|Barrios Vera M.|Chile|2013|88.0|191.0|right|26.0|clay|20240601
+Vicenza challenger|1.49|2.45|Gomez F.|Argentina|2014|||right|27.0|Chazal M.|France|2008|72.0|175.0|right|31.0|clay|20240601
+Vicenza challenger|1.44|2.57|Kasnikowski M.|Poland|2020|||right|21.0|Dutra da Silva D.|Brazil|2003|||left|36.0|clay|20240601
+Vicenza challenger|1.60|2.18|Clarke J.|GreatBritain|2013|82.0|188.0|right|26.0|Sharipov M.|Russia|2019|||right|21.0|clay|20240601
+Vicenza challenger|1.26|3.52|Kuhn N.|Germany|2015|75.0|185.0|right|24.0|Domingues J.|Portugal|2008|70.0|178.0|right|30.0|clay|20240601
+Vicenza challenger|1.25|3.59|Butvilas E.|Lithuania|2021|||right|20.0|Sakamoto R.|Japan|2022|||right|18.0|clay|20240601
+Vicenza challenger|1.44|2.60|Te R.|China|2014|80.0|188.0|right|26.0|Mo Y.|China|2016|||right|24.0|clay|20240601
+Vicenza challenger|1.20|4.03|Sun F.|China|2014|75.0|178.0|right|27.0|Jin Y.|China|2018|||right|23.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Gruenig G.|Switzerland|2016|||right|24.0|Moundir Y.|Switzerland|2022|||right||clay|20240601
+Swiss Nationalliga A|1.20|4.03|Marti Y.|Switzerland|2005|74.0|173.0|right|36.0|Huber D.|Switzerland|2013|||right|28.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Staeheli L.|Switzerland|2017|||right|24.0|Perez Contri S.|Spain|2013|||left|26.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Ehrat S.|Switzerland|2007|72.0|180.0|right|33.0|Aregger L.|Switzerland|2018|||right|23.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Talimaa N.|Switzerland|2017|||right|25.0|Ramuz R.||2024|||||clay|20240601
+Swiss Nationalliga A|1.20|4.03|Vogeli F.|Switzerland|2021|||right||Espasandin J.|Switzerland|2007|||right|34.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Berrut A.|Switzerland|2023|||right|19.0|Kahoun J.|Switzerland|2009|64.0|173.0|right|32.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Simmen J.|Switzerland|2022|||right||Mathys T.|Switzerland|2022|||right|20.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Heller P.|Germany|2008|76.0|185.0|right|32.0|Lopez N.|Switzerland|2018|||left|22.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Rosol L.|CzechRepublic|2002|83.0|193.0|right|39.0|Schaer J.|Switzerland|2017|||right|24.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Malgiaritta M.|Switzerland|2018|||right|23.0|Castelnuovo L.|Switzerland|2013|||left|27.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Lustenberger R.|Switzerland|2006|||right|35.0|Gruenig G.|Switzerland|2022|||right|21.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Nikles J.|Switzerland|2013|68.0|170.0|right|27.0|Mrose O.|Switzerland|2012|||right|31.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Prado A.|Argentina|2007|||right|33.0|Gaillard T.|Switzerland|2023|||right|18.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Wenger D.|Switzerland|2015|||right|24.0|Moundir A.|Morocco|2013|91.0|191.0|right|29.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Arus R.|Uruguay|2010|||right|29.0|Kobelt N.|Switzerland|2021|||right|20.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Karma N.|Switzerland|2023|||right||Ouzilou H.|Switzerland|2022|||right|21.0|clay|20240601
+Swiss Nationalliga A|1.20|4.03|Barroso Campos A.|Spain|2013|72.0|178.0|right|28.0|Laurent Y.|France|2009|76.0|183.0|right|32.0|clay|20240601
+Swiss Nationalliga A|1.21|3.89|Sell K.|Brazil|2009|81.0|183.0|right|30.0|Rubio Fierros A.|Mexico|2015|||right|25.0|clay|20240601
+Swiss Nationalliga A|1.35|2.93|Shah A.|India|2022|||right|18.0|Ogura K.|Japan|2016|68.0|170.0|right|28.0|clay|20240601
+Swiss Nationalliga A|1.24|3.64|Tien L.|USA|2021|||left|18.0|Knaff A.|Luxembourg|2015|||right|26.0|clay|20240601
+Swiss Nationalliga A|2.44|1.49|Martin D.|Canada|2016|||right|25.0|Grant W.|USA|2015|||right|23.0|clay|20240601
+Swiss Nationalliga A|1.72|1.97|Fajta P.|Hungary|2018|||right|22.0|Ortenzi G.|Italy|2017|||right|24.0|clay|20240601
+Swiss Nationalliga A|1.58|2.22|Schiessl J.|Brazil|2021|||left|20.0|Sorrentino L.|Italy|2015|||right|26.0|clay|20240601
+Swiss Nationalliga A|2.22|1.58|Artnak B.|Slovenia|2021|||right|20.0|Matusevich A.|GreatBritain|2017|||right|23.0|clay|20240601
+Swiss Nationalliga A|1.44|2.56|Gorokhov M.|Russia|2021|||right|20.0|Khazime D.|Russia|2023|||right|19.0|clay|20240601
+Swiss Nationalliga A|1.64|2.09|Araujo P.|Portugal|2019|||right|22.0|Flores J.|CostaRica|2012|82.0|188.0|right|29.0|clay|20240601
+Swiss Nationalliga A|1.67|2.05|Cerny M.|CzechRepublic|2019|||right|22.0|Madarasz G.|Hungary|2012|80.0|180.0|left|29.0|clay|20240601
+Swiss Nationalliga A|1.13|5.09|Gueymard Wayenburg S.|France|2020|||right|21.0|Mashtakov M.|Ukraine|2014|73.0|178.0|right|25.0|clay|20240601
+Swiss Nationalliga A|1.56|2.25|Prihodko O.|Ukraine|2014|77.0|180.0|right|26.0|Gulin S.|Russia|2021|||right|21.0|clay|20240601
+Swiss Nationalliga A|2.88|1.36|Milev Y.|Bulgaria|2019|||right|20.0|Sultanov K.|Uzbekistan|2013|80.0|180.0|right|25.0|clay|20240601
+Swiss Nationalliga A|1.84|1.84|Mikrut L.|Croatia|2021|||right|20.0|Poljicak M.|Croatia|2020|||right|20.0|clay|20240601
+Swiss Nationalliga A|1.16|4.43|Boitan G.|Romania|2016|||right|25.0|Ferrari F.|Italy|2013|||right|27.0|clay|20240601
+Swiss Nationalliga A|3.31|1.28|Snitari I.|Moldavsko|2020|||right|22.0|Ionel N.|Romania|2017|71.0|183.0|right|21.0|clay|20240601
+Swiss Nationalliga A|1.06|7.19|Uchida K.|Japan|2008|74.0|180.0|right|29.0|Sugaya Y.|Japan|2022|||right|21.0|clay|20240601
+Swiss Nationalliga A|1.29|3.25|Fukuda S.|Japan|2012|72.0|183.0|left|26.0|Masabayashi T.|Japan|2014|||right|26.0|clay|20240601
+Swiss Nationalliga A|1.84|1.84|Fukuda S.|Japan|2012|72.0|183.0|left|26.0|Imamura M.|Japan|2015|||right|25.0|clay|20240601
+Swiss Nationalliga A|2.24|1.57|Masabayashi T.|Japan|2014|||right|26.0|Matsumura R.|Japan|2011|69.0|183.0|right|27.0|clay|20240601
+Swiss Nationalliga A|1.10|5.87|Uchida K.|Japan|2008|74.0|180.0|right|29.0|Tanuma R.|Japan|2013|64.0|180.0|right|28.0|clay|20240601
+Swiss Nationalliga A|2.36|1.52|Sugaya Y.|Japan|2022|||right|21.0|Shin W.|SouthKorea|2018|||right|20.0|clay|20240601
+UTR Pro Tennis Series 5|2.20|1.62|Antonopoulos C.|Greece|2013|||right|26.0|Minasyan M.|Sweden|2022|||right||Varioussurfaces|20240601
+UTR Pro Tennis Series 5|2.25|1.57|Mitsakos T.|Greece|2020|||right||Quirijns K.|Switzerland|2021|||right||Varioussurfaces|20240601
+UTR Pro Tennis Series 5|1.57|2.25|Haddouch I.|Belgium|2021|||right|20.0|Bogo E.|Brazil|2011|||right|29.0|Varioussurfaces|20240601
+UTR Pro Tennis Series 5|1.25|3.75|Rajski M.|Poland|2006|80.0|193.0|right|33.0|Ginat R.|Israel|2016|||right|23.0|Varioussurfaces|20240601
+UTR Pro Tennis Series 5|1.62|2.20|Nouchakis G.|Greece|2021|||right||Schinas S.|Greece|2012|||right|27.0|Varioussurfaces|20240601
+UTR Pro Tennis Series 5|1.22|4.00|Jones R.|GreatBritain|2021|||right||Loizas A.|Greece|2022|||right||Varioussurfaces|20240601
+UTR Pro Tennis Series 5|6.50|1.10|Stavrakas A.|Greece|2022|||right||Sakellaridis S.|Greece|2018|||right|19.0|Varioussurfaces|20240601
+UTR Pro Tennis Series 5|2.25|1.57|Vasilakis E.|Greece|2022|||right||Konowczuk W.|Ukraine|2022|||right||Varioussurfaces|20240601
+UTR Pro Tennis Series 5|1.67|2.10|Xilas I.|Greece|2019|||right|23.0|Dinev D.|Bulgaria|2021|||right|20.0|Varioussurfaces|20240601
+UTR Pro Tennis Series 5|1.11|6.00|Paardekooper S.|Netherlands|2023|||right|21.0|Glavas C.|Greece|2022|||right||Varioussurfaces|20240601
+UTR Pro Tennis Series 5|1.11|6.00|Kang W.|SouthKorea|2024|||right|18.0|Lee W.|SouthKorea|2024|||right|19|Varioussurfaces|20240601

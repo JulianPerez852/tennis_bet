@@ -1,0 +1,121 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Wimbledon|1.04|13.94|Djokovic N.|Serbia|2003|80.0|187.0|right|37.0|Wawrinka S.|Switzerland|2001|79.0|182.0|right|39.0|grass|20230707
+Wimbledon|1.20|4.63|Rublev A.|Russia|2013|70.0|188.0|right|26.0|Goffin D.|Belgium|2006|70.0|180.0|right|33.0|grass|20230707
+Wimbledon|1.44|2.82|Safiullin R.|Russia|2013|75.0|185.0|right|27.0|Pella G.|Argentina|2005|79.0|183.0|left|34.0|grass|20230707
+Wimbledon|2.07|1.78|Tsitsipas S.|Greece|2013|89.0|193.0|right|26.0|Murray A.|GreatBritain|2002|83.0|190.0|right|37.0|grass|20230707
+Wimbledon|1.30|3.57|Shapovalov D.|Canada|2013|75.0|185.0|left|25.0|Broady L.|GreatBritain|2009|78.0|183.0|left|30.0|grass|20230707
+Wimbledon|3.16|1.37|Galan D.|Colombia|2011|72.0|191.0|right|28.0|Ymer M.|Sweden|2014|75.0|183.0|right|26.0|grass|20230707
+Wimbledon|3.64|1.30|Eubanks C.|USA|2012|82.0|201.0|right|28.0|Norrie C.|GreatBritain|2013|82.0|188.0|left|28.0|grass|20230707
+Wimbledon|1.14|5.78|Bublik A.|Kazakhstan|2011|77.0|198.0|right|27.0|Marterer M.|Germany|2011|84.0|191.0|left|29.0|grass|20230707
+Wimbledon|1.15|5.68|Sinner J.|Italy|2015|76.0|188.0|right|23.0|Halys Q.|France|2011|78.0|191.0|right|27.0|grass|20230707
+Wimbledon|1.64|2.28|Jarry N.|Chile|2012|90.0|198.0|right|28.0|Kubler J.|Australia|2008|74.0|178.0|right|31.0|grass|20230707
+Wimbledon|1.02|19.60|Alcaraz C.|Spain|2018|72.0|185.0|right|21.0|Muller A.|France|2012|75.0|183.0|right|27.0|grass|20230707
+Wimbledon|1.13|6.14|Zverev A.|Germany|2011|90.0|198.0|right|27.0|Watanuki Y.|Japan|2013|63.0|180.0|right|26.0|grass|20230707
+Wimbledon|1.51|2.59|Davidovich Fokina A.|Spain|2014|80.0|183.0|right|25.0|Van De Zandschulp B.|Netherlands|2011|83.0|188.0|right|28.0|grass|20230707
+Wimbledon|1.27|3.87|Medvedev D.|Russia|2011|83.0|198.0|right|28.0|Mannarino A.|France|2004|79.0|180.0|left|36.0|grass|20230707
+Wimbledon|1.58|2.42|Hurkacz H.|Poland|2014|81.0|196.0|right|27.0|Musetti L.|Italy|2017|75.0|185.0|right|22.0|grass|20230707
+Wimbledon|1.41|2.96|Fucsovics M.|Hungary|2008|82.0|188.0|right|32.0|Giron M.|USA|2008|77.0|180.0|right|31.0|grass|20230707
+Wimbledon|2.40|1.59|Berrettini M.|Italy|2012|95.0|196.0|right|28.0|De Minaur A.|Australia|2015|69.0|183.0|right|25.0|grass|20230707
+Wimbledon|1.87|1.96|O'Connell C.|Australia|2011|78.0|183.0|right|30.0|Vesely J.|CzechRepublic|2009|94.0|198.0|left|31.0|grass|20230707
+Wimbledon|1.07|9.19|Rune H.|Denmark|2018|68.0|185.0|right|21.0|Carballes Baena R.|Spain|2009|77.0|183.0|right|31.0|grass|20230707
+Bundesliga - men|1.07|9.19|Bloemke D.|Germany|2006|||right|35|Bourgue M.|France|2010|83.0|188.0|right|30.0|clay|20230707
+Bundesliga - men|1.07|9.19|Neuchrist M.|Austria|2009|||right|33.0|Schnaitter J.|Germany|2013|||right|28.0|clay|20230707
+Bundesliga - men|1.07|9.19|Yunis F.|Switzerland|2017|||right|22.0|Fritsche D.|Germany|2020|||right||clay|20230707
+Bundesliga - men|1.07|9.19|Torebko P.|Germany|2004|84.0|185.0|right|36.0|Madarasz G.|Hungary|2012|80.0|180.0|left|29.0|clay|20230707
+Bundesliga - men|1.07|9.19|Storck L.|Germany|2011|||right|29.0|Nystroem P.|Germany|2013|||right|29.0|clay|20230707
+Bundesliga - men|1.07|9.19|Gavrielides L.|Germany|2020|||right|20.0|Weindl M.|Germany|2013|||right|29.0|clay|20230707
+Bundesliga - men|1.07|9.19|Schlagenhauf N.|Germany|2018|||right|21.0|Bergevi F.|Sweden|2010|81.0|185.0|right|30.0|clay|20230707
+Bundesliga - men|1.07|9.19|Kuhn N.|Germany|2015|75.0|185.0|right|24.0|Dafcik T.|Germany|2012|||right|30.0|clay|20230707
+Bundesliga - men|1.07|9.19|Fatic N.|BosniaandHerzeg.|2010|88.0|191.0|right|29.0|Andreev A.|Bulgaria|2015|66.0|180.0|right|23.0|clay|20230707
+Bundesliga - men|1.07|9.19|Frantzen C.|Germany|2015|||right|26.0|Obert A.|Germany|2010|||right|29.0|clay|20230707
+Bundesliga - men|1.07|9.19|Paulson A.|CzechRepublic|2018|||right|22.0|Schell N.|Germany|2015|||right|25.0|clay|20230707
+Bundesliga - men|1.07|9.19|Sigsgaard C.|Denmark|2014|||right|27.0|Lemstra K.|Germany|2015|||right|25.0|clay|20230707
+Bundesliga - men|1.07|9.19|Lamasine T.|France|2010|69.0|183.0|right|31.0|Homberg M.|Germany|2021|||right|21.0|clay|20230707
+Bundesliga - men|1.07|9.19|Casanova H.|Argentina|2010|76.0|178.0|right|30.0|Barroso Campos A.|Spain|2013|72.0|178.0|right|28.0|clay|20230707
+Bundesliga - men|1.07|9.19|Handel T.|Germany|2013|||right|27.0|Orlov V.|Ukraine|2014|77.0|185.0|right|29.0|clay|20230707
+Bundesliga - men|1.07|9.19|Luz O.|Brazil|2013|78.0|180.0|right|26.0|Bobrov B.|Russia|2012|74.0|185.0|right|26.0|clay|20230707
+Bundesliga - men|1.07|9.19|Jaloviec M.|CzechRepublic|2010|72.0|180.0|left|30.0|Donski A.|Bulgaria|2014|80.0|188.0|right|26.0|clay|20230707
+Bundesliga - men|1.07|9.19|Woerner P.|Germany|2010|||right|27.0|Steib M.|Germany|2019|||right|23.0|clay|20230707
+Bundesliga - men|1.07|9.19|Wagner H.|Germany|2011|||right|28|Penzlin J.|Germany|2020|||right|22.0|clay|20230707
+Bundesliga - men|1.07|9.19|Escoffier A.|France|2008|78.0|185.0|right|32.0|Fanselow S.|Germany|2007|||right|32.0|clay|20230707
+Bundesliga - men|1.07|9.19|Wiedenmann L.|Germany|2015|||right|26.0|Mueller C.|Germany|2019|||right||clay|20230707
+Bundesliga - men|1.07|9.19|Barnat J.|CzechRepublic|2017|||right|23.0|Jebens H.|Germany|2010|91.0|196.0|right|29.0|clay|20230707
+Bundesliga - men|1.07|9.19|Wallner M.|Germany|2021|||right|25.0|Egea F.|Argentina|2012|||right||clay|20230707
+Bundesliga - men|1.07|9.19|Nicod J.|CzechRepublic|2020|||right|20.0|Satral J.|CzechRepublic|2008|82.0|188.0|right|34.0|clay|20230707
+Bloomfield Hills challenger|2.20|1.63|Kukushkin M.|Kazakhstan|2005|72.0|183.0|right|36.0|Kudla D.|USA|2008|79.0|180.0|right|32.0|hard|20230707
+Bloomfield Hills challenger|1.31|3.31|Sandgren T.|USA|2008|88.0|188.0|right|33.0|Mukund S.|India|2012|78.0|185.0|right|27.0|hard|20230707
+Bloomfield Hills challenger|2.25|1.61|Schoolkate T.|Australia|2019|78.0|183.0|right|23.0|Jasika O.|Australia|2011|60.0|183.0|left|27.0|hard|20230707
+Bloomfield Hills challenger|1.78|1.97|Johnson S.|USA|2005|86.0|188.0|right|34.0|Uchiyama Y.|Japan|2007|78.0|183.0|right|32.0|hard|20230707
+Karlsruhe challenger|2.44|1.52|Piros Z.|Hungary|2015|68.0|180.0|right|24.0|Seyboth Wild T.|Brazil|2014|78.0|185.0|right|24.0|clay|20230707
+Karlsruhe challenger|1.42|2.73|Zeppieri G.|Italy|2016|78.0|185.0|left|22.0|Gakhov I.|Russia|2011|80.0|191.0|left|27.0|clay|20230707
+Karlsruhe challenger|1.45|2.64|Tabilo A.|Chile|2013|75.0|188.0|left|27.0|Riedi L.|Switzerland|2020|||right|22.0|clay|20230707
+Karlsruhe challenger|1.41|2.81|Skatov T.|Kazakhstan|2016|73.0|173.0|right|23.0|Habib H.|Lebanon|2013|85.0|188.0|right|26.0|clay|20230707
+Milan challenger|1.30|3.32|Darderi L.|Italy|2019|||right|22.0|Midon L.|Argentina|2021|||right|20.0|clay|20230707
+Milan challenger|1.68|2.11|Cobolli F.|Italy|2017|||right|22.0|Tirante T.|Argentina|2016|78.0|185.0|right|23.0|clay|20230707
+Milan challenger|1.78|1.97|Gigante M.|Italy|2019|||left|22.0|Nardi L.|Italy|2018|||right|21.0|clay|20230707
+Milan challenger|1.39|2.86|Diaz Acosta F.|Argentina|2017|73.0|183.0|left|23.0|Onclin G.|Belgium|2016|||right|23.0|clay|20230707
+Santa Fe challenger|1.19|4.40|Comesana F.|Argentina|2017|||right|23.0|Guillen Meza A.|Ecuador|2017|||right|21.0|clay|20230707
+Santa Fe challenger|1.16|4.95|Navone M.|Argentina|2017|||right|23.0|Farjat T.|Argentina|2017|||right|23.0|clay|20230707
+Santa Fe challenger|1.42|2.74|Vallejo A.|Paraguay|2019|||right|20.0|Monzon I.|Argentina|2013|||right|26.0|clay|20230707
+Santa Fe challenger|1.42|2.76|Burruchaga R.|Argentina|2018|||right|22.0|Boscardin Dias P.|Brazil|2018|73.0|180.0|right|21.0|clay|20230707
+Troyes challenger|1.57|2.32|Hemery C.|France|2012|83.0|191.0|right|29.0|Giustino L.|Italy|2006|83.0|180.0|right|32.0|clay|20230707
+Troyes challenger|3.29|1.31|Jorda Sanchis D.|Spain|2009|86.0|196.0|right|30.0|Fonio G.|Italy|2014|80.0|183.0|right|26.0|clay|20230707
+Troyes challenger|1.83|1.91|Ajdukovic D.|Croatia|2015|75.0|185.0|right|23.0|Atmane T.|France|2017|||left|22.0|clay|20230707
+Troyes challenger|1.36|3.04|Guinard M.|France|2013|81.0|196.0|right|28.0|Durasovic V.|Norway|2013|80.0|185.0|right|27.0|clay|20230707
+Troyes challenger|1.22|3.80|Barranco Cosano J.|Spain|2014|72.0|175.0|left|25.0|Chepelev A.|Russia|2015|||left|26.0|clay|20230707
+Troyes challenger|2.15|1.65|Marie J.|France|2009|76.0|185.0|right|32.0|Coulibaly E.|IvoryCoast|2019|||left|22.0|clay|20230707
+Troyes challenger|1.38|2.82|Bellier A.|Switzerland|2013|80.0|196.0|left|27.0|Bouquier A.|France|2017|||right|23.0|clay|20230707
+Troyes challenger|1.16|4.57|Rybakov A.|USA|2012|68.0|185.0|left|27.0|Setkic A.|BosniaandHerzeg.|2004|86.0|191.0|right|36.0|clay|20230707
+Troyes challenger|1.52|2.35|Den Ouden G.|Netherlands|2020|||right|22.0|Nijboer R.|Netherlands|2016|77.0|180.0|right|25.0|clay|20230707
+Troyes challenger|2.19|1.60|Marmousez L.|France|2017|||right|22.0|Hoang A.|France|2011|76.0|183.0|right|28.0|clay|20230707
+Troyes challenger|4.09|1.20|Oetzbach A.|Germany|2014|80.0|185.0|right|26.0|Krumich M.|CzechRepublic|2018|||right|21.0|clay|20230707
+Troyes challenger|1.33|2.80|Madaras D.|Sweden|2015|85.0|191.0|left|26.0|Gima S.|Romania|2017|||left|22.0|clay|20230707
+Troyes challenger|1.39|2.78|Montes-De La Torre I.|Spain|2018|||right|21.0|Gill F.|GreatBritain|2018|||left|22.0|clay|20230707
+Troyes challenger|1.35|2.94|Napolitano S.|Italy|2010|90.0|196.0|right|29.0|Chazal M.|France|2008|72.0|175.0|right|31.0|clay|20230707
+Troyes challenger|2.12|1.63|Martinez A.|Spain|2018|||right|23.0|Gaubas V.|Lithuania|2019|||right|19.0|clay|20230707
+Troyes challenger|2.87|1.36|Wassermann D.|Netherlands|2016|||right|23.0|Jong S.|Netherlands|2020|||right|24.0|clay|20230707
+Troyes challenger|1.19|4.19|Wessels L.|Germany|2014|90.0|198.0|right|25.0|Recek D.|CzechRepublic|2012|||right|29.0|clay|20230707
+Troyes challenger|2.42|1.50|Lopez Morillo I.|Spain|2016|||right|24.0|Merida Aguilar D.|Spain|2020|||right|19.0|clay|20230707
+Troyes challenger|1.32|5.05|Houkes M.|Netherlands|2018|||left|24.0|Tkemaladze Z.|Georgia|2016|73.0|185.0|right|24.0|clay|20230707
+Troyes challenger|1.34|3.03|Lock B.|Zimbabwe|2008|86.0|198.0|right|31.0|Brunold M.|Switzerland|2020|||right|19.0|clay|20230707
+Troyes challenger|2.36|1.52|Dancu V.|Romania|2014|||right|25.0|Zukas M.|Argentina|2011|72.0|183.0|right|28.0|clay|20230707
+Troyes challenger|5.21|1.15|Preda L.|Romania|2022|||right|18.0|Papoe R.|Romania|2018|||right|22.0|clay|20230707
+Troyes challenger|3.70|1.23|Carboni L.|Italy|2023|||right|18.0|Tabur C.|France|2015|70.0|170.0|right|24.0|clay|20230707
+Troyes challenger|1.31|3.11|Stodder T.|Germany|2012|66.0|180.0|right|28.0|Popovic S.|Serbia|2019|||right|21.0|clay|20230707
+Troyes challenger|1.32|3.11|Crawford O.|GreatBritain|2016|84.0|180.0|right|25.0|Poljicak M.|Croatia|2020|||right|20.0|clay|20230707
+Troyes challenger|1.22|3.82|Vanshelboim E.|Ukraine|2018|86.0|188.0|right|23.0|Den Heijer G.|Netherlands|2013|||right|27.0|clay|20230707
+Troyes challenger|1.34|3.06|Madaras D.|Sweden|2015|85.0|191.0|left|26.0|Poljak D.|CzechRepublic|2011|77.0|188.0|right|28.0|clay|20230707
+Troyes challenger|3.15|1.31|Kodat T.|USA|2019|73.0|178.0|right|21.0|Kym J.|Switzerland|2019|87.0|198.0|right|21.0|clay|20230707
+Troyes challenger|2.28|1.56|Wenger D.|Switzerland|2015|||right|24.0|Debru G.|France|2021|||right|18.0|clay|20230707
+Troyes challenger|2.49|1.46|Gima S.|Romania|2017|||left|22.0|Boitan G.|Romania|2016|||right|25.0|clay|20230707
+Troyes challenger|2.04|1.71|Dostanic S.|USA|2018|||right|22.0|Sekulic P.|Australia|2018|||right|20.0|clay|20230707
+Troyes challenger|1.63|2.15|Perez A.|USA|2013|||right|27.0|Vandecasteele Q.|USA|2018|||right|22.0|clay|20230707
+Troyes challenger|2.26|1.57|Ilagan A.|USA|2017|||left|23.0|Smith K.|USA|2016|93.0|198.0|right|26.0|clay|20230707
+Troyes challenger|1.51|3.78|Angele J.|France|2015|93.0|206.0|right|24.0|Lee K.|USA|2017|||right|21.0|clay|20230707
+Troyes challenger|2.39|1.50|Boyd K.|USA|2012|||right|27.0|Peliwo F.|Poland|2010|72.0|180.0|right|30.0|clay|20230707
+Troyes challenger|1.52|2.34|Klok D.|Russia|2013|82.0|180.0|right|26.0|Kielan S.|Poland|2020|||right|21.0|clay|20230707
+Troyes challenger|1.23|4.96|Oliveira G.|Venezuela|2010|79.0|185.0|left|29.0|Privara P.|Slovakia|2020|||right|20.0|clay|20230707
+Troyes challenger|5.06|1.30|Skorilas A.|Greece|2016|81.0|185.0|right|24.0|Klier Junior G.|Brazil|2016|||right|24.0|clay|20230707
+Troyes challenger|1.26|3.47|Moeller M.|Germany|2016|69.0|178.0|right|25.0|Mridha J.|Sweden|2011|75.0|183.0|right|29.0|clay|20230707
+Troyes challenger|1.38|2.80|Gautier A.|France|2012|75.0|198.0|right|27.0|Tepmahc N.|France|2017|||right|23.0|clay|20230707
+Troyes challenger|1.20|4.29|Wong C.|HongKong|2018|||right|20.0|Bosio G.|Italy|2016|||right|23.0|clay|20230707
+Troyes challenger|1.80|2.05|Dodig M.|Croatia|2023|||right|19.0|Aboian L.|Argentina|2014|||left|26.0|clay|20230707
+Troyes challenger|2.74|1.40|Jones M.|Thailand|2019|||right|19.0|Sekiguchi S.|Japan|2007|66.0|168.0|right|33.0|clay|20230707
+Troyes challenger|1.43|2.63|Samrej K.|Thailand|2016|||right|23.0|Dev S.|India|2013|78.0|175.0|right|28.0|clay|20230707
+Troyes challenger|1.43|2.63|Shiraishi H.|Japan|2016|||right|24.0|Dzhavakian Y.|Ukraine|2010|||right|31.0|clay|20230707
+Troyes challenger|1.64|2.11|Matsuda R.|Japan|2018|||right|24.0|Son J.|SouthKorea|2010|74.0|180.0|right|29.0|clay|20230707
+Troyes challenger|1.48|2.46|Cui J.|China|2015|72.0|183.0|right|26.0|Shin W.|SouthKorea|2018|||right|20.0|clay|20230707
+Troyes challenger|1.36|2.90|Ostapenkov D.|Belarus|2020|||right|21.0|Wang C.|China|2015|64.0|173.0|right|25.0|clay|20230707
+Troyes challenger|1.37|2.84|Lee D.|SouthKorea|2013|75.0|175.0|right|26.0|Jin J.|Australia|2020|||right|20.0|clay|20230707
+Troyes challenger|1.31|3.11|Li Z.|China|2003|77.0|185.0|right|37.0|Ho R.|ChineseTaipei|2016|||left|24.0|clay|20230707
+UTR Pro Tennis Series 3|1.31|3.11|Stearns P.|USA|2021|||left|20.0|Kapasi K.|USA|2023|||right|20.0|Varioussurfaces|20230707
+UTR Pro Tennis Series 3|1.31|3.11|Barton J.|USA|2021|||right|22.0|Ross J.|USA|2020|||right|23.0|Varioussurfaces|20230707
+UTR Pro Tennis Series 3|1.31|3.11|Nortey I.|Ghana|2016|||right|25.0|Hurtado G.|Colombia|2019|||right||Varioussurfaces|20230707
+UTR Pro Tennis Series 3|1.31|3.11|Ross M.|GreatBritain|2019|||right||Fradkin J.|USA|2022|||right||Varioussurfaces|20230707
+UTR Pro Tennis Series 3|1.31|3.11|Lyons J.|USA|2022|||right||Casper L.|USA|2019|||right|22.0|Varioussurfaces|20230707
+UTR Pro Tennis Series 5|1.48|2.40|Fekete J.|Slovakia|2019|||right|23.0|Podorozhnyi A.|Ukraine|2021|||right||Varioussurfaces|20230707
+UTR Pro Tennis Series 5|2.80|1.35|Suc D.|CzechRepublic|2009|||right|33.0|Atlangeriev B.|Russia|2016|||right|23.0|Varioussurfaces|20230707
+UTR Pro Tennis Series 5|1.80|1.83|Brown O.|GreatBritain|2023|||right|21.0|Mashtakov M.|Ukraine|2014|73.0|178.0|right|25.0|Varioussurfaces|20230707
+UTR Pro Tennis Series 5|1.80|1.83|Novak J.|CzechRepublic|2021|||right||Sklenka V.|CzechRepublic|2020|||right||Varioussurfaces|20230707
+UTR Pro Tennis Series 5|1.83|1.80|Benson M.|USA|2021|||right|24.0|Dziopak J.|Poland|2022|||right||Varioussurfaces|20230707
+UTR Pro Tennis Series 5|1.40|2.60|Wright A.|GreatBritain|2022|||right||Sallay P.|Hungary|2016|||right|23.0|Varioussurfaces|20230707
