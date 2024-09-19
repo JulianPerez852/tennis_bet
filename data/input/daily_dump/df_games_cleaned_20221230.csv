@@ -1,0 +1,19 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Wawrinka S.|CHE|Right-Handed|Bublik A.|KAZ|Right-Handed|0.0|10.0|-798.0|2.0|-16.0|12.0|0.07999999999999985
+hard|Monteiro T.|BRA|Left-Handed|Berrettini M.|ITA|Right-Handed|1.0||-1550.0|-17.0|-13.0|2.0|3.6100000000000003
+hard|Gea A.|FRA|Right-Handed|Banerjee S.|AUS|Right-Handed|1.0||177.0|-7.0|-5.0|-1.0|0.5599999999999998
+hard|Taguchi R.|JPN|Right-Handed|Bobrov B.|RUS|Right-Handed|1.0||177.0|1.0|-2.0|-2.0|1.81
+hard|Coria F.|ARG|Right-Handed|Mannarino A.|FRA|Left-Handed|1.0||-326.0|-6.0|0.0|-4.0|3.16
+hard|Berrettini M.|ITA|Right-Handed|Monteiro T.|BRA|Left-Handed|0.0|-4.0|1550.0|17.0|13.0|-2.0|-3.6100000000000003
+hard|Machac T.|CZE|Right-Handed|Tiafoe F.|AUS|Right-Handed|1.0||-1485.0|-13.0|-5.0|-3.0|2.08
+hard|Pervolarakis M.|GRC|Right-Handed|Kuzmanov D.|BGR|Right-Handed|1.0||-230.0|13.0|0.0|-3.0|3.8499999999999996
+hard|Evans D.|FRA|Right-Handed|Kubler J.|AUS|Right-Handed|1.0||1047.0|1.0|-3.0|3.0|-2.44
+hard|Bublik A.|KAZ|Right-Handed|Wawrinka S.|CHE|Right-Handed|1.0||798.0|-2.0|16.0|-12.0|-0.07999999999999985
+hard|Bobrov B.|RUS|Right-Handed|Taguchi R.|JPN|Right-Handed|0.0|10.0|-177.0|-1.0|2.0|2.0|-1.81
+hard|Kuzmanov D.|BGR|Right-Handed|Pervolarakis M.|GRC|Right-Handed|0.0|4.0|230.0|-13.0|0.0|3.0|-3.8499999999999996
+hard|Catarina L.|MCO|Right-Handed|Scaglia M.|FRA|Right-Handed|0.0|1.0|-625.0|5.0|2.0|2.0|-1.6199999999999999
+hard|Banerjee S.|AUS|Right-Handed|Gea A.|FRA|Right-Handed|0.0|2.0|-177.0|7.0|5.0|1.0|-0.5599999999999998
+hard|Scaglia M.|FRA|Right-Handed|Catarina L.|MCO|Right-Handed|1.0||625.0|-5.0|-2.0|-2.0|1.6199999999999999
+hard|Kubler J.|AUS|Right-Handed|Evans D.|FRA|Right-Handed|0.0|-3.0|-1047.0|-1.0|3.0|-3.0|2.44
+hard|Tiafoe F.|AUS|Right-Handed|Machac T.|CZE|Right-Handed|0.0|3.0|1485.0|13.0|5.0|3.0|-2.08
+hard|Mannarino A.|FRA|Left-Handed|Coria F.|ARG|Right-Handed|0.0|3.0|326.0|6.0|0.0|4.0|-3.16

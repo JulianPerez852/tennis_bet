@@ -1,0 +1,145 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Atlanta|1.86|1.92|Davidovich Fokina A.|Spain|2014|80.0|183.0|right|25.0|Opelka R.|USA|2013|102.0|211.0|right|26.0|hard|20240725
+Atlanta|1.45|2.70|Tiafoe F.|USA|2013|86.0|188.0|right|26.0|Karatsev A.|Russia|2009|85.0|185.0|right|30.0|hard|20240725
+Atlanta|1.63|2.25|Thompson J.|Australia|2010|82.0|183.0|right|30.0|Mayot H.|France|2017|71.0|178.0|right|22.0|hard|20240725
+Atlanta|2.23|1.64|Nishioka Y.|Japan|2011|64.0|170.0|left|28.0|McDonald M.|USA|2009|73.0|178.0|right|29.0|hard|20240725
+Kitzbühel|2.94|1.40|Gaston H.|France|2015|68.0|173.0|left|23.0|Baez S.|Argentina|2016|70.0|170.0|right|23.0|clay|20240725
+Kitzbühel|1.72|2.10|Diaz Acosta F.|Argentina|2017|73.0|183.0|left|23.0|Martinez P.|Spain|2012|76.0|185.0|right|27.0|clay|20240725
+Kitzbühel|1.13|5.86|Berrettini M.|Italy|2012|95.0|196.0|right|28.0|Moreno De Alboran N.|USA|2013|82.0|185.0|right|27.0|clay|20240725
+Kitzbühel|1.90|1.89|Hanfmann Y.|Germany|2007|86.0|193.0|right|32.0|Seyboth Wild T.|Brazil|2014|78.0|185.0|right|24.0|clay|20240725
+Umag|1.33|3.29|Musetti L.|Italy|2017|75.0|185.0|right|22.0|Lajovic D.|Serbia|2005|83.0|183.0|right|34.0|clay|20240725
+Umag|1.44|2.76|Rublev A.|Russia|2013|70.0|188.0|right|26.0|Marozsan F.|Hungary|2016|||right|24.0|clay|20240725
+Umag|1.37|3.06|Mensik J.|CzechRepublic|2020|||right|18.0|Tseng C.|ChineseTaipei|2015|65.0|175.0|right|23.0|clay|20240725
+Umag|1.42|2.86|Cerundolo F.|Argentina|2016|78.0|185.0|right|26.0|Sonego L.|Italy|2013|76.0|191.0|right|29.0|clay|20240725
+Zug challenger|4.04|1.22|Blancaneaux G.|France|2014|75.0|180.0|right|26.0|Halys Q.|France|2011|78.0|191.0|right|27.0|clay|20240725
+Zug challenger|1.17|4.60|De Loore J.|Belgium|2010|86.0|191.0|right|31.0|Jasika O.|Australia|2011|60.0|183.0|left|27.0|clay|20240725
+Zug challenger|1.45|2.63|Burruchaga R.|Argentina|2018|||right|22.0|Blockx A.|Belgium|2021|||right|19.0|clay|20240725
+Zug challenger|2.17|1.64|Shelbayh A.|Jordan|2019|||left|20.0|Molleker R.|Germany|2015|75.0|185.0|right|23.0|clay|20240725
+Verona challenger|2.69|1.43|Gaubas V.|Lithuania|2019|||right|19.0|Gasquet R.|France|2002|79.0|183.0|right|38.0|clay|20240725
+Verona challenger|1.73|2.02|Dellien H.|Bolivia|2007|75.0|180.0|right|31.0|Krajinovic F.|Serbia|2008|75.0|185.0|right|32.0|clay|20240725
+Verona challenger|2.23|1.60|Rehberg M.|Germany|2018|||right|20.0|Pellegrino A.|Italy|2012|81.0|185.0|right|27.0|clay|20240725
+Verona challenger|2.03|1.73|Guillen Meza A.|Ecuador|2017|||right|21.0|Maestrelli F.|Italy|2017|||right|21.0|clay|20240725
+Chicago challenger|1.62|2.20|Fearnley J.|GreatBritain|2018|||right|23.0|Atmane T.|France|2017|||left|22.0|hard|20240725
+Chicago challenger|2.07|1.70|Grenier H.|France|2013|85.0|196.0|right|28.0|Basavareddy N.|USA|2021|||right|19.0|hard|20240725
+Chicago challenger|1.48|2.52|Holt B.|USA|2015|82.0|185.0|right|26.0|Polmans M.|Australia|2011|78.0|188.0|right|27.0|hard|20240725
+Tampere challenger|2.19|1.62|Moeller M.|Germany|2016|69.0|178.0|right|25.0|Tabur C.|France|2015|70.0|170.0|right|24.0|clay|20240725
+Tampere challenger|1.97|1.77|Dougaz A.|Tunisia|2013|80.0|188.0|left|27.0|Onclin G.|Belgium|2016|||right|23.0|clay|20240725
+Tampere challenger|1.04|10.67|Hemery C.|France|2012|83.0|191.0|right|29.0|Ahti V.|Finland|2017|||right|25.0|clay|20240725
+Tampere challenger|2.79|1.40|Boitan G.|Romania|2016|||right|25.0|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|clay|20240725
+Segovia challenger|2.10|1.68|Alvarez Varona N.|Spain|2015|80.0|188.0|right|23.0|Gerasimov E.|Belarus|2008|86.0|196.0|right|31.0|hard|20240725
+Segovia challenger|2.31|1.57|Lock B.|Zimbabwe|2008|86.0|198.0|right|31.0|Damas M.|Spain|2015|||right|24.0|hard|20240725
+Segovia challenger|2.44|1.51|Added D.|France|2015|72.0|183.0|right|25.0|Geerts M.|Belgium|2013|73.0|178.0|right|29.0|hard|20240725
+Segovia challenger|1.63|2.18|Escoffier A.|France|2008|78.0|185.0|right|32.0|Butvilas E.|Lithuania|2021|||right|20.0|hard|20240725
+Segovia challenger|1.45|2.54|Araujo P.|Portugal|2019|||right|22.0|Magadan A.|Mexico|2017|||right|23.0|hard|20240725
+Segovia challenger|1.13|5.00|Ilagan A.|USA|2017|||left|23.0|Mroz W.|USA|2021|||right|21.0|hard|20240725
+Segovia challenger|1.24|3.62|Adams H.|USA|2011|73.0|183.0|right|30.0|Bruce C.|USA|2017|||right|22.0|hard|20240725
+Segovia challenger|2.22|1.58|Schachter N.|USA|2017|||right|25.0|Grant W.|USA|2015|||right|23.0|hard|20240725
+Segovia challenger|1.28|3.34|McHugh A.|GreatBritain|2016|70.0|178.0|right|24.0|Petrov A.|Bulgaria|2021|||left|22.0|hard|20240725
+Segovia challenger|1.07|6.83|Sanchez Jover C.|Spain|2015|||left|24.0|Jorgensen S.|Denmark|2019|||right|23.0|hard|20240725
+Segovia challenger|1.27|3.43|Kingsley C.|USA|2017|75.0|188.0|right|23.0|Ganesan A.|USA|2022|||right|18.0|hard|20240725
+Segovia challenger|1.36|2.89|Smith C.|USA|2021|||right|21.0|Vale D.|Portugal|2014|74.0|183.0|right|25.0|hard|20240725
+Segovia challenger|1.94|1.76|Poullain L.|France|2011|||right|28.0|Cassone M.|USA|2019|||right|22.0|hard|20240725
+Segovia challenger|1.06|7.20|Kodat T.|USA|2019|73.0|178.0|right|21.0|Simonsson F.|Sweden|2011|75.0|188.0|right|29.0|hard|20240725
+Segovia challenger|1.61|2.16|Young G.|USA|2021|||right|21.0|Kim A.|USA|2021|||right|19.0|hard|20240725
+Segovia challenger|2.63|1.42|Miyoshi K.|Japan|2022|||right||Zink T.|USA|2018|||right|23.0|hard|20240725
+Segovia challenger|3.19|1.31|Fernandez Flores D.|Chile|2017|||right|23.0|Silva F.|Portugal|2010|74.0|178.0|left|29.0|hard|20240725
+Segovia challenger|1.13|5.02|Gill F.|GreatBritain|2018|||left|22.0|Rocens M.|Latvia|2016|||right|24.0|hard|20240725
+Segovia challenger|1.14|4.93|Heller P.|Germany|2008|76.0|185.0|right|32.0|Ujvary M.|Austria|2020|71.0|180.0|right|20.0|hard|20240725
+Segovia challenger|1.12|5.33|Domingues J.|Portugal|2008|70.0|178.0|right|30.0|Forcano I.|Spain|2015|||right|24.0|hard|20240725
+Segovia challenger|1.07|6.66|Wessels L.|Germany|2014|90.0|198.0|right|25.0|Van Herck L.|Luxembourg|2015|||right|25.0|hard|20240725
+Segovia challenger|1.37|2.83|Rocha F.|Portugal|2016|||right|24.0|Kirci K.|Turkey|2013|||right|26.0|hard|20240725
+Segovia challenger|1.68|2.05|Marques D.|Portugal|2016|||right|25.0|Torres T.|Portugal|2018|||right|22.0|hard|20240725
+Segovia challenger|6.38|1.08|Leote Prata V.|Portugal|2021|||right|20.0|Gengel M.|CzechRepublic|2014|80.0|185.0|right|28.0|hard|20240725
+Segovia challenger|1.47|2.46|Paris T.|France|2019|||right|22.0|Bobichon M.|France|2022|||right|22.0|hard|20240725
+Segovia challenger|1.05|7.53|Pennaforti G.|Italy|2021|||right|23.0|Pieleanu R.|Romania|2023|||right|17.0|hard|20240725
+Segovia challenger|1.27|3.44|Ferrari G.|Italy|2018|||left|23.0|D'Agostino S.|Italy|2017|||right|20.0|hard|20240725
+Segovia challenger|1.18|4.21|Poljak D.|CzechRepublic|2011|77.0|188.0|right|28.0|Gaxherri S.|Austria|2022|||right|19.0|hard|20240725
+Segovia challenger|1.70|2.00|Preda L.|Romania|2022|||right|18.0|Beloborodko I.|Ukraine|2017|||right|23.0|hard|20240725
+Segovia challenger|2.24|1.56|Manzanera Pertusa A.|Spain|2020|||right|21.0|Slump S.|Netherlands|2015|77.0|188.0|right|25.0|hard|20240725
+Segovia challenger|1.72|1.98|Marti Pujolras A.|Spain|2016|||right|25.0|Ionel N.|Romania|2017|71.0|183.0|right|21.0|hard|20240725
+Segovia challenger|1.77|1.91|Jodar R.|Spain|2022|||right|17.0|Pontjodikromo S.|Netherlands|2016|||right|23.0|hard|20240725
+Segovia challenger|1.05|7.83|Giustino L.|Italy|2006|83.0|180.0|right|32.0|Becerra Otarola I.|Chile|2017|||right|23.0|hard|20240725
+Segovia challenger|1.08|6.37|Cretu C.|Romania|2016|||right|23.0|Andreescu S.|Romania|2018|||right|22.0|hard|20240725
+Segovia challenger|3.01|1.33|Sorger S.|Austria|2020|||right|18.0|Bielinskyi V.|Ukraine|2020|||right|20.0|hard|20240725
+Segovia challenger|1.25|3.59|Krumich M.|CzechRepublic|2018|||right|21.0|Bosio G.|Italy|2016|||right|23.0|hard|20240725
+Segovia challenger|1.26|3.48|Marmousez L.|France|2017|||right|22.0|Zahraj P.|Germany|2015|||right|25.0|hard|20240725
+Segovia challenger|1.36|2.81|Pokorny L.|Slovakia|2020|||right|22.0|Danilov S.|Russia|2017|75.0|188.0|right|24.0|hard|20240725
+Segovia challenger|1.07|6.98|Martin Tiffon P.|Spain|2016|73.0|183.0|right|25.0|Turriziani Alvarez A.|Spain|2020|||right|21.0|hard|20240725
+Segovia challenger|1.04|8.27|Brancaccio R.|Italy|2013|72.0|183.0|right|27.0|Sevilla I.|Spain|2022|||right|18.0|hard|20240725
+Segovia challenger|1.03|8.80|Bakshi A.|Georgia|2013|||left|27.0|Ganta S.|India|2020|||right|24.0|hard|20240725
+Segovia challenger|1.33|3.07|Midon L.|Argentina|2021|||right|20.0|Colson T.|Belgium|2019|||right|24.0|hard|20240725
+Segovia challenger|2.58|1.43|Dev S.|India|2013|78.0|175.0|right|28.0|Singh K.|India|2021|||right|21.0|hard|20240725
+Segovia challenger|1.57|2.23|Omarkhanov A.|Kazakhstan|2024|||right|16.0|Wang A.|China|2013|86.0|191.0|right|27.0|hard|20240725
+Segovia challenger|1.12|5.35|Snitari I.|Moldavsko|2020|||right|22.0|Coman M.|Romania|2019|||right|19.0|hard|20240725
+Segovia challenger|1.31|3.10|Roncadelli F.|Uruguay|2016|73.0|185.0|left|24.0|Pavel B.|Romania|2014|||right|25.0|hard|20240725
+Segovia challenger|1.75|1.95|Haliak M.|Belarus|2014|75.0|183.0|right|26.0|Saraiva Dos Santos P.|Brazil|2017|||right|24.0|hard|20240725
+Segovia challenger|1.60|2.16|Papoe R.|Romania|2018|||right|22.0|Aboian V.|Argentina|2018|||left|22.0|hard|20240725
+Segovia challenger|1.62|2.14|Durasovic V.|Norway|2013|80.0|185.0|right|27.0|Agafonov E.|Russia|2019|||right|21.0|hard|20240725
+Segovia challenger|1.47|2.50|Ghibaudo A.|France|2020|||right|19.0|Bar Biryukov P.|Russia|2021|||left|22.0|hard|20240725
+Segovia challenger|1.21|3.89|Ayeni A.|USA|2015|82.0|191.0|right|25.0|Lobanov A.|Russia|2021|||right|23.0|hard|20240725
+Segovia challenger|1.30|3.24|Sultanov K.|Uzbekistan|2013|80.0|180.0|right|25.0|Fomin S.|Uzbekistan|2015|80.0|183.0|right|23.0|hard|20240725
+Segovia challenger|2.90|1.35|Mroz W.|USA|2021|||right|21.0|Martin D.|Canada|2016|||right|25.0|hard|20240725
+Segovia challenger|3.42|1.27|Bruce C.|USA|2017|||right|22.0|Ponwith N.|USA|2012|79.0|188.0|right|26.0|hard|20240725
+Segovia challenger|1.32|3.06|Schachter N.|USA|2017|||right|25.0|Horve L.|USA|2016|||right|24.0|hard|20240725
+Segovia challenger|1.61|2.16|Smith C.|USA|2021|||right|21.0|Kang K.|USA|2019|||right|19.0|hard|20240725
+Segovia challenger|1.65|2.07|Petrov A.|Bulgaria|2021|||left|22.0|Clark E.|USA|2015|66.0|170.0|right|26.0|hard|20240725
+Segovia challenger|2.80|1.37|Ganesan A.|USA|2022|||right|18.0|Bernard A.|USA|2019|||left|21.0|hard|20240725
+Segovia challenger|1.27|3.42|Rodriguez Rodriguez J.|Colombia|2019|||right|20.0|Bynoe E.|USA|2016|||right|25.0|hard|20240725
+Segovia challenger|1.85|1.82|Gerini T.|Italy|2012|71.0|170.0|right|29.0|Caruso A.|Italy|2019|||right|25.0|hard|20240725
+Segovia challenger|2.52|1.46|Alvarez Valdes L.|Mexico|2022|||right|20.0|Ribeiro E.|Brazil|2015|||right|26.0|hard|20240725
+Segovia challenger|1.83|1.83|Gomez J.|Colombia|2007|||right|32.0|Lopez Villasenor G.|Mexico|2013|91.0|191.0|right|29.0|hard|20240725
+Segovia challenger|1.28|3.28|Rubio Fierros A.|Mexico|2015|||right|25.0|Van Emburgh J.|USA|2016|||right|25.0|hard|20240725
+Segovia challenger|2.58|1.44|Spadola A.|Italy|2018|||left|21.0|Miletich I.|Italy|2021|||right|19.0|hard|20240725
+Segovia challenger|1.16|4.42|Bertran P.|DominicanRep.|2013|||right|28.0|Strode E.|USA|2021|||left|22.0|hard|20240725
+Segovia challenger|1.25|3.38|Claverie L.|Italy|2020|||right|21.0|Salazar A.|Chile|2017|||left|23.0|hard|20240725
+Segovia challenger|1.26|3.51|Alimli M.|France|2021|||right|21.0|Scaglia M.|France|2014|||right|25.0|hard|20240725
+Segovia challenger|1.49|2.43|Aubriot A.|France|2018|||right|25.0|Camus C.|France|2021|||left|17.0|hard|20240725
+Segovia challenger|1.83|1.83|Jadoun N.|France|2021|||right|22.0|Tepmahc N.|France|2017|||right|23.0|hard|20240725
+Segovia challenger|1.16|4.44|Hernandez Serrano J.|Mexico|2017|70.0|175.0|right|25.0|Ogura K.|Japan|2016|68.0|170.0|right|28.0|hard|20240725
+Segovia challenger|1.71|1.97|Lopez Villasenor G.|Mexico|2013|91.0|191.0|right|29.0|Sanchez M.|Mexico|2005|||right|33.0|hard|20240725
+Segovia challenger|1.35|2.91|Brumm J.|USA|2013|||right|25.0|Osorio J.|Colombia|2013|||right|26.0|hard|20240725
+Segovia challenger|1.16|4.49|Rossi L.|Italy|2021|||right|22.0|Al-Amin K.|Germany|2021|||right|20.0|hard|20240725
+Segovia challenger|1.18|4.20|Broska F.|Germany|2015|||right||Kalina V.|CzechRepublic|2020|||right|19.0|hard|20240725
+Segovia challenger|4.17|1.19|De Vincentis M.|Italy|2014|87.0|188.0|left|26.0|Benchetrit E.|Morocco|2014|88.0|193.0|right|25.0|hard|20240725
+Segovia challenger|1.28|3.40|Juarez F.|Italy|2014|||right|26.0|Ciavarella N.|Italy|2021|||right|20.0|hard|20240725
+Segovia challenger|1.28|3.40|Nedelko I.|Russia|2006|80.0|185.0|right|38.0|Fix D.|Germany|2021|||right|19.0|hard|20240725
+Segovia challenger|4.87|1.14|Walch A.|France|2009|||right|30.0|Wassermann D.|Netherlands|2016|||right|23.0|hard|20240725
+Segovia challenger|1.08|6.30|Cadenasso G.|Italy|2022|||right|19.0|Misasi G.|Italy|2018|||right|23.0|hard|20240725
+Segovia challenger|1.94|1.74|Salvestre D.|France|2017|||right|22.0|Delage P.|France|2016|||right|23.0|hard|20240725
+Segovia challenger|1.24|3.67|Reco A.|France|2015|||right|25.0|Car H.|France|2024||||21.0|hard|20240725
+Segovia challenger|1.72|1.97|Ghazouani Durand Y.|France|2023|||right|24.0|Deschamps T.|France|2016|||right|26.0|hard|20240725
+Segovia challenger|1.10|5.78|Legout T.|France|2019|||right||Dalmasso G.|France|2022|||right|21.0|hard|20240725
+Segovia challenger|1.05|7.86|Naw H.|Syria|2015|||right|24.0|Funk A.|Germany|2023|||right|18.0|hard|20240725
+Segovia challenger|1.25|3.58|Hamza Reguig S.|Algeria|2017|||right|22.0|Degabriele A.|Malta|2021|||right|19.0|hard|20240725
+Segovia challenger|1.99|1.72|Nagel A.|France|2021|||right|21.0|Negritu C.|Germany|2010|81.0|193.0|right|30.0|hard|20240725
+Segovia challenger|2.24|1.55|La Serna J.|Argentina|2021|||left|20.0|Aboian L.|Argentina|2014|||left|26.0|hard|20240725
+Segovia challenger|2.88|1.36|Malgaroli L.|Italy|2017|||right|22.0|Pieri S.|Italy|2021|||right|22.0|hard|20240725
+Segovia challenger|1.37|2.82|Nedic A.|BosniaandHerzeg.|2019|||right|19.0|Thanos A.|Greece|2019|||right|23.0|hard|20240725
+Segovia challenger|1.62|2.15|Bondioli F.|Italy|2022|||left|19.0|Falabella L.|Argentina|2016|||left|26.0|hard|20240725
+Segovia challenger|1.44|2.53|Garcian A.|France|2018|||right|22.0|Trochu P.|France|2020|||right|20.0|hard|20240725
+Segovia challenger|1.83|1.85|Schlageter J.|Germany|2015|||right|23.0|Galimardanov O.|Russia|2017|||right|24.0|hard|20240725
+Segovia challenger|1.63|2.11|Rivet M.|France|2021|||left|20.0|Salle F.|France|2015|||right|25.0|hard|20240725
+Segovia challenger|2.27|1.55|Papamalamis T.|France|2022|||right|18.0|Rottgering M.|Netherlands|2022|||left|17.0|hard|20240725
+Segovia challenger|1.03|8.88|Palosi S.|Romania|2016|||right|24.0|Kis Balazs R.|Hungary|2016|||right|23.0|hard|20240725
+Segovia challenger|1.48|2.45|Kellovsky D.|CzechRepublic|2012|78.0|183.0|right|28.0|Brunclik P.|CzechRepublic|2022|||left|18.0|hard|20240725
+Segovia challenger|1.10|5.67|Sharipov M.|Russia|2019|||right|21.0|Markovic S.|Serbia|2021|||right|18.0|hard|20240725
+Segovia challenger|1.74|1.96|Dong C.|Australia|2018|||right|21.0|Trouve N.|France|2021|||right|18.0|hard|20240725
+Segovia challenger|1.43|2.57|Ambrogi L.|Argentina|2019|||right|20.0|Perego G.|Italy|2019|||right|21.0|hard|20240725
+Segovia challenger|1.22|3.65|Cina F.|Italy|2022|||right|17.0|Oumaouche R.|France|2014|||left|27.0|hard|20240725
+Segovia challenger|1.90|1.78|Puskar S.|Slovakia|2017|||right|24.0|Hess S.|Argentina|2018|||right|23.0|hard|20240725
+Segovia challenger|1.39|2.70|Ouakaa A.|Tunisia|2015|||right|25.0|Vujic S.|Australia|2014|||right|26.0|hard|20240725
+Segovia challenger|2.41|1.51|Madarasz G.|Hungary|2012|80.0|180.0|left|29.0|Campana F.|Italy|2018|||right|26.0|hard|20240725
+Segovia challenger|1.67|2.05|Xilas I.|Greece|2019|||right|23.0|Latinovic S.|Serbia|2016|||right|24.0|hard|20240725
+Segovia challenger|2.06|1.67|Giunta M.|Italy|2021|||right|20.0|Setkic A.|BosniaandHerzeg.|2004|86.0|191.0|right|36.0|hard|20240725
+Segovia challenger|1.90|1.79|Filip J.|CzechRepublic|2022|||right|18.0|Cigarran T.|Argentina|2018|||right|24.0|hard|20240725
+Segovia challenger|1.90|1.79|Dzhavakian Y.|Ukraine|2010|||right|31.0|Makhlouf M.|Algeria|2011|||right|28.0|hard|20240725
+Segovia challenger|1.84|1.84|Fantini L.|Italy|2020|||right|24.0|Benchakroun M.|Morocco|2021|||right|20.0|hard|20240725
+Segovia challenger|1.15|4.75|Badenhorst D.|RSA|2019|||right|20.0|Delicata L.|Malta|2021|||right|23.0|hard|20240725
+Segovia challenger|1.44|2.57|Lanik T.|Slovakia|2020|||right|22.0|Nad P.|Slovakia|2020|||right|20.0|hard|20240725
+Segovia challenger|1.61|2.18|Karol M.|Slovakia|2019|90.0|198.0|right|21.0|Ruland L.|Germany|2021|||right|21.0|hard|20240725
+Segovia challenger|1.16|4.40|Martin A.|Slovakia|2005|83.0|183.0|right|34.0|Cerny M.|CzechRepublic|2019|||right|22.0|hard|20240725
+Segovia challenger|1.52|2.35|Turker M.|Turkey|2013|||right|26.0|Monferrer E.|Argentina|2018|||right|21.0|hard|20240725
+Segovia challenger|1.11|5.35|Obradovic D.|Serbia|2017|||right|23.0|Lestir L.|France|2022|||right|19.0|hard|20240725
+Segovia challenger|2.16|1.61|Bonsach Ganley K.|Denmark|2020|||right|19.0|Hallquist Lithen J.|Sweden|2019|||right||hard|20240725
+UTR Pro Tennis Series|1.50|2.50|Schoeman M.|Australia|2021|||right||Joyce J.|Australia|2022|||right|18.0|hard|20240725
+Davis Cup|1.50|2.50|Neuburger Higby J.|USA|2015|||right|26.0|Zuniga D.|Cuba|2022|||right|22.0|Varioussurfaces|20240725

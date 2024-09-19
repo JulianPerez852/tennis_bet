@@ -1,0 +1,357 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Halle|1.14|5.68|Medvedev D.|Russia|2011|83.0|198.0|right|28.0|Giron M.|USA|2008|77.0|180.0|right|31.0|grass|20230619
+Halle|1.19|4.68|Tsitsipas S.|Greece|2013|89.0|193.0|right|26.0|Barrere G.|France|2009|80.0|183.0|right|30.0|grass|20230619
+Halle|1.64|2.26|Jarry N.|Chile|2012|90.0|198.0|right|28.0|Moutet C.|France|2014|68.0|175.0|left|25.0|grass|20230619
+Halle|1.40|2.94|Shapovalov D.|Canada|2013|75.0|185.0|left|25.0|Harris L.|RSA|2014|80.0|193.0|right|27.0|grass|20230619
+Halle|1.36|3.15|Nakashima B.|USA|2016|77.0|185.0|right|23.0|Ymer M.|Sweden|2014|75.0|183.0|right|26.0|grass|20230619
+Halle|2.03|1.78|Djere L.|Serbia|2011|82.0|188.0|right|29.0|Otte O.|Germany|2010|79.0|193.0|right|31.0|grass|20230619
+Queen's Club|3.30|1.34|Cerundolo F.|Argentina|2016|78.0|185.0|right|26.0|Paul T.|USA|2013|82.0|185.0|right|27.0|grass|20230619
+Queen's Club|1.10|6.96|Musetti L.|Italy|2017|75.0|185.0|right|22.0|Choinski J.|GreatBritain|2012|80.0|196.0|right|28.0|grass|20230619
+Queen's Club|3.74|1.28|Schwartzman D.|Argentina|2008|64.0|170.0|right|32.0|McDonald M.|USA|2009|73.0|178.0|right|29.0|grass|20230619
+Queen's Club|1.87|1.93|Korda S.|USA|2015|75.0|193.0|right|24.0|Evans D.|GreatBritain|2005|75.0|175.0|right|34.0|grass|20230619
+Queen's Club|2.05|1.77|Shelton B.|USA|2021|||left|21.0|Wolf J.|USA|2015|79.0|183.0|right|25.0|grass|20230619
+Queen's Club|1.33|3.33|Norrie C.|GreatBritain|2013|82.0|188.0|left|28.0|Kecmanovic M.|Serbia|2013|75.0|183.0|right|24.0|grass|20230619
+Queen's Club|4.25|1.23|Peniston R.|GreatBritain|2012|75.0|183.0|left|28.0|Humbert U.|France|2014|73.0|188.0|left|26.0|grass|20230619
+Ilkley challenger|1.52|2.44|Ofner S.|Austria|2012|81.0|191.0|right|28.0|Lokoli L.|France|2010|78.0|188.0|right|29.0|grass|20230619
+Ilkley challenger|1.54|2.39|Virtanen O.|Finland|2016|||right|23.0|Gombos N.|Slovakia|2008|85.0|193.0|right|34.0|grass|20230619
+Ilkley challenger|1.41|2.80|Bolt A.|Australia|2009|84.0|183.0|left|31.0|Samuel T.|GreatBritain|2020|||right|22.0|grass|20230619
+Ilkley challenger|2.57|1.48|Broom C.|GreatBritain|2015|82.0|178.0|right|26.0|Brouwer G.|Netherlands|2013|72.0|191.0|left|28.0|grass|20230619
+Ilkley challenger|1.71|2.07|Brancaccio R.|Italy|2013|72.0|183.0|right|27.0|Monday J.|GreatBritain|2019|||left|22.0|grass|20230619
+Ilkley challenger|2.79|1.40|Piros Z.|Hungary|2015|68.0|180.0|right|24.0|Kovacevic A.|USA|2015|76.0|183.0|right|25.0|grass|20230619
+Ilkley challenger|1.73|2.05|Kudla D.|USA|2008|79.0|180.0|right|32.0|Medjedovic H.|Serbia|2019|||right|21.0|grass|20230619
+Parma 3 challenger|3.92|1.23|Maestrelli F.|Italy|2017|||right|21.0|Munar J.|Spain|2012|76.0|183.0|right|27.0|clay|20230619
+Parma 3 challenger|1.20|4.33|Ramos-Vinolas A.|Spain|2004|76.0|188.0|left|36.0|Verdasco F.|Spain|2001|90.0|188.0|left|40.0|clay|20230619
+Parma 3 challenger|2.21|1.61|Roca Batalla O.|Spain|2008|75.0|173.0|right|31.0|Andreev A.|Bulgaria|2015|66.0|180.0|right|23.0|clay|20230619
+Parma 3 challenger|1.77|1.99|Gigante M.|Italy|2019|||left|22.0|Kovalik J.|Slovakia|2007|82.0|183.0|right|31.0|clay|20230619
+Parma 3 challenger|1.45|2.64|Gaio F.|Italy|2008|84.0|180.0|right|32.0|Forti F.|Italy|2016|80.0|191.0|right|25.0|clay|20230619
+Poznan challenger|2.73|1.43|Michalski D.|Poland|2017|77.0|180.0|right|24.0|Valkusz M.|Hungary|2015|75.0|183.0|right|26.0|clay|20230619
+Poznan challenger|9.16|1.05|Blanch D.|USA|2020|||right|21.0|Shevchenko A.|Kazakhstan|2017|70.0|185.0|right|23.0|clay|20230619
+Poznan challenger|1.76|2.00|Kasnikowski M.|Poland|2020|||right|21.0|Laaksonen H.|Switzerland|2006|78.0|185.0|right|32.0|clay|20230619
+Poznan challenger|2.58|1.47|Mpetshi Perricard G.|France|2018|||right|21.0|Mensik J.|CzechRepublic|2020|||right|18.0|clay|20230619
+Poznan challenger|1.94|1.79|Kolar Z.|CzechRepublic|2013|76.0|185.0|right|27.0|Dzumhur D.|BosniaandHerzeg.|2008|68.0|175.0|right|32.0|clay|20230619
+Cali challenger|2.67|1.44|Schoolkate T.|Australia|2019|78.0|183.0|right|23.0|Kwiatkowski T.|USA|2010|82.0|188.0|right|29.0|clay|20230619
+Cali challenger|1.35|3.06|Andreozzi G.|Argentina|2007|78.0|183.0|right|33.0|Lock B.|Zimbabwe|2008|86.0|198.0|right|31.0|clay|20230619
+Cali challenger|1.78|1.97|Descotte M.|Argentina|2011|87.0|191.0|right|30.0|Rodriguez Rodriguez J.|Colombia|2019|||right|20.0|clay|20230619
+Blois challenger|1.40|2.83|Coppejans K.|Belgium|2011|68.0|180.0|right|30.0|Jianu F.|Romania|2016|70.0|180.0|right|22.0|indoors|20230619
+Blois challenger|1.32|3.25|Halys Q.|France|2011|78.0|191.0|right|27.0|Atmane T.|France|2017|||left|22.0|indoors|20230619
+Blois challenger|1.38|2.93|Mager G.|Italy|2010|77.0|188.0|right|29.0|Bailly G.|Belgium|2022|||right|18.0|indoors|20230619
+Blois challenger|1.89|1.85|Geerts M.|Belgium|2013|73.0|178.0|right|29.0|Added D.|France|2015|72.0|183.0|right|25.0|indoors|20230619
+Blois challenger|2.27|1.60|Olivo R.|Argentina|2007|73.0|180.0|right|32.0|Bourgue M.|France|2010|83.0|188.0|right|30.0|indoors|20230619
+Blois challenger|1.07|6.75|Vincent Ruggeri S.|Italy|2019|||right|22.0|Tresca G.|Italy|2013|||right|26.0|indoors|20230619
+Blois challenger|2.05|1.68|Rocha H.|Portugal|2020|||right|20.0|Landaluce M.|Spain|2022|||right|18.0|indoors|20230619
+Blois challenger|3.22|1.28|Fossati A.|Italy|2013|||right|25.0|Pieri S.|Italy|2021|||right|22.0|indoors|20230619
+Blois challenger|1.08|6.34|Bittoun Kouzmine C.|France|2014|73.0|175.0|left|25.0|Divar C.|Spain|2015|||right|26|indoors|20230619
+Blois challenger|1.09|6.00|Gutierrez O.|Brazil|2008|67.0|170.0|right|31.0|Riva P.|Spain|2019|||right||indoors|20230619
+Blois challenger|1.01|14.56|Roncalli S.|Italy|2012|73.0|175.0|right|28.0|Onofrei M.|Romania|2021|||right|18.0|indoors|20230619
+Blois challenger|1.18|4.00|Tomescu D.|Romania|2014|||right|25.0|Iakubenko V.|Ukraine|2021|||right|19|indoors|20230619
+Blois challenger|1.13|5.01|Rodesch C.|Luxembourg|2016|||right|23.0|Vanta V.|Romania|2015|67.0|180.0|right|26.0|indoors|20230619
+Blois challenger|1.20|4.00|Campana F.|Italy|2018|||right|26.0|Goity Zapico S.|Argentina|2021|||right|19.0|indoors|20230619
+UTR Pro Tennis Series 3|1.20|4.00|Gomez L.|Mexico|2009|72.0|178.0|left|29.0|Orozco Rangel E.|Mexico|2009|||right|32.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.29|3.10|Tutu M.|GreatBritain|2010|||right|32.0|Gonzalez Fitzmaurice E.|USA|2019|||right|21.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.35|2.80|Cortes Campos N.|Colombia|2020|||right||Jauregui Sainz De Rozas R.|Mexico|2008|||right|30.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.08|5.75|Alvarez Valdes L.|Mexico|2022|||right|20.0|Oliver L.|USA|2021|||right|19.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.80|1.83|Wiersholm H.|USA|2012|73.0|178.0|right|27.0|Wen E.|USA|2022|||right||Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.83|1.80|Patil R.|USA|2021|||right|20.0|Acevedo N.|Chile|2016|||right|24.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|2.60|1.40|Truwit T.|USA|2022|||right||Roddick J.|USA|2021|||right|22.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.38|2.70|Storch S.|Australia|2018|||right|22.0|Robbins H.|USA|2022|||right|25.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.38|2.70|Badra D.|Venezuela|2018|||left|23.0|Hopper J.|GreatBritain|2020|||right|24.0|Varioussurfaces|20230619
+UTR Pro Tennis Series 3|1.38|2.70|Hotard W.|USA|2021|||right||Silva L.|USA|2023|||right|22|Varioussurfaces|20230619
+Blois challenger|1.19|4.36|Michelsen A.|USA|2021|||right|19.0|Otegui J.|Argentina|2014|83.0|191.0|right|25.0|indoors|20230619
+Blois challenger|1.23|3.86|Sanchez Izquierdo N.|Spain|2015|77.0|185.0|right|25.0|Huertas Del Pino C.|Peru|2012|86.0|188.0|right|28.0|indoors|20230619
+Blois challenger|2.31|1.57|de Schepper K.|France|2004|100.0|203.0|left|37.0|Marie J.|France|2009|76.0|185.0|right|32.0|indoors|20230619
+Blois challenger|1.53|2.38|Jacquet K.|France|2017|65.0|175.0|right|23.0|Safwat M.|Egypt|2007|83.0|180.0|right|33.0|indoors|20230619
+Blois challenger|1.83|1.89|Blanchet U.|France|2015|||right|25.0|Hemery C.|France|2012|83.0|191.0|right|29.0|indoors|20230619
+Blois challenger|1.18|4.48|Rincon D.|Spain|2019|||left|21.0|Colson T.|Belgium|2019|||right|24.0|indoors|20230619
+Cali challenger|2.11|1.68|Monzon I.|Argentina|2013|||right|26.0|Zanellato N.|Brazil|2021|||right|22.0|clay|20230619
+Cali challenger|1.40|2.79|Boscardin Dias P.|Brazil|2018|73.0|180.0|right|21.0|Lilov V.|USA|2019|||right|20.0|clay|20230619
+Cali challenger|1.16|4.81|Hoyos A.|Colombia|2015|79.0|180.0|right|24.0|Rengifo F.|Colombia|2015|||right|25.0|clay|20230619
+Cali challenger|1.38|2.87|Londero J.|Argentina|2008|70.0|180.0|right|31.0|Barrena A.|Argentina|2018|||right|21.0|clay|20230619
+Cali challenger|1.76|2.02|Soto M.|Chile|2016|||right|25.0|Panta J.|Peru|2011|||right|29.0|clay|20230619
+Cali challenger|1.78|1.95|Lama G.|Chile|2008|82.0|180.0|right|31.0|McCormick T.|USA|2017|||right|25.0|clay|20230619
+Cali challenger|2.33|1.63|Zanellato N.|Brazil|2021|||right|22.0|Alves M.|Brazil|2015|||right|23.0|clay|20230619
+Cali challenger|2.77|1.49|Hoyos A.|Colombia|2015|79.0|180.0|right|24.0|Mayo A.|USA|2019|||right|21.0|clay|20230619
+Davis Cup|1.37|2.97|Vallejo A.|Paraguay|2019|||right|20.0|Flores J.|CostaRica|2012|82.0|188.0|right|29.0|Varioussurfaces|20230619
+Davis Cup|1.51|2.47|Bertran P.|DominicanRep.|2013|||right|28.0|Major K.|Bahamas|2014|||right|29.0|Varioussurfaces|20230619
+Davis Cup|1.51|2.47|Vergara Del Puerto M.|Paraguay|2019|||right||Crespo Piedra R.|CostaRica|2019|||right||Varioussurfaces|20230619
+Davis Cup|1.51|2.47|Gandini A.|DominicanRep.|2020|||right||Nottage D.|Bahamas|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.50|2.30|Tyler J.|GreatBritain|2015|||right|25.0|Beaven J.|GreatBritain|2022|||right||Varioussurfaces|20230619
+Davis Cup|5.00|1.10|Asaba A.|Ghana|2013|||right|27.0|Strode I.|USA|2014|75.0|183.0|right|26.0|Varioussurfaces|20230619
+Davis Cup|6.00|1.07|Brady K.|USA|2021|||right|23.0|Wood W.|USA|2011|||right|31.0|Varioussurfaces|20230619
+Davis Cup|1.20|3.60|Jones A.|USA|2016|||right||Marin D.|USA|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|4.60|1.12|Tam N.|USA|2023|||right|20|Thompkins J.|USA|2011|||right|28.0|Varioussurfaces|20230619
+Davis Cup|4.60|1.12|Mouesca P.|France|2021|||right||Vasser O.|USA|2022|||right||Varioussurfaces|20230619
+Davis Cup|4.60|1.12|Quan R.|USA|2021|||right|18.0|Alvarez M.|USA|2022|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.82|1.82|Rivet M.|France|2021|||left|20.0|Bertimon M.|France|2016|||right|24|Varioussurfaces|20230619
+Davis Cup|1.39|2.55|Melnic V.|Romania|2014|||right|25.0|Alhogbani A.|SaudiArabia|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.39|2.55|Darras M.|France|2015|||right|25.0|Pietri B.|France|2015|78.0|180.0|right|28.0|Varioussurfaces|20230619
+Davis Cup|2.85|1.34|Kotan P.|Australia|2017|||right|23.0|Koenig L.|GreatBritain|2020|||right|21.0|Varioussurfaces|20230619
+Davis Cup|2.40|1.45|Corse J.|USA|2016|||right||Ji Z.|China|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.22|3.70|Revelli G.|GreatBritain|2021|||right|22.0|Middleton J.|USA|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|3.00|1.30|Amiri A.|USA|2016|||right|22.0|Neuhaus A.|Switzerland|2017|||right|25.0|Varioussurfaces|20230619
+Davis Cup|3.00|1.30|Vandecasteele Q.|USA|2018|||right|22.0|Maxted L.|GreatBritain|2020|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.33|2.80|De Jonge D.|Netherlands|2015|||right|25.0|Bullard J.|USA|2017|||left|23.0|Varioussurfaces|20230619
+Davis Cup|1.33|2.80|Eriksson Ziverts J.|Sweden|2015|75.0|185.0|right|25.0|Rolland D.|France|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.25|3.30|Dalmasso G.|France|2022|||right|21.0|Mendoza J.|Philippines|2014|||left|28.0|Varioussurfaces|20230619
+Davis Cup|1.05|6.50|Boyd K.|USA|2012|||right|27.0|Silva T.|Portugal|2021|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.04|7.50|Bertimon C.|France|2016|||right|24.0|Bretin T.|France|2023|||right|17|Varioussurfaces|20230619
+Davis Cup|1.04|7.50|Cayre P.|France|2011|||right|29.0|Ceccon R.|France|2020|||right||Varioussurfaces|20230619
+Davis Cup|1.15|4.26|Goldsteiner P.|Austria|2009|65.0|173.0|right|34.0|Miklavcic L.|Slovenia|2017|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.32|3.00|Lumsden E.|GreatBritain|2016|||right|24.0|Philibert N.|GreatBritain|2022|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.18|4.13|Sinha A.|USA|2021|||right|20.0|Matsuoka S.|Japan|2021|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.08|5.67|Vetrih M.|Slovenia|2022|||right|21.0|Zvech Flaborea Mreule M.|Italy|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.52|2.27|Respaut C.|France|2014|||right|25.0|Dando J.|France|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.50|2.28|Gaillard M.|France|2022|||right|22.0|Regas Luis N.|Spain|2021|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Diaz Jalil A.|Ecuador|2019|||right|22.0|Khrystyuk T.|Canada|2023|||right||Varioussurfaces|20230619
+Davis Cup|3.00|1.30|Michna B.|USA|2019|||right||Braswell J.|USA|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|3.00|1.30|King D.|Barbados|2008|77.0|188.0|right|32.0|Casso A.|Mexico|2016|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.01|9.00|Ribero F.|Argentina|2014|82.0|188.0|right|25.0|Blair A.|USA|2018|||right|27.0|Varioussurfaces|20230619
+Davis Cup|1.05|6.50|Chopra K.|USA|2019|58.0|178.0|right|22.0|Oberto Calleri M.|USA|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.05|6.50|Kumar P.|USA|2018|||right|25.0|Hansch Mauritzson F.|Sweden|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.95|1.65|Tettamble G.|USA|2022|||right|21.0|Ndumbe E.|USA|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.95|1.65|De La Vega R.|Brazil|2022|||right|19.0|Cruz C.|USA|2017|||right|27|Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Cairo A.|USA|2021|||right||Del Corral A.|USA|2018|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.01|9.00|Valiev I.|Russia|2017|71.0|181.0|right|25.0|Vos M.|USA|2017|||right|27.0|Varioussurfaces|20230619
+Davis Cup|1.20|3.60|Trondson H.|USA|2022|||right||Trondson J.|USA|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.20|3.60|Carnevale-Miino T.|Italy|2016|||right|24.0|Roux E.|Canada|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.60|2.05|Sau Franco A.|Mexico|2016|||right|23.0|Perez B.|Venezuela|2017|83.0|191.0|left|24.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Vithoontien L.|Japan|2022|||left|25.0|Luethi A.|Switzerland|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|3.20|1.28|Lapalu V.|France|2020|||right|22.0|Donnet E.|France|2018|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.74|1.91|Mouesca P.|France|2021|||right||Gervail G.|France|2010|||right|32.0|Varioussurfaces|20230619
+Davis Cup|3.68|1.21|Darras M.|France|2015|||right|25.0|Busoms Puig J.|Spain|2019|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.22|3.57|Stepanov T.|Belarus|2020|||right||Protic Zakelj J.|Slovenia|2021|||right|21.0|Varioussurfaces|20230619
+Davis Cup|9.50|1.01|Schlagenhauf N.|Germany|2018|||right|21.0|Urankar V.|Slovenia|2023|||right|19|Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Krasner D.|USA|2022|||right||Cossu M.|USA|2017|||right|22.0|Varioussurfaces|20230619
+Davis Cup|2.05|1.60|Winters B.|USA|2018|||right|25.0|Muller C.|USA|2022|||right||Varioussurfaces|20230619
+Davis Cup|2.50|1.40|Okonkwo O.|GreatBritain|2019|||right|24.0|Daryabeigi S.|USA|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Bernard J.|USA|2019|||right||Dynka T.|Canada|2010|||right|32.0|Varioussurfaces|20230619
+Davis Cup|2.05|1.60|Salle F.|France|2015|||right|25.0|Sciglitano L.|Australia|2018|||right|25.0|Varioussurfaces|20230619
+Davis Cup|2.40|1.45|Baiant R.|Canada|2016|||right|23.0|Pinzon Moreno F.|USA|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Mayew W.|USA|2022|||right|20.0|St-Hilaire M.|Canada|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.80|1.80|Smith C.|USA|2021|||right|21.0|Duarte A.|Colombia|2022|||right||Varioussurfaces|20230619
+Davis Cup|7.50|1.03|Mizrahi D.|USA|2017|||right|24.0|Muamba N.|Canada|2015|85.0|185.0|right|24.0|Varioussurfaces|20230619
+Davis Cup|1.20|3.60|Young G.|USA|2021|||right|21.0|Maroscher M.|USA|2011|||right|30.0|Varioussurfaces|20230619
+Davis Cup|1.17|4.00|Lagaev N.|Canada|2017|||right|23.0|Devaiah J.|USA|2023|||right|20|Varioussurfaces|20230619
+Davis Cup|1.11|5.00|Connel J.|GreatBritain|2022|||right|21.0|Zhang L.|China|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.60|2.05|Liokossis S.|Canada|2021|||right||Marshall K.|Barbados|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.30|3.00|Haviland R.|USA|2002|82.0|188.0|right|43.0|Muza E.|USA|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.80|1.80|Trkulja S.|Canada|2022|||right|21.0|Lee E.|USA|2022|||right||Varioussurfaces|20230619
+Davis Cup|3.00|1.30|Corsillo J.|USA|2022|||right||Brown A.|USA|2015|91.0|198.0|left|25.0|Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Stice T.|USA|2018|||right|24.0|Li C.|Peru|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|2.80|1.33|Phillips L.|USA|2017|||right|26.0|Simeunovic S.|Canada|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.65|1.95|Sarr J.|USA|2022|||right|20.0|Cabrera M.|Chile|2018|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.50|2.30|Byers L.|USA|2020|||right|22.0|Becker N.|USA|2022|||right||Varioussurfaces|20230619
+Davis Cup|2.05|1.60|George B.|Canada|2022|||left|21.0|Thomson M.|USA|2015|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.35|2.70|Gorokhov M.|Russia|2021|||right|20.0|Kamath M.|India|2021|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Pankin S.|Russia|2017|||right|25.0|Morandais J.|Guadeloupe|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|McDaniel M.|USA|2018|||right|22.0|Baril J.|Canada|2023|||right||Varioussurfaces|20230619
+Davis Cup|3.00|1.30|Bruce C.|USA|2017|||right|22.0|Demulling W.|USA|2016|||right||Varioussurfaces|20230619
+Davis Cup|1.55|2.23|Troost S.|Estonia|2015|||right|24.0|Brancatelli G.|USA|2022|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.90|1.70|Murtaza M.|Pakistan|2017|||right|24.0|Maassen G.|USA|2013|||right|29.0|Varioussurfaces|20230619
+Davis Cup|1.97|1.70|Valle F.|Italy|2021|||right|24.0|Figl M.|Italy|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.27|3.33|Vasser O.|USA|2022|||right||Zarlenga B.|Argentina|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.05|7.00|Pietri B.|France|2015|78.0|180.0|right|28.0|Russo S.|Argentina|2008|||right|34.0|Varioussurfaces|20230619
+Davis Cup|2.57|1.40|Vatteroni L.|Italy|2017|||right|23.0|Misasi G.|Italy|2018|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Ianin N.|Russia|2021|||right|22.0|Toman P.|USA|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.40|2.50|Piatti R.|Monaco|2019|||right||Bezzaz O.|Morocco|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.55|2.20|Carnevalle L.|Argentina|2018|||right|22.0|Schaer R.|Switzerland|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.03|7.33|Caniato C.|Italy|2021|||right|18.0|Campagnola R.|Italy|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.55|2.20|Poling K.|USA|2015|76.0|185.0|left|25.0|Hulme M.|Australia|2016|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.03|7.50|Krall L.|USA|2021|||right||Galligan D.|USA|2023|||right|19|Varioussurfaces|20230619
+Davis Cup|1.02|8.00|Moreno A.|USA|2022|||right||Feig A.|USA|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.01|9.00|Guzauskas G.|USA|2019|||right|21.0|Rao Y.|USA|2022|||right|22.0|Varioussurfaces|20230619
+Davis Cup|2.80|1.33|Kvantaliani M.|Georgia|2014|||right|24.0|Ciocanu A.|Canada|2017|||right|26.0|Varioussurfaces|20230619
+Davis Cup|1.25|3.30|Milavsky D.|USA|2019|||right|23.0|Bracks L.|USA|2019|||right|21.0|Varioussurfaces|20230619
+Davis Cup|3.35|1.25|Heinonen A.|Sweden|2018|||right|21.0|Sperle J.|Germany|2019|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Shick B.|USA|2021|||right|20.0|Qadir W.|USA|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.01|9.00|Sorbo J.|Canada|2016|||right|24.0|Rao A.|USA|2022|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.30|3.07|Simundza J.|Croatia|2021|||left|19.0|Ambarzumjan E.|Germany|2015|||right|28.0|Varioussurfaces|20230619
+Davis Cup|1.40|2.50|Murali R.|USA|2021|||right||Summers M.|GreatBritain|2016|||left|25.0|Varioussurfaces|20230619
+Davis Cup|1.94|1.72|Ceccon R.|France|2020|||right||Debru M.|France|2020|||right||Varioussurfaces|20230619
+Davis Cup|3.19|1.27|Dragomirov D.|Germany|2018|||right|24.0|Mikovic N.|Slovenia|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|9.00|1.02|Caripi V.|RSA|2009|75.0|185.0|right|32.0|Cohen A.|Israel|2019|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.01|10.25|Planinsek F.|Slovenia|2019|||right|23.0|Kovac T.|Slovenia|2021|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.05|6.83|Rivet M.|France|2021|||left|20.0|Andrieu C.|France|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.10|5.00|Ivanov V.|Russia|2015|||right|25.0|Leon Macchiavello J.|Chile|2022|||right||Varioussurfaces|20230619
+Davis Cup|3.60|1.20|Estevez J.|Argentina|2021|||right|18.0|Alazmeh T.|Germany|2018|||right|20.0|Varioussurfaces|20230619
+Davis Cup|2.80|1.33|Lerby C.|Netherlands|2016|||right|22.0|Baroni N.|Italy|2019|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Zakaryia F.|Egypt|2017|||right|23.0|Shtengelov A.|Australia|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.05|7.00|Cayre P.|France|2011|||right|29.0|Hillhouse M.|France|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.16|4.23|Goldenberg L.|Israel|2015|||right|24.0|Photiades P.|Cyprus|2019|||right||Varioussurfaces|20230619
+Davis Cup|1.35|2.81|Van Sambeek F.|Netherlands|2020|||left|22.0|Koshis C.|Cyprus|2020|||right||Varioussurfaces|20230619
+Davis Cup|3.17|1.29|Bertimon M.|France|2016|||right|24|Dussin L.|France|2015|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.70|1.98|Romano F.|Italy|2021|||right|19.0|Biondolillo G.|Italy|2017|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.97|1.70|Gandolfi G.|Italy|2022|||right||Plunger M.|Italy|2022|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.41|2.53|Katz R.|Israel|2018|||right|21.0|Cohen A.|Israel|2016|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.08|6.00|Srbljak G.|NorthMacedonia|2015|||left|26.0|Tsurtsumia I.|Georgia|2016|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.41|2.57|Falcao G.|Portugal|2005|||right|36.0|Miletich I.|Italy|2021|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.93|1.73|Oliver Moratalla V.|Spain|2017|||right|24.0|Barranquero C.|Spain|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.98|1.69|Schifris J.|Germany|2017|||left|22.0|Dimic M.|Slovenia|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.20|3.78|Gaal C.|Australia|2016|||right|26.0|Mikovic M.|Slovenia|2023|||right|18.0|Varioussurfaces|20230619
+Davis Cup|1.21|3.60|Hess S.|Argentina|2018|||right|23.0|Bancila A.|USA|2017|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.21|3.60|Topo M.|Germany|2020|||right|20.0|Mishkin K.|Russia|2018|||left|21.0|Varioussurfaces|20230619
+Davis Cup|1.32|2.99|Marchetti F.|Italy|2015|||right|23.0|Galvanin D.|Italy|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.86|1.85|Deari S.|NorthMacedonia|2006|||right|35.0|Mihailovic A.|Serbia|2021|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.13|4.62|Denisov I.|Russia|2015|||right|24.0|Krajcik A.|Slovakia|2017|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Corbinais S.|France|2021|||right|21.0|Hadir Jr F.|Morocco|2023|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.75|1.85|Ciurletti A.|Italy|2014|72.0|175.0|right|26.0|Bogo E.|Brazil|2011|||right|29.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Carboni L.|Italy|2023|||right|18.0|El Feky K.|Egypt|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.05|6.50|Spiridon D.|Italy|2020|||right|22.0|Benyahia I.|Morocco|2022|||right|18.0|Varioussurfaces|20230619
+Davis Cup|1.68|1.98|Dando J.|France|2018|||right|21.0|Branger L.|France|2021|||right|23.0|Varioussurfaces|20230619
+Davis Cup|2.43|1.47|Mruzek S.|CzechRepublic|2021|||right||Krajci M.|Slovakia|2021|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.38|2.67|Bazilevskiy V.|Israel|2021|||right|19.0|Foley P.|GreatBritain|2016|||right|29.0|Varioussurfaces|20230619
+Davis Cup|6.17|1.07|Bretin T.|France|2023|||right|17|Regas Luis N.|Spain|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.56|2.20|Bertimon C.|France|2016|||right|24.0|Loge J.|Belgium|2022|||right|19.0|Varioussurfaces|20230619
+Davis Cup|2.53|1.42|Talic Z.|Australia|2016|||left|26.0|Smoliner T.|Austria|2021|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.79|1.85|Villoslada E.|France|2020|||right|24.0|Martinez M.|Spain|2016|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.03|8.50|Hilderbrand T.|USA|2016|||right|24.0|Shumilov E.|Israel|2021|||right|17.0|Varioussurfaces|20230619
+Davis Cup|2.53|1.43|Postolka R.|CzechRepublic|2016|||right|25.0|Nad P.|Slovakia|2020|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.00|15.00|Markovic S.|Serbia|2021|||right|18.0|Amirov T.|Russia|2015|||right|26.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.97|Garcia A.|Spain|2016|||right|22.0|Horiuchi R.|Japan|2017|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.34|2.87|Amar R.|Israel|2015|||right|25.0|Neyelov M.|Israel|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.78|1.89|Alvarado P.|Ecuador|2004|||right|35.0|Kazakov I.|Russia|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.04|7.67|Respaut C.|France|2014|||right|25.0|Barreira Bonzom V.|France|2023|||right|16|Varioussurfaces|20230619
+Davis Cup|1.03|8.17|Shimanov O.|Israel|2021|||right|19.0|Shemesh D.|Israel|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.13|4.70|Velcz Z.|Hungary|2020|||left|21.0|Romano G.|Argentina|2021|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.50|2.30|Dudun I.|Ukraine|2014|||right|25.0|Hribar M.|Slovenia|2023|||right|17|Varioussurfaces|20230619
+Davis Cup|1.82|1.82|Khomich A.|Belarus|2013|80.0|191.0|right|27.0|Krstic V.|Serbia|2021|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.13|4.70|Klintcharov A.|NewZealand|2013|||right|28.0|Mohar V.|Slovenia|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.09|5.00|Weststrate L.|Netherlands|2018|||right|23.0|Bol J.|Netherlands|2021|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.02|9.50|Von Der Schulenburg J.|Switzerland|2020|||right|22.0|Hendrikx J.|Netherlands|2021|||right||Varioussurfaces|20230619
+Davis Cup|2.55|1.42|Altamirano C.|USA|2012|85.0|188.0|right|28.0|Fassbender B.|France|2014|||right|26.0|Varioussurfaces|20230619
+Davis Cup|1.29|3.15|Welte M.|Germany|2015|||right|23.0|Homberg M.|Germany|2021|||right|21.0|Varioussurfaces|20230619
+Davis Cup|2.55|1.42|Den Heijer G.|Netherlands|2013|||right|27.0|Wiskandt M.|Germany|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|2.58|1.41|Bojarski A.|Poland|2019|||right|21.0|Kroslak J.|Slovakia|2021|||right|21.0|Varioussurfaces|20230619
+Davis Cup|8.50|1.01|Perera M.|USA|2021|||right|20.0|Bulitski A.|Belarus|2008|||right|31.0|Varioussurfaces|20230619
+Davis Cup|1.40|2.60|Staeheli L.|Switzerland|2017|||right|24.0|Antonescu V.|Romania|2008|82.0|183.0|right|34.0|Varioussurfaces|20230619
+Davis Cup|1.14|4.57|Stakusic M.|Canada|2018|||left|21.0|Zeljenka M.|Hungary|2015|||right|26.0|Varioussurfaces|20230619
+Davis Cup|1.29|3.17|Bill A.|Croatia|2020|||right||Bara F.|Romania|2021|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.75|1.89|Tessa L.|France|2014|||right|26.0|Bar Biryukov P.|Russia|2021|||left|22.0|Varioussurfaces|20230619
+Davis Cup|5.00|1.08|Czaczkowski P.|Poland|2022|||right|19.0|Habib A.|GreatBritain|2017|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.58|2.15|Fellin C.|Italy|2018|||right|20.0|Taddia L.|Italy|2017|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.16|4.36|Fantini L.|Italy|2020|||right|24.0|Meduri A.|Italy|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.05|6.50|Saraiva Dos Santos P.|Brazil|2017|||right|24.0|Albrecht P.|Germany|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.05|6.50|Barreiros Reyes M.|Brazil|2017|||left|23.0|Bruna E.|Chile|2011|80.0|183.0|left|29.0|Varioussurfaces|20230619
+Davis Cup|1.17|4.00|Hernandez C.|Spain|2018|||right|23.0|Larue L.|France|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.42|2.57|Khosla R.|India|2022|||right||Landini J.|Italy|2019|||right||Varioussurfaces|20230619
+Davis Cup|2.50|1.40|Lehmann N.|Argentina|2021|||left|19.0|Orlov A.|Switzerland|2021|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.10|5.33|Perruzza V.|Italy|2018|||right|24.0|Dumitru V.|Romania|2013|||right|27.0|Varioussurfaces|20230619
+Davis Cup|1.63|2.05|Marinescu M.|Romania|2017|||right|22.0|Filip V.|Romania|2011|||right|29.0|Varioussurfaces|20230619
+Davis Cup|1.63|2.05|Silva T.|Portugal|2021|||right|19.0|Alam P.|GreatBritain|2019|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Koenig L.|GreatBritain|2020|||right|21.0|Alhogbani S.|SaudiArabia|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.20|3.60|Melnic V.|Romania|2014|||right|25.0|Cervenak P.|Slovakia|2023|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.20|3.60|Sinha A.|USA|2021|||right|20.0|Tailleu P.|France|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|2.05|1.60|Alhogbani A.|SaudiArabia|2022|||right||Augusto Dos Santos R.|Brazil|2021|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Kamath M.|India|2021|||right|22.0|Politowicz M.|Poland|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|4.20|1.15|Matsuoka S.|Japan|2021|||right|21.0|Breysach M.|France|2017|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.01|8.25|Schachter N.|USA|2017|||right|25.0|Vales A.|Israel|2021|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.25|3.30|Boyd K.|USA|2012|||right|27.0|Borisiouk M.|Belarus|2015|82.0|191.0|right|24.0|Varioussurfaces|20230619
+Davis Cup|1.30|3.00|Donnet E.|France|2018|||right|23.0|Dubouch M.|France|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.77|1.88|Chetewy Ungar B.|Israel|2022|||right||Meshulam A.|Israel|2023|||right|18.0|Varioussurfaces|20230619
+Davis Cup|1.20|3.60|Connel J.|GreatBritain|2022|||right|21.0|Alberti F.|Italy|2023|||right|21.0|Varioussurfaces|20230619
+Davis Cup|2.05|1.60|Lumsden E.|GreatBritain|2016|||right|24.0|Kudriashov I.|Russia|2020|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.33|2.80|Troost S.|Estonia|2015|||right|24.0|Jestin C.|RSA|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.23|3.53|Pampanin P.|Italy|2016|||right|21.0|Oster S.|Australia|2017|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.23|3.53|Regas Luis N.|Spain|2021|||right|24.0|Zund S.|Liechtenstein|2018|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.70|1.90|Zhang L.|China|2018|||right|21.0|Oliveira C.|Brazil|2016|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.40|2.50|Gorokhov M.|Russia|2021|||right|20.0|Sahtali T.|Algeria|2015|||right|25.0|Varioussurfaces|20230619
+Davis Cup|2.20|1.55|Kotan P.|Australia|2017|||right|23.0|Seeman J.|Estonia|2015|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.40|2.50|Brancatelli G.|USA|2022|||right|21.0|Halmenschlager Reis I.|Brazil|2015|||right|27.0|Varioussurfaces|20230619
+Davis Cup|1.68|1.95|Gaillard M.|France|2022|||right|22.0|Piombo T.|France|2023|||right||Varioussurfaces|20230619
+Davis Cup|2.50|1.40|Philibert N.|GreatBritain|2022|||right|19.0|Moore E.|GreatBritain|2014|||right|26.0|Varioussurfaces|20230619
+Davis Cup|2.50|1.40|Lapalu V.|France|2020|||right|22.0|Schipor E.|Romania|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.05|7.00|Pavel B.|Romania|2014|||right|25.0|Fatu A.|Romania|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.07|6.17|Sarouk Y.|Israel|2016|||right|23.0|Geva I.|Israel|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|2.05|1.63|Kamyshev S.|Israel|2019|||right|22.0|Guryev E.|Ukraine|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.15|4.26|Michalik R.|Slovakia|2020|||right|21.0|Pecak S.|CzechRepublic|2018|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.29|3.17|Sec S.|USA|2022|||right|20.0|Marosik N.|Slovakia|2023|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.13|4.53|Apltauer F.|CzechRepublic|2020|||right|20.0|Cizek J.|CzechRepublic|2022|||right|19.0|Varioussurfaces|20230619
+Davis Cup|7.17|1.05|Kremenchutskyi I.|Ukraine|2022|||right|20.0|Kupcic J.|Slovenia|2019|||right|23.0|Varioussurfaces|20230619
+Davis Cup|2.64|1.38|Vaise T.|Lithuania|2015|||left|26.0|Horak O.|CzechRepublic|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|2.64|1.38|Kim D.|SouthKorea|2017|||right|22.0|Chen K.|ChineseTaipei|2018|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.81|1.83|Prat A.|Spain|2020|||right|20.0|De Rueda De Genover I.|Spain|2013|75.0|183.0|right|26.0|Varioussurfaces|20230619
+Davis Cup|1.25|3.40|Schenekenberg G.|Brazil|2022|||right||Barr E.|GreatBritain|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.68|Pavlovic L.|France|2016|||right|24.0|Verbin P.|Russia|2017|||right|22.0|Varioussurfaces|20230619
+Davis Cup|1.03|8.00|Herrero Cuesta N.|Spain|2018|||right|22.0|Agushi M.|NorthMacedonia|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.64|2.08|Plans J.|Spain|2017|||right|22.0|Turriziani Alvarez A.|Spain|2020|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.11|5.13|Drinic M.|Serbia|2012|75.0|185.0|right|26.0|Kobierski J.|Austria|2020|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.54|2.24|Bonsach Ganley K.|Denmark|2020|||right|19.0|Cekirge K.|Turkey|2016|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.80|Villalon N.|Chile|2021|||right|20.0|Balj A.|Serbia|2019|||right||Varioussurfaces|20230619
+Davis Cup|2.20|1.55|Zubac D.|Serbia|2018|||right|21.0|Matuszewski G.|Poland|2020|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.03|7.50|Kim Y.|SouthKorea|2011|||left|29.0|Nakamura K.|Japan|2022|||right||Varioussurfaces|20230619
+Davis Cup|2.25|1.54|Ghetu G.|Romania|2023|||right|16.0|Mirgone F.|Argentina|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.04|7.75|Niedner N.|Germany|2020|||right||Hejjas C.|Hungary|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.04|7.75|Lee J.|SouthKorea|2022|||right||Hyun J.|SouthKorea|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.18|4.00|Kellovsky D.|CzechRepublic|2012|78.0|183.0|right|28.0|Jeran A.|Slovenia|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.41|2.58|Calvano G.|Italy|2014|||right|26.0|Verdes E.|Romania|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.61|2.11|Malgiaritta M.|Switzerland|2018|||right|23.0|Catani L.|Italy|2018|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.72|1.93|Andreescu S.|Romania|2018|||right|22.0|Breazu V.|Romania|2021|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Kim D.|SouthKorea|2022|||right|24.0|Kim S.|SouthKorea|2013|||right|29.0|Varioussurfaces|20230619
+Davis Cup|1.03|7.50|Elia A.|Israel|2011|||right|29.0|Dagan A.|Israel|2018|||right|21.0|Varioussurfaces|20230619
+Davis Cup|8.50|1.02|Luck J.|RSA|2014|75.0|173.0|right|28.0|Hudd E.|GreatBritain|2017|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.61|2.07|Zuckerman N.|Israel|2017|||right|21.0|Al Tori S.|Israel|2021|||right||Varioussurfaces|20230619
+Davis Cup|2.87|1.34|Benaim M.|GreatBritain|2015|68.0|175.0|right|26.0|Weintraub B.|Israel|2020|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Berger A.|France|2019|||right|26.0|Hongyu Y.|China|2022|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.33|2.80|Suzuki K.|Japan|2006|||left|33.0|Ha Yeon S.|SouthKorea|2019|||right||Varioussurfaces|20230619
+Davis Cup|1.20|3.70|Oplustil P.|CzechRepublic|2022|||right|19.0|Senthilkumar M.|India|2016|70.0|178.0|left|24.0|Varioussurfaces|20230619
+Davis Cup|1.69|1.98|Sakagawa H.|Japan|2018|||right|23.0|Cho S.|SouthKorea|2017|||right|26.0|Varioussurfaces|20230619
+Davis Cup|1.15|4.39|Chen K.|ChineseTaipei|2018|||right|23.0|Flaherty M.|Australia|2018|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.85|1.78|Sorensen L.|Australia|2022|||right|22.0|Jaisinghani R.|India|2016|||right|26.0|Varioussurfaces|20230619
+Davis Cup|1.85|1.78|Dzhavakian Y.|Ukraine|2010|||right|31.0|Bustiman Gonzalez H.|Chile|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Lee T.|SouthKorea|2010|||right|32.0|Song W.|SouthKorea|2018|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Kumaran B.|India|2015|||right|26.0|Varrellito M.|Indonesia|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Yoshimura D.|Japan|2016|||right|22.0|Kim M.|SouthKorea|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Lihao Q.|China|2023|||right||Dong H.|China|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Yin B.|ChineseTaipei|2016|||right|25.0|Li C.|China|2023|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Kim D.|SouthKorea|2017|||right|22.0|Lee S.|SouthKorea|2023|||||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Zheng Z.|China|2023|||right||Bai W.|China|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Yam C.|HongKong|2009|||right|34.0|Kahsay H.|Australia|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Yu B.|China|2014|||right|25.0|Lu C.|ChineseTaipei|2022|||right|20.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Xu W.|China|2022|||right||Han X.|China|2023|||right|18.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Zhuo S.|China|2018|||right|25.0|Leung E.|HongKong|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Wang K.|ChineseTaipei|2022|||right|20.0|Ju Z.|China|2023|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Yang X.|China|2023|||right|20.0|Li S.|China|2022|||right|19.0|Varioussurfaces|20230619
+Davis Cup|1.12|4.60|Konowczuk W.|Ukraine|2022|||right||Dustov M.|Uzbekistan|2022|||right||Varioussurfaces|20230619
+Davis Cup|1.31|3.34|Hyun J.|SouthKorea|2022|||right||Heaney-Secord C.|USA|2018|||right|32.0|Varioussurfaces|20230619
+Davis Cup|1.63|2.05|Papac T.|Australia|2012|75.0|191.0|right|29.0|Karakachian G.|Argentina|2018|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.63|2.05|Bai Y.|China|2006|80.0|185.0|right|35.0|Pan Y.|China|2023|||right||Varioussurfaces|20230619
+Davis Cup|1.63|2.05|Dong Z.|China|2017|||left|25.0|Zhang C.|China|2016|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.63|2.05|Nima D.|China|2019|||right|20.0|Sheng J.|China|2019|||right||Varioussurfaces|20230619
+Davis Cup|1.63|2.05|Chang T.|ChineseTaipei|2023|||right|21.0|Yong L.|Malaysia|2018|||right|20.0|Varioussurfaces|20230619
+Davis Cup|4.00|1.18|Czaplinski T.|USA|2022|||right||Shanmugam A.|India|2015|69.0|178.0|right|25.0|Varioussurfaces|20230619
+Davis Cup|4.00|1.18|Southcombe M.|GreatBritain|2021|||right|21.0|Zheng Y.|China|2017|||right|24.0|Varioussurfaces|20230619
+Davis Cup|4.00|1.18|Zeng Y.|China|2017|||right|22.0|Chiu J.|USA|2017|||right|23.0|Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Lorusso L.|Italy|2016|||right|24.0|Moceanu N.|USA|2015|79.0|188.0|right||Varioussurfaces|20230619
+Davis Cup|1.45|2.40|Nakamura K.|Japan|2022|||right||Shim Y.|SouthKorea|2018|||right|24.0|Varioussurfaces|20230619
+Davis Cup|1.17|4.26|Kim Y.|SouthKorea|2011|||left|29.0|Kim B.|SouthKorea|2013|||right|26.0|Varioussurfaces|20230619
+Davis Cup|4.39|1.15|Lee J.|SouthKorea|2022|||right||Park M.|SouthKorea|2017|||right|22.0|Varioussurfaces|20230619
+Davis Cup|6.50|1.05|Akay C.|Australia|2016|||right|22.0|Ferguson C.|Australia|2016|||right|25.0|Varioussurfaces|20230619
+Davis Cup|2.12|1.62|Kim S.|SouthKorea|2013|||right|29.0|Yoon H.|SouthKorea|2022|||right||Varioussurfaces|20230619
+Davis Cup|2.12|1.62|Ha Yeon S.|SouthKorea|2019|||right||Han S.|SouthKorea|2014|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.36|2.78|Kim D.|SouthKorea|2022|||right|24.0|Kim M.|SouthKorea|2022|||right|17.0|Varioussurfaces|20230619
+Davis Cup|1.13|4.87|Suzuki K.|Japan|2006|||left|33.0|Kim M.|SouthKorea|2019|||right||Varioussurfaces|20230619
+Davis Cup|1.82|1.82|Wibowo T.|Indonesia|2022|||right||Naumovski M.|Australia|2016|||right|23.0|Varioussurfaces|20230619
+Davis Cup|2.08|1.60|Fu H.|ChineseTaipei|2017|||right|22.0|Cook E.|Australia|2020|||right|21.0|Varioussurfaces|20230619
+Davis Cup|2.73|1.36|Susanto D.|Indonesia|2007|||right|33.0|Duhan C.|India|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.15|4.35|Susanto A.|Indonesia|2015|||right|27.0|Takada M.|Japan|2018|||right|27.0|Varioussurfaces|20230619
+Davis Cup|1.43|2.55|Sakagawa H.|Japan|2018|||right|23.0|Cho H.|SouthKorea|2014|||right|27.0|Varioussurfaces|20230619
+Davis Cup|1.43|2.55|Lee T.|SouthKorea|2010|||right|32.0|Park J.|SouthKorea|2015|||right|25.0|Varioussurfaces|20230619
+Davis Cup|3.00|1.30|Kim M.|SouthKorea|2023|||right||Kim D.|SouthKorea|2022|||right||Varioussurfaces|20230619
+Davis Cup|3.00|1.30|Yoshimura D.|Japan|2016|||right|22.0|Yoon J.|SouthKorea|2023|||right|23.0|Varioussurfaces|20230619
+Davis Cup|2.05|1.60|Song W.|SouthKorea|2018|||right|20.0|Kim H.|SouthKorea|2010|||right|31.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Cho S.|SouthKorea|2017|||right|26.0|Park S.|SouthKorea|2022|||right|25.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Sau Franco A.|Mexico|2016|||right|23.0|Santana G.|DominicanRep.|2023|||||Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Seggerman R.|USA|2016|||right|25.0|Abukusumo A.|USA|2021|||right|21.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Galus P.|Poland|2016|||right|23.0|Baar B.|USA|2015|||right|26.0|Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Strode E.|USA|2021|||left|22.0|Visaya A.|USA|2021|||right||Varioussurfaces|20230619
+Davis Cup|1.07|6.00|Liokossis S.|Canada|2021|||right||Theriault H.|Canada|2023|||right|20|Varioussurfaces|20230619
+Parma 3 challenger|1.56|2.30|Napolitano S.|Italy|2010|90.0|196.0|right|29.0|Janvier M.|France|2012|80.0|193.0|right|27.0|clay|20230619
+Parma 3 challenger|1.68|2.03|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|Arnaboldi A.|Italy|2001|72.0|180.0|left|36.0|clay|20230619
+Parma 3 challenger|2.56|1.46|Moroni F.|Italy|2018|||right|23.0|Ferrari G.|Italy|2018|||left|23.0|clay|20230619
+Parma 3 challenger|1.54|2.34|Marti Pujolras A.|Spain|2016|||right|25.0|Rottoli L.|Italy|2016|||right|22.0|clay|20230619
+Parma 3 challenger|3.25|1.29|Bobrov B.|Russia|2012|74.0|185.0|right|26.0|Santillan A.|Australia|2012|78.0|180.0|right|27.0|clay|20230619
+Parma 3 challenger|1.51|2.43|Rola B.|Slovenia|2008|85.0|193.0|left|33.0|Kopp S.|Austria|2015|||right|24.0|clay|20230619
+Poznan challenger|2.55|1.47|Oberleitner N.|Austria|2016|||right|25.0|Taberner C.|Spain|2013|78.0|183.0|right|27.0|clay|20230619
+Poznan challenger|2.63|1.44|Guinard M.|France|2013|81.0|196.0|right|28.0|Barranco Cosano J.|Spain|2014|72.0|175.0|left|25.0|clay|20230619
+Poznan challenger|1.74|2.01|Kym J.|Switzerland|2019|87.0|198.0|right|21.0|Nava E.|USA|2016|74.0|183.0|right|22.0|clay|20230619
+Poznan challenger|1.92|1.80|Jorda Sanchis D.|Spain|2009|86.0|196.0|right|30.0|Gima S.|Romania|2017|||left|22.0|clay|20230619
+Poznan challenger|1.81|1.91|Blanch U.|USA|2014|78.0|188.0|right|26.0|Sanchez Jover C.|Spain|2015|||left|24.0|clay|20230619

@@ -1,0 +1,50 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Wimbledon|1.17|5.20|Nadal R.|Spain|2001|85.0|185.0|left|38.0|Sonego L.|Italy|2013|76.0|191.0|right|29.0|grass|20220702
+Wimbledon|1.74|2.12|Kyrgios N.|Australia|2010|85.0|193.0|right|29.0|Tsitsipas S.|Greece|2013|89.0|193.0|right|26.0|grass|20220702
+Wimbledon|1.21|4.49|Fritz T.|USA|2013|86.0|193.0|right|26.0|Molcan A.|Slovakia|2014|73.0|178.0|left|26.0|grass|20220702
+Wimbledon|1.12|6.76|Nakashima B.|USA|2016|77.0|185.0|right|23.0|Galan D.|Colombia|2011|72.0|191.0|right|28.0|grass|20220702
+Wimbledon|1.12|6.39|De Minaur A.|Australia|2015|69.0|183.0|right|25.0|Broady L.|GreatBritain|2009|78.0|183.0|left|30.0|grass|20220702
+Wimbledon|1.39|3.06|Van De Zandschulp B.|Netherlands|2011|83.0|188.0|right|28.0|Gasquet R.|France|2002|79.0|183.0|right|38.0|grass|20220702
+Wimbledon|2.43|1.57|Kubler J.|Australia|2008|74.0|178.0|right|31.0|Sock J.|USA|2009|88.0|191.0|right|31.0|grass|20220702
+Wimbledon|3.10|1.38|Garin C.|Chile|2010|85.0|185.0|right|28.0|Brooksby J.|USA|2015|82.0|188.0|right|23.0|grass|20220702
+Cali challenger|1.69|2.11|Mena F.|Argentina|2008|78.0|183.0|right|31.0|Zekic M.|Serbia|2003|79.0|185.0|right|36.0|clay|20220702
+Luedenscheid challenger|1.75|2.00|Medjedovic H.|Serbia|2019|||right|21.0|Jarry N.|Chile|2012|90.0|198.0|right|28.0|clay|20220702
+Luedenscheid challenger|2.28|1.59|Zhang Z.|China|2012|87.0|193.0|right|27.0|Kovalik J.|Slovakia|2007|82.0|183.0|right|31.0|clay|20220702
+Malaga challenger|1.88|1.86|Lestienne C.|France|2009|77.0|180.0|right|32.0|Mmoh M.|USA|2012|90.0|188.0|right|26.0|hard|20220702
+Malaga challenger|1.51|2.45|Gomez E.|Ecuador|2006|81.0|185.0|right|32.0|Celikbilek A.|Turkey|2012|72.0|185.0|right|27.0|hard|20220702
+Troyes challenger|2.35|1.56|Hassan B.|Lebanon|2013|85.0|183.0|right|29.0|Brancaccio R.|Italy|2013|72.0|183.0|right|27.0|clay|20220702
+Troyes challenger|1.97|1.78|Torres J.|Argentina|2019|||right|22.0|Tirante T.|Argentina|2016|78.0|185.0|right|23.0|clay|20220702
+Troyes challenger|2.36|1.52|Boitan G.|Romania|2016|||right|25.0|Shimabukuro S.|Japan|2015|75.0|183.0|right|27.0|clay|20220702
+Troyes challenger|2.75|1.39|Palan D.|CzechRepublic|2018|||right|23.0|Moro Canas A.|Spain|2017|||right|23.0|clay|20220702
+Troyes challenger|1.30|3.19|Hsu Y.|ChineseTaipei|2015|70.0|178.0|right|25.0|Kumar O.|USA|2016|||left|22.0|clay|20220702
+Troyes challenger|1.90|1.79|Crawford O.|GreatBritain|2016|84.0|180.0|right|25.0|Legout T.|France|2019|||right||clay|20220702
+Troyes challenger|1.31|2.95|Blanchet U.|France|2015|||right|25.0|Wehnelt K.|Germany|2012|||right|28.0|clay|20220702
+Troyes challenger|1.18|4.26|Sels J.|Netherlands|2010|83.0|188.0|right|29.0|Wassermann D.|Netherlands|2016|||right|23.0|clay|20220702
+Troyes challenger|1.31|3.14|Rincon D.|Spain|2019|||left|21.0|De Krom M.|Netherlands|2015|||right|26.0|clay|20220702
+Troyes challenger|1.49|2.44|Wessels L.|Germany|2014|90.0|198.0|right|25.0|Rikl P.|CzechRepublic|2014|80.0|185.0|right|25.0|clay|20220702
+Troyes challenger|1.68|2.03|Palosi S.|Romania|2016|||right|24.0|Madarasz G.|Hungary|2012|80.0|180.0|left|29.0|clay|20220702
+Troyes challenger|1.36|2.90|Svajda Z.|USA|2017|59.0|175.0|right||Nidunjianzan F.|China|2019|||right|20.0|clay|20220702
+Troyes challenger|1.11|5.55|Holt B.|USA|2015|82.0|185.0|right|26.0|Brymer G.|USA|2013|70.0|185.0|right|29.0|clay|20220702
+Troyes challenger|1.55|2.29|Ferrari G.|Italy|2018|||left|23.0|Kestelboim M.|Argentina|2011|||right|28.0|clay|20220702
+Troyes challenger|1.56|2.28|Prechtel S.|Germany|2013|78.0|185.0|right|28.0|Battaglino S.|Italy|2015|||right|26.0|clay|20220702
+Troyes challenger|1.53|2.35|Kasnikowski M.|Poland|2020|||right|21.0|Rajski M.|Poland|2006|80.0|193.0|right|33.0|clay|20220702
+Troyes challenger|2.17|1.61|Kekez D.|Croatia|2008|||right|31.0|Cungu R.|Montenegro|2013|70.0|173.0|right|26.0|clay|20220702
+Troyes challenger|1.42|2.63|Ovcharenko O.|Ukraine|2016|||right|22.0|Picchione A.|Italy|2017|||right|26.0|clay|20220702
+Troyes challenger|1.81|1.89|Nouza P.|CzechRepublic|2015|86.0|193.0|right|25.0|Safranek V.|CzechRepublic|2009|80.0|185.0|right|30.0|clay|20220702
+Troyes challenger|1.42|2.63|Vrbensky M.|CzechRepublic|2016|65.0|180.0|right|24.0|Martinez M.|Switzerland|2015|70.0|175.0|right|26.0|clay|20220702
+Troyes challenger|1.31|3.15|Atmane T.|France|2017|||left|22.0|Wallart E.|France|2013|||right|27.0|clay|20220702
+Troyes challenger|1.94|1.77|Vandermeersch C.|France|2017|||right|25.0|Scaglia M.|France|2014|||right|25.0|clay|20220702
+Troyes challenger|1.20|4.26|Frunza N.|Romania|2012|78.0|185.0|right|26.0|Metreveli A.|Georgia|2008|76.0|183.0|right|31.0|clay|20220702
+UTR Pro Match Series|2.10|1.62|Rollins P.|USA|2017|||right|23.0|Thomson M.|USA|2015|||right|24.0|Varioussurfaces|20220702
+UTR Pro Match Series|1.80|1.83|Wen E.|USA|2022|||right||Benson M.|USA|2021|||right|24.0|Varioussurfaces|20220702
+UTR Pro Match Series|1.80|1.83|Lyeons J.|USA|2015|||right|23.0|Cutting O.|GreatBritain|2022|||right||Varioussurfaces|20220702
+UTR Pro Match Series|1.80|1.83|Fishback R.|USA|2018|||right|22.0|Anselmo B.|France|2016|||right|23.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.27|3.25|Guiovanna N.|USA|2022|||right|22.0|Valiente Garcia J.|Spain|2014|||right|26.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.27|3.25|Rodeia A.|Portugal|2017|||right|22.0|Oumaouche R.|France|2014|||left|27.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.33|2.90|Keisidis C.|Greece|2008|||right|31.0|Williams A.|Germany|2022|||right|20.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.48|2.40|Laurent Y.|France|2009|76.0|183.0|right|32.0|Calvo Barcelo F.|Argentina|2013|||right|27.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.07|6.00|Pearson K.|Australia|2014|60.0|180.0|right|25.0|Hammes T.|Germany|2022|||right|21.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.91|1.75|Willems J.|Germany|2011|||left|29.0|Gentzsch T.|Germany|2021|||right|20.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.02|8.50|Sandkaulen T.|Germany|2013|||right|26.0|Campbell N.|Cyprus|2014|||right|25.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.06|6.50|Rocha F.|Portugal|2016|||right|24.0|Zick C.|Germany|2012|77.0|175.0|right|28.0|Varioussurfaces|20220702
+UTR Pro Tennis Series 5|1.29|3.10|Zima L.|Germany|2015|||right|24.0|Pierre H.|France|2014|||right|28.0|Varioussurfaces|20220702

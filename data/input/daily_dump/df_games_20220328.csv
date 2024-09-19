@@ -10,14 +10,14 @@ Miami|1.32|3.40|Kokkinakis T.|Australia|2010|84.0|193.0|right|28.0|Kudla D.|USA|
 Miami|5.12|1.17|Cerundolo F.|Argentina|2016|78.0|185.0|right|26.0|Monfils G.|France|2003|85.0|193.0|right|37.0|hard|20220328
 Marbella challenger|1.65|2.16|Tseng C.|ChineseTaipei|2015|65.0|175.0|right|23.0|Cecchinato M.|Italy|2009|78.0|185.0|right|31.0|clay|20220328
 Marbella challenger|2.25|1.61|Kohlschreiber P.|Germany|1998|70.0|178.0|right|40.0|Lehecka J.|CzechRepublic|2017|80.0|183.0|right|22.0|clay|20220328
-Marbella challenger|1.49|2.50|Hanfmann Y.|Germany|2007|86|193|right|32|Vilella Martinez M.|Spain|2011|74|178|right|29|clay|20220328
-Marbella challenger|1.53|2.41|Vesely J.|CzechRepublic|2009|94.0|198.0|left|31.0|Kuznetsov A.|Russia|2006|71|185|right|33|clay|20220328
+Marbella challenger|1.49|2.50|Hanfmann Y.|Germany|2007|86.0|193.0|right|32.0|Vilella Martinez M.|Spain|2011|74.0|178.0|right|29.0|clay|20220328
+Marbella challenger|1.53|2.41|Vesely J.|CzechRepublic|2009|94.0|198.0|left|31.0|Kuznetsov A.|Russia|2006|71.0|185.0|right|33.0|clay|20220328
 Lugano challenger|3.23|1.32|Riedi L.|Switzerland|2020|||right|22.0|Cressy M.|USA|2015|88.0|201.0|right|27.0|indoors|20220328
 Lugano challenger|1.51|2.48|Dzumhur D.|BosniaandHerzeg.|2008|68.0|175.0|right|32.0|Fabbiano T.|Italy|2003|70.0|173.0|right|35.0|indoors|20220328
 Lugano challenger|2.16|1.65|Nardi L.|Italy|2018|||right|21.0|Grenier H.|France|2013|85.0|196.0|right|28.0|indoors|20220328
 Lugano challenger|1.53|2.41|Huesler M.|Switzerland|2014|88.0|196.0|left|28.0|Arnaboldi A.|Italy|2001|72.0|180.0|left|36.0|indoors|20220328
 Lugano challenger|2.24|1.61|Kotov P.|Russia|2015|86.0|191.0|right|25.0|Albot R.|Moldavsko|2006|69.0|175.0|right|34.0|indoors|20220328
-Oeiras challenger|1.43|2.77|Giannessi A.|Italy|2006|82.0|185.0|left|34.0|Kuhn N.|Germany|2015|75|185|right|24|clay|20220328
+Oeiras challenger|1.43|2.77|Giannessi A.|Italy|2006|82.0|185.0|left|34.0|Kuhn N.|Germany|2015|75.0|185.0|right|24.0|clay|20220328
 Oeiras challenger|1.56|2.37|Kopriva V.|CzechRepublic|2015|69.0|178.0|right|27.0|Rosol L.|CzechRepublic|2002|83.0|193.0|right|39.0|clay|20220328
 Oeiras challenger|1.44|2.70|Zeppieri G.|Italy|2016|78.0|185.0|left|22.0|Domingues J.|Portugal|2008|70.0|178.0|right|30.0|clay|20220328
 Oeiras challenger|1.10|6.23|Borges N.|Portugal|2012|75.0|185.0|right|27.0|Araujo P.|Portugal|2019|||right|22.0|clay|20220328
@@ -27,25 +27,25 @@ Saint Brieuc challenger|1.88|1.85|Hoang A.|France|2011|76.0|183.0|right|28.0|Van
 Saint Brieuc challenger|1.73|2.04|Furness E.|France|2014|66.0|170.0|right|26.0|Sels J.|Netherlands|2010|83.0|188.0|right|29.0|indoors|20220328
 Saint Brieuc challenger|1.67|2.13|Moriya H.|Japan|2007|65.0|168.0|right|33.0|Jaziri M.|Tunisia|2002|81.0|185.0|right|40.0|indoors|20220328
 UTR Pro Tennis Series 5|1.91|1.80|Laurent Y.|France|2009|76.0|183.0|right|32.0|Amoros Ramos P.|Spain|2013|||right|26.0|Varioussurfaces|20220328
-UTR Pro Tennis Series 5|1.91|1.80|Bueno Gil A.|Spain|2017|||right|24.0|Safranek V.|CzechRepublic|2009|80|185|right|30|Varioussurfaces|20220328
+UTR Pro Tennis Series 5|1.91|1.80|Bueno Gil A.|Spain|2017|||right|24.0|Safranek V.|CzechRepublic|2009|80.0|185.0|right|30.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|2.25|1.57|Cekirge K.|Turkey|2016|||right|24.0|Jorda Sanchis D.|Spain|2009|86.0|196.0|right|30.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|2.60|1.44|Ruzgas M.|Sweden|2015|85.0|191.0|right|27.0|Atlangeriev B.|Russia|2016|||right|23.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|1.14|4.90|Laurent T.|France|2014|||right|26.0|Redondo Pereira S.|Spain|2014|||right|29.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|1.22|3.80|Chepelev A.|Russia|2015|||left|26.0|Breazu V.|Romania|2021|||right|20.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|2.25|1.57|Tenti F.|Argentina|2016|74.0|180.0|right|27.0|Zormann M.|Brazil|2010|||right|28.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|2.25|1.57|Villacorta-Alonso R.|Spain|2002|||right|39.0|Manafov V.|Ukraine|2011|||left|31.0|Varioussurfaces|20220328
-UTR Pro Tennis Series 5|1.09|6.00|Soriano Barrera A.|Colombia|2014|||right|25.0|Pla Malfeito J.|Spain|2010|||right|29|Varioussurfaces|20220328
-UTR Pro Tennis Series 5|1.70|2.05|Donev G.|Bulgaria|2013|70.0|180.0|right|28.0|Milushev P.|Bulgaria|2010|||right|30|Varioussurfaces|20220328
+UTR Pro Tennis Series 5|1.09|6.00|Soriano Barrera A.|Colombia|2014|||right|25.0|Pla Malfeito J.|Spain|2010|||right|29.0|Varioussurfaces|20220328
+UTR Pro Tennis Series 5|1.70|2.05|Donev G.|Bulgaria|2013|70.0|180.0|right|28.0|Milushev P.|Bulgaria|2010|||right|30.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|1.70|2.05|Monclus Martin M.|Spain|2021|||right|21.0|Ivanov S.|Bulgaria|2015|||right|24.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|1.70|2.05|Mas De Ugarte J.|Spain|2011|||right|29.0|Broville M.|France|2014|||right|25.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 5|1.17|4.40|Robert Q.|France|2008|78.0|188.0|right|30.0|Popov V.|Bulgaria|2021|||right||Varioussurfaces|20220328
 UTR Pro Tennis Series 5|1.33|3.00|Pierre H.|France|2014|||right|28.0|Penev I.|Bulgaria|2018|||right|21.0|Varioussurfaces|20220328
-UTR Pro Tennis Series 7|1.62|2.15|Yamacita F.|Brazil|2012|78|185|right|26|Schiessl J.|Brazil|2021|||left|20|Varioussurfaces|20220328
-UTR Pro Tennis Series 7|1.62|2.15|Leite W.|Brazil|2008|72.0|178.0|right|32.0|Esquici L.|Brazil|2021|||right|21|Varioussurfaces|20220328
-UTR Pro Tennis Series 7|4.20|1.18|Queiroz Miguel L.|Brazil|2022|||right|21|Bogo E.|Brazil|2011|||right|29|Varioussurfaces|20220328
-UTR Pro Tennis Series 7|4.20|1.18|Gobernate A.|Brazil|2011|78|175|right|29|Oliveira C.|Brazil|2016|||right|24|Varioussurfaces|20220328
-UTR Pro Tennis Series 7|1.36|2.88|Saraiva Dos Santos P.|Brazil|2017|||right|24|Casays F.|France|2015|||right|28.0|Varioussurfaces|20220328
-UTR Pro Tennis Series 7|4.10|1.18|Heaney-Secord C.|USA|2018|||right|32.0|Da Silva G.|Brazil|2015|70|183|right|25|Varioussurfaces|20220328
+UTR Pro Tennis Series 7|1.62|2.15|Yamacita F.|Brazil|2012|78.0|185.0|right|26.0|Schiessl J.|Brazil|2021|||left|20.0|Varioussurfaces|20220328
+UTR Pro Tennis Series 7|1.62|2.15|Leite W.|Brazil|2008|72.0|178.0|right|32.0|Esquici L.|Brazil|2021|||right|21.0|Varioussurfaces|20220328
+UTR Pro Tennis Series 7|4.20|1.18|Queiroz Miguel L.|Brazil|2022|||right|21.0|Bogo E.|Brazil|2011|||right|29.0|Varioussurfaces|20220328
+UTR Pro Tennis Series 7|4.20|1.18|Gobernate A.|Brazil|2011|78.0|175.0|right|29.0|Oliveira C.|Brazil|2016|||right|24.0|Varioussurfaces|20220328
+UTR Pro Tennis Series 7|1.36|2.88|Saraiva Dos Santos P.|Brazil|2017|||right|24.0|Casays F.|France|2015|||right|28.0|Varioussurfaces|20220328
+UTR Pro Tennis Series 7|4.10|1.18|Heaney-Secord C.|USA|2018|||right|32.0|Da Silva G.|Brazil|2015|70.0|183.0|right|25.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 7|1.29|3.24|Llanes F.|Uruguay|2017|||right|22.0|Escurra Isnardi H.|Paraguay|2013|||right|26.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 7|1.06|7.29|Del Pino M.|Argentina|2021|||left|21.0|Nari L.|Argentina|2022|||right|22.0|Varioussurfaces|20220328
 UTR Pro Tennis Series 7|1.26|3.46|Roveri Sidney G.|Brazil|2013|||left|27.0|Alarcon B.|Argentina|2017|||right|24.0|Varioussurfaces|20220328
@@ -154,7 +154,7 @@ Pereira challenger|1.65|2.13|Juarez F.|Italy|2014|||right|26.0|Klier Junior G.|B
 Pereira challenger|1.30|3.24|Quiroz R.|Ecuador|2006|88.0|193.0|left|32.0|Noguchi R.|Japan|2016|63.0|168.0|right|25.0|clay|20220328
 Pereira challenger|3.02|1.35|Ejupovic E.|Germany|2009|90.0|193.0|right|31.0|Torres J.|Argentina|2019|||right|22.0|clay|20220328
 Pereira challenger|1.65|2.12|Nakagawa N.|Japan|2011|75.0|180.0|right|27.0|Rodriguez C.|Colombia|2004|76.0|180.0|right|34.0|clay|20220328
-Pereira challenger|2.78|1.41|Huertas Del Pino C.|Peru|2012|86.0|188.0|right|28.0|Descotte M.|Argentina|2011|87|191|right|30|clay|20220328
+Pereira challenger|2.78|1.41|Huertas Del Pino C.|Peru|2012|86.0|188.0|right|28.0|Descotte M.|Argentina|2011|87.0|191.0|right|30.0|clay|20220328
 Pereira challenger|2.42|1.50|Prihodko O.|Ukraine|2014|77.0|180.0|right|26.0|Heide G.|Brazil|2018|||right|22.0|clay|20220328
 Pereira challenger|1.65|2.11|Alves M.|Brazil|2015|||right|23.0|Hernandez Serrano J.|Mexico|2017|70.0|175.0|right|25.0|clay|20220328
 Pereira challenger|1.65|2.12|Ejupovic E.|Germany|2009|90.0|193.0|right|31.0|Echargui M.|Tunisia|2014|75.0|180.0|right|31.0|clay|20220328

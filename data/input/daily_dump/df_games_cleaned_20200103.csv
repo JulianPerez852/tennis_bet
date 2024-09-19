@@ -1,0 +1,23 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Dimitrov G.|BGR|Right-Handed|Evans D.|DEU|Right-Handed|0.0|-2.0|353.0|6.0|16.0|-1.0|-1.0999999999999999
+hard|Durasovic V.|NOR|Right-Handed|Fritz T.|AUS|Right-Handed|1.0||-1188.0|-6.0|-8.0|1.0|6.24
+hard|Evans D.|DEU|Right-Handed|Dimitrov G.|BGR|Right-Handed|1.0||-353.0|-6.0|-16.0|1.0|1.0999999999999999
+hard|Isner J.|DEU|Right-Handed|Ruud C.|NOR|Right-Handed|1.0||919.0|31.0|25.0|14.0|-1.2500000000000002
+hard|Kyrgios N.|AUS|Right-Handed|Struff J.|DEU|Right-Handed|0.0|-2.0|357.0|-7.0|0.0|-5.0|-1.26
+hard|Struff J.|DEU|Right-Handed|Kyrgios N.|AUS|Right-Handed|1.0||-357.0|7.0|0.0|5.0|1.26
+hard|Auger Aliassime F.|CAN|Right-Handed|Pervolarakis M.|GRC|Right-Handed|0.0|-2.0|1359.5|-2.0|0.0|-4.0|-8.459999999999999
+hard|De Minaur A.|AUS|Right-Handed|Zverev A.|DEU|Right-Handed|0.0|-4.0|-2640.0|-21.0|-15.0|-2.0|0.28
+hard|Travaglia S.|ITA|Right-Handed|Khachanov K.|RUS|Right-Handed|1.0||-2185.0|-7.0|-13.0|4.0|4.340000000000001
+hard|Fognini F.|ITA|Right-Handed|Medvedev D.|RUS|Right-Handed|1.0||-3370.0|-4.0|-20.0|9.0|2.8199999999999994
+hard|Kuzmanov D.|BGR|Right-Handed|Norrie C.|AUS|Left-Handed|1.0||-884.0|-5.0|5.0|3.0|4.78
+hard|Khachanov K.|RUS|Right-Handed|Travaglia S.|ITA|Right-Handed|0.0|-4.0|2185.0|7.0|13.0|-4.0|-4.340000000000001
+hard|Goffin D.|BEL|Right-Handed|Albot R.|DEU|Right-Handed|0.0|0.0|1303.0|1.0|5.0|-1.0|-1.12
+hard|Pervolarakis M.|GRC|Right-Handed|Auger Aliassime F.|CAN|Right-Handed|1.0||-1359.5|2.0|0.0|4.0|8.459999999999999
+hard|Fritz T.|AUS|Right-Handed|Durasovic V.|NOR|Right-Handed|0.0|0.0|1188.0|6.0|8.0|-1.0|-6.24
+hard|Albot R.|DEU|Right-Handed|Goffin D.|BEL|Right-Handed|1.0||-1303.0|-1.0|-5.0|1.0|1.12
+hard|Shapovalov D.|CAN|Left-Handed|Tsitsipas S.|GRC|Right-Handed|0.0|0.0|-2370.0|-14.0|-8.0|-1.0|0.8200000000000001
+hard|Tsitsipas S.|GRC|Right-Handed|Shapovalov D.|CAN|Left-Handed|1.0||2370.0|14.0|8.0|1.0|-0.8200000000000001
+hard|Medvedev D.|RUS|Right-Handed|Fognini F.|ITA|Right-Handed|0.0|-9.0|3370.0|4.0|20.0|-9.0|-2.8199999999999994
+hard|Norrie C.|AUS|Left-Handed|Kuzmanov D.|BGR|Right-Handed|0.0|-4.0|884.0|5.0|-5.0|-3.0|-4.78
+hard|Ruud C.|NOR|Right-Handed|Isner J.|DEU|Right-Handed|0.0|-10.0|-919.0|-31.0|-25.0|-14.0|1.2500000000000002
+hard|Zverev A.|DEU|Right-Handed|De Minaur A.|AUS|Right-Handed|1.0||2640.0|21.0|15.0|2.0|-0.28

@@ -1,0 +1,68 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Antwerp|1.25|4.00|De Minaur A.|Australia|2015|69.0|183.0|right|25.0|Lopez F.|Spain|1997|88.0|188.0|left|42.0|indoors|20201021
+Antwerp|1.16|5.37|Dimitrov G.|Bulgaria|2007|81.0|191.0|right|33.0|Andujar P.|Spain|2002|80.0|180.0|right|38.0|indoors|20201021
+Antwerp|1.82|1.99|Evans D.|GreatBritain|2005|75.0|175.0|right|34.0|Tiafoe F.|USA|2013|86.0|188.0|right|26.0|indoors|20201021
+Antwerp|1.98|1.81|Humbert U.|France|2014|73.0|188.0|left|26.0|Carreno-Busta P.|Spain|2006|78.0|188.0|right|33.0|indoors|20201021
+Antwerp|1.77|2.04|Fritz T.|USA|2013|86.0|193.0|right|26.0|Opelka R.|USA|2013|102.0|211.0|right|26.0|indoors|20201021
+Antwerp|1.14|5.69|Raonic M.|Canada|2005|98.0|196.0|right|33.0|Bedene A.|Slovenia|2006|73.0|183.0|right|35.0|indoors|20201021
+Cologne 2|1.27|3.76|Auger Aliassime F.|Canada|2015|88.0|193.0|right|24.0|Gerasimov E.|Belarus|2008|86.0|196.0|right|31.0|indoors|20201021
+Cologne 2|1.11|6.61|Zverev A.|Germany|2011|90.0|198.0|right|27.0|Millman J.|Australia|2006|79.0|183.0|right|35.0|indoors|20201021
+Cologne 2|1.16|5.23|Struff J.|Germany|2008|92.0|193.0|right|34.0|Cecchinato M.|Italy|2009|78.0|185.0|right|31.0|indoors|20201021
+Cologne 2|1.54|2.46|Davidovich Fokina A.|Spain|2014|80.0|183.0|right|25.0|Johnson S.|USA|2005|86.0|188.0|right|34.0|indoors|20201021
+Cologne 2|1.89|1.90|Mannarino A.|France|2004|79.0|180.0|left|36.0|Kecmanovic M.|Serbia|2013|75.0|183.0|right|24.0|indoors|20201021
+Istanbul challenger|1.57|2.33|Bonzi B.|France|2013|76.0|185.0|right|28.0|Janvier M.|France|2012|80.0|193.0|right|27.0|hard|20201021
+Istanbul challenger|1.48|2.56|Ofner S.|Austria|2012|81.0|191.0|right|28.0|Celikbilek A.|Turkey|2012|72.0|185.0|right|27.0|hard|20201021
+Istanbul challenger|1.35|3.05|Jung J.|ChineseTaipei|2005|69.0|180.0|right|35.0|Lamasine T.|France|2010|69.0|183.0|right|31.0|hard|20201021
+Istanbul challenger|1.51|2.46|Gojo B.|Croatia|2013|90.0|196.0|right|26.0|Clarke J.|GreatBritain|2013|82.0|188.0|right|26.0|hard|20201021
+Ismaning challenger|2.05|1.73|Gunneswaran P.|India|2006|80.0|188.0|left|34.0|Lacko L.|Slovakia|2003|87.0|188.0|right|36.0|indoors|20201021
+Ismaning challenger|1.55|2.36|Marterer M.|Germany|2011|84.0|191.0|left|29.0|Laaksonen H.|Switzerland|2006|78.0|185.0|right|32.0|indoors|20201021
+Ismaning challenger|1.56|2.37|Hanfmann Y.|Germany|2007|86.0|193.0|right|32.0|Maden Y.|Germany|2006|70.0|185.0|right|34.0|indoors|20201021
+Ismaning challenger|1.37|3.00|Van De Zandschulp B.|Netherlands|2011|83.0|188.0|right|28.0|Ramanathan R.|India|2009|80.0|188.0|right|29.0|indoors|20201021
+Ismaning challenger|1.35|3.07|Korda S.|USA|2015|75.0|193.0|right|24.0|Kolar Z.|CzechRepublic|2013|76.0|185.0|right|27.0|indoors|20201021
+Ismaning challenger|1.35|3.04|Hoang A.|France|2011|76.0|183.0|right|28.0|Viola M.|Italy|2004|80.0|185.0|right|37.0|indoors|20201021
+Ismaning challenger|1.60|2.24|Schnur B.|Canada|2011|84.0|193.0|right|29.0|Delbonis F.|Argentina|2005|90.0|193.0|left|33.0|indoors|20201021
+Ismaning challenger|1.55|2.35|Huesler M.|Switzerland|2014|88.0|196.0|left|28.0|Brown D.|Germany|2002|78.0|196.0|right|39.0|indoors|20201021
+Ismaning challenger|1.26|3.56|Tseng C.|ChineseTaipei|2015|65.0|175.0|right|23.0|Ugo Carabelli C.|Argentina|2015|83.0|185.0|right|25.0|indoors|20201021
+Ismaning challenger|1.36|2.60|Guinard M.|France|2013|81.0|196.0|right|28.0|Hampel L.|Austria|2013|78.0|188.0|right|27.0|indoors|20201021
+Ismaning challenger|1.62|2.23|Molcan A.|Slovakia|2014|73.0|178.0|left|26.0|Ajdukovic D.|Croatia|2015|75.0|185.0|right|23.0|indoors|20201021
+Ismaning challenger|1.42|2.63|Kozlov S.|USA|2012|79.0|183.0|right|26.0|Squire H.|Germany|2015|||right|23.0|indoors|20201021
+Ismaning challenger|1.89|1.81|Brancaccio R.|Italy|2013|72.0|183.0|right|27.0|Royer V.|France|2018|83.0|188.0|right|23.0|indoors|20201021
+Ismaning challenger|1.29|3.28|Matusevich A.|GreatBritain|2017|||right|23.0|Eriksson M.|Sweden|2005|80.0|188.0|right|34.0|indoors|20201021
+Ismaning challenger|2.92|1.35|Stodder T.|Germany|2012|66.0|180.0|right|28.0|Durasovic V.|Norway|2013|80.0|185.0|right|27.0|indoors|20201021
+Ismaning challenger|1.47|2.52|Zuk K.|Poland|2015|78.0|183.0|right|25.0|Van Rijthoven T.|Netherlands|2013|89.0|188.0|right|27.0|indoors|20201021
+Ismaning challenger|3.01|1.33|Ovcharenko O.|Ukraine|2016|||right|22.0|Kocevar-Desman T.|Slovenia|2008|77.0|180.0|right|34.0|indoors|20201021
+Ismaning challenger|1.82|1.90|Heger T.|Germany|2015|||right|24.0|Barrena A.|Argentina|2018|||right|21.0|indoors|20201021
+Ismaning challenger|2.70|1.41|Ivanov V.|Estonia|2004|||right|37.0|Wang T.|France|2008|68.0|175.0|right|32.0|indoors|20201021
+Ismaning challenger|6.71|1.07|Allen L.|GreatBritain|2019|||right|24.0|Monzon I.|Argentina|2013|||right|26.0|indoors|20201021
+Ismaning challenger|1.16|4.64|Chappell N.|USA|2010|82.0|178.0|left|31.0|Danilov S.|Russia|2017|75.0|188.0|right|24.0|indoors|20201021
+Ismaning challenger|1.85|1.84|Noguchi R.|Japan|2016|63.0|168.0|right|25.0|Bovy A.|Belgium|2018|||left|23.0|indoors|20201021
+Ismaning challenger|1.72|2.00|Manafov V.|Ukraine|2011|||left|31.0|Paz J.|Argentina|2010|||right|29.0|indoors|20201021
+Ismaning challenger|1.40|2.73|Mochizuki S.|Japan|2018|||right|21.0|Krutykh O.|Ukraine|2016|||right|24.0|indoors|20201021
+Ismaning challenger|6.14|1.09|Thirouin J.|France|2013|85.0|188.0|right|26.0|Grigelis L.|Lithuania|2006|78.0|183.0|right|33.0|indoors|20201021
+Ismaning challenger|1.15|4.72|Tirante T.|Argentina|2016|78.0|185.0|right|23.0|Patino L.|Mexico|2008|||right|30.0|indoors|20201021
+Ismaning challenger|2.35|1.52|Weightman O.|GreatBritain|2018|||right|22.0|Bittoun Kouzmine C.|France|2014|73.0|175.0|left|25.0|indoors|20201021
+Ismaning challenger|5.42|1.11|Glinka D.|Estonia|2015|||left|24.0|Mansouri S.|Tunisia|2010|86.0|193.0|right|29.0|indoors|20201021
+Ismaning challenger|1.13|5.18|Boyer D.|USA|2015|79.0|183.0|right|31.0|Arh A.|Slovenia|2017|||right|25.0|indoors|20201021
+Ismaning challenger|2.01|1.70|Cobolli F.|Italy|2017|||right|22.0|Capecchi D.|Italy|2012|75.0|180.0|right|28.0|indoors|20201021
+Ismaning challenger|2.51|1.47|Orlov V.|Ukraine|2014|77.0|185.0|right|29.0|McHugh A.|GreatBritain|2016|70.0|178.0|right|24.0|indoors|20201021
+Ismaning challenger|1.09|6.03|Brouwer G.|Netherlands|2013|72.0|191.0|left|28.0|Dzhavakian Y.|Ukraine|2010|||right|31.0|indoors|20201021
+Ismaning challenger|1.14|4.85|Marek W.|Poland|2017|81.0|193.0|right|23.0|Ouakaa A.|Tunisia|2015|||right|25.0|indoors|20201021
+Ismaning challenger|2.07|1.67|Tamm K.|Estonia|2014|||right|26.0|Martinez M.|Switzerland|2015|70.0|175.0|right|26.0|indoors|20201021
+Ismaning challenger|3.39|1.27|Miladinovic M.|Serbia|2015|74.0|180.0|right|23.0|Corwin F.|USA|2014|82.0|188.0|right|28.0|indoors|20201021
+Ismaning challenger|2.01|1.71|Zekic M.|Serbia|2003|79.0|185.0|right|36.0|Kravchenko G.|Ukraine|2016|63.0|180.0|right|24.0|indoors|20201021
+Ismaning challenger|2.27|1.56|Vidal Azorin J.|Spain|2010|68.0|178.0|right|31.0|Lock B.|Zimbabwe|2008|86.0|198.0|right|31.0|indoors|20201021
+Ismaning challenger|1.28|3.34|Lipovsek Puches T.|Slovenia|2010|||right|31.0|Carou I.|Uruguay|2015|70.0|178.0|right|25.0|indoors|20201021
+Ismaning challenger|1.19|4.15|Zukas M.|Argentina|2011|72.0|183.0|right|28.0|Gregg P.|USA|2016|||right|24.0|indoors|20201021
+Ismaning challenger|1.82|1.88|Kadhe A.|India|2011|83.0|185.0|right|30.0|Donski A.|Bulgaria|2014|80.0|188.0|right|26.0|indoors|20201021
+Ismaning challenger|1.82|1.88|Podzus M.|Latvia|2010|87.0|188.0|right|30.0|Atmane T.|France|2017|||left|22.0|indoors|20201021
+Ismaning challenger|1.21|3.95|Gengel M.|CzechRepublic|2014|80.0|185.0|right|28.0|Borg L.|Sweden|2020|||right|21.0|indoors|20201021
+Ismaning challenger|1.04|8.78|Vivero Gonzalez P.|Spain|2012|80.0|193.0|right|29.0|Beckley A.|RSA|2018|||right|23.0|indoors|20201021
+Ismaning challenger|1.91|1.80|Gakhov I.|Russia|2011|80.0|191.0|left|27.0|Rawat S.|India|2009|70.0|175.0|right|31.0|indoors|20201021
+UTR Pro Tennis Series|1.23|3.45|Puttergill C.|Australia|2011|78.0|183.0|right|30.0|Sach T.|Australia|2018|||right|21.0|hard|20201021
+UTR Pro Tennis Series|1.23|3.45|Jin J.|Australia|2020|||right|20.0|Djurovic B.|Australia|2014|||right|28.0|hard|20201021
+UTR Pro Tennis Series|1.29|3.25|Winter E.|Australia|2020|||right|19.0|Court J.|Australia|2016|92.0|188.0|right|24.0|hard|20201021
+UTR Pro Tennis Series|1.30|3.40|Tu L.|Australia|2011|||right|28.0|Babanine A.|Australia|2010|73.0|175.0|right|30.0|hard|20201021
+UTR Pro Tennis Series|2.75|1.40|Taylor A.|Australia|2007|78.0|178.0|right|33.0|Dong J.|Australia|2020|||right|19.0|hard|20201021
+UTR Pro Tennis Series|1.08|7.00|Puodziunas S.|Australia|2008|95.0|198.0|right|34.0|Ryan J.|Australia|2018|||right|27.0|hard|20201021
+UTR Pro Tennis Series|1.44|2.62|Bayldon B.|Australia|2016|||left|25.0|Boniel N.|Australia|2020|||right|29.0|hard|20201021
+UTR Pro Tennis Series|1.25|3.75|Gaal C.|Australia|2016|||right|26.0|Papac T.|Australia|2012|75.0|191.0|right|29.0|hard|20201021

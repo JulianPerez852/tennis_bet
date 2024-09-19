@@ -1,0 +1,65 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Mercier T.|NZL|Right-Handed|Wojcik J.|NZL|Right-Handed|0.0|-1.0|59.5|-3.0|1.5|7.0|-0.43000000000000016
+hard|Wojcik J.|NZL|Right-Handed|Mercier T.|NZL|Right-Handed|1.0||-59.5|3.0|-1.5|-7.0|0.43000000000000016
+clay|Sitak A.|NZL|Right-Handed|Stoupe G.|NZL|Right-Handed|0.0|17.0|59.5|4.0|-4.5|15.0|-1.35
+clay|Mejia N.|COL|Right-Handed|Hohmann R.|NZL|Right-Handed|0.0|4.0|-6.0|7.0|7.0|1.0|-1.3300000000000003
+clay|Hohmann R.|NZL|Right-Handed|Mejia N.|COL|Right-Handed|1.0||6.0|-7.0|-7.0|-1.0|1.3300000000000003
+clay|Corwin F.|NZL|Right-Handed|Chappell N.|NZL|Left-Handed|0.0|-4.0|176.5|0.0|10.0|-3.0|-0.5800000000000001
+clay|Heap D.|NZL|Right-Handed|Statham M.|NZL|Right-Handed|1.0||-59.5|2.5|6.5|-8.0|0.5399999999999998
+hard|Schachter N.|NZL|Right-Handed|Daciek P.|NZL|Right-Handed|0.0|-8.0|59.5|-2.5|-6.5|-9.0|-3.26
+clay|King E.|NZL|Left-Handed|Arconada J.|NZL|Right-Handed|1.0||34.5|5.0|5.0|4.0|0.43000000000000016
+clay|Kirkov V.|NZL|Right-Handed|Zverev M.|DEU|Left-Handed|0.0|-13.0|59.5|-24.0|-6.0|-12.0|2.3200000000000003
+clay|Carreno-Busta P.|ESP|Right-Handed|Bautista-Agut R.|ESP|Right-Handed|1.0||637.5|3.0|5.0|-3.0|0.5400000000000003
+clay|Pichler D.|AUT|Right-Handed|Oswald P.|AUT|Right-Handed|0.0|-10.0|232.5|-25.0|-23.0|-10.0|-0.3999999999999999
+clay|Thiem D.|AUT|Right-Handed|Rodionov J.|AUT|Left-Handed|0.0|5.0|6909.0|-7.0|-6.0|6.0|-9.0
+Varioussurfaces|Naw H.|SYR|Right-Handed|Schmitz C.|DEU|Right-Handed|1.0||-59.5|-8.0|-1.5|-5.0|-0.24
+clay|Statham R.|NZL|Right-Handed|Klintcharov A.|NZL|Right-Handed|0.0|11.0|-142.0|0.0|-11.5|9.0|-1.2999999999999998
+hard|Blanch U.|NZL|Right-Handed|McDonald M.|NZL|Right-Handed|1.0||-34.5|5.0|10.0|-3.0|1.74
+clay|Ortlip J.|NZL|Right-Handed|Sarmiento R.|NZL|Right-Handed|1.0||156.0|12.0|11.5|-5.0|1.38
+clay|Tearney F.|NZL|Right-Handed|Venus M.|NZL|Right-Handed|0.0|-3.0|-92.0|-6.0|-8.0|-3.0|0.20999999999999996
+clay|Chappell N.|NZL|Left-Handed|Corwin F.|NZL|Right-Handed|1.0||-176.5|0.0|-10.0|3.0|0.5800000000000001
+clay|Brymer G.|NZL|Right-Handed|Stalder R.|NZL|Right-Handed|1.0||-59.5|-7.0|2.0|2.0|-3.51
+clay|Ofner S.|AUT|Right-Handed|Erler A.|AUT|Right-Handed|0.0|1.0|161.0|-2.0|-2.0|2.0|-0.73
+hard|Cerretani J.|NZL|Left-Handed|Schachter N.|NZL|Right-Handed|1.0||-59.5|2.5|2.0|18.0|4.779999999999999
+clay|Zverev M.|DEU|Left-Handed|Kirkov V.|NZL|Right-Handed|1.0||-59.5|24.0|6.0|12.0|-2.3200000000000003
+hard|Daciek P.|NZL|Right-Handed|Schachter N.|NZL|Right-Handed|1.0||-59.5|2.5|6.5|9.0|3.26
+hard|Wolf J.|NZL|Right-Handed|Torpegaard M.|DNK|Right-Handed|0.0|-4.0|-49.5|-5.0|-10.0|-5.0|-1.35
+clay|Sarkissian A.|NZL|Right-Handed|Boyer D.|NZL|Right-Handed|0.0|10.0|129.0|0.0|8.0|3.0|-0.10999999999999988
+Varioussurfaces|Choinski J.|NZL|Right-Handed|Broska F.|DEU|Right-Handed|1.0||-141.5|2.5|13.0|0.0|-1.8199999999999998
+clay|Rajski M.|POL|Right-Handed|Michalski D.|POL|Right-Handed|1.0||-59.5|3.0|13.0|9.0|2.22
+clay|Oswald P.|AUT|Right-Handed|Pichler D.|AUT|Right-Handed|1.0||-232.5|25.0|23.0|10.0|0.3999999999999999
+clay|Stalder R.|NZL|Right-Handed|Brymer G.|NZL|Right-Handed|0.0|0.0|59.5|7.0|-2.0|-2.0|3.51
+clay|Reynolds R.|NZL|Right-Handed|Hunt A.|NZL|Right-Handed|0.0|-1.0|59.5|-2.5|-6.5|-3.0|-0.8500000000000001
+Varioussurfaces|Schmitz C.|DEU|Right-Handed|Naw H.|SYR|Right-Handed|0.0|0.0|59.5|8.0|1.5|5.0|0.24
+hard|Schachter N.|NZL|Right-Handed|Cerretani J.|NZL|Left-Handed|0.0|-14.0|59.5|-2.5|-2.0|-18.0|-4.779999999999999
+clay|Kolasinski F.|POL|Right-Handed|Zielinski J.|POL|Right-Handed|1.0||-59.5|0.0|9.5|-4.0|0.6999999999999997
+clay|Zielinski J.|POL|Right-Handed|Kolasinski F.|POL|Right-Handed|0.0|5.0|59.5|0.0|-9.5|4.0|-0.6999999999999997
+clay|Michalski D.|POL|Right-Handed|Rajski M.|POL|Right-Handed|0.0|-11.0|59.5|-3.0|-13.0|-9.0|-2.22
+clay|Hunt A.|NZL|Right-Handed|Reynolds R.|NZL|Right-Handed|1.0||-59.5|2.5|6.5|3.0|0.8500000000000001
+Varioussurfaces|Berzins A.|LVA|Right-Handed|Kulibaba A.|LVA|Right-Handed|0.0|7.0|59.5|-2.5|-6.5|7.0|-0.3999999999999999
+Varioussurfaces|Troost S.|EST|Right-Handed|Libietis M.|LVA|Right-Handed|0.0|-6.0|59.5|-9.5|-10.0|-8.0|-0.3999999999999999
+clay|Sisam M.|NZL|Right-Handed|McLachlan B.|JPN|Right-Handed|1.0||-59.5|2.0|1.5|-8.0|0.54
+clay|El Mihdawy A.|NZL|Right-Handed|Zverev M.|DEU|Left-Handed|0.0|-3.0|59.5|-10.5|-8.0|-2.0|-0.3999999999999999
+Varioussurfaces|Kulibaba A.|LVA|Right-Handed|Berzins A.|LVA|Right-Handed|1.0||-59.5|2.5|6.5|-7.0|0.3999999999999999
+hard|Metz D.|NZL|Right-Handed|Bradford C.|NZL|Left-Handed|0.0|-1.0|59.5|4.5|5.0|3.0|3.8600000000000003
+clay|Boyer D.|NZL|Right-Handed|Sarkissian A.|NZL|Right-Handed|1.0||-129.0|0.0|-8.0|-3.0|0.10999999999999988
+clay|Erler A.|AUT|Right-Handed|Ofner S.|AUT|Right-Handed|1.0||-161.0|2.0|2.0|-2.0|0.73
+clay|Rodionov J.|AUT|Left-Handed|Thiem D.|AUT|Right-Handed|1.0||-6909.0|7.0|6.0|-6.0|9.0
+clay|Klintcharov A.|NZL|Right-Handed|Statham R.|NZL|Right-Handed|1.0||142.0|0.0|11.5|-9.0|1.2999999999999998
+hard|Draxl L.|CAN|Right-Handed|Mandlik M.|NZL|Right-Handed|0.0|0.0|59.5|-2.5|-6.5|-1.0|-2.8
+clay|Arconada J.|NZL|Right-Handed|King E.|NZL|Left-Handed|0.0|-4.0|-34.5|-5.0|-5.0|-4.0|-0.43000000000000016
+Varioussurfaces|Broska F.|DEU|Right-Handed|Choinski J.|NZL|Right-Handed|0.0|-3.0|141.5|-2.5|-13.0|0.0|1.8199999999999998
+clay|Sarmiento R.|NZL|Right-Handed|Ortlip J.|NZL|Right-Handed|0.0|10.0|-156.0|-12.0|-11.5|5.0|-1.38
+clay|Andujar P.|ESP|Right-Handed|De Minaur A.|AUS|Right-Handed|1.0||-643.0|11.0|-3.0|13.0|0.94
+Varioussurfaces|Libietis M.|LVA|Right-Handed|Troost S.|EST|Right-Handed|1.0||-59.5|9.5|10.0|8.0|0.3999999999999999
+hard|Bradford C.|NZL|Left-Handed|Metz D.|NZL|Right-Handed|1.0||-59.5|-4.5|-5.0|-3.0|-3.8600000000000003
+clay|Venus M.|NZL|Right-Handed|Tearney F.|NZL|Right-Handed|1.0||92.0|6.0|8.0|3.0|-0.20999999999999996
+clay|Statham M.|NZL|Right-Handed|Heap D.|NZL|Right-Handed|0.0|18.0|59.5|-2.5|-6.5|8.0|-0.5399999999999998
+clay|Bautista-Agut R.|ESP|Right-Handed|Carreno-Busta P.|ESP|Right-Handed|0.0|4.0|-637.5|-3.0|-5.0|3.0|-0.5400000000000003
+hard|Mandlik M.|NZL|Right-Handed|Draxl L.|CAN|Right-Handed|1.0||-59.5|2.5|6.5|1.0|2.8
+hard|Torpegaard M.|DNK|Right-Handed|Wolf J.|NZL|Right-Handed|1.0||49.5|5.0|10.0|5.0|1.35
+clay|Zverev M.|DEU|Left-Handed|El Mihdawy A.|NZL|Right-Handed|1.0||-59.5|10.5|8.0|2.0|0.3999999999999999
+hard|McDonald M.|NZL|Right-Handed|Blanch U.|NZL|Right-Handed|0.0|5.0|34.5|-5.0|-10.0|3.0|-1.74
+clay|McLachlan B.|JPN|Right-Handed|Sisam M.|NZL|Right-Handed|0.0|9.0|59.5|-2.0|-1.5|8.0|-0.54
+clay|De Minaur A.|AUS|Right-Handed|Andujar P.|ESP|Right-Handed|0.0|-13.0|643.0|-11.0|3.0|-13.0|-0.94
+clay|Stoupe G.|NZL|Right-Handed|Sitak A.|NZL|Right-Handed|1.0||-59.5|-4.0|4.5|-15.0|1.35

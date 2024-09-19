@@ -1,0 +1,39 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Schwartzman D.|ARG|Right-Handed|Bradshaw J.|AUS|Right-Handed|0.0|13.0|279.0|-13.0|-14.0|11.0|-8.719999999999999
+hard|Seyboth Wild T.|BRA|Right-Handed|Hurkacz H.|POL|Right-Handed|1.0||-1652.0|-3.0|-11.0|-3.0|6.08
+hard|McCabe J.|AUS|Right-Handed|Thiem D.|AUT|Right-Handed|1.0||-220.0|-2.0|-1.0|-10.0|3.3400000000000003
+hard|Michelsen A.|AUS|Right-Handed|Giannessi A.|ITA|Left-Handed|0.0|-15.0|202.0|-3.0|0.0|-15.0|-4.67
+hard|Taguchi R.|JPN|Right-Handed|Bax F.|FRA|Right-Handed|0.0|-6.0|174.0|2.0|1.0|-1.0|1.4799999999999998
+hard|Griekspoor T.|NLD|Right-Handed|Ruud C.|NOR|Right-Handed|1.0||-3546.0|8.0|5.0|3.0|0.5800000000000001
+hard|Barrere G.|FRA|Right-Handed|Sweeny D.|AUS|Right-Handed|0.0|7.0|862.0|17.0|13.0|7.0|-1.92
+hard|Shin S.|KOR|Right-Handed|Friend J.|JPN|Right-Handed|0.0|6.0|174.0|-2.0|-4.0|7.0|0.4099999999999999
+hard|Kuznetsov A.|RUS|Right-Handed|Galan D.|COL|Right-Handed|1.0||-78.0|-1.0|-6.0|5.0|3.67
+hard|Duckworth J.|AUS|Right-Handed|Sekulic P.|AUS|Right-Handed|0.0|12.0|174.0|5.0|-1.0|12.0|-2.41
+hard|Tu L.|AUS|Right-Handed|Comesana F.|ARG|Right-Handed|0.0|6.0|-105.0|2.0|1.0|5.0|-1.03
+hard|Giannessi A.|ITA|Left-Handed|Michelsen A.|AUS|Right-Handed|1.0||-202.0|3.0|0.0|15.0|4.67
+hard|Cressy M.|AUS|Right-Handed|Peniston R.|AUS|Left-Handed|0.0|-3.0|408.0|13.0|18.0|-1.0|-1.0
+hard|Sekulic P.|AUS|Right-Handed|Duckworth J.|AUS|Right-Handed|1.0||-174.0|-5.0|1.0|-12.0|2.41
+hard|Thiem D.|AUT|Right-Handed|McCabe J.|AUS|Right-Handed|0.0|10.0|220.0|2.0|1.0|10.0|-3.3400000000000003
+hard|Galan D.|COL|Right-Handed|Kuznetsov A.|RUS|Right-Handed|0.0|-5.0|78.0|1.0|6.0|-5.0|-3.67
+hard|Zeppieri G.|ITA|Left-Handed|Jasika O.|AUS|Left-Handed|0.0|-5.0|306.0|18.0|2.0|-5.0|-1.3499999999999999
+hard|Bradshaw J.|AUS|Right-Handed|Schwartzman D.|ARG|Right-Handed|1.0||-279.0|13.0|14.0|-11.0|8.719999999999999
+hard|Tarvet O.|AUS|Right-Handed|Kumar O.|AUS|Left-Handed|0.0|-6.0|396.0|2.0|1.0|-2.0|1.6199999999999999
+hard|Lehecka J.|CZE|Right-Handed|Zhang Z.|CHN|Right-Handed|1.0||892.0|-7.0|-10.0|-5.0|-0.6299999999999999
+hard|Zverev A.|DEU|Right-Handed|Sonego L.|ITA|Right-Handed|0.0|2.0|1160.0|14.0|7.0|-2.0|-3.12
+hard|Halys Q.|FRA|Right-Handed|Klein L.|SVK|Right-Handed|1.0||336.0|-7.0|-2.0|1.0|-1.2100000000000002
+hard|Bax F.|FRA|Right-Handed|Taguchi R.|JPN|Right-Handed|1.0||-174.0|-2.0|-1.0|1.0|-1.4799999999999998
+hard|Peniston R.|AUS|Left-Handed|Cressy M.|AUS|Right-Handed|1.0||-408.0|-13.0|-18.0|1.0|1.0
+hard|Kovacevic A.|AUS|Right-Handed|Gaio F.|ITA|Right-Handed|0.0|-7.0|105.0|-8.0|3.0|-7.0|-2.65
+hard|Kumar O.|AUS|Left-Handed|Tarvet O.|AUS|Right-Handed|1.0||-396.0|-2.0|-1.0|2.0|-1.6199999999999999
+hard|Sonego L.|ITA|Right-Handed|Zverev A.|DEU|Right-Handed|1.0||-1160.0|-14.0|-7.0|2.0|3.12
+hard|Jasika O.|AUS|Left-Handed|Zeppieri G.|ITA|Left-Handed|1.0||-306.0|-18.0|-2.0|5.0|1.3499999999999999
+hard|Lee D.|KOR|Right-Handed|Yamasaki J.|JPN|Right-Handed|0.0|0.0|174.0|0.0|-5.0|-1.0|-0.49
+hard|Gaio F.|ITA|Right-Handed|Kovacevic A.|AUS|Right-Handed|1.0||-105.0|8.0|-3.0|7.0|2.65
+hard|Yamasaki J.|JPN|Right-Handed|Lee D.|KOR|Right-Handed|1.0||-174.0|0.0|5.0|1.0|0.49
+hard|Hurkacz H.|POL|Right-Handed|Seyboth Wild T.|BRA|Right-Handed|0.0|0.0|1652.0|3.0|11.0|3.0|-6.08
+hard|Comesana F.|ARG|Right-Handed|Tu L.|AUS|Right-Handed|1.0||105.0|-2.0|-1.0|-5.0|1.03
+hard|Sweeny D.|AUS|Right-Handed|Barrere G.|FRA|Right-Handed|1.0||-862.0|-17.0|-13.0|-7.0|1.92
+hard|Klein L.|SVK|Right-Handed|Halys Q.|FRA|Right-Handed|0.0|-3.0|-336.0|7.0|2.0|-1.0|1.2100000000000002
+hard|Friend J.|JPN|Right-Handed|Shin S.|KOR|Right-Handed|1.0||-174.0|2.0|4.0|-7.0|-0.4099999999999999
+hard|Zhang Z.|CHN|Right-Handed|Lehecka J.|CZE|Right-Handed|0.0|5.0|-892.0|7.0|10.0|5.0|0.6299999999999999
+hard|Ruud C.|NOR|Right-Handed|Griekspoor T.|NLD|Right-Handed|0.0|-1.0|3546.0|-8.0|-5.0|-3.0|-0.5800000000000001

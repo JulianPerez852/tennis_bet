@@ -1,4 +1,669 @@
-Surface|pl1|pl1_flag|pl1_hand|pl1_bet|pl2|pl2_flag|pl2_hand|pl2_bet|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight
-indoors|Torpegaard M.|DNK|Right-Handed|1.53|Catarina L.|MCO|Right-Handed|2.38|0.0|2.0|237.0|4.0|8.0
-indoors|Forejtek J.|CZE|Right-Handed|1.14|Leshem E.|ISR|Right-Handed|5.05|0.0|-5.0|-83.0|1.0|-3.0
-clay|Etcheverry T.|ARG|Right-Handed|2.27|Dellien H.|BOL|Right-Handed|1.6|0.0|-7.0|-108.0|7.0|16.0
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+indoors|Ban I.|HRV|Right-Handed|Samosi P.|SVK|Right-Handed|0.0|-5.0|23.0|-3.0|0.0|-1.0|9.49
+indoors|Zusman R.|ITA|Left-Handed|Bagnolini D.|ITA|Right-Handed|0.0|2.0|23.0|-3.0|0.0|2.0|-1.64
+indoors|Callejon Hernando S.|ESP|Right-Handed|Vallejo Ferrer A.|ESP|Right-Handed|0.0|-5.0|23.0|-3.0|0.0|-4.0|-8.2
+indoors|Menendez-Maceiras A.|ESP|Right-Handed|Zhukayev B.|KAZ|Right-Handed|0.0|14.0|261.0|-3.0|0.0|15.0|-0.6299999999999999
+indoors|Hassan B.|LBN|Right-Handed|Squire H.|DEU|Right-Handed|1.0||-6.0|10.0|0.0|6.0|0.29000000000000004
+indoors|Shvets V.|BLR|Right-Handed|Cloes L.|BEL|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|-9.49
+clay|Madaras D.|SWE|Left-Handed|Cretu C.|ROU|Right-Handed|1.0||-29.0|10.0|8.0|3.0|3.4699999999999998
+indoors|Campos Barrios B.|MEX|Right-Handed|Trapeznikov Z.|RUS|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+clay|Ionel N.|ROU|Right-Handed|Musialek A.|FRA|Right-Handed|0.0|-9.0|23.0|-9.0|0.0|-15.0|-1.31
+indoors|Benmira M.|MAR|Right-Handed|Marquiselli V.|ARG|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Loof T.|NLD|Right-Handed|Dong J.|AUS|Right-Handed|0.0|0.0|23.0|-3.0|0.0|3.0|-1.58
+indoors|Rodriguez-Pace R.|VEN|Right-Handed|Loureiro J.|BRA|Right-Handed|1.0||-23.0|3.0|0.0|10.0|-1.5799999999999998
+indoors|Gagliardo L.|ITA|Right-Handed|Gheorghita T.|ROU|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Bathrinath L.|IND|Right-Handed|Suresh G.|IND|Right-Handed|0.0|-5.0|23.0|-3.0|0.0|-3.0|2.3899999999999997
+indoors|Coloma-Heck G.|DEU|Right-Handed|Dumitru V.|ROU|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.0
+indoors|Davies G.|AUS|Right-Handed|Bar Biryukov P.|RUS|Left-Handed|1.0||-23.0|3.0|0.0|7.0|-9.49
+indoors|Huertas Del Pino A.|PER|Right-Handed|Britto L.|BRA|Right-Handed|0.0|-7.0|23.0|4.0|3.0|-1.0|1.5799999999999998
+indoors|Speziali F.|ITA|Right-Handed|Edley A.|AUS|Right-Handed|0.0|3.0|23.0|-3.0|0.0|1.0|9.49
+indoors|Bugarikj B.|AUS|Right-Handed|Pennaforti G.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Valle F.|ITA|Right-Handed|Mouline S.|MAR|Left-Handed|0.0|-18.0|23.0|-3.0|0.0|-13.0|-1.64
+indoors|Lamasine T.|FRA|Right-Handed|Deschamps T.|FRA|Right-Handed|0.0|6.0|41.0|-9.0|0.0|5.0|-1.9100000000000001
+indoors|Anand K.|IND|Right-Handed|Kumthonkittikul W.|THA|Right-Handed|1.0||-23.0|18.0|10.0|3.0|1.64
+indoors|El Sallaly A.|EGY|Right-Handed|Kodancha Srinivasan D.|IND|Right-Handed|0.0|7.0|23.0|-3.0|0.0|1.0|-1.64
+clay|Juarez F.|ITA|Right-Handed|Mendoza A.|BOL|Right-Handed|0.0|-10.0|23.0|-5.0|0.0|-8.0|-8.239999999999998
+indoors|Rimoli E.|FRA|Right-Handed|Garcia Mestre J.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|2.0|2.17
+indoors|Gupta L.|IND|Right-Handed|Kamath M.|IND|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Puig Molin D.|ESP|Right-Handed|Lapalu V.|FRA|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|2.0|9.49
+indoors|Cloes L.|BEL|Right-Handed|Shvets V.|BLR|Right-Handed|0.0|-16.0|23.0|-3.0|0.0|2.0|9.49
+indoors|Alcala Gurri M.|ESP|Right-Handed|Ender P.|AUT|Right-Handed|0.0|3.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|Tamm K.|EST|Right-Handed|Hobbs R.|SGP|Right-Handed|1.0||-23.0|8.0|0.0|-9.0|1.64
+indoors|Hajek P.|CZE|Right-Handed|Blazka D.|CZE|Right-Handed|0.0|6.0|23.0|-3.0|0.0|7.0|-1.64
+indoors|Errey C.|AUS|Right-Handed|Bataljin L.|AUS|Right-Handed|1.0||-23.0|25.0|15.0|-9.0|1.2800000000000002
+indoors|Phunsawat C.|THA|Right-Handed|Parizzia N.|CHE|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|8.2
+clay|Gutierrez O.|BRA|Right-Handed|Lopez Montagud C.|ESP|Right-Handed|1.0||-23.0|-8.0|-13.0|7.0|0.10999999999999988
+indoors|Niklas-Salminen P.|FIN|Left-Handed|Galarneau A.|CAN|Right-Handed|1.0||-52.0|7.0|8.0|2.0|4.31
+clay|Sanchez Jover C.|ESP|Left-Handed|Schell N.|DEU|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-1.0|-3.4699999999999998
+indoors|Setkic A.|ITA|Right-Handed|Paul J.|CHE|Right-Handed|0.0|12.0|158.0|8.0|8.0|11.0|-0.2899999999999998
+indoors|Cohen A.|ISR|Right-Handed|Calvo Barcelo F.|ARG|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|-5.0|-8.2
+indoors|Frantzen C.|DEU|Right-Handed|Aubriot A.|FRA|Right-Handed|0.0|3.0|23.0|-3.0|0.0|1.0|-1.64
+clay|Nincevic F.|HRV|Right-Handed|Forti F.|ITA|Right-Handed|0.0|0.0|23.0|-5.0|-8.0|0.0|6.640000000000001
+indoors|Hoareau B.|AUS|Right-Handed|Gola A.|ITA|Right-Handed|1.0||-23.0|8.0|0.0|6.0|3.2199999999999998
+indoors|Roveri Sidney G.|BRA|Left-Handed|Gomez S.|COL|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-1.0|1.5799999999999998
+indoors|Zayid M.|QAT|Right-Handed|Paulovcak S.|SVK|Right-Handed|1.0||-23.0|3.0|0.0|5.0|-9.49
+indoors|Braithwaite T.|AUS|Right-Handed|Wattanakul P.|THA|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-9.49
+clay|Vincent Ruggeri S.|ITA|Right-Handed|Oradini G.|ITA|Left-Handed|0.0|-7.0|23.0|-3.0|0.0|-4.0|0.0
+clay|Valsecchi P.|FRA|Left-Handed|Perchicot M.|FRA|Right-Handed|1.0||-23.0|-7.0|-2.0|-4.0|6.91
+indoors|Heinonen A.|SWE|Right-Handed|Bezjak G.|SVN|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-2.0|-8.2
+indoors|Maginley H.|ATG|Right-Handed|Quintero M.|COL|Right-Handed|1.0||-23.0|13.0|10.0|-15.0|-1.5799999999999998
+indoors|Yadav Y.|IND|Right-Handed|Nemakal A.|IND|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-3.0|-1.64
+indoors|Geerts M.|BEL|Right-Handed|Heyman C.|BEL|Left-Handed|0.0|-1.0|26.0|-17.0|-13.0|-1.0|0.45999999999999996
+indoors|Gomez S.|COL|Right-Handed|Roveri Sidney G.|BRA|Left-Handed|1.0||-23.0|3.0|0.0|1.0|-1.5799999999999998
+indoors|Postay A.|ARG|Right-Handed|Zubac D.|SRB|Right-Handed|0.0|4.0|23.0|-3.0|0.0|6.0|-1.64
+indoors|Aboian V.|ARG|Left-Handed|Roncadelli F.|URY|Left-Handed|0.0|-2.0|23.0|2.0|-2.0|-2.0|1.5799999999999998
+indoors|Pecak S.|CZE|Right-Handed|Gabor D.|IRL|Right-Handed|0.0|3.0|23.0|-3.0|0.0|4.0|-1.64
+indoors|Vandermeersch C.|FRA|Right-Handed|Durasovic V.|NOR|Right-Handed|1.0||26.0|-2.0|-2.0|-2.0|8.59
+indoors|Paris J.|ITA|Right-Handed|Sousa T.|PRT|Right-Handed|0.0|9.0|23.0|-3.0|0.0|6.0|-1.64
+indoors|Mpetshi Perricard G.|FRA|Right-Handed|Rosenkranz M.|DEU|Left-Handed|1.0||-23.0|3.0|0.0|-4.0|0.74
+indoors|Ogura K.|JPN|Right-Handed|Guillen Meza A.|ECU|Right-Handed|1.0||-23.0|-7.0|-13.0|7.0|-1.5799999999999998
+indoors|Emersic Potocnik G.|SVN|Right-Handed|Van den Ham T.|NLD|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Meagher W.|AUS|Right-Handed|Fitzgerald P.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.16
+indoors|Trapeznikov Z.|RUS|Right-Handed|Campos Barrios B.|MEX|Right-Handed|0.0|7.0|23.0|-3.0|0.0|3.0|-1.64
+indoors|Santamaria F.|COL|Right-Handed|Gomes H.|BRA|Right-Handed|0.0|6.0|23.0|-3.0|0.0|7.0|1.5799999999999998
+indoors|Kljaic N.|HRV|Right-Handed|Maric F.|HRV|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-9.49
+clay|Arnaldi M.|ITA|Right-Handed|Barun B.|HRV|Right-Handed|0.0|1.0|18.0|-3.0|0.0|0.0|-3.7600000000000002
+indoors|Vatteroni L.|ITA|Right-Handed|Crisostomo G.|ITA|Right-Handed|0.0|4.0|23.0|-3.0|0.0|2.0|-8.2
+indoors|Markiewicz J.|DEU|Right-Handed|Habib A.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|9.0|1.64
+indoors|Britto L.|BRA|Right-Handed|Huertas Del Pino A.|PER|Right-Handed|1.0||-23.0|-4.0|-3.0|1.0|-1.5799999999999998
+indoors|Raynel A.|FRA|Right-Handed|Tsarapkin E.|RUS|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-1.0|9.49
+clay|Krutykh O.|UKR|Right-Handed|Harris B.|AUS|Right-Handed|0.0|-3.0|145.0|-11.0|-8.0|-5.0|-1.23
+indoors|Chauhan C.|IND|Right-Handed|Suresh D.|IND|Right-Handed|1.0||-23.0|3.0|0.0|1.0|-2.3899999999999997
+indoors|Bezjak G.|SVN|Right-Handed|Heinonen A.|SWE|Right-Handed|1.0||-23.0|3.0|0.0|2.0|8.2
+clay|Smith K.|AUS|Right-Handed|Hijikata R.|AUS|Right-Handed|1.0||50.0|25.0|20.0|3.0|0.08999999999999986
+indoors|Potenza L.|ITA|Right-Handed|Lokoli L.|FRA|Right-Handed|1.0||-20.0|0.0|-5.0|-5.0|1.9
+indoors|Stepanian A.|ARG|Right-Handed|Oliver Moratalla V.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Kozlowski K.|AUS|Right-Handed|Karol M.|SVK|Right-Handed|0.0|-3.0|23.0|-15.0|-15.0|3.0|-1.64
+indoors|Mineo F.|ITA|Right-Handed|Nedelchev N.|BGR|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Sharipov M.|RUS|Right-Handed|Gabay S.|ISR|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|-3.0|-1.64
+indoors|Radenkovic L.|SRB|Right-Handed|Bradshaw J.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Meneghetti M.|ITA|Right-Handed|Biljesko D.|HRV|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Alcantara F.|PHL|Right-Handed|Chiu J.|ITA|Right-Handed|1.0||-23.0|-5.0|-13.0|9.0|-9.49
+indoors|Devald B.|HRV|Right-Handed|Marchetti F.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|0.0|8.2
+indoors|Bini V.|BRA|Right-Handed|Hornitschek N.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+clay|Tseng C.|AUS|Right-Handed|Guinard M.|FRA|Right-Handed|1.0||-244.0|-16.0|-21.0|-5.0|0.3700000000000001
+indoors|Romanov D.|RUS|Right-Handed|Crowther C.|NZL|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Juhas K.|SRB|Right-Handed|Bill A.|HRV|Right-Handed|0.0|1.0|23.0|-3.0|0.0|0.0|-8.2
+indoors|Madan T.|IND|Right-Handed|Somani P.|IND|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Martinez M.|ESP|Right-Handed|Portugal A.|PRT|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|8.030000000000001
+indoors|Suresh G.|IND|Right-Handed|Bathrinath L.|IND|Right-Handed|1.0||-23.0|3.0|0.0|3.0|-2.3899999999999997
+indoors|Gimenez I.|BRA|Right-Handed|Osorio J.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|-1.5799999999999998
+indoors|Duric A.|AUS|Right-Handed|Dao D.|SVK|Right-Handed|1.0||-23.0|3.0|0.0|4.0|1.64
+clay|Miedler L.|AUT|Right-Handed|Marozsan F.|HUN|Right-Handed|1.0||-273.0|3.0|0.0|4.0|0.52
+indoors|Boban V.|HRV|Right-Handed|Giovannini F.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-9.49
+indoors|Garcia M.|ESP|Right-Handed|Rodriguez L.|ARG|Right-Handed|1.0||-23.0|3.0|0.0|3.0|1.64
+indoors|Krohn Da Silva F.|PRT|Right-Handed|Binnie W.|CAN|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|3.0|-1.64
+indoors|Trochu P.|FRA|Right-Handed|Aissa Khelifa M.|DZA|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|-6.0|-1.64
+indoors|El Kordy H.|EGY|Right-Handed|Zgirovsky A.|BLR|Right-Handed|1.0||-23.0|0.0|-8.0|0.0|1.64
+indoors|Isomura K.|JPN|Right-Handed|Kim D.|KOR|Right-Handed|0.0|-5.0|23.0|-3.0|0.0|-3.0|-1.64
+clay|Mansouri S.|TUN|Right-Handed|Bovy A.|BEL|Left-Handed|0.0|8.0|20.0|8.0|10.0|6.0|-1.96
+indoors|Kim D.|KOR|Right-Handed|McLennaghan W.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|8.71
+indoors|Weightman O.|ITA|Right-Handed|Southcombe J.|AUS|Right-Handed|0.0|3.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Martinovic M.|HRV|Right-Handed|Belosevic P.|SRB|Right-Handed|0.0|4.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Galarneau A.|CAN|Right-Handed|Niklas-Salminen P.|FIN|Left-Handed|0.0|-3.0|52.0|-7.0|-8.0|-2.0|-4.31
+indoors|Jasika O.|AUS|Left-Handed|Talic Z.|AUS|Left-Handed|0.0|5.0|9.0|-18.0|0.0|1.0|-6.34
+indoors|Dong J.|AUS|Right-Handed|Loof T.|NLD|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.58
+indoors|Weber A.|FRA|Left-Handed|Perfetti N.|ITA|Right-Handed|0.0|1.0|23.0|-3.0|0.0|9.0|-1.64
+indoors|Lawrence X.|BRB|Right-Handed|Blaydes B.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Hibbert T.|AUS|Right-Handed|Koaykul K.|THA|Right-Handed|1.0||-23.0|3.0|0.0|-6.0|1.64
+indoors|Birrell C.|AUS|Right-Handed|Gaal C.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.16
+indoors|Vasiliauskas M.|LTU|Right-Handed|Tasenkov V.|RUS|Right-Handed|0.0|0.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Hoyos M.|COL|Right-Handed|Torres Villamil D.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-1.5799999999999998
+indoors|Ferrarolli D.|ITA|Right-Handed|Frljanic S.|CAN|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|-4.0|-1.64
+indoors|Chaiyarin C.|THA|Right-Handed|Sakellaridis M.|GRC|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+indoors|Tabacco F.|ITA|Right-Handed|Chen Z.|CHN|Right-Handed|0.0|3.0|23.0|-3.0|0.0|-1.0|9.49
+indoors|Zanellato N.|BRA|Right-Handed|Carnevale-Miino T.|ITA|Right-Handed|0.0|-5.0|23.0|-3.0|0.0|-2.0|1.5799999999999998
+indoors|Cervantes Tomas I.|MEX|Right-Handed|Mazon-Hernandez R.|ESP|Right-Handed|0.0|-12.0|23.0|-3.0|0.0|-13.0|-1.64
+indoors|Bondar M.|UKR|Right-Handed|Gursoy S.|TUR|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|4.0|-1.64
+indoors|Oliver Moratalla V.|ESP|Right-Handed|Stepanian A.|ARG|Right-Handed|0.0|1.0|23.0|-3.0|0.0|0.0|-1.64
+clay|Panta J.|PER|Right-Handed|Wenger D.|CHE|Right-Handed|1.0||-23.0|3.0|0.0|5.0|1.52
+indoors|Otegui J.|ARG|Right-Handed|Rodriguez Rodriguez J.|COL|Right-Handed|0.0|5.0|23.0|5.0|8.0|5.0|1.5799999999999998
+indoors|Hornitschek N.|DEU|Right-Handed|Bini V.|BRA|Right-Handed|0.0|1.0|23.0|-3.0|0.0|3.0|-1.64
+indoors|Stewart A.|PRT|Right-Handed|Donarski S.|CAN|Right-Handed|1.0||-23.0|3.0|0.0|-6.0|8.2
+clay|Quiroz R.|ECU|Left-Handed|Stevens B.|NLD|Right-Handed|0.0|9.0|8.0|10.0|13.0|6.0|-5.63
+indoors|Rosenkranz M.|DEU|Left-Handed|Mpetshi Perricard G.|FRA|Right-Handed|0.0|4.0|23.0|-3.0|0.0|4.0|-0.74
+indoors|Seely S.|AUS|Right-Handed|Sabaliauskas A.|LTU|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Brkic J.|HRV|Right-Handed|Smoliner T.|AUT|Right-Handed|0.0|8.0|23.0|-3.0|0.0|3.0|-1.64
+indoors|Waldner N.|AUT|Right-Handed|Milicevic L.|SRB|Right-Handed|0.0|3.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Kovacic T.|SVN|Right-Handed|Miklavcic L.|SVN|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Kovacevic A.|ITA|Right-Handed|Bertola R.|CHE|Right-Handed|0.0|-1.0|65.0|-2.0|0.0|0.0|-3.8400000000000007
+indoors|Pervolarakis M.|GRC|Right-Handed|Haerteis J.|DEU|Left-Handed|0.0|-2.0|-54.0|2.0|0.0|0.0|0.6200000000000001
+indoors|Van Nunen M.|NLD|Right-Handed|Ostapenkov D.|BLR|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+clay|Navarro S.|BOL|Right-Handed|Denolly C.|FRA|Left-Handed|1.0||-23.0|1.0|-2.0|-7.0|8.430000000000001
+indoors|Aubriot A.|FRA|Right-Handed|Frantzen C.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Zhukayev B.|KAZ|Right-Handed|Menendez-Maceiras A.|ESP|Right-Handed|1.0||-261.0|3.0|0.0|-15.0|0.6299999999999999
+clay|Riedi L.|CHE|Right-Handed|Gray A.|AUS|Right-Handed|0.0|-4.0|21.0|2.0|-5.0|-4.0|0.2899999999999998
+indoors|Jones M.|THA|Right-Handed|Bassem Sobhy M.|EGY|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-1.0|-8.2
+indoors|Fomin S.|UZB|Right-Handed|Fantini L.|ITA|Right-Handed|1.0||-23.0|5.0|0.0|-1.0|8.2
+indoors|Mazza M.|ITA|Right-Handed|Kellovsky D.|CZE|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|-3.0|-8.2
+indoors|Garifullin A.|RUS|Right-Handed|Schlagenhauf N.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+clay|Harris B.|AUS|Right-Handed|Krutykh O.|UKR|Right-Handed|1.0||-145.0|11.0|8.0|5.0|1.23
+indoors|Vallejo Ferrer A.|ESP|Right-Handed|Callejon Hernando S.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|4.0|8.2
+indoors|Boixader Roca N.|ESP|Right-Handed|Wolfschmidt A.|DEU|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|0.0|-8.2
+indoors|Kellovsky D.|CZE|Right-Handed|Mazza M.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|3.0|8.2
+indoors|Van Orderlain D.|ITA|Right-Handed|De Carvalho V.|PRT|Right-Handed|0.0|5.0|23.0|-3.0|0.0|5.0|-1.64
+indoors|Osorio J.|COL|Right-Handed|Gimenez I.|BRA|Right-Handed|0.0|4.0|23.0|-3.0|0.0|2.0|1.5799999999999998
+indoors|Parizzia N.|CHE|Right-Handed|Phunsawat C.|THA|Right-Handed|0.0|1.0|23.0|-3.0|0.0|1.0|-8.2
+indoors|Bas Mengual I.|ESP|Right-Handed|Rossi L.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Friberg K.|SWE|Right-Handed|Moret J.|FRA|Right-Handed|0.0|4.0|23.0|13.0|2.0|2.0|-1.64
+clay|Perchicot M.|FRA|Right-Handed|Valsecchi P.|FRA|Left-Handed|0.0|0.0|23.0|7.0|2.0|4.0|-6.91
+Varioussurfaces|Schinteie G.|ROU|Right-Handed|Andreescu S.|ROU|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.42
+indoors|Kalyanpur A.|IND|Right-Handed|Dahiya J.|IND|Right-Handed|1.0||-23.0|3.0|5.0|-7.0|-2.3899999999999997
+indoors|Van Assche L.|FRA|Right-Handed|Briand J.|FRA|Right-Handed|0.0|-4.0|55.0|-3.0|0.0|-5.0|-1.7999999999999998
+indoors|Raman R.|IND|Right-Handed|Gao Q.|CHN|Right-Handed|0.0|3.0|23.0|3.0|-2.0|1.0|-1.64
+indoors|Palovic L.|SVK|Right-Handed|Echeverry Gomez J.|COL|Right-Handed|0.0|2.0|23.0|-3.0|0.0|1.0|9.49
+indoors|Chaurasia Y.|IND|Right-Handed|Dahiya P.|IND|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|-2.3899999999999997
+indoors|Correia D.|PRT|Right-Handed|Monclus Martin M.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|8.2
+indoors|Blazka D.|CZE|Right-Handed|Hajek P.|CZE|Right-Handed|1.0||-23.0|3.0|0.0|-7.0|1.64
+indoors|Ahmed O.|SAU|Right-Handed|Hodkin S.|ITA|Right-Handed|1.0||-23.0|-12.0|-2.0|2.0|8.030000000000001
+indoors|Mishkin K.|RUS|Left-Handed|Kana F.|CZE|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|-9.49
+indoors|Krstic V.|SRB|Right-Handed|Mikrut L.|HRV|Right-Handed|1.0||-23.0|3.0|0.0|1.0|8.2
+clay|Paz J.|ARG|Right-Handed|Rogic Hadzalic A.|HRV|Right-Handed|0.0|5.0|23.0|-3.0|0.0|2.0|-1.5099999999999998
+indoors|Moncada Marin A.|COL|Right-Handed|Heredia S.|COL|Right-Handed|0.0|8.0|23.0|-3.0|0.0|9.0|1.5799999999999998
+indoors|Kumasaka T.|JPN|Right-Handed|Ruenger R.|DEU|Right-Handed|0.0|-1.0|23.0|-6.0|-8.0|0.0|-1.64
+indoors|Rudiukov I.|RUS|Right-Handed|Robert N.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-5.880000000000001
+indoors|Garcia Mestre J.|ESP|Right-Handed|Rimoli E.|FRA|Right-Handed|0.0|3.0|23.0|-3.0|0.0|-2.0|-2.17
+indoors|Cohen A.|ISR|Right-Handed|Voisin E.|FRA|Right-Handed|1.0||-23.0|6.0|5.0|-1.0|1.64
+indoors|Southcombe J.|AUS|Right-Handed|Weightman O.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Woerner P.|DEU|Right-Handed|De Filippo G.|ITA|Right-Handed|0.0|8.0|23.0|-3.0|0.0|4.0|-7.95
+indoors|Tabacco G.|ITA|Right-Handed|Albrecht P.|DEU|Right-Handed|0.0|4.0|23.0|-3.0|0.0|-2.0|9.49
+indoors|Bicknell B.|JAM|Right-Handed|Torres Fernandez B.|CHL|Right-Handed|0.0|3.0|23.0|-3.0|0.0|2.0|1.5799999999999998
+indoors|De Maio M.|ITA|Right-Handed|Gregoriou G.|GRC|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-9.0|-1.64
+indoors|Gengel M.|CZE|Right-Handed|Chung Y.|KOR|Right-Handed|0.0|-1.0|90.0|2.0|7.0|2.0|0.5499999999999998
+indoors|Marino Hidalgo M.|COL|Right-Handed|Sanchez Bahamon I.|COL|Right-Handed|0.0|0.0|23.0|-3.0|0.0|1.0|1.5799999999999998
+indoors|Trujillo Hernandez J.|COL|Right-Handed|Trujillo Hernandez O.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|-1.5799999999999998
+indoors|Ortega P.|BRA|Right-Handed|Dahlberg O.|SWE|Right-Handed|1.0||-23.0|3.0|0.0|8.0|8.2
+indoors|Al-Amin K.|DEU|Right-Handed|Nishiwaki K.|JPN|Right-Handed|1.0||-23.0|8.0|5.0|-9.0|1.64
+indoors|Binnie W.|CAN|Right-Handed|Krohn Da Silva F.|PRT|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+clay|Kalender A.|HRV|Right-Handed|Kirkin E.|TUR|Right-Handed|1.0||80.0|5.0|3.0|-2.0|3.12
+indoors|Falcao G.|PRT|Right-Handed|Amaro A.|PRT|Right-Handed|0.0|16.0|23.0|-3.0|0.0|15.0|-8.2
+indoors|De Vivo N.|AUS|Right-Handed|Hough D.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|-6.0|0.010000000000000009
+indoors|Lamchinniah H.|AUS|Right-Handed|Bruce-Smith J.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-1.16
+indoors|Marquiselli V.|ARG|Right-Handed|Benmira M.|MAR|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Makhlouf S.|EGY|Right-Handed|Zhou X.|CHN|Right-Handed|0.0|2.0|23.0|-3.0|0.0|3.0|-1.64
+indoors|Jacq G.|FRA|Left-Handed|Schuetze C.|DEU|Right-Handed|0.0|1.0|23.0|-6.0|-3.0|0.0|-1.64
+clay|Lopez Montagud C.|ESP|Right-Handed|Gutierrez O.|BRA|Right-Handed|0.0|-7.0|23.0|8.0|13.0|-7.0|-0.10999999999999988
+indoors|Bava H.|IND|Right-Handed|Jadhav G.|IND|Right-Handed|0.0|8.0|23.0|0.0|-13.0|5.0|2.3899999999999997
+clay|Navone M.|ARG|Right-Handed|Klier Junior G.|BRA|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|0.45999999999999996
+indoors|Anisic S.|HRV|Right-Handed|Martini O.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|-1.5799999999999998
+indoors|Walia D.|IND|Right-Handed|Suden S.|IND|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-2.3899999999999997
+indoors|Fantini L.|ITA|Right-Handed|Fomin S.|UZB|Right-Handed|0.0|-5.0|23.0|-5.0|0.0|1.0|-8.2
+indoors|Price Pelaez S.|COL|Right-Handed|Alvarado Berrospi A.|PER|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-1.5799999999999998
+indoors|Robert N.|FRA|Right-Handed|Rudiukov I.|RUS|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|1.0|5.880000000000001
+indoors|Urrea A.|COL|Right-Handed|Cigarran T.|ARG|Right-Handed|0.0|9.0|23.0|-3.0|0.0|5.0|1.5799999999999998
+clay|Andreev A.|BGR|Right-Handed|Smith K.|ITA|Right-Handed|1.0||-28.0|-27.0|-18.0|-3.0|0.20999999999999996
+indoors|Alvarado Berrospi A.|PER|Right-Handed|Price Pelaez S.|COL|Right-Handed|0.0|3.0|23.0|-3.0|0.0|5.0|1.5799999999999998
+indoors|Durasovic V.|NOR|Right-Handed|Vandermeersch C.|FRA|Right-Handed|0.0|4.0|-26.0|2.0|2.0|2.0|-8.59
+indoors|Bar Biryukov P.|RUS|Left-Handed|Davies G.|AUS|Right-Handed|0.0|-10.0|23.0|-3.0|0.0|-7.0|9.49
+indoors|Dickerson R.|ITA|Right-Handed|Achondo G.|CHL|Right-Handed|0.0|-6.0|23.0|10.0|0.0|1.0|1.5799999999999998
+indoors|Snitari I.|ITA|Right-Handed|Stramput V.|SRB|Right-Handed|0.0|1.0|23.0|-3.0|0.0|1.0|-1.64
+clay|Stevens B.|NLD|Right-Handed|Quiroz R.|ECU|Left-Handed|1.0||-8.0|-10.0|-13.0|-6.0|5.63
+indoors|Scheers M.|AUS|Right-Handed|Tricerri S.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|0.0|0.010000000000000009
+indoors|Darras M.|FRA|Right-Handed|Padro Parra A.|ESP|Right-Handed|0.0|5.0|23.0|-3.0|0.0|2.0|-1.64
+indoors|Sadaoui M.|FRA|Right-Handed|Morolli A.|ITA|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-3.0|-1.5699999999999998
+hard|Kudla D.|ITA|Right-Handed|Altmaier D.|DEU|Right-Handed|0.0|5.0|-138.0|-9.0|-11.0|7.0|-0.56
+indoors|Bianchet S.|AUS|Right-Handed|Dawes G.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|-9.0|-2.67
+indoors|Indjic M.|HRV|Right-Handed|Nedic A.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|4.0|1.64
+indoors|Gomes H.|BRA|Right-Handed|Santamaria F.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-7.0|-1.5799999999999998
+indoors|Favero L.|ITA|Right-Handed|Corcelli Perez A.|FRA|Right-Handed|0.0|3.0|23.0|-3.0|0.0|0.0|1.5799999999999998
+clay|Bueno G.|PER|Right-Handed|Oliel Y.|ISR|Left-Handed|1.0||46.0|0.0|-5.0|-4.0|5.33
+indoors|Abibsi M.|DZA|Right-Handed|Schinas S.|GRC|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|-5.0|-1.64
+clay|Apostol B.|ROU|Right-Handed|Misolic F.|AUT|Right-Handed|1.0||-94.0|3.0|0.0|5.0|3.1499999999999995
+hard|Nadal R.|ESP|Left-Handed|Fritz T.|ITA|Right-Handed|1.0||4505.0|-1.0|-8.0|12.0|-3.7100000000000004
+indoors|Hobbs R.|SGP|Right-Handed|Tamm K.|EST|Right-Handed|0.0|4.0|23.0|-8.0|0.0|9.0|-1.64
+indoors|Patael B.|ISR|Right-Handed|Vatutin A.|RUS|Right-Handed|1.0||-85.0|11.0|10.0|-4.0|2.66
+indoors|Gabay S.|ISR|Right-Handed|Sharipov M.|RUS|Right-Handed|1.0||-23.0|3.0|0.0|3.0|1.64
+indoors|Khoeblal E.|NLD|Right-Handed|Mujakic A.|DEU|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|1.0|-1.64
+clay|Schell N.|DEU|Right-Handed|Sanchez Jover C.|ESP|Left-Handed|1.0||-23.0|3.0|0.0|1.0|3.4699999999999998
+indoors|Sanchez Bahamon I.|COL|Right-Handed|Marino Hidalgo M.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-1.5799999999999998
+indoors|Vaitiekunas P.|LTU|Right-Handed|Sueoka Y.|JPN|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+clay|Michalski D.|POL|Right-Handed|Simundza J.|HRV|Left-Handed|0.0|4.0|23.0|-1.0|-3.0|5.0|-11.82
+indoors|Hartson J.|AUS|Right-Handed|Boureau A.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-9.49
+indoors|Andrejic M.|AUT|Right-Handed|Ostro T.|HRV|Right-Handed|0.0|3.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Toman P.|AUS|Right-Handed|Mercelina P.|NLD|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|1.64
+indoors|Ender P.|AUT|Right-Handed|Alcala Gurri M.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Naumovski M.|AUS|Right-Handed|Sookton-Eng C.|THA|Right-Handed|1.0||-23.0|3.0|5.0|-4.0|2.3899999999999997
+indoors|Elsayed A.|EGY|Right-Handed|Eriksson A.|SWE|Right-Handed|0.0|2.0|23.0|-3.0|0.0|2.0|-8.2
+indoors|Crowther C.|NZL|Right-Handed|Romanov D.|RUS|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|Jadhav G.|IND|Right-Handed|Bava H.|IND|Right-Handed|1.0||-23.0|0.0|13.0|-5.0|-2.3899999999999997
+indoors|Lapalu V.|FRA|Right-Handed|Puig Molin D.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|-9.49
+indoors|Sebesta J.|CHE|Right-Handed|Brouwer G.|NLD|Left-Handed|1.0||46.0|6.0|-8.0|-7.0|6.82
+indoors|Mikrut L.|HRV|Right-Handed|Krstic V.|SRB|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-1.0|-8.2
+indoors|Balla C.|AUS|Right-Handed|Loosen T.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|8.030000000000001
+indoors|Ciurletti A.|ITA|Right-Handed|Parenti L.|ITA|Right-Handed|0.0|5.0|23.0|-6.0|-8.0|5.0|9.49
+indoors|Rodriguez Rodriguez J.|COL|Right-Handed|Otegui J.|ARG|Right-Handed|1.0||-23.0|-5.0|-8.0|-5.0|-1.5799999999999998
+indoors|Aranzabal M.|ESP|Right-Handed|Camposeo S.|ITA|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-1.0|-1.64
+clay|Noguchi R.|JPN|Right-Handed|Merino A.|PER|Left-Handed|0.0|-8.0|4.0|-15.0|-15.0|-7.0|-6.52
+indoors|Bird S.|NZL|Right-Handed|Knaff A.|LUX|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|-9.49
+indoors|Spiridon D.|ITA|Right-Handed|Paty D.|CZE|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.64
+indoors|Llanes F.|URY|Right-Handed|Escobar F.|COL|Right-Handed|0.0|-8.0|23.0|10.0|8.0|-8.0|1.5799999999999998
+clay|Barun B.|HRV|Right-Handed|Arnaldi M.|ITA|Right-Handed|1.0||-18.0|3.0|0.0|0.0|3.7600000000000002
+indoors|Connor P.|IRL|Right-Handed|Beckley A.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|De Jager J.|NLD|Right-Handed|Zielinski M.|POL|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Osborne Z.|AUS|Right-Handed|Pavlekovich Smith T.|AUS|Right-Handed|0.0|3.0|23.0|-3.0|0.0|3.0|-0.27
+indoors|Mahadevan A.|IND|Right-Handed|Gupta K.|IND|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-4.0|-1.64
+indoors|Bradshaw J.|AUS|Right-Handed|Radenkovic L.|SRB|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Hemery C.|FRA|Right-Handed|Fils A.|FRA|Right-Handed|1.0||266.0|8.0|8.0|9.0|1.9100000000000001
+indoors|Wolfschmidt A.|DEU|Right-Handed|Boixader Roca N.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|0.0|8.2
+indoors|Gola A.|ITA|Right-Handed|Hoareau B.|AUS|Right-Handed|0.0|4.0|23.0|-8.0|0.0|-6.0|-3.2199999999999998
+indoors|Duhan C.|IND|Right-Handed|Qamar F.|IND|Right-Handed|0.0|0.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Gheorghita T.|ROU|Right-Handed|Gagliardo L.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Yeshaya O.|ISR|Right-Handed|Toffanin N.|ITA|Right-Handed|0.0|4.0|23.0|-3.0|0.0|4.0|9.49
+indoors|Portugal A.|PRT|Right-Handed|Martinez M.|ESP|Right-Handed|0.0|1.0|23.0|-3.0|0.0|1.0|-8.030000000000001
+indoors|Roncadelli F.|URY|Left-Handed|Aboian V.|ARG|Left-Handed|1.0||-23.0|-2.0|2.0|2.0|-1.5799999999999998
+indoors|Gupta K.|IND|Right-Handed|Mahadevan A.|IND|Right-Handed|1.0||-23.0|3.0|0.0|4.0|1.64
+indoors|Deschamps T.|FRA|Right-Handed|Lamasine T.|FRA|Right-Handed|1.0||-41.0|9.0|0.0|-5.0|1.9100000000000001
+indoors|Bill A.|HRV|Right-Handed|Juhas K.|SRB|Right-Handed|1.0||-23.0|3.0|0.0|0.0|8.2
+indoors|Suden S.|IND|Right-Handed|Walia D.|IND|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|1.0|2.3899999999999997
+indoors|Ivanovski K.|AUS|Right-Handed|Son J.|KOR|Right-Handed|1.0||-23.0|4.0|3.0|-9.0|1.64
+indoors|Znuderl M.|SVN|Right-Handed|Penkner Y.|AUT|Right-Handed|0.0|0.0|23.0|-3.0|0.0|1.0|9.49
+indoors|Torres Villamil D.|COL|Right-Handed|Hoyos M.|COL|Right-Handed|0.0|0.0|23.0|-3.0|0.0|5.0|1.5799999999999998
+Varioussurfaces|Andreescu S.|ROU|Right-Handed|Schinteie G.|ROU|Right-Handed|0.0|2.0|23.0|-3.0|0.0|0.0|-1.42
+indoors|Todorovic L.|SRB|Right-Handed|Akkoyun U.|TUR|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|-2.0|-1.64
+clay|Arias B.|BOL|Right-Handed|Barrientos N.|COL|Right-Handed|1.0||2.0|1.0|10.0|-7.0|4.99
+indoors|Homberg M.|DEU|Right-Handed|Popovic S.|DEU|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Scott F.|ITA|Right-Handed|Barbonaglia L.|ITA|Right-Handed|0.0|6.0|23.0|-3.0|0.0|2.0|-1.64
+indoors|Martinez Martinez J.|ESP|Right-Handed|Pohjola P.|FIN|Right-Handed|1.0||-23.0|3.0|0.0|5.0|-9.49
+indoors|Takada M.|JPN|Right-Handed|Papac T.|AUS|Right-Handed|1.0||-23.0|3.0|-8.0|-2.0|-2.67
+indoors|Perez Contri S.|ESP|Left-Handed|Domenech Castillo J.|ESP|Left-Handed|0.0|8.0|23.0|-3.0|0.0|7.0|-1.64
+indoors|Ostajewski J.|AUS|Right-Handed|Tkemaladze Z.|GEO|Right-Handed|1.0||-23.0|5.0|-2.0|-1.0|1.64
+indoors|Thompkins J.|AUS|Right-Handed|Oster S.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|4.0|-0.010000000000000009
+indoors|Foster-Estwick M.|BRB|Right-Handed|Sharma T.|IND|Right-Handed|0.0|4.0|23.0|-3.0|0.0|2.0|-1.64
+clay|Rioja Ricaldi F.|BOL|Right-Handed|Nakagawa N.|JPN|Right-Handed|1.0||-23.0|3.0|3.0|2.0|4.26
+indoors|Beniwal A.|IND|Right-Handed|Sood L.|IND|Right-Handed|1.0||-23.0|16.0|18.0|-9.0|1.64
+indoors|Pjevcevic P.|SRB|Right-Handed|Galik M.|SVK|Right-Handed|1.0||-23.0|3.0|0.0|5.0|1.64
+indoors|Karol M.|SVK|Right-Handed|Kozlowski K.|AUS|Right-Handed|1.0||-23.0|15.0|15.0|-3.0|1.64
+clay|Cretu C.|ROU|Right-Handed|Madaras D.|SWE|Left-Handed|0.0|-1.0|29.0|-10.0|-8.0|-3.0|-3.4699999999999998
+indoors|Sueoka Y.|JPN|Right-Handed|Vaitiekunas P.|LTU|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Brouwer G.|NLD|Left-Handed|Sebesta J.|CHE|Right-Handed|0.0|8.0|-46.0|-6.0|8.0|7.0|-6.82
+indoors|Khan S.|IND|Right-Handed|Dabas S.|IND|Left-Handed|0.0|13.0|23.0|2.0|2.0|9.0|2.3899999999999997
+clay|Bovy A.|BEL|Left-Handed|Mansouri S.|TUN|Right-Handed|1.0||-20.0|-8.0|-10.0|-6.0|1.96
+indoors|Dietel M.|DEU|Right-Handed|Blanch D.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|3.0|1.64
+clay|Smith K.|ITA|Right-Handed|Andreev A.|BGR|Right-Handed|0.0|-1.0|28.0|27.0|18.0|3.0|-0.20999999999999996
+indoors|Mercelina P.|NLD|Right-Handed|Toman P.|AUS|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|4.0|-1.64
+indoors|Pokorny L.|SVK|Right-Handed|Graf D.|DEU|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|-3.0|-8.2
+indoors|Zubac D.|SRB|Right-Handed|Postay A.|ARG|Right-Handed|1.0||-23.0|3.0|0.0|-6.0|1.64
+indoors|Paulson A.|CZE|Right-Handed|Erler A.|AUT|Right-Handed|0.0|-5.0|40.0|-8.0|-10.0|-4.0|-0.8999999999999999
+indoors|Uribe Quintero A.|COL|Right-Handed|Vaquero J.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|-1.5799999999999998
+indoors|Vlkovsky V.|CZE|Right-Handed|Hua R.|CHN|Right-Handed|1.0||-23.0|9.0|-2.0|-3.0|1.64
+indoors|Padgham E.|AUS|Right-Handed|Pavlenko P.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+clay|Oradini G.|ITA|Left-Handed|Vincent Ruggeri S.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|4.0|0.0
+indoors|Hoogland J.|NLD|Right-Handed|Strestian Stamati M.|AUS|Right-Handed|0.0|2.0|23.0|-3.0|0.0|1.0|1.5799999999999998
+indoors|Sousa T.|PRT|Right-Handed|Paris J.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-6.0|1.64
+indoors|Gramaticopolo B.|ITA|Right-Handed|Kolyachev N.|BGR|Right-Handed|0.0|2.0|23.0|-3.0|0.0|3.0|-1.64
+indoors|Chen Z.|CHN|Right-Handed|Tabacco F.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|-9.49
+indoors|Gadecki T.|AUS|Right-Handed|Vujic S.|AUS|Right-Handed|0.0|-7.0|23.0|-3.0|0.0|-2.0|1.12
+indoors|Amaro A.|PRT|Right-Handed|Falcao G.|PRT|Right-Handed|1.0||-23.0|3.0|0.0|-15.0|8.2
+indoors|Crisostomo G.|ITA|Right-Handed|Vatteroni L.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|8.2
+indoors|Akay C.|AUS|Right-Handed|Shtengelov A.|AUS|Right-Handed|0.0|2.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Penkner Y.|AUT|Right-Handed|Znuderl M.|SVN|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-9.49
+indoors|Haerteis J.|DEU|Left-Handed|Pervolarakis M.|GRC|Right-Handed|1.0||54.0|-2.0|0.0|0.0|-0.6200000000000001
+indoors|Briand J.|FRA|Right-Handed|Van Assche L.|FRA|Right-Handed|1.0||-55.0|3.0|0.0|5.0|1.7999999999999998
+indoors|Ruenger R.|DEU|Right-Handed|Kumasaka T.|JPN|Right-Handed|1.0||-23.0|6.0|8.0|0.0|1.64
+indoors|Kask M.|CAN|Right-Handed|Carassai C.|ITA|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|-3.0|9.49
+clay|Denolly C.|FRA|Left-Handed|Navarro S.|BOL|Right-Handed|0.0|5.0|23.0|-1.0|2.0|7.0|-8.430000000000001
+indoors|Rozenberg T.|NLD|Right-Handed|Serra Sanchez N.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Kodancha Srinivasan D.|IND|Right-Handed|El Sallaly A.|EGY|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Habib A.|ITA|Right-Handed|Markiewicz J.|DEU|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|-9.0|-1.64
+indoors|Sharma A.|AUS|Right-Handed|Marino P.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|-9.49
+indoors|Tricerri S.|AUS|Right-Handed|Scheers M.|AUS|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|0.0|-0.010000000000000009
+clay|Dellien H.|BOL|Right-Handed|Etcheverry T.|ARG|Right-Handed|1.0||108.0|-7.0|-16.0|6.0|-0.6699999999999999
+indoors|Schneider B.|DEU|Right-Handed|Malgiaritta M.|CHE|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Keremedchiev N.|BGR|Right-Handed|Lanik T.|SVK|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Martini O.|ITA|Right-Handed|Anisic S.|HRV|Right-Handed|0.0|7.0|23.0|-3.0|0.0|3.0|1.5799999999999998
+clay|Svrcina D.|CZE|Right-Handed|Barranco Cosano J.|ESP|Left-Handed|1.0||63.0|-4.0|3.0|-4.0|-0.30999999999999983
+indoors|Babanine A.|AUS|Right-Handed|Kouznetsov M.|AUS|Right-Handed|0.0|8.0|23.0|-5.0|-8.0|7.0|-0.27
+indoors|Morandais J.|GLP|Right-Handed|Pecorella A.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-0.9299999999999999
+indoors|Sharma T.|IND|Right-Handed|Foster-Estwick M.|BRB|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.64
+indoors|Pecorella A.|ITA|Right-Handed|Morandais J.|GLP|Right-Handed|0.0|2.0|23.0|-3.0|0.0|5.0|0.9299999999999999
+indoors|Fitzgerald P.|AUS|Right-Handed|Meagher W.|AUS|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|2.0|-1.16
+indoors|Van Baal A.|NLD|Right-Handed|Borza B.|ROU|Left-Handed|0.0|-6.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|Paul J.|CHE|Right-Handed|Setkic A.|ITA|Right-Handed|1.0||-158.0|-8.0|-8.0|-11.0|0.2899999999999998
+indoors|Vaquero J.|COL|Right-Handed|Uribe Quintero A.|COL|Right-Handed|0.0|0.0|23.0|-3.0|0.0|4.0|1.5799999999999998
+indoors|De Filippo G.|ITA|Right-Handed|Woerner P.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|7.95
+indoors|Smoliner T.|AUT|Right-Handed|Brkic J.|HRV|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+indoors|Szajrych J.|POL|Right-Handed|Barr E.|AUS|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-1.0|9.49
+indoors|Chung H.|KOR|Left-Handed|Ferrari F.|ITA|Right-Handed|0.0|3.0|220.0|-2.0|-13.0|4.0|9.49
+indoors|Mujakic A.|DEU|Right-Handed|Khoeblal E.|NLD|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Siniakov D.|CZE|Right-Handed|Kichigin V.|RUS|Right-Handed|0.0|-5.0|23.0|-3.0|0.0|-8.0|-1.64
+indoors|Schinas S.|GRC|Right-Handed|Abibsi M.|DZA|Right-Handed|1.0||-23.0|3.0|0.0|5.0|1.64
+indoors|Albrecht P.|DEU|Right-Handed|Tabacco G.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|2.0|-9.49
+indoors|Reid J.|AUS|Right-Handed|Kaza V.|IND|Right-Handed|1.0||-23.0|13.0|3.0|-10.0|-2.3899999999999997
+indoors|Squire H.|DEU|Right-Handed|Hassan B.|LBN|Right-Handed|0.0|-2.0|6.0|-10.0|0.0|-6.0|-0.29000000000000004
+indoors|Malgaroli L.|ITA|Right-Handed|Alsterback W.|SWE|Right-Handed|0.0|4.0|23.0|-3.0|0.0|-1.0|9.49
+indoors|Dahiya J.|IND|Right-Handed|Kalyanpur A.|IND|Right-Handed|0.0|7.0|23.0|-3.0|-5.0|7.0|2.3899999999999997
+indoors|Barreto Sanchez D.|ESP|Left-Handed|Yenilmez U.|TUR|Right-Handed|0.0|2.0|23.0|-3.0|0.0|1.0|-1.64
+clay|Merino A.|PER|Left-Handed|Noguchi R.|JPN|Right-Handed|1.0||-4.0|15.0|15.0|7.0|6.52
+indoors|Bax F.|FRA|Right-Handed|Migliorati M.|ITA|Right-Handed|0.0|5.0|23.0|-3.0|0.0|5.0|-1.64
+indoors|Tumasonis G.|BRA|Left-Handed|El Mihdawy A.|AUS|Right-Handed|0.0|-7.0|23.0|-3.0|0.0|-7.0|1.5799999999999998
+indoors|Ganta S.|IND|Right-Handed|Tagashira K.|JPN|Right-Handed|0.0|-11.0|23.0|-3.0|0.0|-6.0|-1.64
+indoors|Sandkaulen T.|DEU|Right-Handed|Desousa J.|NLD|Right-Handed|0.0|7.0|23.0|-3.0|0.0|5.0|-1.64
+indoors|Bresciani L.|ITA|Right-Handed|Lee J.|KOR|Right-Handed|0.0|2.0|23.0|-3.0|0.0|2.0|-8.2
+indoors|Campese C.|ITA|Right-Handed|Yunis F.|CHE|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Sood L.|IND|Right-Handed|Beniwal A.|IND|Right-Handed|0.0|9.0|23.0|-16.0|-18.0|9.0|-1.64
+indoors|Migliorati M.|ITA|Right-Handed|Bax F.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|1.64
+indoors|Hodkin S.|ITA|Right-Handed|Ahmed O.|SAU|Right-Handed|0.0|1.0|23.0|12.0|2.0|-2.0|-8.030000000000001
+indoors|Martinez L.|CHE|Right-Handed|Panagoulopoulos G.|NLD|Right-Handed|0.0|4.0|23.0|-3.0|0.0|1.0|-8.2
+indoors|Baldovinetti G.|ITA|Right-Handed|Amoros Ramos P.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|8.030000000000001
+indoors|Pavlenko P.|DEU|Right-Handed|Padgham E.|AUS|Right-Handed|0.0|3.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Poljak D.|CZE|Right-Handed|Bellier A.|CHE|Left-Handed|0.0|2.0|156.0|-3.0|-8.0|1.0|0.5200000000000002
+indoors|Sorensen L.|AUS|Right-Handed|Jovic P.|AUS|Right-Handed|0.0|-2.0|43.0|-3.0|0.0|-1.0|-2.98
+indoors|Zgirovsky A.|BLR|Right-Handed|El Kordy H.|EGY|Right-Handed|0.0|5.0|23.0|0.0|8.0|0.0|-1.64
+indoors|Suzuki K.|JPN|Left-Handed|Boniel N.|AUS|Right-Handed|0.0|14.0|23.0|-3.0|0.0|4.0|-1.3100000000000003
+indoors|Goldenberg L.|ISR|Right-Handed|Teodorovic P.|SRB|Right-Handed|0.0|5.0|23.0|-3.0|0.0|1.0|9.49
+indoors|Popovic S.|DEU|Right-Handed|Homberg M.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|McLennaghan W.|ITA|Right-Handed|Kim D.|KOR|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|2.0|-8.71
+clay|Prihodko O.|UKR|Right-Handed|Lingua Lavallen A.|ARG|Left-Handed|1.0||-23.0|2.0|-3.0|3.0|0.8800000000000001
+indoors|Lokoli L.|FRA|Right-Handed|Potenza L.|ITA|Right-Handed|0.0|6.0|20.0|0.0|5.0|5.0|-1.9
+indoors|Ramadan M.|BGR|Right-Handed|Houkes M.|NLD|Left-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Beckley A.|ITA|Right-Handed|Connor P.|IRL|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Echeverry Gomez J.|COL|Right-Handed|Palovic L.|SVK|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-9.49
+indoors|Mazon-Hernandez R.|ESP|Right-Handed|Cervantes Tomas I.|MEX|Right-Handed|1.0||-23.0|3.0|0.0|13.0|1.64
+indoors|Ambarzumjan E.|DEU|Right-Handed|Borras Isern J.|ESP|Right-Handed|0.0|2.0|23.0|-3.0|0.0|3.0|9.49
+indoors|Bellier A.|CHE|Left-Handed|Poljak D.|CZE|Right-Handed|1.0||-156.0|3.0|8.0|-1.0|-0.5200000000000002
+indoors|Solans I.|ESP|Right-Handed|Fortin M.|CAN|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Planelles Ripoll G.|ESP|Right-Handed|Cabrera Bello I.|ESP|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Shirdel S.|IRN|Right-Handed|Konov S.|BGR|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Henning B.|DEU|Right-Handed|McLennan R.|AUS|Right-Handed|0.0|9.0|23.0|-3.0|0.0|6.0|-9.48
+indoors|Added D.|FRA|Right-Handed|Steinegger Y.|CHE|Right-Handed|0.0|2.0|23.0|-6.0|0.0|2.0|-3.38
+indoors|Fils A.|FRA|Right-Handed|Hemery C.|FRA|Right-Handed|0.0|-8.0|-266.0|-8.0|-8.0|-9.0|-1.9100000000000001
+indoors|Calvo Barcelo F.|ARG|Right-Handed|Cohen A.|ISR|Right-Handed|1.0||-23.0|3.0|0.0|5.0|8.2
+indoors|Tkemaladze Z.|GEO|Right-Handed|Ostajewski J.|AUS|Right-Handed|0.0|6.0|23.0|-5.0|2.0|1.0|-1.64
+indoors|Paty D.|CZE|Right-Handed|Spiridon D.|ITA|Right-Handed|0.0|4.0|23.0|-3.0|0.0|2.0|-1.64
+indoors|Samosi P.|SVK|Right-Handed|Ban I.|HRV|Right-Handed|1.0||-23.0|3.0|0.0|1.0|-9.49
+indoors|Stuurman R.|NLD|Right-Handed|Cundom J.|ARG|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Baker B.|ITA|Right-Handed|Cortes Campos N.|COL|Right-Handed|0.0|1.0|-6.0|-3.0|0.0|-1.0|1.5799999999999998
+indoors|Son J.|KOR|Right-Handed|Ivanovski K.|AUS|Right-Handed|0.0|9.0|23.0|-4.0|-3.0|9.0|-1.64
+indoors|Shtengelov A.|AUS|Right-Handed|Akay C.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Ostapenkov D.|BLR|Right-Handed|Van Nunen M.|NLD|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|Nedic A.|ITA|Right-Handed|Indjic M.|HRV|Right-Handed|0.0|2.0|23.0|-3.0|0.0|-4.0|-1.64
+indoors|Tsarapkin E.|RUS|Right-Handed|Raynel A.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|-9.49
+clay|Marozsan F.|HUN|Right-Handed|Miedler L.|AUT|Right-Handed|0.0|-4.0|273.0|-3.0|0.0|-4.0|-0.52
+indoors|Paulovcak S.|SVK|Right-Handed|Zayid M.|QAT|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|-5.0|9.49
+indoors|Yunis F.|CHE|Right-Handed|Campese C.|ITA|Right-Handed|0.0|4.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Krattiger J.|CHE|Right-Handed|Novikov E.|RUS|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.64
+clay|Zekic M.|SRB|Right-Handed|Castelnuovo L.|CHE|Left-Handed|0.0|10.0|-11.0|1.0|2.0|9.0|-3.4899999999999998
+indoors|Catarina L.|MCO|Right-Handed|Torpegaard M.|DNK|Right-Handed|1.0||-237.0|-4.0|-8.0|-3.0|0.8499999999999999
+indoors|Blanch D.|ITA|Right-Handed|Dietel M.|DEU|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|-3.0|-1.64
+indoors|Heredia S.|COL|Right-Handed|Moncada Marin A.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-9.0|-1.5799999999999998
+indoors|Cunat M.|FRA|Right-Handed|Bulnes Garrorena F.|ESP|Right-Handed|0.0|3.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Lanik T.|SVK|Right-Handed|Keremedchiev N.|BGR|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Cigarran T.|ARG|Right-Handed|Urrea A.|COL|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-1.5799999999999998
+indoors|Desousa J.|NLD|Right-Handed|Sandkaulen T.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|1.64
+indoors|Teodorovic P.|SRB|Right-Handed|Goldenberg L.|ISR|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-9.49
+indoors|Piraino G.|ITA|Left-Handed|Sperle J.|DEU|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-2.0|-8.2
+indoors|Wattanakul P.|THA|Right-Handed|Braithwaite T.|AUS|Right-Handed|0.0|7.0|23.0|-3.0|0.0|5.0|9.49
+indoors|Vujic S.|AUS|Right-Handed|Gadecki T.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|2.0|-1.12
+indoors|Zhang J.|AUS|Right-Handed|Barclay D.|AUS|Right-Handed|1.0||-23.0|1.0|3.0|-15.0|-2.3899999999999997
+indoors|Kumthonkittikul W.|THA|Right-Handed|Anand K.|IND|Right-Handed|0.0|-4.0|23.0|-18.0|-10.0|-3.0|-1.64
+indoors|Novikov E.|RUS|Right-Handed|Krattiger J.|CHE|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|2.0|-1.64
+indoors|Pennaforti G.|ITA|Right-Handed|Bugarikj B.|AUS|Right-Handed|0.0|0.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Nemakal A.|IND|Right-Handed|Yadav Y.|IND|Right-Handed|1.0||-23.0|3.0|0.0|3.0|1.64
+indoors|Bakshi A.|GEO|Left-Handed|Ng K.|HKG|Right-Handed|0.0|3.0|23.0|-3.0|0.0|4.0|-8.71
+indoors|Loosen T.|DEU|Right-Handed|Balla C.|AUS|Right-Handed|0.0|1.0|23.0|-3.0|0.0|3.0|-8.030000000000001
+indoors|Bischof F.|DEU|Right-Handed|Duncan S.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-8.0|8.2
+indoors|Friend J.|JPN|Right-Handed|Donders D.|NLD|Left-Handed|1.0||-23.0|3.0|0.0|-4.0|-9.49
+indoors|Marchetti F.|ITA|Right-Handed|Devald B.|HRV|Right-Handed|0.0|4.0|23.0|-3.0|0.0|0.0|-8.2
+clay|Gray A.|AUS|Right-Handed|Riedi L.|CHE|Right-Handed|1.0||-21.0|-2.0|5.0|4.0|-0.2899999999999998
+indoors|Wakita S.|JPN|Right-Handed|Levyatov L.|ISR|Right-Handed|0.0|4.0|23.0|-3.0|0.0|8.0|-1.64
+indoors|Oster S.|AUS|Right-Handed|Thompkins J.|AUS|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|-4.0|0.010000000000000009
+indoors|Panagoulopoulos G.|NLD|Right-Handed|Martinez L.|CHE|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|8.2
+indoors|Lee J.|KOR|Right-Handed|Yang J.|DEU|Right-Handed|0.0|9.0|23.0|-3.0|0.0|4.0|-1.64
+indoors|Popovic S.|SRB|Right-Handed|Hamza Reguig S.|DZA|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Donders D.|NLD|Left-Handed|Friend J.|JPN|Right-Handed|0.0|4.0|23.0|-3.0|0.0|4.0|9.49
+indoors|Morolli A.|ITA|Right-Handed|Sadaoui M.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|3.0|1.5699999999999998
+indoors|Stanke C.|DEU|Right-Handed|Mirdzhaliev M.|KGZ|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|2.0|-1.64
+indoors|Savic M.|SRB|Right-Handed|Erceg L.|HRV|Right-Handed|0.0|0.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Boureau A.|FRA|Right-Handed|Hartson J.|AUS|Right-Handed|0.0|9.0|23.0|-3.0|0.0|5.0|9.49
+indoors|Zvech Flaborea Mreule M.|ITA|Right-Handed|Randjelovic I.|AUS|Right-Handed|0.0|-9.0|23.0|-3.0|0.0|-5.0|1.5799999999999998
+indoors|Bertola R.|CHE|Right-Handed|Kovacevic A.|ITA|Right-Handed|1.0||-65.0|2.0|0.0|0.0|3.8400000000000007
+indoors|Castagnola L.|ITA|Right-Handed|Liu H.|CHN|Right-Handed|0.0|-3.0|23.0|-16.0|-2.0|-1.0|9.49
+clay|Etcheverry T.|ARG|Right-Handed|Dellien H.|BOL|Right-Handed|0.0|-7.0|-108.0|7.0|16.0|-6.0|0.6699999999999999
+clay|Zeballos F.|BOL|Right-Handed|Dutra da Silva D.|BRA|Left-Handed|1.0||-23.0|0.0|2.0|0.0|4.05
+indoors|Hua R.|CHN|Right-Handed|Vlkovsky V.|CZE|Right-Handed|0.0|5.0|23.0|-9.0|2.0|3.0|-1.64
+indoors|El Mihdawy A.|AUS|Right-Handed|Tumasonis G.|BRA|Left-Handed|1.0||-23.0|3.0|0.0|7.0|-1.5799999999999998
+indoors|Dumitru V.|ROU|Right-Handed|Coloma-Heck G.|DEU|Right-Handed|0.0|7.0|23.0|-3.0|0.0|3.0|-1.0
+indoors|Kim D.|KOR|Right-Handed|Isomura K.|JPN|Right-Handed|1.0||-23.0|3.0|0.0|3.0|1.64
+indoors|Nedelchev N.|BGR|Right-Handed|Mineo F.|ITA|Right-Handed|0.0|3.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Tagashira K.|JPN|Right-Handed|Ganta S.|IND|Right-Handed|1.0||-23.0|3.0|0.0|6.0|1.64
+clay|Wenger D.|CHE|Right-Handed|Panta J.|PER|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|-5.0|-1.52
+indoors|Lomakin G.|KAZ|Right-Handed|Neira M.|COL|Right-Handed|0.0|9.0|23.0|0.0|15.0|6.0|1.5799999999999998
+indoors|Quang Hien Pham H.|AUS|Right-Handed|Ryan Ziegann S.|AUS|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-2.0|1.8299999999999998
+indoors|Atturu B.|IND|Right-Handed|Malik A.|IND|Right-Handed|0.0|5.0|23.0|-3.0|0.0|4.0|-1.64
+Varioussurfaces|Cazacu D.|ROU|Left-Handed|Vanta V.|ROU|Right-Handed|1.0||-23.0|11.0|3.0|-6.0|1.9000000000000001
+indoors|Virtanen O.|FIN|Right-Handed|Ramanathan R.|IND|Right-Handed|0.0|-7.0|136.0|-5.0|-5.0|-6.0|0.48
+indoors|Alami M.|MAR|Right-Handed|De Rueda De Genover I.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|8.71
+indoors|Duncan S.|ITA|Right-Handed|Bischof F.|DEU|Right-Handed|0.0|10.0|23.0|-3.0|0.0|8.0|-8.2
+indoors|López I.|ESP|Right-Handed|Vankan M.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+indoors|Zhou X.|CHN|Right-Handed|Makhlouf S.|EGY|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+indoors|Schroeter M.|DEU|Right-Handed|Herman L.|BEL|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Erceg L.|HRV|Right-Handed|Savic M.|SRB|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Cortes Campos N.|COL|Right-Handed|Baker B.|ITA|Right-Handed|1.0||6.0|3.0|0.0|1.0|-1.5799999999999998
+indoors|Ferrari F.|ITA|Right-Handed|Chung H.|KOR|Left-Handed|1.0||-220.0|2.0|13.0|-4.0|-9.49
+indoors|Camposeo S.|ITA|Right-Handed|Aranzabal M.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Bataljin L.|AUS|Right-Handed|Errey C.|AUS|Right-Handed|0.0|11.0|23.0|-25.0|-15.0|9.0|-1.2800000000000002
+indoors|Carnevale-Miino T.|ITA|Right-Handed|Zanellato N.|BRA|Right-Handed|1.0||-23.0|3.0|0.0|2.0|-1.5799999999999998
+indoors|Bayldon B.|AUS|Left-Handed|Evans T.|AUS|Right-Handed|0.0|0.0|23.0|5.0|3.0|2.0|1.58
+indoors|Stramput V.|SRB|Right-Handed|Snitari I.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Martinez Baena J.|ESP|Right-Handed|Juneja S.|IND|Right-Handed|0.0|8.0|23.0|-3.0|0.0|22.0|-8.030000000000001
+indoors|Biljesko D.|HRV|Right-Handed|Meneghetti M.|ITA|Right-Handed|0.0|4.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Parenti L.|ITA|Right-Handed|Ciurletti A.|ITA|Right-Handed|1.0||-23.0|6.0|8.0|-5.0|-9.49
+indoors|Mirdzhaliev M.|KGZ|Right-Handed|Stanke C.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.64
+indoors|Giotis R.|DEU|Right-Handed|Matas Ortega X.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|1.0|-9.49
+indoors|Kamath M.|IND|Right-Handed|Gupta L.|IND|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-1.0|-1.64
+clay|Darderi L.|ITA|Right-Handed|Pichler D.|AUT|Right-Handed|0.0|-6.0|128.0|5.0|5.0|-6.0|-4.52
+indoors|Kana F.|CZE|Right-Handed|Mishkin K.|RUS|Left-Handed|0.0|-3.0|23.0|-3.0|0.0|3.0|9.49
+indoors|Andre S.|SEN|Right-Handed|Wang X.|CHN|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Kroslak J.|SVK|Right-Handed|Purtseladze S.|GEO|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|Gursoy S.|TUR|Right-Handed|Bondar M.|UKR|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|1.64
+indoors|Giovannini F.|ITA|Right-Handed|Boban V.|HRV|Right-Handed|0.0|9.0|23.0|-3.0|0.0|5.0|9.49
+indoors|Liu H.|CHN|Right-Handed|Castagnola L.|ITA|Right-Handed|1.0||-23.0|16.0|2.0|1.0|-9.49
+indoors|Neuchrist M.|AUT|Right-Handed|Sels J.|NLD|Right-Handed|1.0||-23.0|-5.0|-5.0|4.0|1.95
+indoors|Moret J.|FRA|Right-Handed|Friberg K.|SWE|Right-Handed|1.0||-23.0|-13.0|-2.0|-2.0|1.64
+indoors|Nishiwaki K.|JPN|Right-Handed|Al-Amin K.|DEU|Right-Handed|0.0|7.0|23.0|-8.0|-5.0|9.0|-1.64
+indoors|Akkoyun U.|TUR|Right-Handed|Todorovic L.|SRB|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Yu B.|CHN|Right-Handed|Dragomirov D.|DEU|Right-Handed|0.0|4.0|23.0|-3.0|0.0|1.0|-8.2
+indoors|Yang J.|DEU|Right-Handed|Lee J.|KOR|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|1.64
+clay|Nakagawa N.|JPN|Right-Handed|Rioja Ricaldi F.|BOL|Right-Handed|0.0|-1.0|23.0|-3.0|-3.0|-2.0|-4.26
+indoors|Najvirt Kolaric M.|SVN|Right-Handed|Gadilhe T.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|-9.49
+indoors|Torres Fernandez B.|CHL|Right-Handed|Bicknell B.|JAM|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|-1.5799999999999998
+indoors|Boniel N.|AUS|Right-Handed|Suzuki K.|JPN|Left-Handed|1.0||-23.0|3.0|0.0|-4.0|1.3100000000000003
+clay|Guinard M.|FRA|Right-Handed|Tseng C.|AUS|Right-Handed|0.0|2.0|244.0|16.0|21.0|5.0|-0.3700000000000001
+indoors|Purtseladze S.|GEO|Right-Handed|Kroslak J.|SVK|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Erler A.|AUT|Right-Handed|Paulson A.|CZE|Right-Handed|1.0||-40.0|8.0|10.0|4.0|0.8999999999999999
+indoors|Bagnolini D.|ITA|Right-Handed|Zusman R.|ITA|Left-Handed|1.0||-23.0|3.0|0.0|-2.0|1.64
+indoors|Gabor D.|IRL|Right-Handed|Pecak S.|CZE|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|1.64
+indoors|Forejtek J.|CZE|Right-Handed|Leshem E.|ISR|Right-Handed|0.0|-5.0|-83.0|1.0|-3.0|-4.0|-3.91
+Varioussurfaces|Marinescu M.|ROU|Right-Handed|Chirita I.|ROU|Right-Handed|0.0|3.0|23.0|-3.0|0.0|1.0|-0.5299999999999998
+clay|Kadhe A.|IND|Right-Handed|Rawat S.|IND|Right-Handed|0.0|-2.0|-137.0|13.0|10.0|-1.0|-0.5899999999999999
+indoors|Graf D.|DEU|Right-Handed|Pokorny L.|SVK|Right-Handed|1.0||-23.0|3.0|0.0|3.0|8.2
+indoors|Dimic M.|SVN|Right-Handed|Vetrih M.|SVN|Right-Handed|0.0|4.0|23.0|-3.0|0.0|1.0|-8.2
+indoors|Mugelli P.|ITA|Right-Handed|Wong H.|HKG|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-9.49
+indoors|Mihailovic A.|SRB|Right-Handed|Steiner M.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-8.0|1.64
+indoors|Hans K.|IND|Right-Handed|Prabodh S.|IND|Right-Handed|1.0||-23.0|-1.0|-5.0|-6.0|1.64
+indoors|Macherla T.|IND|Right-Handed|Sidorov N.|KAZ|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Carassai C.|ITA|Right-Handed|Kask M.|CAN|Right-Handed|1.0||-23.0|3.0|0.0|3.0|-9.49
+indoors|Miklavcic L.|SVN|Right-Handed|Kovacic T.|SVN|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|Prabodh S.|IND|Right-Handed|Hans K.|IND|Right-Handed|0.0|7.0|23.0|1.0|5.0|6.0|-1.64
+indoors|Herman L.|BEL|Right-Handed|Schroeter M.|DEU|Right-Handed|0.0|5.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Torpegaard M.|DNK|Right-Handed|Catarina L.|MCO|Right-Handed|0.0|2.0|237.0|4.0|8.0|3.0|-0.8499999999999999
+indoors|Vetrih M.|SVN|Right-Handed|Dimic M.|SVN|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|8.2
+indoors|Van den Ham T.|NLD|Right-Handed|Emersic Potocnik G.|SVN|Right-Handed|0.0|0.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Ribeiro E.|BRA|Right-Handed|Del Pino M.|ARG|Left-Handed|0.0|6.0|23.0|-3.0|0.0|5.0|1.5799999999999998
+clay|Forti F.|ITA|Right-Handed|Nincevic F.|HRV|Right-Handed|1.0||-23.0|5.0|8.0|0.0|-6.640000000000001
+indoors|Toffanin N.|ITA|Right-Handed|Yeshaya O.|ISR|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|-9.49
+indoors|Yang W.|AUS|Right-Handed|Yoshimura D.|JPN|Right-Handed|1.0||-23.0|3.0|0.0|1.0|0.27
+indoors|Francisco L.|ESP|Right-Handed|Marrero Curbelo I.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|-9.49
+indoors|Papac T.|AUS|Right-Handed|Takada M.|JPN|Right-Handed|0.0|6.0|23.0|-3.0|8.0|2.0|2.67
+indoors|Ng K.|HKG|Right-Handed|Bakshi A.|GEO|Left-Handed|1.0||-23.0|3.0|0.0|-4.0|8.71
+indoors|Gao Q.|CHN|Right-Handed|Raman R.|IND|Right-Handed|1.0||-23.0|-3.0|2.0|-1.0|1.64
+clay|Lingua Lavallen A.|ARG|Left-Handed|Prihodko O.|UKR|Right-Handed|0.0|-3.0|23.0|-2.0|3.0|-3.0|-0.8800000000000001
+indoors|Bachmaier P.|AUT|Right-Handed|Banti C.|ITA|Right-Handed|0.0|7.0|23.0|-3.0|0.0|5.0|-8.2
+Varioussurfaces|Mcintosh E.|ITA|Right-Handed|Breazu V.|ROU|Right-Handed|0.0|11.0|23.0|-3.0|0.0|9.0|0.8999999999999999
+indoors|Corcelli Perez A.|FRA|Right-Handed|Favero L.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|0.0|-1.5799999999999998
+clay|Rogic Hadzalic A.|HRV|Right-Handed|Paz J.|ARG|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.5099999999999998
+indoors|Steinegger Y.|CHE|Right-Handed|Added D.|FRA|Right-Handed|1.0||-23.0|6.0|0.0|-2.0|3.38
+clay|Villanueva G.|ARG|Right-Handed|Carou I.|URY|Right-Handed|0.0|4.0|11.0|0.0|-3.0|4.0|-4.26
+clay|Delage P.|FRA|Right-Handed|Bellucci M.|ITA|Left-Handed|1.0||-211.0|3.0|0.0|0.0|2.08
+indoors|Cattaneo E.|ITA|Right-Handed|Krivoshchekov M.|RUS|Right-Handed|1.0||-23.0|3.0|0.0|5.0|-9.49
+indoors|Singh J.|IND|Left-Handed|Bhatnagar S.|IND|Right-Handed|1.0||-23.0|3.0|0.0|5.0|1.64
+indoors|Zielinski M.|POL|Right-Handed|De Jager J.|NLD|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Perfetti N.|ITA|Right-Handed|Weber A.|FRA|Left-Handed|1.0||-23.0|3.0|0.0|-9.0|1.64
+indoors|Vatutin A.|RUS|Right-Handed|Patael B.|ISR|Right-Handed|0.0|3.0|85.0|-11.0|-10.0|4.0|-2.66
+indoors|Rossi L.|ITA|Right-Handed|Bas Mengual I.|ESP|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Skorilas A.|GRC|Right-Handed|Yin B.|ITA|Right-Handed|1.0||-23.0|6.0|2.0|-1.0|-9.49
+indoors|Eriksson A.|SWE|Right-Handed|Elsayed A.|EGY|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|8.2
+indoors|Dahiya P.|IND|Right-Handed|Chaurasia Y.|IND|Right-Handed|0.0|3.0|23.0|-3.0|0.0|4.0|2.3899999999999997
+indoors|Bulnes Garrorena F.|ESP|Right-Handed|Cunat M.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Sookton-Eng C.|THA|Right-Handed|Naumovski M.|AUS|Right-Handed|0.0|5.0|23.0|-3.0|-5.0|4.0|-2.3899999999999997
+indoors|Ortenzi G.|ITA|Right-Handed|Rivera L.|NOR|Right-Handed|0.0|2.0|23.0|3.0|0.0|2.0|9.49
+indoors|Emesz B.|AUT|Right-Handed|Kupcic J.|SVN|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-1.0|-8.2
+clay|Rawat S.|IND|Right-Handed|Kadhe A.|IND|Right-Handed|1.0||137.0|-13.0|-10.0|1.0|0.5899999999999999
+indoors|Voisin E.|FRA|Right-Handed|Cohen A.|ISR|Right-Handed|0.0|-1.0|23.0|-6.0|-5.0|1.0|-1.64
+indoors|Houkes M.|NLD|Left-Handed|Ramadan M.|BGR|Right-Handed|0.0|3.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Steiner M.|DEU|Right-Handed|Mihailovic A.|SRB|Right-Handed|0.0|4.0|23.0|-3.0|0.0|8.0|-1.64
+indoors|Koaykul K.|THA|Right-Handed|Hibbert T.|AUS|Right-Handed|0.0|10.0|23.0|-3.0|0.0|6.0|-1.64
+indoors|Hellum Lilleengen L.|NOR|Right-Handed|Campana F.|ITA|Right-Handed|1.0||-23.0|0.0|-3.0|-3.0|1.64
+indoors|Guillen Meza A.|ECU|Right-Handed|Ogura K.|JPN|Right-Handed|0.0|-1.0|23.0|7.0|13.0|-7.0|1.5799999999999998
+indoors|Chilakalapudi T.|IND|Right-Handed|Singh D.|IND|Right-Handed|0.0|6.0|23.0|-3.0|0.0|5.0|2.3899999999999997
+indoors|Chung Y.|KOR|Right-Handed|Gengel M.|CZE|Right-Handed|1.0||-90.0|-2.0|-7.0|-2.0|-0.5499999999999998
+indoors|Kouznetsov M.|AUS|Right-Handed|Babanine A.|AUS|Right-Handed|1.0||-23.0|5.0|8.0|-7.0|0.27
+indoors|Rivera L.|NOR|Right-Handed|Ortenzi G.|ITA|Right-Handed|1.0||-23.0|-3.0|0.0|-2.0|-9.49
+indoors|Dawes G.|AUS|Right-Handed|Bianchet S.|AUS|Right-Handed|0.0|8.0|23.0|-3.0|0.0|9.0|2.67
+indoors|Campana F.|ITA|Right-Handed|Hellum Lilleengen L.|NOR|Right-Handed|0.0|-2.0|23.0|0.0|3.0|3.0|-1.64
+indoors|Deleu R.|PRT|Right-Handed|Knippling P.|BRA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Singh D.|IND|Right-Handed|Chilakalapudi T.|IND|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-2.3899999999999997
+indoors|Milicevic L.|SRB|Right-Handed|Waldner N.|AUT|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Polmans G.|AUS|Right-Handed|Sach T.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|3.0|2.0700000000000003
+indoors|Marrero Curbelo I.|ESP|Right-Handed|Francisco L.|ESP|Right-Handed|0.0|5.0|23.0|-3.0|0.0|2.0|9.49
+indoors|Galik M.|SVK|Right-Handed|Pjevcevic P.|SRB|Right-Handed|0.0|-8.0|23.0|-3.0|0.0|-5.0|-1.64
+indoors|Sperle J.|DEU|Right-Handed|Piraino G.|ITA|Left-Handed|1.0||-23.0|3.0|0.0|2.0|8.2
+indoors|Bhatnagar S.|IND|Right-Handed|Singh J.|IND|Left-Handed|0.0|-6.0|23.0|-3.0|0.0|-5.0|-1.64
+indoors|Cundom J.|ARG|Right-Handed|Stuurman R.|NLD|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-2.0|-1.64
+clay|Kirkin E.|TUR|Right-Handed|Kalender A.|HRV|Right-Handed|0.0|3.0|-80.0|-5.0|-3.0|2.0|-3.12
+clay|Dutra da Silva D.|BRA|Left-Handed|Zeballos F.|BOL|Right-Handed|0.0|1.0|23.0|0.0|-2.0|0.0|-4.05
+clay|Bellucci M.|ITA|Left-Handed|Delage P.|FRA|Right-Handed|0.0|-2.0|211.0|-3.0|0.0|0.0|-2.08
+indoors|De Carvalho V.|PRT|Right-Handed|Van Orderlain D.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|1.64
+clay|Pichler D.|AUT|Right-Handed|Darderi L.|ITA|Right-Handed|1.0||-128.0|-5.0|-5.0|6.0|4.52
+indoors|Serra Sanchez N.|ESP|Right-Handed|Rozenberg T.|NLD|Right-Handed|0.0|2.0|23.0|-3.0|0.0|-1.0|-1.64
+clay|Barranco Cosano J.|ESP|Left-Handed|Svrcina D.|CZE|Right-Handed|0.0|3.0|-63.0|4.0|-3.0|4.0|0.30999999999999983
+indoors|Kravchenko G.|UKR|Right-Handed|Handel T.|DEU|Right-Handed|0.0|-3.0|23.0|-15.0|-3.0|-3.0|0.48
+indoors|Juneja S.|IND|Right-Handed|Martinez Baena J.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|-22.0|8.030000000000001
+indoors|Dabas S.|IND|Left-Handed|Khan S.|IND|Right-Handed|1.0||-23.0|-2.0|-2.0|-9.0|-2.3899999999999997
+indoors|Lee J.|KOR|Right-Handed|Bresciani L.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|8.2
+indoors|Borza B.|ROU|Left-Handed|Van Baal A.|NLD|Right-Handed|1.0||-23.0|3.0|0.0|2.0|1.64
+indoors|Sabaliauskas A.|LTU|Right-Handed|Seely S.|AUS|Right-Handed|0.0|1.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|De Rueda De Genover I.|ESP|Right-Handed|Alami M.|MAR|Right-Handed|0.0|5.0|23.0|-3.0|0.0|5.0|-8.71
+clay|Oliel Y.|ISR|Left-Handed|Bueno G.|PER|Right-Handed|0.0|3.0|-46.0|0.0|5.0|4.0|-5.33
+indoors|Malik A.|IND|Right-Handed|Atturu B.|IND|Right-Handed|1.0||-23.0|3.0|0.0|-4.0|1.64
+indoors|Raquillet L.|FRA|Right-Handed|Horvat V.|HRV|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-3.0|1.5799999999999998
+indoors|Achondo G.|CHL|Right-Handed|Dickerson R.|ITA|Right-Handed|1.0||-23.0|-10.0|0.0|-1.0|-1.5799999999999998
+indoors|Quintero M.|COL|Right-Handed|Maginley H.|ATG|Right-Handed|0.0|16.0|23.0|-13.0|-10.0|15.0|1.5799999999999998
+indoors|Rodriguez L.|ARG|Right-Handed|Garcia M.|ESP|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|-3.0|-1.64
+indoors|Malgiaritta M.|CHE|Right-Handed|Schneider B.|DEU|Right-Handed|0.0|3.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Wong H.|HKG|Right-Handed|Mugelli P.|ITA|Right-Handed|0.0|2.0|23.0|-3.0|0.0|1.0|9.49
+clay|Bertran P.|AUS|Right-Handed|Torres J.|ARG|Right-Handed|1.0||-23.0|3.0|0.0|6.0|2.9499999999999997
+indoors|Knippling P.|BRA|Right-Handed|Deleu R.|PRT|Right-Handed|0.0|2.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Cabrera Bello I.|ESP|Right-Handed|Planelles Ripoll G.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Barr E.|AUS|Right-Handed|Szajrych J.|POL|Right-Handed|1.0||-23.0|3.0|0.0|1.0|-9.49
+indoors|McLennan R.|AUS|Right-Handed|Henning B.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-6.0|9.48
+indoors|Konov S.|BGR|Right-Handed|Shirdel S.|IRN|Right-Handed|0.0|4.0|23.0|-3.0|0.0|-2.0|-1.64
+indoors|Horvat V.|HRV|Right-Handed|Raquillet L.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|3.0|-1.5799999999999998
+indoors|Levyatov L.|ISR|Right-Handed|Wakita S.|JPN|Right-Handed|1.0||-23.0|3.0|0.0|-8.0|1.64
+indoors|Ramanathan R.|IND|Right-Handed|Virtanen O.|FIN|Right-Handed|1.0||-136.0|5.0|5.0|6.0|-0.48
+indoors|Busoms Puig J.|ESP|Right-Handed|Bredschneijder O.|NLD|Right-Handed|0.0|3.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Vankan M.|DEU|Right-Handed|López I.|ESP|Right-Handed|0.0|5.0|23.0|-3.0|0.0|3.0|-1.64
+indoors|Matas Ortega X.|ESP|Right-Handed|Giotis R.|DEU|Right-Handed|0.0|0.0|23.0|-3.0|0.0|-1.0|9.49
+indoors|Belosevic P.|SRB|Right-Handed|Martinovic M.|HRV|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+clay|Hijikata R.|AUS|Right-Handed|Smith K.|AUS|Right-Handed|0.0|0.0|-50.0|-25.0|-20.0|-3.0|-0.08999999999999986
+clay|Torres J.|ARG|Right-Handed|Bertran P.|AUS|Right-Handed|0.0|-6.0|23.0|-3.0|0.0|-6.0|-2.9499999999999997
+indoors|Schlagenhauf N.|DEU|Right-Handed|Garifullin A.|RUS|Right-Handed|0.0|3.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Trujillo Hernandez O.|COL|Right-Handed|Trujillo Hernandez J.|COL|Right-Handed|0.0|0.0|23.0|-3.0|0.0|2.0|1.5799999999999998
+indoors|Marino P.|ITA|Right-Handed|Sharma A.|AUS|Right-Handed|0.0|2.0|23.0|-3.0|0.0|3.0|9.49
+indoors|Jovic P.|AUS|Right-Handed|Sorensen L.|AUS|Right-Handed|1.0||-43.0|3.0|0.0|1.0|2.98
+indoors|Hough D.|AUS|Right-Handed|De Vivo N.|AUS|Right-Handed|0.0|8.0|23.0|-3.0|0.0|6.0|-0.010000000000000009
+indoors|Alsterback W.|SWE|Right-Handed|Malgaroli L.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|-9.49
+indoors|Hamza Reguig S.|DZA|Right-Handed|Popovic S.|SRB|Right-Handed|1.0||-23.0|3.0|0.0|1.0|1.64
+indoors|Barclay D.|AUS|Right-Handed|Zhang J.|AUS|Right-Handed|0.0|17.0|23.0|-1.0|-3.0|15.0|2.3899999999999997
+indoors|Handel T.|DEU|Right-Handed|Kravchenko G.|UKR|Right-Handed|1.0||-23.0|15.0|3.0|3.0|-0.48
+indoors|Evans T.|AUS|Right-Handed|Bayldon B.|AUS|Left-Handed|1.0||-23.0|-5.0|-3.0|-2.0|-1.58
+indoors|Molino J.|ESP|Right-Handed|Cizelj-Zivkovic S.|SRB|Right-Handed|0.0|2.0|23.0|-3.0|0.0|0.0|-8.2
+indoors|Kichigin V.|RUS|Right-Handed|Siniakov D.|CZE|Right-Handed|1.0||-23.0|3.0|0.0|8.0|1.64
+indoors|Mouline S.|MAR|Left-Handed|Valle F.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|13.0|1.64
+indoors|Padro Parra A.|ESP|Right-Handed|Darras M.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.64
+indoors|Dao D.|SVK|Right-Handed|Duric A.|AUS|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-4.0|-1.64
+indoors|Escobar F.|COL|Right-Handed|Llanes F.|URY|Right-Handed|1.0||-23.0|-10.0|-8.0|8.0|-1.5799999999999998
+clay|Castelnuovo L.|CHE|Left-Handed|Zekic M.|SRB|Right-Handed|1.0||11.0|-1.0|-2.0|-9.0|3.4899999999999998
+indoors|Sels J.|NLD|Right-Handed|Neuchrist M.|AUT|Right-Handed|0.0|-1.0|23.0|5.0|5.0|-4.0|-1.95
+indoors|Kaza V.|IND|Right-Handed|Reid J.|AUS|Right-Handed|0.0|11.0|23.0|-13.0|-3.0|10.0|2.3899999999999997
+indoors|Kolyachev N.|BGR|Right-Handed|Gramaticopolo B.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|1.64
+indoors|Chiu J.|ITA|Right-Handed|Alcantara F.|PHL|Right-Handed|0.0|-8.0|23.0|5.0|13.0|-9.0|9.49
+indoors|Tasenkov V.|RUS|Right-Handed|Vasiliauskas M.|LTU|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Aissa Khelifa M.|DZA|Right-Handed|Trochu P.|FRA|Right-Handed|1.0||-23.0|3.0|0.0|6.0|1.64
+indoors|Martinez M.|CHE|Right-Handed|Fiorentini A.|ITA|Right-Handed|0.0|3.0|23.0|-8.0|-8.0|3.0|-8.2
+indoors|Barbonaglia L.|ITA|Right-Handed|Scott F.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-2.0|1.64
+indoors|Domenech Castillo J.|ESP|Left-Handed|Perez Contri S.|ESP|Left-Handed|1.0||-23.0|3.0|0.0|-7.0|1.64
+indoors|Sidorov N.|KAZ|Right-Handed|Macherla T.|IND|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|1.0|-1.64
+Varioussurfaces|Vanta V.|ROU|Right-Handed|Cazacu D.|ROU|Left-Handed|0.0|4.0|23.0|-11.0|-3.0|6.0|-1.9000000000000001
+indoors|Del Pino M.|ARG|Left-Handed|Ribeiro E.|BRA|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|-1.5799999999999998
+indoors|Gadilhe T.|FRA|Right-Handed|Najvirt Kolaric M.|SVN|Right-Handed|0.0|0.0|23.0|-3.0|0.0|3.0|9.49
+indoors|Kupcic J.|SVN|Right-Handed|Emesz B.|AUT|Right-Handed|1.0||-23.0|3.0|0.0|1.0|8.2
+indoors|Franco T.|ARG|Right-Handed|Butler S.|ITA|Left-Handed|1.0||-23.0|3.0|0.0|-7.0|1.64
+indoors|Suresh D.|IND|Right-Handed|Chauhan C.|IND|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-1.0|2.3899999999999997
+clay|Misolic F.|AUT|Right-Handed|Apostol B.|ROU|Right-Handed|0.0|-6.0|94.0|-3.0|0.0|-5.0|-3.1499999999999995
+indoors|Borras Isern J.|ESP|Right-Handed|Ambarzumjan E.|DEU|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|-9.49
+indoors|Loureiro J.|BRA|Right-Handed|Rodriguez-Pace R.|VEN|Right-Handed|0.0|-11.0|23.0|-3.0|0.0|-10.0|1.5799999999999998
+indoors|Schuetze C.|DEU|Right-Handed|Jacq G.|FRA|Left-Handed|1.0||-23.0|6.0|3.0|0.0|1.64
+indoors|Ryan Ziegann S.|AUS|Right-Handed|Quang Hien Pham H.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|2.0|-1.8299999999999998
+indoors|Yenilmez U.|TUR|Right-Handed|Barreto Sanchez D.|ESP|Left-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Wang X.|CHN|Right-Handed|Andre S.|SEN|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Ostro T.|HRV|Right-Handed|Andrejic M.|AUT|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Dahlberg O.|SWE|Right-Handed|Ortega P.|BRA|Right-Handed|0.0|-9.0|23.0|-3.0|0.0|-8.0|-8.2
+clay|Carou I.|URY|Right-Handed|Villanueva G.|ARG|Right-Handed|1.0||-11.0|0.0|3.0|-4.0|4.26
+indoors|Mahajan A.|IND|Right-Handed|Jovanovski N.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|0.0|4.59
+indoors|Ivic S.|SRB|Right-Handed|Tadic V.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|0.0|1.64
+indoors|Monclus Martin M.|ESP|Right-Handed|Correia D.|PRT|Right-Handed|0.0|0.0|23.0|-3.0|0.0|1.0|-8.2
+indoors|Tadic V.|ITA|Right-Handed|Ivic S.|SRB|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|0.0|-1.64
+indoors|Bruce-Smith J.|AUS|Right-Handed|Lamchinniah H.|AUS|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|1.0|1.16
+indoors|Sakellaridis M.|GRC|Right-Handed|Chaiyarin C.|THA|Right-Handed|0.0|3.0|23.0|-3.0|0.0|3.0|-1.64
+clay|Simundza J.|HRV|Left-Handed|Michalski D.|POL|Right-Handed|1.0||-23.0|1.0|3.0|-5.0|11.82
+indoors|Gaal C.|AUS|Right-Handed|Birrell C.|AUS|Right-Handed|0.0|1.0|23.0|-3.0|0.0|2.0|-1.16
+indoors|Gregoriou G.|GRC|Right-Handed|De Maio M.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|9.0|1.64
+indoors|Randjelovic I.|AUS|Right-Handed|Zvech Flaborea Mreule M.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|5.0|-1.5799999999999998
+indoors|Dragomirov D.|DEU|Right-Handed|Yu B.|CHN|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|8.2
+indoors|Fortin M.|CAN|Right-Handed|Solans I.|ESP|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Butler S.|ITA|Left-Handed|Franco T.|ARG|Right-Handed|0.0|7.0|23.0|-3.0|0.0|7.0|-1.64
+indoors|Heyman C.|BEL|Left-Handed|Geerts M.|BEL|Right-Handed|1.0||-26.0|17.0|13.0|1.0|-0.45999999999999996
+indoors|Yoshimura D.|JPN|Right-Handed|Yang W.|AUS|Right-Handed|0.0|6.0|23.0|-3.0|0.0|-1.0|-0.27
+hard|Altmaier D.|DEU|Right-Handed|Kudla D.|ITA|Right-Handed|1.0||138.0|9.0|11.0|-7.0|0.56
+indoors|Pohjola P.|FIN|Right-Handed|Martinez Martinez J.|ESP|Right-Handed|0.0|-3.0|23.0|-3.0|0.0|-5.0|9.49
+indoors|Maric F.|HRV|Right-Handed|Kljaic N.|HRV|Right-Handed|0.0|5.0|23.0|-3.0|0.0|5.0|9.49
+indoors|Blaydes B.|ITA|Right-Handed|Lawrence X.|BRB|Right-Handed|0.0|-4.0|23.0|-3.0|0.0|-1.0|-1.64
+indoors|Bassem Sobhy M.|EGY|Right-Handed|Jones M.|THA|Right-Handed|1.0||-23.0|3.0|0.0|1.0|8.2
+indoors|Bredschneijder O.|NLD|Right-Handed|Busoms Puig J.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+clay|Mendoza A.|BOL|Right-Handed|Juarez F.|ITA|Right-Handed|1.0||-23.0|5.0|0.0|8.0|8.239999999999998
+indoors|Frljanic S.|CAN|Right-Handed|Ferrarolli D.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|4.0|1.64
+clay|Musialek A.|FRA|Right-Handed|Ionel N.|ROU|Right-Handed|1.0||-23.0|9.0|0.0|15.0|1.31
+indoors|Banti C.|ITA|Right-Handed|Bachmaier P.|AUT|Right-Handed|1.0||-23.0|3.0|0.0|-5.0|8.2
+indoors|Donarski S.|CAN|Right-Handed|Stewart A.|PRT|Right-Handed|0.0|5.0|23.0|-3.0|0.0|6.0|-8.2
+indoors|Edley A.|AUS|Right-Handed|Speziali F.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-9.49
+indoors|Jovanovski N.|AUS|Right-Handed|Mahajan A.|IND|Right-Handed|0.0|-2.0|23.0|-3.0|0.0|0.0|-4.59
+Varioussurfaces|Chirita I.|ROU|Right-Handed|Marinescu M.|ROU|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|0.5299999999999998
+indoors|Neira M.|COL|Right-Handed|Lomakin G.|KAZ|Right-Handed|1.0||-23.0|0.0|-15.0|-6.0|-1.5799999999999998
+indoors|Knaff A.|LUX|Right-Handed|Bird S.|NZL|Right-Handed|0.0|1.0|23.0|-3.0|0.0|2.0|9.49
+indoors|Qamar F.|IND|Right-Handed|Duhan C.|IND|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|1.64
+indoors|Cizelj-Zivkovic S.|SRB|Right-Handed|Molino J.|ESP|Right-Handed|1.0||-23.0|3.0|0.0|0.0|8.2
+clay|Klier Junior G.|BRA|Right-Handed|Navone M.|ARG|Right-Handed|0.0|1.0|23.0|-3.0|0.0|1.0|-0.45999999999999996
+Varioussurfaces|Breazu V.|ROU|Right-Handed|Mcintosh E.|ITA|Right-Handed|1.0||-23.0|3.0|0.0|-9.0|-0.8999999999999999
+indoors|Yin B.|ITA|Right-Handed|Skorilas A.|GRC|Right-Handed|0.0|0.0|23.0|-6.0|-2.0|1.0|9.49
+clay|Barrientos N.|COL|Right-Handed|Arias B.|BOL|Right-Handed|0.0|6.0|-2.0|-1.0|-10.0|7.0|-4.99
+indoors|Amoros Ramos P.|ESP|Right-Handed|Baldovinetti G.|ITA|Right-Handed|0.0|5.0|23.0|-3.0|0.0|4.0|-8.030000000000001
+hard|Fritz T.|ITA|Right-Handed|Nadal R.|ESP|Left-Handed|0.0|-12.0|-4505.0|1.0|8.0|-12.0|3.7100000000000004
+indoors|Sach T.|AUS|Right-Handed|Polmans G.|AUS|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-3.0|-2.0700000000000003
+indoors|Leshem E.|ISR|Right-Handed|Forejtek J.|CZE|Right-Handed|1.0||83.0|-1.0|3.0|4.0|3.91
+indoors|Talic Z.|AUS|Left-Handed|Jasika O.|AUS|Left-Handed|1.0||-9.0|18.0|0.0|-1.0|6.34
+indoors|Pavlekovich Smith T.|AUS|Right-Handed|Osborne Z.|AUS|Right-Handed|1.0||-23.0|3.0|0.0|-3.0|0.27
+indoors|Somani P.|IND|Right-Handed|Madan T.|IND|Right-Handed|0.0|1.0|23.0|-3.0|0.0|1.0|-1.64
+indoors|Krivoshchekov M.|RUS|Right-Handed|Cattaneo E.|ITA|Right-Handed|0.0|-1.0|23.0|-3.0|0.0|-5.0|9.49
+indoors|Fiorentini A.|ITA|Right-Handed|Martinez M.|CHE|Right-Handed|1.0||-23.0|8.0|8.0|-3.0|8.2
+indoors|Strestian Stamati M.|AUS|Right-Handed|Hoogland J.|NLD|Right-Handed|1.0||-23.0|3.0|0.0|-1.0|-1.5799999999999998

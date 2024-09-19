@@ -38,6 +38,7 @@ def fn_classification(df_class, X_vect, n_date, results_path):
     classifications = modelo_cargado.predict(X_vect)
     probs = modelo_cargado.predict_proba(X_vect)
     df_class['Class'] = classifications
+    df_class.reset_index(drop=True, inplace=True)
     df_class = df_class.join(pd.DataFrame(probs, columns=['Prob_win_pl1', 'Prob_win_pl2']))
     reporte_clasificacion = pd.DataFrame(classification_report(df_class['Result'], df_class['Class'], output_dict=True))
     df_class['Accuracy'] = reporte_clasificacion['accuracy'].mean()

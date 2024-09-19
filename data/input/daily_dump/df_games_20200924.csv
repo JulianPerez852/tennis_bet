@@ -1,0 +1,78 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Hamburg|1.42|2.86|Ruud C.|Norway|2013|77.0|183.0|right|25.0|Fognini F.|Italy|2002|79.0|178.0|right|37.0|clay|20200924
+Hamburg|1.56|2.41|Humbert U.|France|2014|73.0|188.0|left|26.0|Vesely J.|CzechRepublic|2009|94.0|198.0|left|31.0|clay|20200924
+Hamburg|1.19|4.75|Tsitsipas S.|Greece|2013|89.0|193.0|right|26.0|Cuevas P.|Uruguay|2002|78.0|180.0|right||clay|20200924
+Hamburg|1.95|1.83|Lajovic D.|Serbia|2005|83.0|183.0|right|34.0|Khachanov K.|Russia|2011|87.0|198.0|right|28.0|clay|20200924
+Forli challenger|2.50|1.50|Harris L.|RSA|2014|80.0|193.0|right|27.0|Caruso S.|Italy|2008|80.0|185.0|right|31.0|clay|20200924
+Forli challenger|1.17|4.80|Monteiro T.|Brazil|2008|78.0|183.0|left|30.0|Ritschard A.|Switzerland|2009|82.0|193.0|right|30.0|clay|20200924
+Forli challenger|1.70|2.10|Pellegrino A.|Italy|2012|81.0|185.0|right|27.0|Clezar G.|Brazil|2007|77.0|180.0|right|31.0|clay|20200924
+Forli challenger|1.23|3.97|Musetti L.|Italy|2017|75.0|185.0|right|22.0|Seppi A.|Italy|2000|78.0|191.0|right|40.0|clay|20200924
+Sibiu challenger|1.51|2.48|Cerundolo F.|Argentina|2016|78.0|185.0|right|26.0|Jaziri M.|Tunisia|2002|81.0|185.0|right|40.0|clay|20200924
+Sibiu challenger|1.56|2.34|Etcheverry T.|Argentina|2014|82.0|196.0|right|25.0|Meligeni Rodrigues Alves F.|Brazil|2014|78.0|185.0|right|26.0|clay|20200924
+Sibiu challenger|1.58|2.31|Huesler M.|Switzerland|2014|88.0|196.0|left|28.0|Gojo B.|Croatia|2013|90.0|196.0|right|26.0|clay|20200924
+Sibiu challenger|2.02|1.74|Gomez-Herrera C.|Spain|2006|85.0|191.0|right|34.0|Haerteis J.|Germany|2011|88.0|193.0|left|28.0|clay|20200924
+Sibiu challenger|1.93|1.78|Oliel Y.|Israel|2015|78.0|188.0|left|24.0|Paulson A.|CzechRepublic|2018|||right|22.0|clay|20200924
+Sibiu challenger|1.28|3.35|Baez S.|Argentina|2016|70.0|170.0|right|23.0|Svrcina D.|CzechRepublic|2017|68.0|178.0|right|21.0|clay|20200924
+Sibiu challenger|2.74|1.40|Velotti A.|Argentina|2007|72.0|174.0|right|32.0|Sels J.|Netherlands|2010|83.0|188.0|right|29.0|clay|20200924
+Sibiu challenger|1.56|2.29|Ugo Carabelli C.|Argentina|2015|83.0|185.0|right|25.0|Cias P.|Poland|2010|70.0|178.0|right|30.0|clay|20200924
+Sibiu challenger|3.08|1.32|Cuevas M.|Uruguay|2006|90.0|191.0|right|32.0|De Jong J.|Netherlands|2017|70.0|180.0|right|24.0|clay|20200924
+Sibiu challenger|3.40|1.28|Rikl P.|CzechRepublic|2014|80.0|185.0|right|25.0|Klein L.|Slovakia|2014|85.0|193.0|right|26.0|clay|20200924
+Sibiu challenger|1.65|2.08|Quinzi G.|Italy|2010|84.0|191.0|left|28.0|Lindell C.|Sweden|2008|87.0|193.0|right|32.0|clay|20200924
+Sibiu challenger|1.52|2.39|Ignatik U.|Belarus|2006|82.0|183.0|right|34.0|Olivieri G.|Argentina|2014|73.0|175.0|right|26.0|clay|20200924
+Sibiu challenger|1.03|8.90|Skatov T.|Kazakhstan|2016|73.0|173.0|right|23.0|Alemany P.|Spain|2018|||right|22.0|clay|20200924
+Sibiu challenger|1.94|2.33|Moreno De Alboran N.|USA|2013|82.0|185.0|right|27.0|Kozlov S.|USA|2012|79.0|183.0|right|26.0|clay|20200924
+Sibiu challenger|1.94|2.33|Kirchheimer S.|USA|2013|79.0|185.0|right|29.0|Zima L.|Germany|2015|||right|24.0|clay|20200924
+Sibiu challenger|1.21|3.91|Lopez Morillo I.|Spain|2016|||right|24.0|Pauwels M.|Belgium|2015|70.0|180.0|right|26.0|clay|20200924
+Sibiu challenger|3.40|1.27|Balzerani R.|Italy|2013|80.0|185.0|right|25.0|Fanselow S.|Germany|2007|||right|32.0|clay|20200924
+Sibiu challenger|1.50|2.41|Rune H.|Denmark|2018|68.0|185.0|right|21.0|Esteve Lobato E.|Spain|2010|83.0|188.0|right|29.0|clay|20200924
+Sibiu challenger|1.36|2.88|Catarina L.|Monaco|2013|80.0|185.0|right|27.0|Alves M.|Brazil|2015|||right|23.0|clay|20200924
+Sibiu challenger|1.03|8.93|Royer V.|France|2018|83.0|188.0|right|23.0|Pujol Navarro B.|Spain|2017|||left|22.0|clay|20200924
+Sibiu challenger|1.12|5.38|Andreev A.|Bulgaria|2015|66.0|180.0|right|23.0|Andreu Garcia F.|Spain|2017|||right|23.0|clay|20200924
+Sibiu challenger|1.12|5.38|Shevchenko A.|Kazakhstan|2017|70.0|185.0|right|23.0|Echargui M.|Tunisia|2014|75.0|180.0|right|31.0|clay|20200924
+Sibiu challenger|1.71|2.01|Atmane T.|France|2017|||left|22.0|Andrews M.|GreatBritain|2012|||right|29.0|clay|20200924
+Sibiu challenger|1.21|3.94|Kirchheimer S.|USA|2013|79.0|185.0|right|29.0|Ayeni A.|USA|2015|82.0|191.0|right|25.0|clay|20200924
+Sibiu challenger|1.54|2.30|Houkes M.|Netherlands|2018|||left|24.0|Mora M.|France|2012|75.0|185.0|right|27.0|clay|20200924
+Sibiu challenger|1.19|4.12|Vidal Azorin J.|Spain|2010|68.0|178.0|right|31.0|Ferrari G.|Italy|2018|||left|23.0|clay|20200924
+Sibiu challenger|2.82|1.37|Vanshelboim E.|Ukraine|2018|86.0|188.0|right|23.0|McHugh A.|GreatBritain|2016|70.0|178.0|right|24.0|clay|20200924
+Sibiu challenger|1.64|2.12|Descotte M.|Argentina|2011|87.0|191.0|right|30.0|Pichler D.|Austria|2013|70.0|178.0|right|28.0|clay|20200924
+Sibiu challenger|2.63|1.43|Nava E.|USA|2016|74.0|183.0|right|22.0|Peniston R.|GreatBritain|2012|75.0|183.0|left|28.0|clay|20200924
+Sibiu challenger|1.08|6.85|Erler A.|Austria|2013|83.0|193.0|right|26.0|Bourgois C.|France|2014|83.0|194.0|right|26.0|clay|20200924
+Sibiu challenger|1.16|4.46|Reis Da Silva J.|Brazil|2015|75.0|175.0|right|24.0|Rodrigues N.|Brazil|2018|||right|22.0|clay|20200924
+Sibiu challenger|2.55|1.46|Potenza L.|Italy|2016|||right|24.0|Kotzen A.|USA|2018|||right|24.0|clay|20200924
+Sibiu challenger|2.02|1.59|Cacao T.|Portugal|2013|82.0|185.0|right|26.0|Lama G.|Chile|2008|82.0|180.0|right|31.0|clay|20200924
+Sibiu challenger|1.44|2.51|Alvarez Varona N.|Spain|2015|80.0|188.0|right|23.0|Whitehouse M.|GreatBritain|2010|80.0|188.0|right|31.0|clay|20200924
+Sibiu challenger|1.47|2.48|Zima L.|Germany|2015|||right|24.0|Faria L.|Portugal|2014|||right|25.0|clay|20200924
+Sibiu challenger|1.34|3.01|Balzerani R.|Italy|2013|80.0|185.0|right|25.0|Blanch D.|USA|2020|||right|21.0|clay|20200924
+Sibiu challenger|1.42|2.66|Fanselow S.|Germany|2007|||right|32.0|Kypson P.|USA|2015|79.0|188.0|right|24.0|clay|20200924
+Sibiu challenger|1.76|1.92|Kocevar-Desman T.|Slovenia|2008|77.0|180.0|right|34.0|Kivattsev K.|Russia|2015|80.0|193.0|right|26.0|clay|20200924
+Sibiu challenger|1.78|1.92|Parker S.|GreatBritain|2016|||right|27.0|Carr S.|Ireland|2015|77.0|183.0|right|24.0|clay|20200924
+Sibiu challenger|1.75|1.94|Thirouin J.|France|2013|85.0|188.0|right|26.0|Pokotilov B.|Russia|2013|78.0|180.0|right|27.0|clay|20200924
+East Coast Pro Series|1.49|2.50|King E.|USA|2007|79.0|185.0|left|32.0|Arias B.|Bolivia|2009|76.0|185.0|right|30.0|clay|20200924
+East Coast Pro Series|3.12|1.34|Lomakin G.|Kazakhstan|2013|78.0|198.0|right|26.0|King E.|USA|2007|79.0|185.0|left|32.0|clay|20200924
+East Coast Pro Series|1.25|3.65|Scott F.|USA|2016|||right|25.0|Arias B.|Bolivia|2009|76.0|185.0|right|30.0|clay|20200924
+East Coast Pro Series|1.80|1.92|Lomakin G.|Kazakhstan|2013|78.0|198.0|right|26.0|Redlicki M.|USA|2011|86.0|203.0|left|30.0|clay|20200924
+East Coast Pro Series|1.26|3.64|Gomez A.|Colombia|2007|85.0|183.0|right|33.0|El Mihdawy A.|USA|2005|||right|35.0|clay|20200924
+Eastern European Championship|1.26|3.64|Laurent Y.|France|2009|76.0|183.0|right|32.0|Drinic M.|Serbia|2012|75.0|185.0|right|26.0|clay|20200924
+Eastern European Championship|12.00|1.01|Butulija B.|Serbia|2014|||left|25.0|Kijametovic A.|BosniaandHerzeg.|2012|||right|28.0|clay|20200924
+Eastern European Championship|12.00|1.01|Pavlovic L.|France|2016|||right|24.0|Katic D.|Serbia|2003|||right|36.0|clay|20200924
+Eastern European Championship|1.60|2.20|Rajic D.|Serbia|2015|||right|25.0|Daljev P.|Serbia|2008|88.0|198.0|right|32.0|clay|20200924
+Eastern European Championship|1.01|12.00|Basic M.|BosniaandHerzeg.|2006|88.0|188.0|right|33.0|Angele J.|France|2015|93.0|206.0|right|24.0|clay|20200924
+Eastern European Championship|1.01|12.00|Rogic Hadzalic A.|Croatia|2015|||right|27.0|Savelev D.|Russia|2015|86.0|188.0|right|23.0|clay|20200924
+Eastern European Championship|1.30|3.20|Setkic A.|BosniaandHerzeg.|2004|86.0|191.0|right|36.0|Folliot Q.|France|2015|||right|25.0|clay|20200924
+Eastern European Championship|1.30|3.23|Tepavac M.|Serbia|2011|90.0|193.0|right|30.0|Kirci K.|Turkey|2013|||right|26.0|clay|20200924
+European Pro Tennis Series|1.84|1.84|Avidzba A.|Russia|2015|76.0|188.0|right|24.0|Dougaz A.|Tunisia|2013|80.0|188.0|left|27.0|hard|20200924
+European Pro Tennis Series|1.15|5.00|Chazal M.|France|2008|72.0|175.0|right|31.0|Faivre P.|France|2012|||right|28.0|hard|20200924
+European Pro Tennis Series|1.25|3.73|Escoffier A.|France|2008|78.0|185.0|right|32.0|Eysseric J.|France|2004|80.0|180.0|left|34.0|hard|20200924
+European Pro Tennis Series|3.44|1.29|Petit G.|France|2014|78.0|180.0|right|29.0|Hemery C.|France|2012|83.0|191.0|right|29.0|hard|20200924
+West Coast Pro Series|1.67|2.15|Maier J.|Germany|2014|||right|27.0|Boyer T.|USA|2017|73.0|183.0|right|28.0|clay|20200924
+West Coast Pro Series|2.00|1.74|Nedelko I.|Russia|2006|80.0|185.0|right|38.0|Ortlip J.|USA|2017|||right|27.0|clay|20200924
+West Coast Pro Series|1.20|4.13|Brymer G.|USA|2013|70.0|185.0|right|29.0|Adamson A.|USA|2013|88.0|196.0|right||clay|20200924
+West Coast Pro Series|2.44|1.50|Redlicki M.|USA|2012|91.0|196.0|left|29.0|Corwin F.|USA|2014|82.0|188.0|right|28.0|clay|20200924
+French Open|2.46|1.54|Gomez E.|Ecuador|2006|81.0|185.0|right|32.0|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|clay|20200924
+French Open|1.50|2.54|Bonzi B.|France|2013|76.0|185.0|right|28.0|Marcora R.|Italy|2007|85.0|193.0|right|35.0|clay|20200924
+French Open|1.24|3.99|Martinez P.|Spain|2012|76.0|185.0|right|27.0|Blanch U.|USA|2014|78.0|188.0|right|26.0|clay|20200924
+French Open|1.27|3.75|Altmaier D.|Germany|2013|88.0|191.0|right|25.0|Bemelmans R.|Belgium|2005|75.0|183.0|left|36.0|clay|20200924
+French Open|1.51|2.53|Vukic A.|Australia|2012|84.0|188.0|right|28.0|Jung J.|ChineseTaipei|2005|69.0|180.0|right|35.0|clay|20200924
+French Open|2.12|1.69|Diez S.|Canada|2007|76.0|175.0|right|33.0|Couacaud E.|France|2012|78.0|183.0|right|29.0|clay|20200924
+French Open|2.45|1.52|Broady L.|GreatBritain|2009|78.0|183.0|left|30.0|Polmans M.|Australia|2011|78.0|188.0|right|27.0|clay|20200924
+French Open|1.71|2.08|Giustino L.|Italy|2006|83.0|180.0|right|32.0|Brown D.|Germany|2002|78.0|196.0|right|39.0|clay|20200924

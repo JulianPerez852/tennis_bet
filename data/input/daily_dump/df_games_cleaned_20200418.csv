@@ -1,0 +1,11 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Lorenzi P.|ITA|Right-Handed|Andreev A.|BGR|Right-Handed|0.0|13.0|170.0|12.0|3.0|19.0|
+hard|Lorenzi P.|ITA|Right-Handed|King E.|BGR|Left-Handed|0.0|5.0|170.0|-1.0|-2.0|10.0|
+hard|Andreev A.|BGR|Right-Handed|Lorenzi P.|ITA|Right-Handed|1.0||-170.0|-12.0|-3.0|-19.0|
+hard|Andreev A.|BGR|Right-Handed|King E.|BGR|Left-Handed|0.0|-8.0|170.0|-13.0|-5.0|-9.0|
+hard|King E.|BGR|Left-Handed|Ward E.|BGR|Right-Handed|0.0|6.0|0.0|-5.0|2.0|3.0|
+hard|Andreev A.|BGR|Right-Handed|Ward E.|BGR|Right-Handed|0.0|-2.0|170.0|-18.0|-3.0|-6.0|
+hard|King E.|BGR|Left-Handed|Lorenzi P.|ITA|Right-Handed|1.0||-170.0|1.0|2.0|-10.0|
+hard|Ward E.|BGR|Right-Handed|King E.|BGR|Left-Handed|1.0||0.0|5.0|-2.0|-3.0|
+hard|King E.|BGR|Left-Handed|Andreev A.|BGR|Right-Handed|1.0||-170.0|13.0|5.0|9.0|
+hard|Ward E.|BGR|Right-Handed|Andreev A.|BGR|Right-Handed|1.0||-170.0|18.0|3.0|6.0|

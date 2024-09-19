@@ -1,0 +1,35 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Mansouri S.|TUN|Right-Handed|Uchida K.|JPN|Right-Handed|0.0|-2.0|-121.0|12.0|13.0|0.0|-0.17999999999999994
+hard|Vidal Azorin J.|ESP|Right-Handed|Beauge M.|FRA|Right-Handed|0.0|4.0|318.5|-2.0|-5.0|7.0|-1.3699999999999999
+hard|De Minaur A.|AUS|Right-Handed|Andreev A.|BGR|Right-Handed|0.0|0.0|1808.0|3.0|3.0|2.0|-8.09
+hard|Cornut Chauvinc A.|FRA|Right-Handed|Bellier A.|CHE|Left-Handed|1.0||240.0|-3.0|-12.0|-3.0|-1.0399999999999998
+hard|Beauge M.|FRA|Right-Handed|Vidal Azorin J.|ESP|Right-Handed|1.0||-318.5|2.0|5.0|-7.0|1.3699999999999999
+hard|Kodat T.|ITA|Right-Handed|Marti Pujolras A.|ESP|Right-Handed|0.0|-3.0|318.5|-4.0|-6.0|-4.0|-0.9900000000000002
+hard|Basilashvili N.|GEO|Right-Handed|Celikbilek A.|TUR|Right-Handed|0.0|5.0|1245.0|7.0|0.0|5.0|-1.4300000000000002
+hard|Goffin D.|BEL|Right-Handed|Kuhn N.|DEU|Right-Handed|0.0|9.0|2336.0|-5.0|-5.0|9.0|-5.9
+hard|Uchida K.|JPN|Right-Handed|Mansouri S.|TUN|Right-Handed|1.0||121.0|-12.0|-13.0|0.0|0.17999999999999994
+hard|Kuhn N.|DEU|Right-Handed|Goffin D.|BEL|Right-Handed|1.0||-2336.0|5.0|5.0|-9.0|5.9
+hard|Young D.|ESP|Left-Handed|Tiafoe F.|ITA|Right-Handed|1.0||-870.0|-7.0|-5.0|9.0|3.57
+hard|Ozolins K.|LVA|Right-Handed|Furness E.|FRA|Right-Handed|1.0||25.0|11.0|14.0|-4.0|2.39
+hard|Travaglia S.|ITA|Right-Handed|Ruusuvuori E.|FIN|Right-Handed|0.0|7.0|63.0|1.0|-3.0|7.0|1.08
+hard|Marti Pujolras A.|ESP|Right-Handed|Kodat T.|ITA|Right-Handed|1.0||-318.5|4.0|6.0|4.0|0.9900000000000002
+hard|Roncalli S.|ITA|Right-Handed|Ornago F.|ITA|Right-Handed|1.0||-318.5|-10.0|-16.0|-4.0|2.02
+hard|Mager G.|ITA|Right-Handed|Querrey S.|ESP|Right-Handed|0.0|-8.0|-332.0|-18.0|-10.0|-7.0|2.71
+hard|Ornago F.|ITA|Right-Handed|Roncalli S.|ITA|Right-Handed|0.0|4.0|318.5|10.0|16.0|4.0|-2.02
+hard|Andujar P.|ESP|Right-Handed|Karlovic I.|HRV|Right-Handed|1.0||600.0|-24.0|-31.0|-7.0|-1.3199999999999998
+hard|Ruusuvuori E.|FIN|Right-Handed|Travaglia S.|ITA|Right-Handed|1.0||-63.0|-1.0|3.0|-7.0|-1.08
+hard|Marek W.|POL|Right-Handed|Vanshelboim E.|UKR|Right-Handed|1.0||-318.5|-5.0|5.0|0.0|-0.5499999999999998
+hard|Furness E.|FRA|Right-Handed|Ozolins K.|LVA|Right-Handed|0.0|4.0|-25.0|-11.0|-14.0|4.0|-2.39
+hard|Querrey S.|ESP|Right-Handed|Mager G.|ITA|Right-Handed|1.0||332.0|18.0|10.0|7.0|-2.71
+hard|Tiafoe F.|ITA|Right-Handed|Young D.|ESP|Left-Handed|0.0|-9.0|870.0|7.0|5.0|-9.0|-3.57
+hard|Bellier A.|CHE|Left-Handed|Cornut Chauvinc A.|FRA|Right-Handed|0.0|3.0|-240.0|3.0|12.0|3.0|1.0399999999999998
+hard|Rincon D.|ESP|Left-Handed|Safranek V.|CZE|Right-Handed|0.0|-10.0|-64.0|-0.5|1.5|-9.0|0.48
+hard|Harrison C.|ITA|Right-Handed|Garin C.|CHL|Right-Handed|0.0|0.0|-1955.0|-8.0|-5.0|2.0|1.0899999999999999
+hard|Okala J.|FRA|Right-Handed|Barroso Campos A.|ESP|Right-Handed|0.0|0.0|318.5|22.0|15.0|-1.0|0.48
+hard|Karlovic I.|HRV|Right-Handed|Andujar P.|ESP|Right-Handed|0.0|4.0|-600.0|24.0|31.0|7.0|1.3199999999999998
+hard|Celikbilek A.|TUR|Right-Handed|Basilashvili N.|GEO|Right-Handed|1.0||-1245.0|-7.0|0.0|-5.0|1.4300000000000002
+hard|Garin C.|CHL|Right-Handed|Harrison C.|ITA|Right-Handed|1.0||1955.0|8.0|5.0|-2.0|-1.0899999999999999
+hard|Safranek V.|CZE|Right-Handed|Rincon D.|ESP|Left-Handed|1.0||64.0|0.5|-1.5|9.0|-0.48
+hard|Barroso Campos A.|ESP|Right-Handed|Okala J.|FRA|Right-Handed|1.0||-318.5|-22.0|-15.0|1.0|-0.48
+hard|Vanshelboim E.|UKR|Right-Handed|Marek W.|POL|Right-Handed|0.0|-1.0|318.5|5.0|-5.0|0.0|0.5499999999999998
+hard|Andreev A.|BGR|Right-Handed|De Minaur A.|AUS|Right-Handed|1.0||-1808.0|-3.0|-3.0|-2.0|8.09

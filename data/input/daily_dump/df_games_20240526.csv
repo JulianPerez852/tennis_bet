@@ -1,0 +1,316 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+French Open|1.55|2.45|Wawrinka S.|Switzerland|2001|79.0|182.0|right|39.0|Murray A.|GreatBritain|2002|83.0|190.0|right|37.0|clay|20240526
+French Open|1.54|2.49|Ofner S.|Austria|2012|81.0|191.0|right|28.0|Atmane T.|France|2017|||left|22.0|clay|20240526
+French Open|2.82|1.44|Moutet C.|France|2014|68.0|175.0|left|25.0|Jarry N.|Chile|2012|90.0|198.0|right|28.0|clay|20240526
+French Open|1.56|2.44|Altmaier D.|Germany|2013|88.0|191.0|right|25.0|Djere L.|Serbia|2011|82.0|188.0|right|29.0|clay|20240526
+French Open|1.19|4.76|Korda S.|USA|2015|75.0|193.0|right|24.0|Mayot H.|France|2017|71.0|178.0|right|22.0|clay|20240526
+French Open|1.25|3.98|Marozsan F.|Hungary|2016|||right|24.0|Kukushkin M.|Kazakhstan|2005|72.0|183.0|right|36.0|clay|20240526
+French Open|3.16|1.36|Bergs Z.|Belgium|2014|83.0|185.0|right|25.0|Tabilo A.|Chile|2013|75.0|188.0|left|27.0|clay|20240526
+French Open|2.70|1.47|Nishikori K.|Japan|2005|73.0|178.0|right|34.0|Diallo G.|Canada|2018|||right|22.0|clay|20240526
+French Open|1.55|2.45|Muller A.|France|2012|75.0|183.0|right|27.0|Nardi L.|Italy|2018|||right|21.0|clay|20240526
+French Open|3.11|1.37|Gasquet R.|France|2002|79.0|183.0|right|38.0|Coric B.|Croatia|2011|85.0|188.0|right|27.0|clay|20240526
+French Open|1.01|25.01|Alcaraz C.|Spain|2018|72.0|185.0|right|21.0|Wolf J.|USA|2015|79.0|183.0|right|25.0|clay|20240526
+French Open|2.37|1.59|Marterer M.|Germany|2011|84.0|191.0|left|29.0|Thompson J.|Australia|2010|82.0|183.0|right|30.0|clay|20240526
+French Open|1.09|7.60|Dimitrov G.|Bulgaria|2007|81.0|191.0|right|33.0|Kovacevic A.|USA|2015|76.0|183.0|right|25.0|clay|20240526
+French Open|1.04|13.16|Hurkacz H.|Poland|2014|81.0|196.0|right|27.0|Mochizuki S.|Japan|2018|||right|21.0|clay|20240526
+French Open|4.27|1.23|De Jong J.|Netherlands|2017|70.0|180.0|right|24.0|Draper J.|GreatBritain|2017|80.0|191.0|left|22.0|clay|20240526
+French Open|1.30|3.60|Martinez P.|Spain|2012|76.0|185.0|right|27.0|Tirante T.|Argentina|2016|78.0|185.0|right|23.0|clay|20240526
+French Open|1.55|2.45|Nakashima B.|USA|2016|77.0|185.0|right|23.0|Moreno De Alboran N.|USA|2013|82.0|185.0|right|27.0|clay|20240526
+French Open|1.04|12.03|Rublev A.|Russia|2013|70.0|188.0|right|26.0|Daniel T.|Japan|2008|80.0|191.0|right|31.0|clay|20240526
+French Open|2.52|1.53|Sonego L.|Italy|2013|76.0|191.0|right|29.0|Humbert U.|France|2014|73.0|188.0|left|26.0|clay|20240526
+French Open|1.36|3.18|Zhang Z.|China|2012|87.0|193.0|right|27.0|Vukic A.|Australia|2012|84.0|188.0|right|28.0|clay|20240526
+French Open|3.40|1.28|Vatutin A.|Russia|2009|69.0|178.0|right|31.0|Collignon R.|Belgium|2020|||right|22.0|clay|20240526
+French Open|1.80|1.89|Den Ouden G.|Netherlands|2020|||right|22.0|Giustino L.|Italy|2006|83.0|180.0|right|32.0|clay|20240526
+French Open|1.30|3.21|Henning P.|RSA|2016|||right|23.0|Vishwakarma S.|India|2014|74.0|191.0|left|29.0|clay|20240526
+French Open|1.56|2.27|Cui J.|China|2015|72.0|183.0|right|26.0|Bai Y.|China|2006|80.0|185.0|right|35.0|clay|20240526
+French Open|1.84|1.83|Pecci A.|Italy|2019|||right|23.0|Buldorini P.|Italy|2022|||right|20.0|clay|20240526
+French Open|1.53|2.32|Borg L.|Sweden|2020|||right|21.0|Craig C.|USA|2022|||right|20.0|clay|20240526
+French Open|1.91|1.78|Pecci A.|Italy|2019|||right|23.0|Baroni N.|Italy|2019|||right|20.0|clay|20240526
+French Open|1.63|2.14|Zekic M.|Serbia|2003|79.0|185.0|right|36.0|Cias P.|Poland|2010|70.0|178.0|right|30.0|clay|20240526
+French Open|1.35|2.92|Bielinskyi V.|Ukraine|2020|||right|20.0|Pennaforti G.|Italy|2021|||right|23.0|clay|20240526
+French Open|3.26|1.29|Pereira T.|Portugal|2022|||right|20.0|Bouquier A.|France|2017|||right|23.0|clay|20240526
+French Open|2.18|1.60|Nesterov P.|Bulgaria|2019|||right|21.0|Benchetrit E.|Morocco|2014|88.0|193.0|right|25.0|clay|20240526
+French Open|4.22|1.18|Schiessl J.|Brazil|2021|||left|20.0|Rola B.|Slovenia|2008|85.0|193.0|left|33.0|clay|20240526
+French Open|1.25|3.60|Sharipov M.|Russia|2019|||right|21.0|Matsuoka H.|Japan|2022|||right|19.0|clay|20240526
+UTR Pro Tennis Series 3|6.50|1.10|Charlap D.|USA|2022|||right|19.0|Lumsden E.|GreatBritain|2016|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.36|3.00|Hulme M.|Australia|2016|||right|25.0|Chodur A.|USA|2022|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|3.25|1.33|Arora K.|USA|2022|||right||Charlton J.|Australia|2016|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.44|2.62|Maxted L.|GreatBritain|2020|||right|20.0|Chan D.|Canada|2022|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.50|2.50|Van Assendelft J.|Netherlands|2021|||right|22.0|Owen R.|USA|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.36|3.00|Hulme M.|Australia|2016|||right|25.0|Steiglehner N.|USA|2021|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.14|5.00|Lumsden E.|GreatBritain|2016|||right|24.0|Ventre A.|Brazil|2002|||right|39.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.00|21.00|Gales R.|France|2019|||right|20.0|Cejovic S.|Serbia|2021|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|12.75|1.01|Debru M.|France|2020|||right||Cado Z.|France|2024|||right|16.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|12.75|1.01|Popovic S.|Germany|2017|||right|22.0|Bancalari A.|Chile|2021|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|12.75|1.01|Fabre A.|France|2021|||right||Grimaud E.|France|2024|||right|18|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|12.75|1.01|Huang R.|China|2023|||right||Dong J.|Australia|2020|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|12.75|1.01|Ng K.|HongKong|2016|||right|23.0|Yang Z.|China|2017|80.0|183.0|right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|6.83|1.07|Hornitschek N.|Germany|2017|||right|24.0|Bruce-Smith J.|Australia|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|7.33|1.05|Le Ho A.|France|2024|||right|21.0|Lhomond I.|France|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|5.35|1.11|Gabet A.|France|2024|||right||Burnel E.|France|2018|||right|23|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|5.35|1.11|Han X.|China|2023|||right|18.0|Yong L.|Malaysia|2018|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.76|1.91|Pognon C.|Benin|2000|||right|46.0|Col-Destailleur N.|France|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.03|10.00|Livet Novkirichka F.|France|2024|||right||Favre E.|France|2023|||right|24|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|2.30|1.53|Mottier T.|France|2022|||right|19.0|Price C.|GreatBritain|2017|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|2.30|1.53|Lu P.|China|2018|||right|22.0|Hsu J.|ChineseTaipei|2013|78.0|180.0|right|27.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.36|2.88|Arcon A.|Australia|2021|||right|23.0|Zheng Y.|China|2017|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|2.18|1.57|Lu C.|ChineseTaipei|2022|||right|20.0|Zheng Z.|China|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|10.00|1.03|Jin Y.|China|2018|||right|23.0|Hu X.|China|2016|||right|27.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.25|3.48|Liu S.|China|2017|||right|22.0|Elia J.|Australia|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.04|9.00|You D.|China|2023|||right|20.0|Fu H.|ChineseTaipei|2017|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.05|8.50|Hung K.|ChineseTaipei|2023|||right||Zhao R.|China|2015|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.01|12.00|Chen X.|China|2023|||right|20.0|Ai H.|China|2023|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Zeng Y.|China|2017|||right|22.0|Zhuo S.|China|2018|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Yu B.|China|2014|||right|25.0|Mingzhou Z.|China|2018|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Vujic S.|Australia|2014|||right|26.0|Liu X.|China|2012|||right|27.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Duan H.|China|2023|||right||Sheng J.|China|2019|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Stidell F.|Sweden|2022|||right||Meijer D.|Netherlands|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Thurner N.|Germany|2017|||right|24.0|Vojtischek D.|Austria|2016|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Calin A.|GreatBritain|2024|||right|19|Stetzer K.|Germany|2017|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Skof G.|Slovenia|2023|||right|18.0|Janghu V.|India|2021|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ferri L.|Italy|2019|||right|20.0|Codescu R.|Romania|2014|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Grosu R.|Romania|2022|||right||Mircea C.|Romania|2011|||right|28.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|De Almeida Santos P.|Brazil|2022|||right|20.0|Perez Navarro P.|Spain|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Gimenez Perez C.|Spain|2020|||right|21.0|Bianciotti V.|Argentina|2022|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kaparov A.|Kazakhstan|2021|||right||Ji Z.|China|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Talan Lopatic L.|Slovenia|2023|||right|17.0|Alonso C.|Peru|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|De Carvalho V.|Portugal|2017|||right|25.0|Gurmeric M.|Turkey|2024|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Alkotop M.|Jordan|2023|||right|19.0|Kubo T.|Japan|2015|||right|30.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sach T.|Australia|2018|||right|21.0|Alhogbani S.|SaudiArabia|2018|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Portnoy J.|USA|2019|||right|21.0|Roux E.|Canada|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Salvador Civera H.|Spain|2024|||right|18|Stepanian A.|Argentina|2018|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Belkovics A.|Hungary|2023|||right|21.0|Marosik N.|Slovakia|2023|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Aunion P.|Spain|2023|||right||Faisal G.|Canada|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Garcia Gomez H.|Spain|2022|||right|18.0|Abramov I.|Russia|2021|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Najvirt Kolaric M.|Slovenia|2021|||right|21.0|Werner E.|Germany|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Halmos K.|Hungary|2021|||right||Van Donselaar F.|Netherlands|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Gibson J.|Canada|2023|||right||Koizumi N.|Japan|2023|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Madrid Torres M.|Colombia|2021|||right|19.0|Zoroja I.|Serbia|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sim S.|SouthKorea|2017|||right|27.0|Kono Y.|Japan|2015|||right|29.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Yoshimura D.|Japan|2016|||right|22.0|Kang W.|SouthKorea|2024|||right|18|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Townsend D.|Australia|2021|||right|20.0|Rassat W.|France|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Stoica V.|Romania|2015|||right|23.0|Ducariu D.|Germany|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Warik C.|India|2023|||right||Hudjec A.|Serbia|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sakellaridis M.|Greece|2015|||right|23.0|Ruiz Rodriguez H.|Spain|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Semenov D.|Ukraine|2020|||right|22.0|Cripps L.|Australia|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Matuszewski G.|Poland|2020|||right|20.0|Bataljin L.|Australia|2011|53.0|168.0|right|28.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Jorquera E.|Canada|2018|||right|20.0|Kelo P.|Slovakia|2020|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Bladelius H.|Sweden|2022|||right|20.0|Zgola B.|Poland|2019|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Fekete J.|Slovakia|2019|||right|23.0|Gustin L.|Romania|2023|||right|20|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Dudun I.|Ukraine|2014|||right|25.0|Bahra N.|GreatBritain|2019|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Skrijelj A.|BosniaandHerzeg.|2024|||right|16|Lazetic N.|BosniaandHerzeg.|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Hopp M.|Germany|2018|||right|25.0|Basalic I.|BosniaandHerzeg.|2024|||left|18|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Florea R.|Romania|2022|||right||Fabris P.|Italy|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Teglas I.|Romania|2022|||right|21.0|Moroi V.|Romania|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Barbarino L.|Italy|2023|||right|19.0|Ghetu M.|Romania|2024|||right|22|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Avcibasi T.|Turkey|2020|||right|20.0|Ros Salvatierra A.|Spain|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Matulovich M.|Argentina|2021|||right|21.0|Fares B.|Tunisia|2024|||right|15|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Gray T.|Australia|2020|||right|26.0|March J.|Jamaica|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Horie T.|Japan|2016|||right|25.0|Sasaki S.|Japan|2024|||right|20|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ryan Ziegann S.|Australia|2017|||right|26.0|Ghorbanzadeh A.|Philippines|2022|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Popyrin A.|Australia|2016|||right|24.0|Biletic P.|BosniaandHerzeg.|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ciobotaru D.|Romania|2022|||right|20.0|Babinciuc I.|Moldavsko|2003|||right|38.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Pieleanu R.|Romania|2023|||right|17.0|Jinga A.|Romania|2022|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Yue M.|China|2023|||right||Sanchez Lopez L.|Spain|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Pascual Ferra R.|Spain|2021|||left|18.0|Sanchez Ferre A.|Spain|2024|||right|16|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kaczmarek A.|Poland|2022|||right|20.0|Zhadan P.|Ukraine|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Shanmugam A.|India|2015|69.0|178.0|right|25.0|Brun T.|Switzerland|2018|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Mehra R.|India|2021|||right|22.0|Van Wyk F.|RSA|2020|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Nakagawa S.|Japan|2020|||right|24.0|Kambara A.|Japan|2018|||right|24|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Martishev V.|Russia|2018|||right|22.0|Ninci B.|Argentina|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Eichenseher D.|Germany|2023|||right|19.0|Foxman M.|USA|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Major A.|Hungary|2024|||right||Hnidets V.|Ukraine|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ramskogler G.|Austria|2016|||right|25.0|Bogdan D.|Romania|2014|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sakellaridis M.|Greece|2015|||right|23.0|Poritskyy A.|Ukraine|2021|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Stojanovic B.|Serbia|2021|||right|23.0|Asotic K.|BosniaandHerzeg.|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Stefanovic M.|Serbia|2023|||right||Belic O.|Serbia|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Giraldi C.|Spain|2022|||right|19.0|Vasilev D.|Russia|2020|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Marques D.|Portugal|2016|||right|25.0|Hatamleh K.|Jordan|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Gannon C.|Ireland|2019|||right|22.0|Anisic S.|Croatia|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Hernandez C.|Spain|2018|||right|23.0|Martinez Arjona S.|Spain|2016|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Belday R.|USA|2022|||right||Llobell V.|Spain|2024|||right|17|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Gregoriou G.|Greece|2018|||right|31.0|Ichikawa S.|Japan|2017|||right|40.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ion N.|Canada|2023|||right|20.0|Pustovit A.|Russia|2019|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Krolo F.|Germany|2019|||right|23.0|Batyutenko M.|Kazakhstan|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ciulli R.|Italy|2024|||right|17.0|Sharma A.|India|2021|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Nagy B.|Hungary|2024|||right||Zeljenka M.|Hungary|2015|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Koizumi N.|Japan|2023|||right|21.0|Higuchi M.|Japan|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Biondolillo G.|Italy|2017|||right|24.0|Jovanovic I.|Croatia|2024|||right|16|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Nitschke T.|Germany|2022|||right|22.0|Nekovic A.|BosniaandHerzeg.|2022|||right|17.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Latinovic S.|Serbia|2016|||right|24.0|Licina L.|Serbia|2023|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Bara F.|Romania|2021|||right|19.0|Butnaru A.|Romania|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Forrest J.|GreatBritain|2024|||right||Zlotea C.|Romania|2024|||right|18|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Zanada E.|Italy|2018|||right|23.0|Ispasescu I.|Romania|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Dumitrescu A.|Romania|2023|||right|19.0|Gabor D.|Ireland|2021|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kountourakis I.|Greece|2018|||right|21.0|Arnautovic V.|Switzerland|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Lomakin G.|Kazakhstan|2013|78.0|198.0|right|26.0|Idrees B.|SaudiArabia|2024|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Walters M.|GreatBritain|2012|||right|26.0|Dossetter C.|GreatBritain|2017|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Giotis R.|Germany|2018|||right|23.0|Calin A.|GreatBritain|2024|||right|19|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Philibert N.|GreatBritain|2022|||right|19.0|Nicolle C.|GreatBritain|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Okamura I.|Japan|2012|68.0|170.0|right|32.0|Voisin A.||2017|||right|30.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Chauhan C.|India|2015|||right|25.0|Mortasifu M.|Romania|2021|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ivanovic N.|Serbia|2024|||right|18|Tasevski A.|NorthMacedonia|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ianin N.|Russia|2021|||right|22.0|Dowuona R.|Ghana|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Benaim M.|GreatBritain|2015|68.0|175.0|right|26.0|Goldsmith D.|Jamaica|2002|||right|42|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Jakic M.|Croatia|2020|||right|21.0|Nieto Alonso H.|Spain|2017|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ignat D.|Romania|2008|84.0|188.0|right|31.0|Bentzel C.|Romania|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Verdes E.|Romania|2021|||right|20.0|Cecchini R.|Italy|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Valle F.|Italy|2021|||right|24.0|Agape N.|Romania|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Julia Calac L.|Germany|2021|||right|20.0|Martinez Romera J.|Spain|2009|||right|30.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Milosavljevic M.|Austria|2020|||right|20.0|Kremenchutskyi I.|Ukraine|2022|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|O'Connell B.|Australia|2023|||||Sklizovic A.|USA|2014|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Jansson O.|Sweden|2023|||right||Sastron J.|Spain|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Bermejo F.|Argentina|2016|||right|24.0|Riva M.|Argentina|2017|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sift B.|Hungary|2024|||right|18|Jaramillo J.|Colombia|2014|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Neos E.|Cyprus|2013|||right|25.0|Stablovic I.|Serbia|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ciocanu A.|Canada|2017|||right|26.0|Stafford J.|USA|2015|||right|29.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Carteputreda D.|Romania|2023|||right||Coreisa E.|Romania|2023|||right|17.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Rudan Z.|USA|2021|||right|20.0|Mihailovic A.|Serbia|2021|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ruiz Rodriguez H.|Spain|2023|||right||Riepkin M.|Ukraine|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Zarate C.|Argentina|2024|||right||Mouhan A.|Libya|2017|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Gustafsson F.|Sweden|2023|||right||Pasanen E.|Finland|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ouzilou S.|Switzerland|2022|||right||Karner F.|Austria|2024|||right|19|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Salazar D.|Colombia|2015|||right|23.0|Varga-Toth O.|Hungary|2016|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kyjaci S.|Slovakia|2022|||right|20.0|Wojnar B.|Poland|2010|||right|30|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Khrystyuk T.|Canada|2023|||right||Toman P.|USA|2021|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Torrealba B.|Chile|2022|||right|19.0|Balj A.|Serbia|2019|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Eerola O.|Finland|2019|||right||Li Y.|China|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Watzka R.|Spain|2023|||right||Eric N.|India|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Martinez Serrano M.|Spain|2021|||right|20.0|Arce Fernandez M.|Spain|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Asaba A.|Ghana|2013|||right|27.0|Cephas J.|USA|2024|||right|20|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Shtengelov A.|Australia|2018|||right|22.0|Shoucair B.|Jamaica|2024|||right|21|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Patton T.|Australia|2022|||right|21.0|Stojcic A.|Serbia|2024|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Bibiloni M.|Argentina|2022|||right||Ispasescu I.|Romania|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Schipor E.|Romania|2022|||right|20.0|Ganea M.|Romania|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Schinteie G.|Romania|2020|||right|22.0|Magureanu C.|Romania|2022|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Uzhylovsky V.|Ukraine|2004|102.0|196.0|right|36.0|Malakhovich M.|Belarus|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Remondy Pagotto V.|Brazil|2024|||right||Vega L.|USA|2018|||right|27.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kusuhara Y.|Japan|2019|||right|27.0|Niinomi G.|Japan|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Mesarovic M.|USA|2022|||right||Howe P.|Australia|2020|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Schoen P.|Switzerland|2022|||right|19.0|Maguire C.|Ireland|2021|||right|25.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Vishnick D.|GreatBritain|2020|||right|25.0|Miller D.|Jamaica|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Avcibasi T.|Turkey|2020|||right|20.0|Versloot Y.|Netherlands|2022|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Knippling P.|Brazil|2018|||right|22.0|Saravanan V.|India|2019|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Tikhomirov M.|USA|2007|78.0|185.0|right|34.0|Richards L.|Australia|2023|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Bathrinath L.|India|2020|||right|24.0|Cameron S.|USA|2021|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Giovannini F.|Italy|2013|||right|25.0|Hongyu Y.|China|2022|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Tumbas Kajgo K.|Spain|2021|||right|19.0|Amirov T.|Russia|2015|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Li S.|China|2022|||right|19.0|Zuljevic P.|Croatia|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Srbljak G.|NorthMacedonia|2015|||left|26.0|Komnenic A.|Serbia|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Shandarov V.|Bulgaria|2006|78.0|180.0|right|33.0|Cowan W.|USA|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Allen L.|GreatBritain|2019|||right|24.0|Mcrae F.|Canada|2018|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Totikashvili D.|Georgia|2021|||right||Baumgartner O.|Switzerland|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Drayton T.|GreatBritain|2022|||right||Marinescu A.|Romania|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Simakin I.|Russia|2020|||right|20.0|Knani O.|Tunisia|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kusuhara Y.|Japan|2019|||right|27.0|Okamura I.|Japan|2012|68.0|170.0|right|32.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Gibson J.|Canada|2023|||right||Yamamoto N.|Japan|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ryan Ziegann S.|Australia|2017|||right|26.0|Lee J.|SouthKorea|2019|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Petrov V.|Serbia|2022|||right|20.0|Markovski O.|NorthMacedonia|2018|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Lee J.|SouthKorea|2019|||right|22.0|Nakajima S.|Japan|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Djukic Valera N.|Spain|2024|||||Ortiz Gonzalez K.|Spain|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Mallory R.|Bermuda|2019|||right||Nestola F.|GreatBritain|2022|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Savay Z.|Hungary|2021|||right|19.0|Hou Y.|GreatBritain|2019|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Hurtado G.|Colombia|2019|||right||Casso A.|Mexico|2016|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Karatsu Y.|Japan|2022|||right|19.0|Shumsky A.|Australia|2022|||right|27.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Toto N.|Germany|2018|||right|23.0|Schenekenberg G.|Brazil|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Hadzimehmedovic R.|Serbia|2021|||right|19.0|McLennaghan W.|GreatBritain|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Torres Fernandez B.|Chile|2021|||right|20.0|Ljubojevic A.|Serbia|2021|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Versloot Y.|Netherlands|2022|||right|21.0|Lozano M.|Spain|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Foley P.|GreatBritain|2016|||right|29.0|Zaloumis L.|Zimbabwe|2020|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Yoshimura D.|Japan|2016|||right|22.0|Adam-Gedge Z.|Australia|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|De Vincentis M.|Italy|2014|87.0|188.0|left|26.0|Maftei M.|Romania|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Mansilla Diez M.|Spain|2016|||right|22.0|Martinez Belinchon F.|Spain|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kadiri Hassani Y.|Morocco|2022|||right||Roe Flannelly J.|Ireland|2021|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Nav B.|India|2022|||right|24.0|Ciriaci L.|Italy|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Poritzky E.|USA|2017|||left|21.0|Karatsu Y.|Japan|2022|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Verbeek D.|Netherlands|2022|||right||Gayk C.|Germany|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Andreescu S.|Romania|2018|||right|22.0|Campagnola R.|Italy|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Mindrut L.|Romania|2020|||right|18.0|Beznea R.|Romania|2020|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Deari S.|NorthMacedonia|2006|||right|35.0|Pogosian S.|Russia|2016|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Herberg A.|Spain|2017|||right|24.0|Molokova Ferreira D.|Portugal|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Formella L.|Germany|2018|||right|22.0|Venkataraman A.|India|2024|||right|18|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Elamin A.|Ireland|2018|||right|22.0|Trondson J.|USA|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Perez B.|Venezuela|2017|83.0|191.0|left|24.0|Cariov T.|USA|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Radenkovic L.|Serbia|2018|||right|22.0|Mihajlovic T.|Serbia|2022|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Bartakovics M.|Hungary|2014|||right|26.0|Kis Balazs R.|Hungary|2016|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Hernandez A.|Mexico|2024|||right|18.0|Moreno Diaz M.|Spain|2023|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Papoe C.|Romania|2022|||right|16.0|Cuceu A.|Romania|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Allen A.|Australia|2023|||right||Munoz Botia D.|Spain|2024|||right|17|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Horoz A.|Turkey|2011|||right|29.0|Schneider V.|CzechRepublic|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Hornung G.|Hungary|2022|||right|19.0|Meszaros P.|Hungary|2022|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sonne T.|Argentina|2016|||right|24.0|Toth B.|Slovakia|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Teszari C.|Romania|2022|||right|20.0|Anhelov I.|Ukraine|2020|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Kincses K.|Hungary|2021|||right||Apltauer F.|CzechRepublic|2020|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ciavarella N.|Italy|2021|||right|20.0|Munteanu D.|Romania|2017|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Radjenovic V.|Serbia|2022|||right|19.0|He J.|China|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Obretin C.|Romania|2024|||||Varbanciu M.|Romania|2024|||right|17|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Herrera Delucchi B.|Chile|2022|||right||Cirkovic J.|Serbia|2018|||right|23|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Vojinovic L.|Serbia|2015|||right|25.0|Pilipovic A.|USA|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Pino S.|Venezuela|2019|||right|24.0|Lucaciu F.|Romania|2024|||right|16|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Chiu J.|USA|2017|||right|23.0|Barnett F.|GreatBritain|2024|||||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sugaya Y.|Japan|2022|||right|21.0|Inoue G.|Japan|2021|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ouzilou H.|Switzerland|2022|||right|21.0|Kapasi K.|USA|2023|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Antonescu V.|Romania|2008|82.0|183.0|right|34.0|Slataru C.|Romania|2024|||right|18|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Lazarov G.|Bulgaria|2021|||right|19.0|Kyratzis S.|Cyprus|2010|||left|29.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Rocens M.|Latvia|2016|||right|24.0|Meneses Perny A.|Spain|2021|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Szoke A.|Hungary|2022|||right||Rohseano L.|Austria|2020|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Andic A.|GreatBritain|2022|||right|22.0|Mitrovic N.|Serbia|2019|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Machado M.|Spain|2023|||right||Boixader Roca N.|Spain|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Rios Perez E.|Spain|2021|||right|20.0|Rating N.|Spain|2023|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Khosla R.|India|2022|||right||Ogunsakin O.|Nigeria|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Hermassi R.|Tunisia|2020|||right|20.0|Rabbouche H.|Tunisia|2019|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Falck R.|NewZealand|2020|||right|22.0|Soumahoro S.|IvoryCoast|2021|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Pinto L.|Brazil|2021|||right|21.0|Braga B.|Brazil|2021|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Inoue G.|Japan|2021|||right|21.0|Tamura K.|Japan|2008|76|185|right|34|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Takamisawa T.|Japan|2017|||right|26.0|Takada M.|Japan|2018|||right|27.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Luis T.|Portugal|2017|||right|22.0|Duran B.|Turkey|2021|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Dimitrijevic L.|Serbia|2022|||right|19.0|Mellerio G.|Italy|2023|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Lawrence X.|Barbados|2018|||right|25.0|Almeida Junior E.|Brazil|2019|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Christodoulou S.|Cyprus|2021|||right|19.0|Yigin D.|Germany|2024|||right|18|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Stanisavljevic M.|Serbia|2024|||right||Dica N.|Romania|2017|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Camilli G.|Italy|2017|||right||Villalon N.|Chile|2021|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Dumitru A.|Romania|2021|||right|20.0|Murariu J.|USA|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sugaya Y.|Japan|2022|||right|21.0|Taka Y.|Japan|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Matsuoka S.|Japan|2021|||right|21.0|Porras G.|Guatemala|2024|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Boubaker Y.|Tunisia|2021|||right|20.0|Sibille I.|Morocco|2018|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Poritzky E.|USA|2017|||left|21.0|Minakata R.|Japan|2022|||right|24.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Adam-Gedge Z.|Australia|2022|||right||Adachi T.|Japan|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Novakovic N.|Serbia|2021|||right|23.0|Vladimirov E.|Bulgaria|2022|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Mashni Z.|Jordan|2024|||right||Ayyappan R.|India|2022|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sanchis Melero H.|Spain|2018|||right|23.0|Van Geel L.|Belgium|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Staley J.|Australia|2018|||right|24.0|Braga V.|Brazil|2021|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Ivanov M.|Bulgaria|2022|||right|20.0|Todorovic L.|Serbia|2018|||right|22.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Baldwin S.|Australia|2022|||right|21.0|Mohanty A.|India|2021|||right|21.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Petrov P.|Russia|2021|||right|20.0|López I.|Spain|2022|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Lazaro Juncadella M.|Spain|2022|||right|18.0|Ferrer Mateo X.|Spain|2024|||right|18.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Campbell N.|Cyprus|2014|||right|25.0|Agushi M.|NorthMacedonia|2022|||right|20.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Helguera Casado L.|Spain|2022|||right||Puig McCallan J.|Spain|2024|||right|16|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|West D.|GreatBritain|2015|||right|25.0|Suresh D.|Malaysia|2017|||right|23.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Sim S.|SouthKorea|2017|||right|27.0|Takamisawa T.|Japan|2017|||right|26.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Salazar D.|Colombia|2015|||right|23.0|Savay Z.|Hungary|2021|||right|19.0|Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Luca A.|Romania|2020|||right|22.0|Giurea A.|Romania|2024|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Skobelev S.|Serbia|2021|||right|20.0|Daskalovic A.|Serbia|2023|||right||Varioussurfaces|20240526
+UTR Pro Tennis Series 3|1.58|2.20|Nakagawa S.|Japan|2020|||right|24.0|Horie T.|Japan|2016|||right|25.0|Varioussurfaces|20240526
+Little Rock challenger|1.03|10.51|Langmo C.|USA|2013|84.0|191.0|right|28.0|Kumar P.|USA|2018|||right|25.0|hard|20240526
+Little Rock challenger|1.91|1.80|Nefve A.|USA|2016|||left|24.0|Kirchheimer S.|USA|2013|79.0|185.0|right|29.0|hard|20240526
+Little Rock challenger|1.08|7.28|Vandecasteele Q.|USA|2018|||right|22.0|Lawson A.|USA|2015|84.0|191.0|left|30.0|hard|20240526
+Little Rock challenger|2.92|1.37|Neff A.|USA|2017|||right|23.0|Adams H.|USA|2011|73.0|183.0|right|30.0|hard|20240526
+Little Rock challenger|1.83|1.89|Quan R.|USA|2021|||right|18.0|Imai S.|Japan|2012|74.0|178.0|right|30.0|hard|20240526
+Little Rock challenger|1.02|11.06|Smith K.|USA|2016|93.0|198.0|right|26.0|Urrea A.|Colombia|2009|||right|29.0|hard|20240526
+Little Rock challenger|1.10|6.21|Takahashi Y.|Japan|2013|68.0|170.0|right|26.0|Hach Verdugo H.|Mexico|2005|82.0|183.0|left|34.0|hard|20240526
+Little Rock challenger|1.08|7.23|Peliwo F.|Poland|2010|72.0|180.0|right|30.0|Whiting T.|USA|2017|||right|22.0|hard|20240526
+Little Rock challenger|1.07|7.38|Kuzuhara B.|USA|2021|||right|20.0|Kozlov B.|USA|2015|79.0|185.0|right|24.0|hard|20240526
+Little Rock challenger|1.21|4.01|Bouzige M.|Australia|2017|78.0|180.0|right|25.0|Mayo K.|USA|2014|93.0|198.0|right|24.0|hard|20240526
+Little Rock challenger|1.19|4.27|Martin A.|USA|2021|77.0|183.0|right|23.0|O'Hoisin O.|Ireland|2015|82.0|193.0|right|27.0|hard|20240526
+Little Rock challenger|1.02|14.37|Escobedo E.|Mexico|2010|82.0|185.0|right|28.0|Becker N.|USA|2022|||right||hard|20240526
+Vicenza challenger|1.64|2.16|Gea A.|France|2021|72.0|180.0|right|19.0|Kopp S.|Austria|2015|||right|24.0|clay|20240526
+Vicenza challenger|1.35|3.03|Fonio G.|Italy|2014|80.0|183.0|right|26.0|Seggerman R.|USA|2016|||right|25.0|clay|20240526
+Vicenza challenger|1.35|3.04|Bertola R.|Switzerland|2014|||right|25.0|Giacomini L.|Italy|2013|63.0|170.0|right|26.0|clay|20240526
+Vicenza challenger|1.20|4.19|Gaubas V.|Lithuania|2019|||right|19.0|Roncadelli F.|Uruguay|2016|73.0|185.0|left|24.0|clay|20240526
+Vicenza challenger|1.75|1.98|Giannessi A.|Italy|2006|82.0|185.0|left|34.0|Oradini G.|Italy|2012|||left|26.0|clay|20240526
+Vicenza challenger|1.49|2.50|Serdarusic N.|Croatia|2011|85.0|191.0|right|27.0|Kivattsev K.|Russia|2015|80.0|193.0|right|26.0|clay|20240526
+Vicenza challenger|2.38|1.53|Arnaboldi F.|Italy|2016|81.0|185.0|right|24.0|Olivo R.|Argentina|2007|73.0|180.0|right|32.0|clay|20240526
+Vicenza challenger|1.03|11.22|Vincent Ruggeri S.|Italy|2019|||right|22.0|Nucera T.|Italy|2018|||right|22.0|clay|20240526
+Vicenza challenger|1.06|8.27|Kachmazov A.|Russia|2018|||right|22.0|Battiston A.|Italy|2022|||right||clay|20240526
+Vicenza challenger|2.48|1.50|Iannaccone F.|Italy|2016|||right|25.0|Weis A.|Italy|2014|83.0|188.0|right|27.0|clay|20240526
+Vicenza challenger|1.98|1.76|Naw H.|Syria|2015|||right|24.0|Alvarez Varona N.|Spain|2015|80.0|188.0|right|23.0|clay|20240526

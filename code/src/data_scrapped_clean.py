@@ -11,11 +11,9 @@ def scrapped_data_organized(df_scrapped,
                             path_to_save,
                             file_paises, 
                             file_data_scrapped_cleaned, 
-                            atp_all):
-# def scrapped_data_organized(utils_path, file_paises, results_path, file_scrapped, file_data_scrapped_cleaned, atp_all):
+                            atp_all
+                            ): 
 
-    # df_scrapped = pd.read_excel(os.path.join(results_path, file_scrapped)).drop(columns=['Info'])
-    
     df_fply = df_scrapped.merge(atp_all, left_on=['Winner'], right_on=['Ply'], how = 'left')
     df_fply.rename(columns={'Rank':'WRank', 'Pts':'WPts'}, inplace=True)
     df_fply = df_fply.merge(atp_all, left_on=['Loser'], right_on=['Ply'], how = 'left')
@@ -31,7 +29,6 @@ def scrapped_data_organized(df_scrapped,
     df_fply['pl1_hand'] = df_fply['pl1_hand'].str.capitalize() + "-Handed"
     df_fply['pl2_hand'] = df_fply['pl2_hand'].str.capitalize() + "-Handed"
     
-    
     df_fply_bronze = GetData().data_raw(df_fply)
     
     for col in df_fply_bronze.columns[1:]:
@@ -41,7 +38,8 @@ def scrapped_data_organized(df_scrapped,
             continue
         
     df_fply_silver = GetData().data_without_atipics(df_fply_bronze)
-    df_fply_gold = GetData().data_p1vsp2(False, df_fply_silver)
+    # df_fply_gold = GetData().data_p1vsp2(train, df_fply_silver)
+    df_fply_gold = GetData().data_p1vsp2(df_fply_silver)
     df_fply_gold = GetData().save_data_cleaned(path_to_save, file_data_scrapped_cleaned, df_fply_gold)
     
     return df_fply, df_fply_bronze, df_fply_silver, df_fply_gold

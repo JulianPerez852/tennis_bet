@@ -1,0 +1,11 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Popko D.|KAZ|Right-Handed|Koepfer D.|DEU|Left-Handed|1.0||-265.0|8.0|11.0|-3.0|1.2100000000000002
+hard|Koepfer D.|DEU|Left-Handed|Popko D.|KAZ|Right-Handed|0.0|1.0|265.0|-8.0|-11.0|3.0|-1.2100000000000002
+hard|Popko D.|KAZ|Right-Handed|Cid Subervi R.|DEU|Right-Handed|1.0||-265.0|5.0|-2.0|-3.0|1.0499999999999998
+hard|Popko D.|KAZ|Right-Handed|Redlicki M.|DEU|Left-Handed|1.0||-265.0|1.0|-12.0|-3.0|-0.8899999999999999
+hard|Cid Subervi R.|DEU|Right-Handed|Popko D.|KAZ|Right-Handed|0.0|1.0|265.0|-5.0|2.0|3.0|-1.0499999999999998
+hard|Redlicki M.|KAZ|Left-Handed|Cid Subervi R.|DEU|Right-Handed|1.0||-265.0|4.0|10.0|0.0|1.7799999999999998
+hard|Cid Subervi R.|DEU|Right-Handed|Redlicki M.|KAZ|Left-Handed|0.0|1.0|265.0|-4.0|-10.0|0.0|-1.7799999999999998
+hard|Koepfer D.|DEU|Left-Handed|Cid Subervi R.|DEU|Right-Handed|1.0||0.0|-3.0|-13.0|0.0|-0.69
+hard|Redlicki M.|DEU|Left-Handed|Popko D.|KAZ|Right-Handed|0.0|0.0|265.0|-1.0|12.0|3.0|0.8899999999999999
+hard|Cid Subervi R.|DEU|Right-Handed|Koepfer D.|DEU|Left-Handed|0.0|0.0|0.0|3.0|13.0|0.0|0.69

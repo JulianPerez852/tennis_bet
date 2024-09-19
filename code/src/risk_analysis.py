@@ -194,4 +194,5 @@ def risk_analysis_montecarlo(df_gold,
                                                                     name_ev_comparation,
                                                                     name_sharpe_ratio_comparison, 
                                                                     file_betting_analysis)
+    df_risk = df_risk.sort_values(by=['Prob_Win'], ascending=False)
     return df_risk

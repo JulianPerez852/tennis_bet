@@ -1,0 +1,27 @@
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+hard|Alimli M.|FRA|Right-Handed|Bertrand R.|FRA|Right-Handed|1.0||-687.0|-4.0|-5.0|0.0|6.7
+hard|Bobrov B.|RUS|Right-Handed|Tepmahc N.|FRA|Right-Handed|0.0|5.0|687.0|-4.0|2.0|3.0|-2.4299999999999997
+hard|Matsuda R.|JPN|Right-Handed|Tamm K.|EST|Right-Handed|1.0||-687.0|-4.0|-5.0|-2.0|0.26
+hard|Cerundolo F.|ARG|Right-Handed|Rinderknech A.|FRA|Right-Handed|1.0||434.0|-8.0|-11.0|-3.0|0.5400000000000003
+hard|Catarina L.|MCO|Right-Handed|M Rifki F.|IDN|Right-Handed|0.0|3.0|-1341.0|2.0|2.0|2.0|-2.28
+hard|Meligeni Rodrigues Alves F.|BRA|Right-Handed|Musetti L.|ITA|Right-Handed|1.0||-315.0|3.0|0.0|4.0|6.54
+hard|M Rifki F.|IDN|Right-Handed|Catarina L.|MCO|Right-Handed|1.0||1341.0|-2.0|-2.0|-2.0|2.28
+hard|Lehecka J.|CZE|Right-Handed|Fritz T.|FRA|Right-Handed|1.0||-2261.0|-6.0|-10.0|-4.0|4.5
+hard|Norrie C.|FRA|Left-Handed|De Minaur A.|AUS|Right-Handed|0.0|2.0|780.0|13.0|5.0|3.0|0.6499999999999999
+hard|Blockx A.|BEL|Right-Handed|Banerjee S.|FRA|Right-Handed|1.0||-687.0|-4.0|-5.0|-1.0|-0.7499999999999998
+hard|Tamm K.|EST|Right-Handed|Matsuda R.|JPN|Right-Handed|0.0|4.0|687.0|4.0|5.0|2.0|-0.26
+hard|De Minaur A.|AUS|Right-Handed|Norrie C.|FRA|Left-Handed|1.0||-780.0|-13.0|-5.0|-3.0|-0.6499999999999999
+hard|Hamza Reguig S.|DZA|Right-Handed|Scaglia M.|FRA|Right-Handed|1.0||-687.0|-4.0|-5.0|-3.0|0.8899999999999999
+hard|Scaglia M.|FRA|Right-Handed|Hamza Reguig S.|DZA|Right-Handed|0.0|3.0|687.0|4.0|5.0|3.0|-0.8899999999999999
+hard|Huesler M.|CHE|Left-Handed|Skatov T.|KAZ|Right-Handed|0.0|2.0|1878.0|15.0|23.0|5.0|-2.59
+hard|Tepmahc N.|FRA|Right-Handed|Bobrov B.|RUS|Right-Handed|1.0||-687.0|4.0|-2.0|-3.0|2.4299999999999997
+hard|Bertrand R.|FRA|Right-Handed|Alimli M.|FRA|Right-Handed|0.0|1.0|687.0|4.0|5.0|0.0|-6.7
+hard|Gea A.|FRA|Right-Handed|Hernandez Serrano J.|MEX|Right-Handed|0.0|-4.0|687.0|2.0|5.0|-6.0|0.25
+hard|Skatov T.|KAZ|Right-Handed|Huesler M.|CHE|Left-Handed|1.0||-1878.0|-15.0|-23.0|-5.0|2.59
+hard|Tsitsipas S.|GRC|Right-Handed|Dimitrov G.|BGR|Right-Handed|0.0|-6.0|3890.0|8.0|2.0|-7.0|-2.3499999999999996
+hard|Dimitrov G.|BGR|Right-Handed|Tsitsipas S.|GRC|Right-Handed|1.0||-3890.0|-8.0|-2.0|7.0|2.3499999999999996
+hard|Rinderknech A.|FRA|Right-Handed|Cerundolo F.|ARG|Right-Handed|0.0|5.0|-434.0|8.0|11.0|3.0|-0.5400000000000003
+hard|Musetti L.|ITA|Right-Handed|Meligeni Rodrigues Alves F.|BRA|Right-Handed|0.0|-3.0|315.0|-3.0|0.0|-4.0|-6.54
+hard|Hernandez Serrano J.|MEX|Right-Handed|Gea A.|FRA|Right-Handed|1.0||-687.0|-2.0|-5.0|6.0|-0.25
+hard|Fritz T.|FRA|Right-Handed|Lehecka J.|CZE|Right-Handed|0.0|4.0|2261.0|6.0|10.0|4.0|-4.5
+hard|Banerjee S.|FRA|Right-Handed|Blockx A.|BEL|Right-Handed|0.0|2.0|687.0|4.0|5.0|1.0|0.7499999999999998

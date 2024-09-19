@@ -1,3 +1,207 @@
-Surface|pl1|pl1_flag|pl1_hand|pl1_bet|pl2|pl2_flag|pl2_hand|pl2_bet|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight
-clay|Moraing M.|DEU|Left-Handed|1.57|Brouwer G.|NLD|Left-Handed|2.31|0.0|5.0|124.0|12.0|7.0
-clay|Caruso S.|ITA|Right-Handed|1.6|Gimeno Valero C.|ESP|Right-Handed|2.26|0.0|8.0|344.0|0.0|-3.0
+Surface|pl1|pl1_flag|pl1_hand|pl2|pl2_flag|pl2_hand|Result|DiffProffTime|DiffPts|DiffWeight|DiffHeight|DiffAge|DiffBet
+clay|Mensik J.|CZE|Right-Handed|Lee D.|KOR|Right-Handed|1.0||-35.5|1.0|8.0|-8.0|1.7899999999999998
+clay|Blancaneaux G.|FRA|Right-Handed|Prihodko O.|UKR|Right-Handed|0.0|0.0|20.5|-2.0|0.0|0.0|-2.31
+Varioussurfaces|Weindl M.|DEU|Right-Handed|Ban I.|HRV|Right-Handed|1.0||-35.5|-1.0|0.0|4.0|-5.42
+clay|Shimizu Y.|JPN|Left-Handed|Tabur C.|FRA|Right-Handed|1.0||-77.0|-8.0|-7.0|1.0|0.1399999999999999
+clay|Beaupain S.|BEL|Right-Handed|Tanuma R.|JPN|Right-Handed|1.0||-35.5|12.0|-2.0|-3.0|1.88
+clay|Glinka D.|EST|Left-Handed|Haliak M.|BLR|Right-Handed|1.0||-35.5|1.0|0.0|-2.0|0.5299999999999998
+clay|Riedi L.|CHE|Right-Handed|Ivanov V.|RUS|Right-Handed|0.0|-5.0|-98.5|1.0|0.0|-3.0|-5.97
+Varioussurfaces|Swenson B.|ESP|Right-Handed|Kuperstein A.|FRA|Right-Handed|1.0||-35.5|-1.0|0.0|-5.0|2.13
+clay|Kivattsev K.|RUS|Right-Handed|Minakov M.|RUS|Right-Handed|0.0|1.0|35.5|4.0|10.0|3.0|-0.98
+clay|Minin M.|RUS|Left-Handed|Zhukayev B.|KAZ|Right-Handed|1.0||-20.5|4.0|2.0|0.0|2.69
+clay|Hazawa S.|JPN|Right-Handed|Erhard M.|FRA|Right-Handed|1.0||-35.5|-12.0|-13.0|3.0|-0.77
+clay|Poljak D.|CZE|Right-Handed|Kielan S.|POL|Right-Handed|0.0|9.0|35.5|1.0|5.0|7.0|-3.42
+Varioussurfaces|Bigun M.|ESP|Right-Handed|Becroft I.|NZL|Right-Handed|1.0||-35.5|-1.0|0.0|-5.0|1.9000000000000001
+clay|Angele J.|FRA|Right-Handed|Kovacevic A.|FRA|Right-Handed|1.0||-101.5|17.0|23.0|-1.0|0.07999999999999985
+clay|Chepelev A.|RUS|Left-Handed|Serra Sanchez N.|ESP|Right-Handed|0.0|4.0|35.5|1.0|0.0|6.0|-6.199999999999999
+clay|Iannaccone F.|ITA|Right-Handed|Balzerani R.|ITA|Right-Handed|0.0|-3.0|35.5|-3.0|-2.0|0.0|-0.3899999999999999
+clay|Bertola R.|CHE|Right-Handed|Nouza P.|CZE|Right-Handed|1.0||-35.5|-10.0|-10.0|0.0|-1.3599999999999999
+clay|Benchakroun M.|MAR|Right-Handed|Giacalone O.|ITA|Right-Handed|1.0||-35.5|-4.0|3.0|-12.0|2.93
+clay|Wojcik Y.|POL|Left-Handed|Manzanera Pertusa A.|ESP|Right-Handed|0.0|6.0|35.5|-2.0|2.0|6.0|0.6400000000000001
+Varioussurfaces|Arredondo Delgado S.|MEX|Right-Handed|Frusina A.|FRA|Right-Handed|1.0||-35.5|-1.0|0.0|7.0|1.2000000000000002
+clay|Marti Pujolras A.|ESP|Right-Handed|Picchione A.|ITA|Right-Handed|0.0|1.0|35.5|1.0|0.0|-1.0|-1.6300000000000001
+clay|Kalender A.|HRV|Right-Handed|Mazza M.|ITA|Right-Handed|1.0||-35.5|-1.0|0.0|-2.0|0.5800000000000001
+clay|Cox D.|FRA|Right-Handed|De Rueda De Genover I.|ESP|Right-Handed|0.0|8.0|99.5|-3.0|-13.0|7.0|-6.51
+clay|Handel T.|DEU|Right-Handed|Guerrieri A.|ITA|Left-Handed|0.0|2.0|35.5|1.0|0.0|2.0|-1.5799999999999998
+clay|Kuzuhara B.|ESP|Right-Handed|Hijikata R.|AUS|Right-Handed|1.0||13.5|8.0|5.0|-3.0|2.38
+clay|Purtseladze S.|GEO|Right-Handed|Langmajer D.|CZE|Right-Handed|0.0|-1.0|35.5|1.0|0.0|-2.0|-6.209999999999999
+clay|Moraing M.|DEU|Left-Handed|Brouwer G.|NLD|Left-Handed|0.0|5.0|124.0|12.0|7.0|4.0|-0.74
+clay|Jurajda A.|CZE|Right-Handed|Yamanaka T.|JPN|Right-Handed|1.0||-35.5|-1.0|0.0|-1.0|1.58
+Varioussurfaces|Gostincar D.|SVN|Right-Handed|Fekete J.|SVK|Right-Handed|1.0||-35.5|-1.0|0.0|5.0|0.5299999999999998
+clay|Pospisil V.|CAN|Right-Handed|Blanch U.|ESP|Right-Handed|0.0|9.0|247.0|10.0|5.0|8.0|-4.23
+clay|Nikles J.|CHE|Right-Handed|Oliveira G.|VEN|Left-Handed|0.0|-3.0|-25.5|-11.0|-15.0|-2.0|-0.7199999999999998
+clay|Blanch U.|ESP|Right-Handed|Pospisil V.|CAN|Right-Handed|1.0||-247.0|-10.0|-5.0|-8.0|4.23
+Varioussurfaces|Galik M.|SVK|Right-Handed|Zmak D.|HRV|Right-Handed|1.0||-35.5|-6.0|-2.0|-10.0|7.46
+clay|Jecan M.|ROU|Left-Handed|Piraino G.|ITA|Left-Handed|1.0||-35.5|-4.0|-3.0|16.0|-0.31000000000000005
+clay|Horak O.|CZE|Right-Handed|Patael B.|ISR|Right-Handed|1.0||-35.5|-4.0|-5.0|-6.0|6.06
+Varioussurfaces|Sollie T.|NLD|Right-Handed|Pierre H.|FRA|Right-Handed|0.0|-2.0|35.5|1.0|0.0|-2.0|-1.2000000000000002
+Varioussurfaces|Adam N.|SDN|Right-Handed|Oral M.|ESP|Right-Handed|0.0|11.0|35.5|1.0|0.0|9.0|-0.6000000000000001
+clay|Saitoh K.|JPN|Left-Handed|Takahashi Y.|JPN|Right-Handed|1.0||-67.5|0.0|-7.0|-3.0|2.0999999999999996
+clay|Klier Junior G.|BRA|Right-Handed|Folliot Q.|FRA|Right-Handed|0.0|-1.0|35.5|1.0|0.0|-1.0|-0.3799999999999999
+clay|Crawford O.|FRA|Right-Handed|Brymer G.|ESP|Right-Handed|0.0|-3.0|35.5|14.0|-5.0|-4.0|-1.8499999999999999
+clay|Burruchaga R.|ARG|Right-Handed|Camposeo S.|ITA|Right-Handed|0.0|-2.0|35.5|1.0|0.0|-2.0|-7.05
+clay|Knaff A.|LUX|Right-Handed|Gueymard Wayenburg S.|FRA|Right-Handed|1.0||-35.5|-1.0|0.0|5.0|0.97
+clay|Sekulic P.|AUS|Right-Handed|Walkin B.|ESP|Right-Handed|0.0|-5.0|35.5|-8.0|-5.0|-10.0|-1.0
+clay|Sekulic P.|AUS|Right-Handed|Tanuma R.|JPN|Right-Handed|0.0|-5.0|35.5|13.0|3.0|-8.0|-0.06000000000000005
+clay|Sanchez Izquierdo N.|ESP|Right-Handed|Ajdukovic D.|HRV|Right-Handed|1.0||-89.5|2.0|0.0|2.0|0.16999999999999993
+Varioussurfaces|Nortey I.|GHA|Right-Handed|Barreiros Reyes M.|BRA|Left-Handed|1.0||-35.5|-1.0|0.0|2.0|3.1500000000000004
+clay|Moro Canas A.|ESP|Right-Handed|Barroso Campos A.|ESP|Right-Handed|1.0||-35.5|4.0|5.0|-5.0|-0.54
+clay|Bondarenko Y.|UKR|Right-Handed|Turker M.|TUR|Right-Handed|1.0||-35.5|-1.0|0.0|-1.0|4.409999999999999
+clay|Borg L.|SWE|Right-Handed|Vilardo F.|ITA|Right-Handed|1.0||-161.0|6.0|5.0|-13.0|1.8399999999999999
+clay|Oliveira G.|VEN|Left-Handed|Nikles J.|CHE|Right-Handed|1.0||25.5|11.0|15.0|2.0|0.7199999999999998
+clay|Peliwo F.|POL|Right-Handed|Holt B.|FRA|Right-Handed|1.0||-98.0|-10.0|-5.0|4.0|2.68
+clay|Boehler D.|DEU|Right-Handed|Woerner P.|DEU|Right-Handed|0.0|-2.0|35.5|1.0|0.0|1.0|-2.32
+clay|Curras Abasolo T.|ESP|Right-Handed|Araujo P.|PRT|Right-Handed|1.0||-35.5|-1.0|0.0|2.0|2.64
+clay|Lee D.|KOR|Right-Handed|Mensik J.|CZE|Right-Handed|0.0|7.0|35.5|-1.0|-8.0|8.0|-1.7899999999999998
+clay|Peniston R.|ESP|Left-Handed|Escoffier A.|FRA|Right-Handed|1.0||159.0|-3.0|-2.0|-4.0|-0.27
+clay|Takahashi Y.|JPN|Right-Handed|Saitoh K.|JPN|Left-Handed|0.0|6.0|67.5|0.0|7.0|3.0|-2.0999999999999996
+clay|Naw H.|SYR|Right-Handed|Egea F.|ARG|Right-Handed|1.0||-35.5|-1.0|0.0|-1.0|-2.4
+Varioussurfaces|Tadic V.|ESP|Right-Handed|Rogic Hadzalic A.|HRV|Right-Handed|1.0||-35.5|-1.0|0.0|-4.0|5.93
+clay|Jorda Sanchis D.|ESP|Right-Handed|Cohen A.|ISR|Right-Handed|0.0|10.0|35.5|10.0|13.0|8.0|-2.12
+clay|Scaglia M.|FRA|Right-Handed|Jovic V.|SRB|Right-Handed|0.0|6.0|35.5|1.0|0.0|3.0|0.8899999999999999
+clay|Langmajer D.|CZE|Right-Handed|Purtseladze S.|GEO|Right-Handed|1.0||-35.5|-1.0|0.0|2.0|6.209999999999999
+clay|Walkin B.|ESP|Right-Handed|Sekulic P.|AUS|Right-Handed|1.0||-35.5|8.0|5.0|10.0|1.0
+Varioussurfaces|Ban I.|HRV|Right-Handed|Weindl M.|DEU|Right-Handed|0.0|-6.0|35.5|1.0|0.0|-4.0|5.42
+Varioussurfaces|Rogic Hadzalic A.|HRV|Right-Handed|Tadic V.|ESP|Right-Handed|0.0|3.0|35.5|1.0|0.0|4.0|-5.93
+Varioussurfaces|Terczynski M.|POL|Right-Handed|Segura M.|ESP|Right-Handed|0.0|5.0|35.5|7.0|8.0|5.0|2.13
+clay|Moeller M.|DEU|Right-Handed|Tomasetto L.|ITA|Right-Handed|0.0|-2.0|35.5|-7.0|-5.0|-3.0|-5.97
+clay|Squire H.|DEU|Right-Handed|Ragazzi A.|ITA|Right-Handed|0.0|1.0|42.5|1.0|0.0|-4.0|-6.52
+clay|Tomasetto L.|ITA|Right-Handed|Moeller M.|DEU|Right-Handed|1.0||-35.5|7.0|5.0|3.0|5.97
+clay|Apostol B.|ROU|Right-Handed|Antonescu V.|ROU|Right-Handed|0.0|-2.0|35.5|-5.0|0.0|-6.0|-1.35
+clay|Added D.|FRA|Right-Handed|Tabacco G.|ITA|Right-Handed|0.0|3.0|35.5|-4.0|0.0|4.0|-3.14
+clay|Agabigun S.|TUR|Right-Handed|Aksu C.|TUR|Right-Handed|0.0|3.0|35.5|-1.0|-5.0|1.0|-1.3900000000000001
+clay|Halys Q.|FRA|Right-Handed|Fils A.|FRA|Right-Handed|0.0|9.0|336.0|2.0|8.0|7.0|-4.029999999999999
+clay|Gigante M.|ITA|Left-Handed|Park U.|KOR|Right-Handed|0.0|-4.0|35.5|1.0|0.0|-1.0|-1.2400000000000002
+clay|Tabacco G.|ITA|Right-Handed|Added D.|FRA|Right-Handed|1.0||-35.5|4.0|0.0|-4.0|3.14
+Varioussurfaces|Oral M.|ESP|Right-Handed|Adam N.|SDN|Right-Handed|1.0||-35.5|-1.0|0.0|-9.0|0.6000000000000001
+clay|Tu L.|AUS|Right-Handed|Volonski N.|AUS|Right-Handed|0.0|7.0|35.5|1.0|0.0|6.0|-6.459999999999999
+clay|Gerch L.|DEU|Left-Handed|Smith K.|FRA|Right-Handed|1.0||-35.5|-7.0|-5.0|3.0|1.1400000000000001
+clay|Gimeno Valero C.|ESP|Right-Handed|Caruso S.|ITA|Right-Handed|1.0||-344.0|0.0|3.0|-8.0|0.6599999999999997
+clay|Sharipov M.|RUS|Right-Handed|Dubrivnyy A.|RUS|Right-Handed|0.0|-5.0|82.0|2.0|0.0|-4.0|0.8899999999999999
+clay|Shiraishi H.|JPN|Right-Handed|Breysach M.|FRA|Right-Handed|0.0|1.0|35.5|1.0|0.0|2.0|-0.26
+clay|Caruso S.|ITA|Right-Handed|Gimeno Valero C.|ESP|Right-Handed|0.0|8.0|344.0|0.0|-3.0|8.0|-0.6599999999999997
+clay|Duda F.|CZE|Right-Handed|Vincent Ruggeri S.|ITA|Right-Handed|1.0||-35.5|-1.0|0.0|3.0|0.95
+Varioussurfaces|Koch N.|DEU|Right-Handed|Rozenberg T.|NLD|Right-Handed|0.0|7.0|35.5|1.0|0.0|4.0|4.65
+Varioussurfaces|Dhoe B.|BEL|Right-Handed|Houkes M.|NLD|Left-Handed|1.0||-35.5|-1.0|0.0|4.0|1.9000000000000001
+clay|Veldheer M.|NLD|Left-Handed|Paulson A.|CZE|Right-Handed|1.0||-35.5|1.0|0.0|6.0|1.79
+clay|Cohen A.|ISR|Right-Handed|Jorda Sanchis D.|ESP|Right-Handed|1.0||-35.5|-10.0|-13.0|-8.0|2.12
+clay|Tanuma R.|JPN|Right-Handed|Sekulic P.|AUS|Right-Handed|1.0||-35.5|-13.0|-3.0|8.0|0.06000000000000005
+Varioussurfaces|Eisinga Z.|NLD|Right-Handed|Van Den Berg R.|NLD|Right-Handed|0.0|1.0|35.5|1.0|0.0|-4.0|-1.3000000000000003
+clay|De Rueda De Genover I.|ESP|Right-Handed|Cox D.|FRA|Right-Handed|1.0||-99.5|3.0|13.0|-7.0|6.51
+clay|Ovcharenko O.|UKR|Right-Handed|Mu T.|CHN|Right-Handed|0.0|-1.0|35.5|2.0|3.0|-2.0|0.5100000000000002
+clay|Brymer G.|ESP|Right-Handed|Crawford O.|FRA|Right-Handed|1.0||-35.5|-14.0|5.0|4.0|1.8499999999999999
+clay|Breysach M.|FRA|Right-Handed|Shiraishi H.|JPN|Right-Handed|1.0||-35.5|-1.0|0.0|-2.0|0.26
+clay|Mazza M.|ITA|Right-Handed|Kalender A.|HRV|Right-Handed|0.0|2.0|35.5|1.0|0.0|2.0|-0.5800000000000001
+Varioussurfaces|Houkes M.|NLD|Left-Handed|Dhoe B.|BEL|Right-Handed|0.0|-5.0|35.5|1.0|0.0|-4.0|-1.9000000000000001
+clay|Antonescu V.|ROU|Right-Handed|Apostol B.|ROU|Right-Handed|1.0||-35.5|5.0|0.0|6.0|1.35
+clay|Kielan S.|POL|Right-Handed|Poljak D.|CZE|Right-Handed|1.0||-35.5|-1.0|-5.0|-7.0|3.42
+clay|Tanuma R.|JPN|Right-Handed|Beaupain S.|BEL|Right-Handed|0.0|1.0|35.5|-12.0|2.0|3.0|-1.88
+clay|Jasika O.|AUS|Left-Handed|Tokuda R.|JPN|Right-Handed|0.0|2.0|45.5|-9.0|5.0|1.0|0.48
+clay|Escoffier A.|FRA|Right-Handed|Peniston R.|ESP|Left-Handed|0.0|4.0|-159.0|3.0|2.0|4.0|0.27
+clay|Egea F.|ARG|Right-Handed|Naw H.|SYR|Right-Handed|0.0|3.0|35.5|1.0|0.0|1.0|2.4
+clay|Dembek M.|POL|Right-Handed|Kachmazov A.|RUS|Right-Handed|1.0||85.5|16.0|13.0|5.0|1.4699999999999998
+clay|Imamura M.|JPN|Right-Handed|Tepmahc N.|FRA|Right-Handed|0.0|2.0|35.5|1.0|0.0|2.0|-3.12
+clay|Ajdukovic D.|HRV|Right-Handed|Sanchez Izquierdo N.|ESP|Right-Handed|0.0|0.0|89.5|-2.0|0.0|-2.0|-0.16999999999999993
+clay|Paz J.|ARG|Right-Handed|Popovic S.|SRB|Right-Handed|1.0||-35.5|-1.0|0.0|8.0|-4.08
+clay|Tabur C.|FRA|Right-Handed|Shimizu Y.|JPN|Left-Handed|0.0|0.0|77.0|8.0|7.0|-1.0|-0.1399999999999999
+clay|Tajima N.|JPN|Right-Handed|Schoolkate T.|AUS|Right-Handed|1.0||108.5|-5.0|-10.0|0.0|4.93
+Varioussurfaces|Zmak D.|HRV|Right-Handed|Galik M.|SVK|Right-Handed|0.0|15.0|35.5|6.0|2.0|10.0|-7.46
+Varioussurfaces|Jovanovic P.|MNE|Right-Handed|Nagy P.|HUN|Right-Handed|1.0||-35.5|3.0|3.0|-11.0|1.02
+clay|Barroso Campos A.|ESP|Right-Handed|Moro Canas A.|ESP|Right-Handed|0.0|4.0|35.5|-4.0|-5.0|5.0|0.54
+Varioussurfaces|Van Zijl T.|NLD|Right-Handed|Khoeblal E.|NLD|Right-Handed|1.0||-35.5|-1.0|0.0|-1.0|2.13
+clay|Fils A.|FRA|Right-Handed|Halys Q.|FRA|Right-Handed|1.0||-336.0|-2.0|-8.0|-7.0|4.029999999999999
+clay|Holt B.|FRA|Right-Handed|Peliwo F.|POL|Right-Handed|0.0|-5.0|98.0|10.0|5.0|-4.0|-2.68
+clay|Mu T.|CHN|Right-Handed|Ovcharenko O.|UKR|Right-Handed|1.0||-35.5|-2.0|-3.0|2.0|-0.5100000000000002
+clay|Yamanaka T.|JPN|Right-Handed|Jurajda A.|CZE|Right-Handed|0.0|2.0|35.5|1.0|0.0|1.0|-1.58
+clay|Jianu F.|ROU|Right-Handed|Van Rijthoven T.|NLD|Right-Handed|0.0|-3.0|26.0|-19.0|-8.0|-5.0|3.59
+Varioussurfaces|Fuele M.|HUN|Right-Handed|Moreno A.|MEX|Right-Handed|1.0||-35.5|-1.0|0.0|-9.0|-1.67
+clay|Collignon R.|BEL|Right-Handed|Yunchaokete B.|CHN|Right-Handed|0.0|-3.0|35.5|1.0|0.0|0.0|-0.41999999999999993
+Varioussurfaces|Wassermann M.|NLD|Right-Handed|Stuurman R.|NLD|Right-Handed|0.0|-4.0|35.5|1.0|0.0|0.0|-1.2000000000000002
+Varioussurfaces|Moreno A.|MEX|Right-Handed|Fuele M.|HUN|Right-Handed|0.0|8.0|35.5|1.0|0.0|9.0|1.67
+clay|Simakin I.|RUS|Right-Handed|Bourgois C.|FRA|Right-Handed|1.0||-35.5|-7.0|-11.0|-6.0|-0.20999999999999996
+Varioussurfaces|Pierre H.|FRA|Right-Handed|Sollie T.|NLD|Right-Handed|1.0||-35.5|-1.0|0.0|2.0|1.2000000000000002
+clay|Ivanov V.|RUS|Right-Handed|Riedi L.|CHE|Right-Handed|1.0||98.5|-1.0|0.0|3.0|5.97
+clay|Park U.|KOR|Right-Handed|Gigante M.|ITA|Left-Handed|1.0||-35.5|-1.0|0.0|1.0|1.2400000000000002
+clay|Hijikata R.|AUS|Right-Handed|Kuzuhara B.|ESP|Right-Handed|0.0|5.0|-13.5|-8.0|-5.0|3.0|-2.38
+clay|Vincent Ruggeri S.|ITA|Right-Handed|Duda F.|CZE|Right-Handed|0.0|-4.0|35.5|1.0|0.0|-3.0|-0.95
+Varioussurfaces|Laurent Y.|FRA|Right-Handed|Zielinski M.|POL|Right-Handed|1.0||-35.5|-1.0|0.0|9.0|0.4500000000000002
+clay|Bulitski A.|BLR|Right-Handed|Palan D.|CZE|Right-Handed|0.0|10.0|35.5|1.0|0.0|8.0|0.8399999999999999
+clay|Volonski N.|AUS|Right-Handed|Tu L.|AUS|Right-Handed|1.0||-35.5|-1.0|0.0|-6.0|6.459999999999999
+clay|Wallart E.|FRA|Right-Handed|Pujol Navarro B.|ESP|Left-Handed|0.0|4.0|35.5|1.0|0.0|5.0|-2.3099999999999996
+clay|Popovic S.|SRB|Right-Handed|Paz J.|ARG|Right-Handed|0.0|-9.0|35.5|1.0|0.0|-8.0|4.08
+clay|Turker M.|TUR|Right-Handed|Bondarenko Y.|UKR|Right-Handed|0.0|9.0|35.5|1.0|0.0|1.0|-4.409999999999999
+clay|Gueymard Wayenburg S.|FRA|Right-Handed|Knaff A.|LUX|Right-Handed|0.0|-5.0|35.5|1.0|0.0|-5.0|-0.97
+clay|Medjedovic H.|SRB|Right-Handed|Ratniuk M.|RUS|Right-Handed|0.0|-6.0|-90.5|-3.0|-2.0|-7.0|-2.4299999999999997
+clay|Whitehouse M.|ESP|Right-Handed|Nanda G.|FRA|Right-Handed|1.0||-35.5|3.0|5.0|8.0|2.52
+clay|Yunchaokete B.|CHN|Right-Handed|Collignon R.|BEL|Right-Handed|1.0||-35.5|-1.0|0.0|0.0|0.41999999999999993
+Varioussurfaces|Stuurman R.|NLD|Right-Handed|Wassermann M.|NLD|Right-Handed|1.0||-35.5|-1.0|0.0|0.0|1.2000000000000002
+clay|Serra Sanchez N.|ESP|Right-Handed|Chepelev A.|RUS|Left-Handed|1.0||-35.5|-1.0|0.0|-6.0|6.199999999999999
+clay|Barnat J.|CZE|Right-Handed|Cloes L.|BEL|Right-Handed|0.0|-2.0|35.5|1.0|0.0|-2.0|2.2
+Varioussurfaces|Dafcik T.|DEU|Right-Handed|Raicevic D.|MNE|Right-Handed|0.0|9.0|35.5|1.0|0.0|5.0|-1.02
+clay|Donev G.|BGR|Right-Handed|Neumayer L.|AUT|Right-Handed|1.0||113.5|-7.0|-3.0|7.0|2.74
+clay|Camposeo S.|ITA|Right-Handed|Burruchaga R.|ARG|Right-Handed|1.0||-35.5|-1.0|0.0|2.0|7.05
+clay|Neumayer L.|AUT|Right-Handed|Donev G.|BGR|Right-Handed|0.0|-7.0|-113.5|7.0|3.0|-7.0|-2.74
+clay|Minakov M.|RUS|Right-Handed|Kivattsev K.|RUS|Right-Handed|1.0||-35.5|-4.0|-10.0|-3.0|0.98
+clay|Woerner P.|DEU|Right-Handed|Boehler D.|DEU|Right-Handed|1.0||-35.5|-1.0|0.0|-1.0|2.32
+clay|Ragazzi A.|ITA|Right-Handed|Squire H.|DEU|Right-Handed|1.0||-42.5|-1.0|0.0|4.0|6.52
+Varioussurfaces|Barreiros Reyes M.|BRA|Left-Handed|Nortey I.|GHA|Right-Handed|0.0|-1.0|35.5|1.0|0.0|-2.0|-3.1500000000000004
+clay|Briand J.|FRA|Right-Handed|Lopez N.|CHE|Left-Handed|1.0||-35.5|-1.0|0.0|3.0|-4.47
+Varioussurfaces|Fekete J.|SVK|Right-Handed|Gostincar D.|SVN|Right-Handed|0.0|-6.0|35.5|1.0|0.0|-5.0|-0.5299999999999998
+Varioussurfaces|Boulier Santelices L.|CHL|Right-Handed|Bangoura S.|FRA|Right-Handed|1.0||-26.5|-1.0|0.0|-7.0|7.46
+clay|Martin Tiffon P.|ESP|Right-Handed|Carballes Baena R.|ESP|Right-Handed|1.0||-708.5|-4.0|0.0|-6.0|7.369999999999999
+clay|Fancutt T.|AUS|Right-Handed|Santillan A.|AUS|Right-Handed|0.0|0.0|-288.0|-1.0|3.0|2.0|4.449999999999999
+clay|Zhukayev B.|KAZ|Right-Handed|Minin M.|RUS|Left-Handed|0.0|0.0|20.5|-4.0|-2.0|0.0|-2.69
+Varioussurfaces|Biljesko D.|HRV|Right-Handed|Petrovic D.|ESP|Right-Handed|0.0|6.0|-308.0|1.0|0.0|6.0|-6.95
+clay|Pujol Navarro B.|ESP|Left-Handed|Wallart E.|FRA|Right-Handed|1.0||-35.5|-1.0|0.0|-5.0|2.3099999999999996
+clay|Ratniuk M.|RUS|Right-Handed|Medjedovic H.|SRB|Right-Handed|1.0||90.5|3.0|2.0|7.0|2.4299999999999997
+clay|Kachmazov A.|RUS|Right-Handed|Dembek M.|POL|Right-Handed|0.0|-4.0|-85.5|-16.0|-13.0|-5.0|-1.4699999999999998
+Varioussurfaces|Van Den Berg R.|NLD|Right-Handed|Eisinga Z.|NLD|Right-Handed|1.0||-35.5|-1.0|0.0|4.0|1.3000000000000003
+clay|Palan D.|CZE|Right-Handed|Bulitski A.|BLR|Right-Handed|1.0||-35.5|-1.0|0.0|-8.0|-0.8399999999999999
+clay|Tepmahc N.|FRA|Right-Handed|Imamura M.|JPN|Right-Handed|1.0||-35.5|-1.0|0.0|-2.0|3.12
+clay|Brouwer G.|NLD|Left-Handed|Moraing M.|DEU|Left-Handed|1.0||-124.0|-12.0|-7.0|-4.0|0.74
+Varioussurfaces|Raicevic D.|MNE|Right-Handed|Dafcik T.|DEU|Right-Handed|1.0||-35.5|-1.0|0.0|-5.0|1.02
+Varioussurfaces|Segura M.|ESP|Right-Handed|Terczynski M.|POL|Right-Handed|1.0||-35.5|-7.0|-8.0|-5.0|-2.13
+clay|Vilardo F.|ITA|Right-Handed|Borg L.|SWE|Right-Handed|0.0|15.0|161.0|-6.0|-5.0|13.0|-1.8399999999999999
+Varioussurfaces|Kuperstein A.|FRA|Right-Handed|Swenson B.|ESP|Right-Handed|0.0|8.0|35.5|1.0|0.0|5.0|-2.13
+Varioussurfaces|Bangoura S.|FRA|Right-Handed|Boulier Santelices L.|CHL|Right-Handed|0.0|14.0|26.5|1.0|0.0|7.0|-7.46
+Varioussurfaces|Petrovic D.|ESP|Right-Handed|Biljesko D.|HRV|Right-Handed|1.0||308.0|-1.0|0.0|-6.0|6.95
+Varioussurfaces|Khoeblal E.|NLD|Right-Handed|Van Zijl T.|NLD|Right-Handed|0.0|0.0|35.5|1.0|0.0|1.0|-2.13
+clay|Duncan S.|ESP|Right-Handed|Lopez Morillo I.|ESP|Right-Handed|1.0||-35.5|-1.0|0.0|6.0|4.35
+Varioussurfaces|Rozenberg T.|NLD|Right-Handed|Koch N.|DEU|Right-Handed|1.0||-35.5|-1.0|0.0|-4.0|-4.65
+clay|Jovic V.|SRB|Right-Handed|Scaglia M.|FRA|Right-Handed|1.0||-35.5|-1.0|0.0|-3.0|-0.8899999999999999
+clay|Ivanov S.|BGR|Right-Handed|Carnevalle L.|ARG|Right-Handed|0.0|3.0|35.5|1.0|0.0|2.0|-1.5299999999999998
+Varioussurfaces|Becroft I.|NZL|Right-Handed|Bigun M.|ESP|Right-Handed|0.0|3.0|35.5|1.0|0.0|5.0|-1.9000000000000001
+clay|Picchione A.|ITA|Right-Handed|Marti Pujolras A.|ESP|Right-Handed|1.0||-35.5|-1.0|0.0|1.0|1.6300000000000001
+clay|Balzerani R.|ITA|Right-Handed|Iannaccone F.|ITA|Right-Handed|1.0||-35.5|3.0|2.0|0.0|0.3899999999999999
+Varioussurfaces|Rojas O.|BEL|Right-Handed|De Jager J.|NLD|Right-Handed|1.0||-35.5|-1.0|0.0|0.0|-1.9000000000000001
+Varioussurfaces|Nagy P.|HUN|Right-Handed|Jovanovic P.|MNE|Right-Handed|0.0|11.0|35.5|-3.0|-3.0|11.0|-1.02
+clay|Bourgois C.|FRA|Right-Handed|Simakin I.|RUS|Right-Handed|0.0|6.0|35.5|7.0|11.0|6.0|0.20999999999999996
+clay|Folliot Q.|FRA|Right-Handed|Klier Junior G.|BRA|Right-Handed|1.0||-35.5|-1.0|0.0|1.0|0.3799999999999999
+clay|Carnevalle L.|ARG|Right-Handed|Ivanov S.|BGR|Right-Handed|1.0||-35.5|-1.0|0.0|-2.0|1.5299999999999998
+Varioussurfaces|Zielinski M.|POL|Right-Handed|Laurent Y.|FRA|Right-Handed|0.0|-9.0|35.5|1.0|0.0|-9.0|-0.4500000000000002
+clay|Erhard M.|FRA|Right-Handed|Hazawa S.|JPN|Right-Handed|0.0|0.0|35.5|12.0|13.0|-3.0|0.77
+Varioussurfaces|Frusina A.|FRA|Right-Handed|Arredondo Delgado S.|MEX|Right-Handed|0.0|-1.0|35.5|1.0|0.0|-7.0|-1.2000000000000002
+clay|Lopez Morillo I.|ESP|Right-Handed|Duncan S.|ESP|Right-Handed|0.0|-5.0|35.5|1.0|0.0|-6.0|-4.35
+clay|Guerrieri A.|ITA|Left-Handed|Handel T.|DEU|Right-Handed|1.0||-35.5|-1.0|0.0|-2.0|1.5799999999999998
+clay|Aksu C.|TUR|Right-Handed|Agabigun S.|TUR|Right-Handed|1.0||-35.5|1.0|5.0|-1.0|1.3900000000000001
+clay|Nanda G.|FRA|Right-Handed|Whitehouse M.|ESP|Right-Handed|0.0|-5.0|35.5|-3.0|-5.0|-8.0|-2.52
+clay|Dubrivnyy A.|RUS|Right-Handed|Sharipov M.|RUS|Right-Handed|1.0||-82.0|-2.0|0.0|4.0|-0.8899999999999999
+clay|Giacalone O.|ITA|Right-Handed|Benchakroun M.|MAR|Right-Handed|0.0|13.0|35.5|4.0|-3.0|12.0|-2.93
+clay|Haliak M.|BLR|Right-Handed|Glinka D.|EST|Left-Handed|0.0|1.0|35.5|-1.0|0.0|2.0|-0.5299999999999998
+clay|Lopez N.|CHE|Left-Handed|Briand J.|FRA|Right-Handed|0.0|-3.0|35.5|1.0|0.0|-3.0|4.47
+clay|Kovacevic A.|FRA|Right-Handed|Angele J.|FRA|Right-Handed|0.0|0.0|101.5|-17.0|-23.0|1.0|-0.07999999999999985
+clay|Santillan A.|AUS|Right-Handed|Fancutt T.|AUS|Right-Handed|1.0||288.0|1.0|-3.0|-2.0|-4.449999999999999
+clay|Carballes Baena R.|ESP|Right-Handed|Martin Tiffon P.|ESP|Right-Handed|0.0|7.0|708.5|4.0|0.0|6.0|-7.369999999999999
+clay|Tokuda R.|JPN|Right-Handed|Jasika O.|AUS|Left-Handed|1.0||-45.5|9.0|-5.0|-1.0|-0.48
+clay|Paulson A.|CZE|Right-Handed|Veldheer M.|NLD|Left-Handed|0.0|-4.0|35.5|-1.0|0.0|-6.0|-1.79
+clay|Smith K.|FRA|Right-Handed|Gerch L.|DEU|Left-Handed|0.0|-5.0|35.5|7.0|5.0|-3.0|-1.1400000000000001
+clay|Patael B.|ISR|Right-Handed|Horak O.|CZE|Right-Handed|0.0|6.0|35.5|4.0|5.0|6.0|-6.06
+clay|Schoolkate T.|AUS|Right-Handed|Tajima N.|JPN|Right-Handed|0.0|-3.0|-108.5|5.0|10.0|0.0|-4.93
+clay|Araujo P.|PRT|Right-Handed|Curras Abasolo T.|ESP|Right-Handed|0.0|-5.0|35.5|1.0|0.0|-2.0|-2.64
+clay|Manzanera Pertusa A.|ESP|Right-Handed|Wojcik Y.|POL|Left-Handed|1.0||-35.5|2.0|-2.0|-6.0|-0.6400000000000001
+clay|Nouza P.|CZE|Right-Handed|Bertola R.|CHE|Right-Handed|0.0|-1.0|35.5|10.0|10.0|0.0|1.3599999999999999
+Varioussurfaces|De Jager J.|NLD|Right-Handed|Rojas O.|BEL|Right-Handed|0.0|-1.0|35.5|1.0|0.0|0.0|1.9000000000000001
+clay|Van Rijthoven T.|NLD|Right-Handed|Jianu F.|ROU|Right-Handed|1.0||-26.0|19.0|8.0|5.0|-3.59
+clay|Piraino G.|ITA|Left-Handed|Jecan M.|ROU|Left-Handed|0.0|-14.0|35.5|4.0|3.0|-16.0|0.31000000000000005
+clay|Cloes L.|BEL|Right-Handed|Barnat J.|CZE|Right-Handed|1.0||-35.5|-1.0|0.0|2.0|-2.2
+clay|Prihodko O.|UKR|Right-Handed|Blancaneaux G.|FRA|Right-Handed|1.0||-20.5|2.0|0.0|0.0|2.31

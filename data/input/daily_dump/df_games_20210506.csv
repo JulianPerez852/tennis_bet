@@ -1,0 +1,57 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Madrid|1.23|4.30|Berrettini M.|Italy|2012|95.0|196.0|right|28.0|Delbonis F.|Argentina|2005|90.0|193.0|left|33.0|clay|20210506
+Madrid|1.21|4.44|Zverev A.|Germany|2011|90.0|198.0|right|27.0|Evans D.|GreatBritain|2005|75.0|175.0|right|34.0|clay|20210506
+Madrid|4.38|1.22|Ruud C.|Norway|2013|77.0|183.0|right|25.0|Tsitsipas S.|Greece|2013|89.0|193.0|right|26.0|clay|20210506
+Madrid|3.59|1.30|Isner J.|USA|2003|108.0|208.0|right|39.0|Rublev A.|Russia|2013|70.0|188.0|right|26.0|clay|20210506
+Madrid|1.03|13.77|Nadal R.|Spain|2001|85.0|185.0|left|38.0|Popyrin A.|Australia|2013|78.0|196.0|right|25.0|clay|20210506
+Madrid|2.33|1.59|Garin C.|Chile|2010|85.0|185.0|right|28.0|Medvedev D.|Russia|2011|83.0|198.0|right|28.0|clay|20210506
+Madrid|3.57|1.30|Bublik A.|Kazakhstan|2011|77.0|198.0|right|27.0|Karatsev A.|Russia|2009|85.0|185.0|right|30.0|clay|20210506
+Madrid|1.24|4.16|Thiem D.|Austria|2010|79.0|185.0|right|31.0|De Minaur A.|Australia|2015|69.0|183.0|right|25.0|clay|20210506
+Biella 6 challenger|2.18|1.65|Muller A.|France|2012|75.0|183.0|right|27.0|Mayer L.|Argentina|2003|80.0|191.0|right|37.0|clay|20210506
+Biella 6 challenger|1.40|2.78|Varillas J.|Peru|2012|78.0|185.0|right|28.0|Menezes J.|Brazil|2010|81.0|185.0|right|27.0|clay|20210506
+Biella 6 challenger|1.48|2.55|Andreozzi G.|Argentina|2007|78.0|183.0|right|33.0|Clarke J.|GreatBritain|2013|82.0|188.0|right|26.0|clay|20210506
+Biella 6 challenger|1.94|1.80|Collarini A.|Argentina|2007|80.0|185.0|left|32.0|Gaio F.|Italy|2008|84.0|180.0|right|32.0|clay|20210506
+Prague 2 challenger|1.58|2.30|Griekspoor T.|Netherlands|2012|85.0|188.0|right|28.0|Olivo R.|Argentina|2007|73.0|180.0|right|32.0|clay|20210506
+Prague 2 challenger|2.10|1.69|Gombos N.|Slovakia|2008|85.0|193.0|right|34.0|Zuk K.|Poland|2015|78.0|183.0|right|25.0|clay|20210506
+Prague 2 challenger|1.27|3.59|Nagal S.|India|2012|69.0|178.0|right|27.0|Stakhovsky S.|Ukraine|2002|80.0|193.0|right|38.0|clay|20210506
+Prague 2 challenger|1.42|2.74|Silva F.|Portugal|2010|74.0|178.0|left|29.0|Polmans M.|Australia|2011|78.0|188.0|right|27.0|clay|20210506
+Prague 2 challenger|1.37|2.84|Takahashi Y.|Japan|2013|68.0|170.0|right|26.0|Bittoun Kouzmine C.|France|2014|73.0|175.0|left|25.0|clay|20210506
+Prague 2 challenger|1.18|4.19|Andreev A.|Bulgaria|2015|66.0|180.0|right|23.0|Piraino G.|Italy|2018|||left|20.0|clay|20210506
+Prague 2 challenger|2.28|1.56|Sinclair C.|N.MarianaIsl.|2012|82.0|188.0|right|29.0|Skatov T.|Kazakhstan|2016|73.0|173.0|right|23.0|clay|20210506
+Prague 2 challenger|2.49|1.47|Potenza L.|Italy|2016|||right|24.0|Holt B.|USA|2015|82.0|185.0|right|26.0|clay|20210506
+Prague 2 challenger|1.70|2.03|Martineau M.|France|2014|76.0|183.0|right|25.0|Fanselow S.|Germany|2007|||right|32.0|clay|20210506
+Prague 2 challenger|1.23|3.72|Jianu F.|Romania|2016|70.0|180.0|right|22.0|Berrettini J.|Italy|2012|85.0|191.0|right|25.0|clay|20210506
+Prague 2 challenger|1.22|3.88|Rybakov A.|USA|2012|68.0|185.0|left|27.0|Rincon D.|Spain|2019|||left|21.0|clay|20210506
+Prague 2 challenger|3.25|1.30|Heide G.|Brazil|2018|||right|22.0|Lock B.|Zimbabwe|2008|86.0|198.0|right|31.0|clay|20210506
+Prague 2 challenger|1.16|4.58|Oliel Y.|Israel|2015|78.0|188.0|left|24.0|Mikula M.|Poland|2017|||right|24.0|clay|20210506
+Prague 2 challenger|1.10|5.92|Leshem E.|Israel|2012|70.0|183.0|right|27.0|Kimhi O.|Israel|2019|||right|21.0|clay|20210506
+Prague 2 challenger|1.10|5.94|Deviatiarov M.|Ukraine|2011|83.0|188.0|right|30.0|Goldenberg L.|Israel|2015|||right|24.0|clay|20210506
+Prague 2 challenger|1.27|3.51|Esteve Lobato E.|Spain|2010|83.0|188.0|right|29.0|Cuevas M.|Uruguay|2006|90.0|191.0|right|32.0|clay|20210506
+Prague 2 challenger|2.03|1.72|Vives Marcos P.|Spain|2016|||right|23.0|Alvarez Varona N.|Spain|2015|80.0|188.0|right|23.0|clay|20210506
+Prague 2 challenger|1.01|12.12|Jubb P.|GreatBritain|2016|69.0|180.0|right|24.0|Tzicas C.|Belgium|2016|||right|25.0|clay|20210506
+Prague 2 challenger|1.10|5.93|Dougaz A.|Tunisia|2013|80.0|188.0|left|27.0|Ozolins K.|Latvia|2018|||right|22.0|clay|20210506
+Prague 2 challenger|1.21|3.91|Luz O.|Brazil|2013|78.0|180.0|right|26.0|Noguchi R.|Japan|2016|63.0|168.0|right|25.0|clay|20210506
+Prague 2 challenger|1.03|9.86|Crawford O.|GreatBritain|2016|84.0|180.0|right|25.0|Cigarran T.|Argentina|2018|||right|24.0|clay|20210506
+Prague 2 challenger|3.14|1.31|Ivanov S.|Bulgaria|2015|||right|24.0|McHugh A.|GreatBritain|2016|70.0|178.0|right|24.0|clay|20210506
+Prague 2 challenger|2.05|1.68|Roca Batalla O.|Spain|2008|75.0|173.0|right|31.0|Riedi L.|Switzerland|2020|||right|22.0|clay|20210506
+Prague 2 challenger|1.53|2.35|Kravchenko G.|Ukraine|2016|63.0|180.0|right|24.0|Visker N.|Netherlands|2018|||right|22.0|clay|20210506
+Prague 2 challenger|1.22|3.89|Crepaldi E.|Italy|2005|52.0|166.0|left|34.0|Neumayer L.|Austria|2020|||right|21.0|clay|20210506
+Prague 2 challenger|1.86|1.84|Nikles J.|Switzerland|2013|68.0|170.0|right|27.0|Martin Tiffon P.|Spain|2016|73.0|183.0|right|25.0|clay|20210506
+Prague 2 challenger|1.15|4.75|Borges N.|Portugal|2012|75.0|185.0|right|27.0|Jacquet K.|France|2017|65.0|175.0|right|23.0|clay|20210506
+Prague 2 challenger|3.87|1.22|Hardt N.|DominicanRep.|2014|84.0|183.0|right|23.0|Heller P.|Germany|2008|76.0|185.0|right|32.0|clay|20210506
+Prague 2 challenger|1.38|2.85|Kachmazov A.|Russia|2018|||right|22.0|Vernier M.|Chile|2007|73.0|178.0|right|31.0|clay|20210506
+Prague 2 challenger|1.24|3.67|Ehrat S.|Switzerland|2007|72.0|180.0|right|33.0|Gerch L.|Germany|2011|86.0|193.0|left|29.0|clay|20210506
+Prague 2 challenger|1.47|2.50|Catarina L.|Monaco|2013|80.0|185.0|right|27.0|Svajda Z.|USA|2017|59.0|175.0|right||clay|20210506
+Prague 2 challenger|3.71|1.23|Kopp S.|Austria|2015|||right|24.0|Erel Y.|Turkey|2016|||left|23.0|clay|20210506
+Prague 2 challenger|1.66|2.08|Donski A.|Bulgaria|2014|80.0|188.0|right|26.0|Saito T.|Japan|2012|||right|29.0|clay|20210506
+Prague 2 challenger|1.77|1.93|Carr S.|Ireland|2015|77.0|183.0|right|24.0|Pereira J.|Brazil|2005|74.0|180.0|right|33.0|clay|20210506
+Prague 2 challenger|1.77|1.93|Donev G.|Bulgaria|2013|70.0|180.0|right|28.0|Uzhylovsky V.|Ukraine|2004|102.0|196.0|right|36.0|clay|20210506
+Prague 2 challenger|1.19|4.14|Pucinelli De Almeida M.|Brazil|2017|||right|23.0|Paz J.|Argentina|2010|||right|29.0|clay|20210506
+Prague 2 challenger|1.39|2.77|Vidal Azorin J.|Spain|2010|68.0|178.0|right|31.0|Wehnelt K.|Germany|2012|||right|28.0|clay|20210506
+Prague 2 challenger|1.20|4.03|Sanchez Jover C.|Spain|2015|||left|24.0|Navone M.|Argentina|2017|||right|23.0|clay|20210506
+Prague 2 challenger|1.31|3.14|Corwin F.|USA|2014|82.0|188.0|right|28.0|Bergevi F.|Sweden|2010|81.0|185.0|right|30.0|clay|20210506
+Prague 2 challenger|1.11|5.72|Lazarov A.|Bulgaria|2015|84.0|191.0|right|26.0|Sorrentino L.|Italy|2015|||right|26.0|clay|20210506
+Prague 2 challenger|1.31|3.14|Cozbinov A.|Moldavsko|2012|||right|29.0|Palan D.|CzechRepublic|2018|||right|23.0|clay|20210506
+Prague 2 challenger|1.07|7.16|Khan Z.|USA|2018|||right|22.0|Castelnuovo L.|Switzerland|2013|||left|27.0|clay|20210506
+Prague 2 challenger|1.20|4.03|Erler A.|Austria|2013|83.0|193.0|right|26.0|Kim C.|SouthKorea|2004|||right|34.0|clay|20210506
+Prague 2 challenger|1.36|2.88|Patael B.|Israel|2012|80.0|188.0|right|27.0|Freund S.|Sweden|2013|72.0|178.0|right|27.0|clay|20210506

@@ -1,0 +1,58 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+US Open|1.26|4.00|Medvedev D.|Russia|2011|83.0|198.0|right|28.0|Rublev A.|Russia|2013|70.0|188.0|right|26.0|hard|20200909
+US Open|2.23|1.67|Carreno-Busta P.|Spain|2006|78.0|188.0|right|33.0|Shapovalov D.|Canada|2013|75.0|185.0|left|25.0|hard|20200909
+Kitzbühel|3.08|1.36|Lopez F.|Spain|1997|88.0|188.0|left|42.0|Herbert P.|France|2006|75.0|188.0|right|33.0|clay|20200909
+Kitzbühel|1.64|2.23|Djere L.|Serbia|2011|82.0|188.0|right|29.0|Ramos-Vinolas A.|Spain|2004|76.0|188.0|left|36.0|clay|20200909
+Kitzbühel|1.80|2.01|Marterer M.|Germany|2011|84.0|191.0|left|29.0|Novak D.|Austria|2011|80.0|183.0|right|30.0|clay|20200909
+Kitzbühel|3.02|1.38|Thompson J.|Australia|2010|82.0|183.0|right|30.0|Millman J.|Australia|2006|79.0|183.0|right|35.0|clay|20200909
+Kitzbühel|2.15|1.69|Delbonis F.|Argentina|2005|90.0|193.0|left|33.0|Londero J.|Argentina|2008|70.0|180.0|right|31.0|clay|20200909
+Kitzbühel|1.85|1.95|Sinner J.|Italy|2015|76.0|188.0|right|23.0|Kohlschreiber P.|Germany|1998|70.0|178.0|right|40.0|clay|20200909
+Kitzbühel|2.39|1.57|Huesler M.|Switzerland|2014|88.0|196.0|left|28.0|Ruusuvuori E.|Finland|2014|79.0|188.0|right|25.0|clay|20200909
+Kitzbühel|1.29|3.64|Hanfmann Y.|Germany|2007|86.0|193.0|right|32.0|Bublik A.|Kazakhstan|2011|77.0|198.0|right|27.0|clay|20200909
+Aix en Provence challenger|1.79|1.96|Hoang A.|France|2011|76.0|183.0|right|28.0|Halys Q.|France|2011|78.0|191.0|right|27.0|clay|20200909
+Aix en Provence challenger|1.65|2.17|Otte O.|Germany|2010|79.0|193.0|right|31.0|Mayer L.|Argentina|2003|80.0|191.0|right|37.0|clay|20200909
+Aix en Provence challenger|1.24|3.81|Seyboth Wild T.|Brazil|2014|78.0|185.0|right|24.0|Cid Subervi R.|DominicanRep.|2010|82.0|193.0|right|30.0|clay|20200909
+Prostejov challenger|3.30|1.31|Vukic A.|Australia|2012|84.0|188.0|right|28.0|Vesely J.|CzechRepublic|2009|94.0|198.0|left|31.0|clay|20200909
+Prostejov challenger|3.08|1.35|Klizan M.|Slovakia|2005|85.0|191.0|left|35.0|Martinez P.|Spain|2012|76.0|185.0|right|27.0|clay|20200909
+Prostejov challenger|1.98|1.78|Kovalik J.|Slovakia|2007|82.0|183.0|right|31.0|Stebe C.|Germany|2008|70.0|183.0|left|33.0|clay|20200909
+Prostejov challenger|1.30|3.42|Andujar P.|Spain|2002|80.0|180.0|right|38.0|Giustino L.|Italy|2006|83.0|180.0|right|32.0|clay|20200909
+Prostejov challenger|1.37|2.93|Majchrzak K.|Poland|2013|78.0|180.0|right|28.0|Polmans M.|Australia|2011|78.0|188.0|right|27.0|clay|20200909
+Prostejov challenger|1.67|2.12|Travaglia S.|Italy|2007|80.0|185.0|right|32.0|Popko D.|Kazakhstan|2011|87.0|191.0|right|27.0|clay|20200909
+Prostejov challenger|2.37|1.55|Lehecka J.|CzechRepublic|2017|80.0|183.0|right|22.0|Milojevic N.|Serbia|2011|76.0|188.0|right|29.0|clay|20200909
+Prostejov challenger|2.25|1.61|Horansky F.|Slovakia|2009|77.0|191.0|right|31.0|Daniel T.|Japan|2008|80.0|191.0|right|31.0|clay|20200909
+Prostejov challenger|1.20|4.02|Guinard M.|France|2013|81.0|196.0|right|28.0|Jacquet K.|France|2017|65.0|175.0|right|23.0|clay|20200909
+Prostejov challenger|6.84|1.08|Vanta V.|Romania|2015|67.0|180.0|right|26.0|Damm M.|USA|2018|||left|20.0|clay|20200909
+Prostejov challenger|2.74|1.40|Agamenone F.|Italy|2008|82.0|188.0|right|31.0|Bellucci T.|Brazil|2003|82.0|188.0|left|36.0|clay|20200909
+Prostejov challenger|1.21|4.08|Ionel N.|Romania|2017|71.0|183.0|right|21.0|Luncanu P.|Romania|2004|80.0|185.0|left|35.0|clay|20200909
+Prostejov challenger|1.20|4.01|Reis Da Silva J.|Brazil|2015|75.0|175.0|right|24.0|Faucon R.|Belgium|2020|||right|21.0|clay|20200909
+Prostejov challenger|1.16|4.55|Onclin G.|Belgium|2016|||right|23.0|Rodrigues N.|Brazil|2018|||right|22|clay|20200909
+Prostejov challenger|1.46|2.53|Borges N.|Portugal|2012|75.0|185.0|right|27.0|Peniston R.|GreatBritain|2012|75.0|183.0|left|28.0|clay|20200909
+Prostejov challenger|2.38|1.51|Strombachs R.|Latvia|2017|78.0|191.0|right|24.0|Kozlov S.|USA|2012|79.0|183.0|right|26.0|clay|20200909
+Prostejov challenger|2.42|1.50|Papoe R.|Romania|2018|||right|22|Gima S.|Romania|2017|||left|22.0|clay|20200909
+Prostejov challenger|1.95|1.76|Alvarez Varona N.|Spain|2015|80.0|188.0|right|23.0|Gimeno Valero C.|Spain|2016|80.0|188.0|right|23.0|clay|20200909
+Prostejov challenger|2.78|1.37|Dembek M.|Poland|2014|93.0|196.0|right|27.0|Frunza N.|Romania|2012|78.0|185.0|right|26.0|clay|20200909
+Prostejov challenger|3.38|1.28|Droguet T.|France|2017|||right|23.0|Martineau M.|France|2014|76.0|183.0|right|25.0|clay|20200909
+Prostejov challenger|1.63|2.13|Pietri B.|France|2015|78.0|180.0|right|28.0|Cacao T.|Portugal|2013|82.0|185.0|right|26.0|clay|20200909
+Prostejov challenger|1.24|3.70|Catarina L.|Monaco|2013|80.0|185.0|right|27.0|Boluda-Purkiss C.|Spain|2007|69.0|173.0|right|31.0|clay|20200909
+Prostejov challenger|2.20|1.58|Alves M.|Brazil|2015|||right|23.0|Neuchrist M.|Austria|2009|||right|33.0|clay|20200909
+Prostejov challenger|1.35|2.95|Cornut Chauvinc A.|France|2016|||right|24.0|Tabur C.|France|2015|70.0|170.0|right|24.0|clay|20200909
+Prostejov challenger|1.50|2.42|Dima D.|Romania|2008|70.0|180.0|right|32.0|Lopez Montagud C.|Spain|2015|||right|24.0|clay|20200909
+Prostejov challenger|1.14|4.91|Added D.|France|2015|72.0|183.0|right|25.0|Cornea V.|Romania|2008|81.0|198.0|left|30.0|clay|20200909
+Prostejov challenger|1.31|3.18|Hamou M.|France|2011|75.0|185.0|right|29.0|Kravchenko G.|Ukraine|2016|63.0|180.0|right|24.0|clay|20200909
+Prostejov challenger|1.49|2.46|Manda C.|Romania|2012|||right|26.0|Borza B.|Romania|2012|||left|27.0|clay|20200909
+East Coast Pro Series|1.13|5.75|Lomakin G.|Kazakhstan|2013|78.0|198.0|right|26.0|Arias B.|Bolivia|2009|76.0|185.0|right|30.0|clay|20200909
+East Coast Pro Series|1.16|4.81|El Mihdawy A.|USA|2005|||right|35.0|Mercier T.|USA|2015|77.0|191.0|right|33.0|clay|20200909
+East Coast Pro Series|1.52|2.39|Gomez A.|Colombia|2007|85.0|183.0|right|33.0|Lomakin G.|Kazakhstan|2013|78.0|198.0|right|26.0|clay|20200909
+East Coast Pro Series|1.24|3.80|Mercier T.|USA|2015|77.0|191.0|right|33.0|Arias B.|Bolivia|2009|76.0|185.0|right|30.0|clay|20200909
+Eastern European Championship|1.24|3.80|Slobodshikov R.|Russia|2008|73.0|178.0|right|30.0|Cengiz B.|Turkey|2017|||right|23.0|clay|20200909
+Eastern European Championship|1.24|3.80|Butulija B.|Serbia|2014|||left|25.0|Angele J.|France|2015|93.0|206.0|right|24.0|clay|20200909
+Eastern European Championship|1.24|3.80|Krstin P.|Serbia|2011|80.0|183.0|right|29.0|Dica N.|Romania|2017|||right|23.0|clay|20200909
+Eastern European Championship|1.24|3.80|Dancu V.|Romania|2014|||right|25.0|Savelev D.|Russia|2015|86.0|188.0|right|23.0|clay|20200909
+Eastern European Championship|1.24|3.80|Folliot Q.|France|2015|||right|25.0|Drinic M.|Serbia|2012|75.0|185.0|right|26.0|clay|20200909
+Eastern European Championship|1.24|3.80|Miladinovic M.|Serbia|2015|74.0|180.0|right|23.0|Zlatanovic A.|Serbia|2005|77.0|193.0|right|34.0|clay|20200909
+Eastern European Championship|1.24|3.80|Tepavac M.|Serbia|2011|90.0|193.0|right|30.0|Laurent Y.|France|2009|76.0|183.0|right|32.0|clay|20200909
+Eastern European Championship|1.24|3.80|Kijametovic A.|BosniaandHerzeg.|2012|||right|28.0|Pjevcevic P.|Serbia|2012|||right|29.0|clay|20200909
+European Pro Tennis Series|1.25|3.60|Carr S.|Ireland|2015|77.0|183.0|right|24.0|Comesana F.|Argentina|2017|||right|23.0|hard|20200909
+West Coast Pro Series|1.10|6.22|Sarmiento R.|USA|2007|68.0|178.0|right|32.0|Boyer T.|USA|2017|73.0|183.0|right|28.0|clay|20200909
+West Coast Pro Series|1.18|4.44|Chappell N.|USA|2010|82.0|178.0|left|31.0|Hovhannisyan M.|USA|2007|80.0|180.0|right|32.0|clay|20200909
+West Coast Pro Series|1.86|1.86|Ortlip J.|USA|2017|||right|27.0|Sarkissian A.|USA|2005|79.0|191.0|right|34.0|clay|20200909
