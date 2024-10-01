@@ -181,11 +181,14 @@ class TenisModelHandler:
         # Generar predicciones
         predictions = model.predict(X)
 
+        predict_proba = model.predict_proba(X)
+
         # Mapear predicciones a etiquetas originales
         predictions_labels = label_encoder.inverse_transform(predictions)
 
         # Añadir predicciones al DataFrame
         data['winner_prediction'] = predictions_labels
+        data['probability'] = predict_proba[np.arange(len(predictions)), predictions]
 
         return data
 
