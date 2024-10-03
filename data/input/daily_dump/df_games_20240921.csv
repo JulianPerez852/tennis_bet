@@ -1,0 +1,68 @@
+Location|pl1_bet|pl2_bet|Winner|pl1_flag|pl1_year_pro|pl1_weight|pl1_height|pl1_hand|pl1_age|Loser|pl2_flag|pl2_year_pro|pl2_weight|pl2_height|pl2_hand|pl2_age|Surface|Date
+Chengdu|1.54|2.44|Shang J.|China|2020|||left|19.0|Safiullin R.|Russia|2013|75.0|185.0|right|27.0|hard|20240921
+Chengdu|1.35|3.16|Bublik A.|Kazakhstan|2011|77.0|198.0|right|27.0|Gomez F.|Argentina|2014|||right|27.0|hard|20240921
+Chengdu|1.66|2.19|Musetti L.|Italy|2017|75.0|185.0|right|22.0|O'Connell C.|Australia|2011|78.0|183.0|right|30.0|hard|20240921
+Chengdu|1.14|5.58|Mannarino A.|France|2004|79.0|180.0|left|36.0|Zhou Y.|China|2022|85.0|193.0|right|19.0|hard|20240921
+Hangzhou|2.08|1.74|Zhang Z.|China|2012|87.0|193.0|right|27.0|Bellucci M.|Italy|2018|||left|23.0|hard|20240921
+Hangzhou|4.36|1.21|Uchiyama Y.|Japan|2007|78.0|183.0|right|32.0|Rune H.|Denmark|2018|68.0|185.0|right|21.0|hard|20240921
+Hangzhou|1.64|2.23|Carballes Baena R.|Spain|2009|77.0|183.0|right|31.0|Krueger M.|USA|2009|82.0|188.0|right|30.0|hard|20240921
+Hangzhou|2.42|1.55|Cilic M.|Croatia|2004|89.0|198.0|right|35.0|Nishioka Y.|Japan|2011|64.0|170.0|left|28.0|hard|20240921
+Bad Waltersdorf challenger|1.51|2.46|Munar J.|Spain|2012|76.0|183.0|right|27.0|Moreno De Alboran N.|USA|2013|82.0|185.0|right|27.0|clay|20240921
+Bad Waltersdorf challenger|1.84|1.89|Seyboth Wild T.|Brazil|2014|78.0|185.0|right|24.0|Djere L.|Serbia|2011|82.0|188.0|right|29.0|clay|20240921
+St. Tropez challenger|1.67|2.13|Brouwer G.|Netherlands|2013|72.0|191.0|left|28.0|Blanchet U.|France|2015|||right|25.0|hard|20240921
+St. Tropez challenger|1.63|2.17|Pouille L.|France|2009|84.0|185.0|right|30.0|Majchrzak K.|Poland|2013|78.0|180.0|right|28.0|hard|20240921
+Laver Cup|2.28|1.61|Fritz T.|USA|2013|86.0|193.0|right|26.0|Zverev A.|Germany|2011|90.0|198.0|right|27.0|indoors|20240921
+Laver Cup|1.23|4.13|Alcaraz C.|Spain|2018|72.0|185.0|right|21.0|Shelton B.|USA|2021|||left|21.0|indoors|20240921
+Laver Cup|2.82|1.41|Tiafoe F.|USA|2013|86.0|188.0|right|26.0|Medvedev D.|Russia|2011|83.0|198.0|right|28.0|indoors|20240921
+Cali challenger|3.39|1.29|Ficovich J.|Argentina|2013|78.0|191.0|right|27.0|Dellien H.|Bolivia|2007|75.0|180.0|right|31.0|clay|20240921
+Cali challenger|2.83|1.39|Bueno G.|Peru|2018|||right|20.0|Collarini A.|Argentina|2007|80.0|185.0|left|32.0|clay|20240921
+Columbus 3 challenger|3.47|1.28|Nakagawa N.|Japan|2011|75.0|180.0|right|27.0|Edmund K.|GreatBritain|2010|83.0|188.0|right|29.0|indoors|20240921
+Columbus 3 challenger|2.74|1.42|Trotter J.|Japan|2017|||right|25.0|Basavareddy N.|USA|2021|||right|19.0|indoors|20240921
+Sibiu challenger|2.37|1.54|Pavlovic L.|France|2016|||right|24.0|Cretu C.|Romania|2016|||right|23.0|clay|20240921
+Sibiu challenger|1.49|2.51|Royer V.|France|2018|83.0|188.0|right|23.0|Barton H.|CzechRepublic|2020|||right|20.0|clay|20240921
+Sibiu challenger|1.49|2.45|Silva F.|Portugal|2010|74.0|178.0|left|29.0|Cina F.|Italy|2022|||right|17.0|clay|20240921
+Sibiu challenger|1.29|3.29|Jianu F.|Romania|2016|70.0|180.0|right|22.0|Gentzsch T.|Germany|2021|||right|20.0|clay|20240921
+Sibiu challenger|1.20|4.33|Michalski D.|Poland|2017|77.0|180.0|right|24.0|Catini N.|Italy|2016|||right|26.0|clay|20240921
+Sibiu challenger|1.16|4.57|Jasika O.|Australia|2011|60.0|183.0|left|27.0|Bradshaw J.|Australia|2021|||right|21.0|clay|20240921
+Sibiu challenger|2.38|1.51|Watt J.|NewZealand|2022|||right|24.0|Delaney J.|Australia|2012|80.0|188.0|right|27.0|clay|20240921
+Sibiu challenger|1.26|3.43|Van Wyk K.|RSA|2014|||right|27.0|Haliak M.|Belarus|2014|75.0|183.0|right|26.0|clay|20240921
+Sibiu challenger|1.34|2.98|Dougaz A.|Tunisia|2013|80.0|188.0|left|27.0|Barki J.|Indonesia|2016|||right|24.0|clay|20240921
+Sibiu challenger|3.22|1.30|Saitoh K.|Japan|2019|68.0|163.0|left|23.0|Oliveira G.|Venezuela|2010|79.0|185.0|left|29.0|clay|20240921
+Sibiu challenger|1.50|2.40|Imamura M.|Japan|2015|||right|25.0|Moriya H.|Japan|2007|65.0|168.0|right|33.0|clay|20240921
+Sibiu challenger|1.14|4.77|Midon L.|Argentina|2021|||right|20.0|Egea F.|Argentina|2012|||right||clay|20240921
+Sibiu challenger|1.56|2.23|Baroni N.|Italy|2019|||right|20.0|Martinez Serrano M.|Spain|2021|||right|20.0|clay|20240921
+Sibiu challenger|3.18|1.30|Sanchez Martinez B.|Germany|2017|||left|22.0|Legout T.|France|2019|||right||clay|20240921
+Sibiu challenger|1.43|2.58|De Krom M.|Netherlands|2015|||right|26.0|Sanchez Quilez A.|Spain|2022|||right|19.0|clay|20240921
+Sibiu challenger|1.35|2.92|Karol M.|Slovakia|2019|90.0|198.0|right|21.0|Baum S.|CzechRepublic|2021|||left|21.0|clay|20240921
+Sibiu challenger|1.52|2.37|Lopez Morillo I.|Spain|2016|||right|24.0|Winter Lopez B.|Spain|2016|||right|26.0|clay|20240921
+Sibiu challenger|1.84|1.84|Dussin L.|France|2015|||right|25.0|Lumsden E.|GreatBritain|2016|||right|24.0|clay|20240921
+Sibiu challenger|1.11|5.56|Moeller M.|Germany|2016|69.0|178.0|right|25.0|Eriksson S.|Sweden|2021|||right|19.0|clay|20240921
+Sibiu challenger|1.23|3.66|Kumar O.|USA|2016|||left|22.0|Singh K.|India|2021|||right|21.0|clay|20240921
+Sibiu challenger|4.95|1.13|Ivanov S.|Russia|2022|||right|19.0|Bocchi L.|Italy|2015|78.0|180.0|right|26.0|clay|20240921
+Sibiu challenger|4.00|1.20|Renard L.|Sweden|2008|80.0|185.0|right|31.0|Poling K.|USA|2015|76.0|185.0|left|25.0|clay|20240921
+Sibiu challenger|2.86|1.36|Mrva M.|CzechRepublic|2022|||right|17.0|Prihodko O.|Ukraine|2014|77.0|180.0|right|26.0|clay|20240921
+Sibiu challenger|1.38|2.75|Tiurnev E.|Russia|2012|||right|27.0|Mckennon M.|USA|2017|||left|22.0|clay|20240921
+Sibiu challenger|1.82|1.85|Berkieta T.|Poland|2022|||right|18.0|Binda A.|Italy|2018|||right|22.0|clay|20240921
+Sibiu challenger|2.13|1.62|Klok D.|Russia|2013|82.0|180.0|right|26.0|Javia D.|India|2021|||right|22.0|clay|20240921
+Sibiu challenger|2.13|1.62|Ilagan A.|USA|2017|||left|23.0|Dzhavakian Y.|Ukraine|2010|||right|31.0|clay|20240921
+UTR Pro Tennis Series 3|1.61|2.20|Djakouris A.|Cyprus|2017|||right|22.0|Sherif L.|USA|2021|||right|19.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|2.10|1.66|Koshis C.|Cyprus|2020|||right||Chiu J.|USA|2017|||right|23.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Ventre A.|Brazil|2002|||right|39.0|Jones A.|GreatBritain|2014|||right|26.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|2.47|1.49|Povey T.|USA|2023|||left|19.0|Ginat R.|Israel|2016|||right|23.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.53|2.37|Rajski M.|Poland|2006|80.0|193.0|right|33.0|Hill S.|USA|2016|||right|25.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|3.27|1.30|Nguyen A.|USA|2022|||right|20.0|Sarmiento R.|USA|2007|68.0|178.0|right|32.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.50|2.50|Lyons J.|USA|2022|||right||Cohen D.|USA|2022|||right|21.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|2.10|1.67|Bernard J.|USA|2019|||right||Sebesta J.|Switzerland|2021|||right|21.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|2.20|1.62|Markov V.|Bulgaria|2021|||right|19.0|Schiessl E.|Germany|2021|||right|20.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Dous Karpenschif J.|France|2019|||right||Rusher A.|USA|2021|||right||Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Pampanin P.|Italy|2016|||right|21.0|Radovanovic T.|Serbia|2016|||right|24.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Kelo P.|Slovakia|2020|||right||Meshulam A.|Israel|2023|||right|18.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Boagnon Y.|Italy|2022|||right|20.0|Bresciani L.|Italy|2017|||right|24.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Virgili Berini F.|Italy|2023|||right|19.0|Li Y.|China|2022|||right||Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Branger L.|France|2021|||right|23.0|Einhoff J.|Germany|2024|||right|19.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Corthey L.|Argentina|2022|||right|26.0|Epee M.|France|2023|||right|23.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Fiorentini A.|Italy|2018|||right|23.0|Todorovic L.|Serbia|2018|||right|22.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Radovanovic T.|Serbia|2016|||right|24.0|Matuszewski G.|Poland|2020|||right|20.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Pampanin P.|Italy|2016|||right|21.0|Schwarc D.|Slovakia|2023|||right||Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Eichenseher D.|Germany|2023|||right|19.0|Sabaliauskas A.|Lithuania|2018|||right|21.0|Varioussurfaces|20240921
+UTR Pro Tennis Series 3|1.91|1.80|Pankin S.|Russia|2017|||right|25.0|Tumbas Kajgo K.|Spain|2021|||right|19.0|Varioussurfaces|20240921
